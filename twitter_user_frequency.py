@@ -138,7 +138,7 @@ if __name__ == '__main__':
 
     # Save to file
 
-    df = pd.DataFrame(hashtags.items(), columns=['Location','Freq'])
+    df = pd.DataFrame(hashtags.items(), columns=['Hashtag','Freq'])
     df.to_csv("./csv/hashtags.csv", sep=',',index=False)
 
     print('\n')
