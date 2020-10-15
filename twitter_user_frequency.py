@@ -12,6 +12,11 @@ def get_screen_name(tweet):
   user = tweet.get('user', {})  
   name = user.get('screen_name', []) 
   return name 
+
+def get_user_location(tweet): 
+  user = tweet.get('user', {})  
+  name = user.get('location', []) 
+  return name 
  
 def get_mentioned_name(tweet): 
   entities = tweet.get('entities', {}) 
@@ -126,4 +131,21 @@ if __name__ == '__main__':
 
     print('\n')
 
-    #filtered_sentence = [w for w in word_tokens if not w in stop_words] 
+    # Get most used languages from list of tweets 
+
+    with open(fname, 'r') as f: 
+        name = Counter() 
+        for line in f: 
+            tweet = json.loads(line) 
+            location = get_user_location(tweet).split(',')[0] 
+            #print(name_in_tweet)
+            name.update([location]) 
+
+    print('\n' + '------------ 20 most used locations' + '\n')
+    #print(name)
+    for tag, count in name.most_common(20):
+        if tag == '':
+            tag = 'No Location' 
+        print("{}: {}".format(tag, count)) 
+
+    print('\n')
