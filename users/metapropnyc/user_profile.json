@@ -1,0 +1,117 @@
+{
+    "id": 3241982935,
+    "id_str": "3241982935",
+    "name": "MetaProp",
+    "screen_name": "MetaPropNYC",
+    "location": "New York, NY",
+    "profile_location": null,
+    "description": "MetaProp is the Venture Capital firm leading early-stage PropTech investment globally.",
+    "url": "https://t.co/VhXn9yLi4H",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/VhXn9yLi4H",
+                    "expanded_url": "http://metaprop.vc",
+                    "display_url": "metaprop.vc",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 6533,
+    "friends_count": 2456,
+    "listed_count": 350,
+    "created_at": "Thu Jun 11 04:26:40 +0000 2015",
+    "favourites_count": 3520,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5383,
+    "lang": null,
+    "status": {
+        "created_at": "Thu Oct 01 18:30:12 +0000 2020",
+        "id": 1311735181351563264,
+        "id_str": "1311735181351563264",
+        "text": "The #hospitality sector has been hit hard by #COVID19. So, how do hotels go forward now?\n\nHear Soenke Weiss, founde\u2026 https://t.co/muX09Fv5Og",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "hospitality",
+                    "indices": [
+                        4,
+                        16
+                    ]
+                },
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        45,
+                        53
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/muX09Fv5Og",
+                    "expanded_url": "https://twitter.com/i/web/status/1311735181351563264",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/726830940241141760/8BNbyMtr_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/726830940241141760/8BNbyMtr_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3241982935/1554835993",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}

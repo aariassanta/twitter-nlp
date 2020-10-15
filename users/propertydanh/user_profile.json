@@ -1,0 +1,181 @@
+{
+    "id": 220119108,
+    "id_str": "220119108",
+    "name": "Dan Hughes",
+    "screen_name": "PropertyDanH",
+    "location": "London mainly",
+    "profile_location": null,
+    "description": "Views on property data & tech. Worked for acronyms -RICS, DTZ, OS, IPD, KONE, MSCI - now helping real estate with digital \n#PropTech",
+    "url": "https://t.co/g4JCCGBV7N",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/g4JCCGBV7N",
+                    "expanded_url": "http://www.AlphaPropInsight.com",
+                    "display_url": "AlphaPropInsight.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 14703,
+    "friends_count": 9825,
+    "listed_count": 454,
+    "created_at": "Fri Nov 26 20:56:50 +0000 2010",
+    "favourites_count": 22787,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8406,
+    "lang": null,
+    "status": {
+        "created_at": "Mon Oct 05 12:13:09 +0000 2020",
+        "id": 1313089842839007232,
+        "id_str": "1313089842839007232",
+        "text": "@aknotay https://t.co/n9gcdSE4yc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "aknotay",
+                    "name": "Alexandra Notay",
+                    "id": 179875562,
+                    "id_str": "179875562",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1313089840699891713,
+                    "id_str": "1313089840699891713",
+                    "indices": [
+                        9,
+                        32
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EjkIQMkXYAEF4HG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EjkIQMkXYAEF4HG.jpg",
+                    "url": "https://t.co/n9gcdSE4yc",
+                    "display_url": "pic.twitter.com/n9gcdSE4yc",
+                    "expanded_url": "https://twitter.com/PropertyDanH/status/1313089842839007232/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 636,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 636,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 636,
+                            "h": 443,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1313089840699891713,
+                    "id_str": "1313089840699891713",
+                    "indices": [
+                        9,
+                        32
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EjkIQMkXYAEF4HG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EjkIQMkXYAEF4HG.jpg",
+                    "url": "https://t.co/n9gcdSE4yc",
+                    "display_url": "pic.twitter.com/n9gcdSE4yc",
+                    "expanded_url": "https://twitter.com/PropertyDanH/status/1313089842839007232/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 636,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 636,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 636,
+                            "h": 443,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1313081640193847296,
+        "in_reply_to_status_id_str": "1313081640193847296",
+        "in_reply_to_user_id": 179875562,
+        "in_reply_to_user_id_str": "179875562",
+        "in_reply_to_screen_name": "aknotay",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1017714826943049728/7O-jlN-E_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017714826943049728/7O-jlN-E_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/220119108/1560924511",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}

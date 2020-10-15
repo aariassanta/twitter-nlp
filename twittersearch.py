@@ -52,42 +52,57 @@ print(tweets_df)
 # make a new column to highlight retweets
 tweets_df['is_retweet'] = tweets_df['text'].apply(lambda x: x[:2]=='RT')
 tweets_df['is_retweet'].sum()  # number of retweets
+tweets_df['is_no_retweet'] = tweets_df['text'].apply(lambda x: x[:2]!='RT')
 
+print('\n' + '------------------Dataframe Tweets final------------------' + '\n')
 print(tweets_df)
 
 # number of unique retweets
+print('\n' + '------------------Tweets retweeted unicos------------------' + '\n')
+print(tweets_df.loc[tweets_df['is_retweet']].text.unique())
 print(tweets_df.loc[tweets_df['is_retweet']].text.unique().size)
 
+# number of unique no retweets
+print('\n' + '------------------Tweets no retweet unicos-----------------' + '\n')
+print(tweets_df.loc[tweets_df['is_no_retweet']].text.unique())
+print(tweets_df.loc[tweets_df['is_no_retweet']].text.unique().size)
+
 # 10 most repeated tweets
+print('\n' + '------------------10 most retweeted tweets------------------' + '\n')
 print(tweets_df.groupby(['text']).size().reset_index(name='counts')\
   .sort_values('counts', ascending=False).head(10))
-#
+
+print('\n' + '------------------10 most retweeted tweets------------------' + '\n')
+print(tweets_df.groupby(['text']).size().reset_index(name='counts')\
+  .sort_values('counts', ascending=False).head(10))  
+
 #print('ordered dataframe'+'\n')
 #print(tweets_df)
 
-# Starting process
+print('\n' + '----------------tweets final sin duplicados----------------' + '\n')
+#tweets_df_unique = tweets_df.drop_duplicates(subset=['text'])
+tweets_df_unique = tweets_df.text.unique()
+print(tweets_df_unique)
+print(tweets_df_unique.size)
 
-from sklearn.feature_extraction.text import TfidfVectorizer
-from collections import Counter
+tweets_df_no_rt = tweets_df.loc[tweets_df['is_no_retweet']]
+tweets_df_is_rt = tweets_df.loc[tweets_df['is_retweet']]
 
-#corpus = tweets_df['text']
+# --------------------------------------------------------------------------------
+# Starting NLP process
+# --------------------------------------------------------------------------------
 
-# We can use the TfidfVectorizer to find ngrams for us
-vect = TfidfVectorizer(ngram_range=(2,5), stop_words='english')
+# cleaning text data
 
-# Pulls all of trumps tweet text's into one giant string
-summaries = "".join(tweets_df['text'])
-ngrams_summaries = vect.build_analyzer()(summaries)
-
-print(Counter(ngrams_summaries).most_common(20))
-
-#cleaning text data
 from string import punctuation
 from nltk import word_tokenize
 from nltk.util import ngrams
 from nltk.corpus import stopwords
+from nltk import FreqDist
 
-additionalstopwords = ['https']
+# Generación stoplist
+
+additionalstopwords = ['https','proptech','amp']
 
 stoplist = set(stopwords.words('english')) | \
            set(stopwords.words('spanish')) | \
@@ -95,16 +110,35 @@ stoplist = set(stopwords.words('english')) | \
            set(punctuation) |                \
            set(additionalstopwords)
 
-words = "".join(tweets_df['text']).lower()
+# Convierte a minúsculas todas las palabras
 
-#tokens = [token for token in word_tokenize("".join(tweets_df['text'])) if token not in stoplist] # No stoplist
-tokens = [token for token in word_tokenize(words) if token not in stoplist] # No stoplist
+sentences = "".join(tweets_df_no_rt['text']).lower()
+#print(sentences)
+
+# Tokeniza extrayendo palabras a excluír
+
+tokens = [token for token in word_tokenize(sentences) if token not in stoplist] # No stoplist
 tokens = [token for token in tokens if token.isalpha()] # sólo caracteres alfabéticos
 
-print(tokens)
+#print(tokens)
+
+# Genera Bigrams
+
+unigrams = ngrams(tokens, 1)
 bigrams = ngrams(tokens, 2)
 
-for x in bigrams:
-  print(x)
+#for x in bigrams:
+#  print(x)
 
-print(stopwords.words('english'))
+print('\n' + '------------------Unigrams Frequency Distribution------------------' + '\n')
+print(FreqDist(ngrams(tokens, 1)).most_common(25))
+
+print('\n' + '------------------Bigrams Frequency Distribution-------------------' + '\n')
+print(FreqDist(ngrams(tokens, 2)).most_common(25))
+
+print('\n' + '------------------Trigrams Frequency Distribution------------------' + '\n')
+print(FreqDist(ngrams(tokens, 3)).most_common(25))
+
+#print(tweets_df.keys())
+#print(tweets_df.loc[tweets_df['is_no_retweet']])
+print('\n' + '------------------              Final            ------------------' + '\n')

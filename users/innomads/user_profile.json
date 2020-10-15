@@ -1,0 +1,121 @@
+{
+    "id": 1054747110678114304,
+    "id_str": "1054747110678114304",
+    "name": "Innomads",
+    "screen_name": "innomads",
+    "location": "Barcelona, Espa\u00f1a",
+    "profile_location": {
+        "id": "1a27537478dd8e38",
+        "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+        "place_type": "unknown",
+        "name": "Barcelona, Espa\u00f1a",
+        "full_name": "Barcelona, Espa\u00f1a",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": null,
+        "attributes": {}
+    },
+    "description": "Innomads es el HUB de #innovaci\u00f3n del #RealEstate en Barcelona. Conectamos corporates, startups, instituciones e inversores para construir el futuro del sector.",
+    "url": "https://t.co/oYXECG3fXk",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/oYXECG3fXk",
+                    "expanded_url": "https://innomads.eu/",
+                    "display_url": "innomads.eu",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 495,
+    "friends_count": 911,
+    "listed_count": 17,
+    "created_at": "Tue Oct 23 14:51:22 +0000 2018",
+    "favourites_count": 196,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 167,
+    "lang": null,
+    "status": {
+        "created_at": "Thu Oct 01 15:00:21 +0000 2020",
+        "id": 1311682367875100676,
+        "id_str": "1311682367875100676",
+        "text": "\u00a1Las #proptech toman posiciones tras el Covid-19!\nConsiguen aumentar la transparencia y rapidez de los procesos del\u2026 https://t.co/iSEFXR5Xuv",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "proptech",
+                    "indices": [
+                        5,
+                        14
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/iSEFXR5Xuv",
+                    "expanded_url": "https://twitter.com/i/web/status/1311682367875100676",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1055105674651336705/pvLOr8pK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055105674651336705/pvLOr8pK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054747110678114304/1569857170",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}

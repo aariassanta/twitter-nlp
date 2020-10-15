@@ -1,0 +1,102 @@
+{
+    "id": 14209318,
+    "id_str": "14209318",
+    "name": "idealista",
+    "screen_name": "idealista",
+    "location": "",
+    "profile_location": null,
+    "description": "Desde 2000 obsesionados con ayudar a millones de personas a superar la ansiedad y la frustraci\u00f3n de encontrar una casa",
+    "url": "http://t.co/i3mEhS0oxG",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "http://t.co/i3mEhS0oxG",
+                    "expanded_url": "http://www.idealista.com",
+                    "display_url": "idealista.com",
+                    "indices": [
+                        0,
+                        22
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 61508,
+    "friends_count": 4268,
+    "listed_count": 1015,
+    "created_at": "Mon Mar 24 18:05:53 +0000 2008",
+    "favourites_count": 95,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 35547,
+    "lang": null,
+    "status": {
+        "created_at": "Mon Oct 05 18:04:00 +0000 2020",
+        "id": 1313178137555996674,
+        "id_str": "1313178137555996674",
+        "text": "Imagen del d\u00eda: El techo de gasto de los Presupuestos tocar\u00e1 m\u00e1ximos desde 2010 https://t.co/T68FOIywJF",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/T68FOIywJF",
+                    "expanded_url": "https://www.idealista.com/news/finanzas/economia/2020/10/05/787368-imagen-del-dia-el-techo-de-gasto-de-los-presupuestos-tocara-maximos-desde-2010",
+                    "display_url": "idealista.com/news/finanzas/\u2026",
+                    "indices": [
+                        80,
+                        103
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1280049737958412288/gaDlOeUE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280049737958412288/gaDlOeUE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209318/1401206758",
+    "profile_link_color": "0789CA",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "CCFF33",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}

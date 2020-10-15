@@ -1,0 +1,102 @@
+{
+    "id": 4338452835,
+    "id_str": "4338452835",
+    "name": "Antonio Grasso",
+    "screen_name": "antgrasso",
+    "location": "Global",
+    "profile_location": null,
+    "description": "Digital entrepreneur with a passion for knowledge translation | B2B Tech Influencer | Startups Mentor | CEO @dbi_srl | #AI #IoT #Blockchain | \ud83c\uddee\ud83c\uddf9 @antgrasso_IT",
+    "url": "https://t.co/V78X2CPCFa",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/V78X2CPCFa",
+                    "expanded_url": "https://www.dbi.srl/",
+                    "display_url": "dbi.srl",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 165007,
+    "friends_count": 42057,
+    "listed_count": 1825,
+    "created_at": "Tue Dec 01 09:49:04 +0000 2015",
+    "favourites_count": 139629,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 40654,
+    "lang": null,
+    "status": {
+        "created_at": "Tue Oct 06 18:00:46 +0000 2020",
+        "id": 1313539712955617280,
+        "id_str": "1313539712955617280",
+        "text": "Indeed, \"It's something that is happening now; a system-level restructuring of our society, our economy, and our in\u2026 https://t.co/DskEOKO2EG",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/DskEOKO2EG",
+                    "expanded_url": "https://twitter.com/i/web/status/1313539712955617280",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 28,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1121360169319981058/1W13Y7Vi_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121360169319981058/1W13Y7Vi_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4338452835/1556958142",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}

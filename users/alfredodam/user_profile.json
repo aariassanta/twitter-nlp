@@ -1,0 +1,136 @@
+{
+    "id": 3041749342,
+    "id_str": "3041749342",
+    "name": "Alfredo Diaz-Araque",
+    "screen_name": "alfredodam",
+    "location": "Madrid - Spain",
+    "profile_location": null,
+    "description": "Real Estate expert. Digital immigrant pretending to be native. Getting a feel for #proptech \ud83e\udd14 Mad for cycling My blog https://t.co/aTcQcCT80n",
+    "url": "https://t.co/Qel0fEzDcQ",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/Qel0fEzDcQ",
+                    "expanded_url": "http://www.linkedin.com/in/proptechalfredodiazaraque",
+                    "display_url": "linkedin.com/in/proptechalf\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/aTcQcCT80n",
+                    "expanded_url": "http://www.spanishproptech.es",
+                    "display_url": "spanishproptech.es",
+                    "indices": [
+                        118,
+                        141
+                    ]
+                }
+            ]
+        }
+    },
+    "protected": false,
+    "followers_count": 1570,
+    "friends_count": 447,
+    "listed_count": 73,
+    "created_at": "Tue Feb 17 00:44:45 +0000 2015",
+    "favourites_count": 8848,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11163,
+    "lang": null,
+    "status": {
+        "created_at": "Mon Oct 05 16:05:46 +0000 2020",
+        "id": 1313148382819553280,
+        "id_str": "1313148382819553280",
+        "text": "The last Spanish Proptech Daily! (English version) #proptech #realestate https://t.co/FCsYdOEMID Gracias a\u2026 https://t.co/niKJkjaE4o",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "proptech",
+                    "indices": [
+                        51,
+                        60
+                    ]
+                },
+                {
+                    "text": "realestate",
+                    "indices": [
+                        61,
+                        72
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/FCsYdOEMID",
+                    "expanded_url": "https://paper.li/alfredodam/1500393814?edition_id=9ff7b400-0724-11eb-a1a2-0cc47a0d15fd",
+                    "display_url": "paper.li/alfredodam/150\u2026",
+                    "indices": [
+                        73,
+                        96
+                    ]
+                },
+                {
+                    "url": "https://t.co/niKJkjaE4o",
+                    "expanded_url": "https://twitter.com/i/web/status/1313148382819553280",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        108,
+                        131
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/971884407039635458/CKFGgaSi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971884407039635458/CKFGgaSi_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3041749342/1479593596",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}

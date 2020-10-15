@@ -90,5 +90,9 @@ if __name__ == '__main__':
     auth.set_access_token(credentials.access_token, credentials.access_secret)
     api = tweepy.API(auth)
 
-    twitter_stream = Stream(auth, MyListener(args.data_dir, args.query))
-    twitter_stream.filter(track=[args.query])
+    try:
+        twitter_stream = Stream(auth, MyListener(args.data_dir, args.query))
+        twitter_stream.filter(track=[args.query])
+    except Exception:
+        print('Ha ocurrido una excepción')
+        pass
