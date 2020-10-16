@@ -1,417 +1,421 @@
-Tweet,Freq
-RT @3goffice: Un adelanto de lo que podrás escuchar los próximos 12 y 13 de noviembre en la #RealEstate Management Tech organizada por @Pro…,1
-RT @PropertyQuants: Uncover hidden opportunities in real estate with Python and machine learning. Learn to use Python and machine learning…,2
-RT @CapsuleCorpStd: 🌐Vous avez un projet numérique innovant en tête ?! Rejoignez notre flotte de projets déjà mis sur orbite ! Echangez ave…,2
-RT @Okapi_AI: Busy October ahead for commercial real estate and proptech! Will we see you tomorrow at the virtual IREM Summit? Come say hi…,2
-RT @ccim: New Challenges in CRE Security: #Proptech could help #CRE meet the security and public health challenges in the industrial and wa…,3
-RT @AOProptech: Current GHG emission reduction efforts tend to focus on reducing GHG emission emitted during building operations; it is ess…,1
-RT @RentechApp: ¿Vas a vivir sin la seguridad de recibir tu dinero todos los meses? En Rentech el “ #segurodealquiler “ #PropTech  buscamos…,2
-"RT @rentalscaleup: Thought-provoking interview of @ExpediaGroup's Lisa Chen about turning around the image, policies, and products of @vrbo…",1
-"RT @iLeads: Given the #disruption of today's business sales cycles, it is more important than ever to be prepared with the best #data. We p…",11
+Tweet,Freq,Id
+RT @3goffice: Un adelanto de lo que podrás escuchar los próximos 12 y 13 de noviembre en la #RealEstate Management Tech organizada por @Pro…,1,1316292709401976832
+RT @PropertyQuants: Uncover hidden opportunities in real estate with Python and machine learning. Learn to use Python and machine learning…,2,1316375390764494848
+RT @CapsuleCorpStd: 🌐Vous avez un projet numérique innovant en tête ?! Rejoignez notre flotte de projets déjà mis sur orbite ! Echangez ave…,2,1316324541900222469
+RT @Okapi_AI: Busy October ahead for commercial real estate and proptech! Will we see you tomorrow at the virtual IREM Summit? Come say hi…,2,1316376336139681799
+RT @ccim: New Challenges in CRE Security: #Proptech could help #CRE meet the security and public health challenges in the industrial and wa…,2,1310347242843316224
+RT @AOProptech: Current GHG emission reduction efforts tend to focus on reducing GHG emission emitted during building operations; it is ess…,1,1316377040757690368
+RT @RentechApp: ¿Vas a vivir sin la seguridad de recibir tu dinero todos los meses? En Rentech el “ #segurodealquiler “ #PropTech  buscamos…,2,1316315089700564992
+"RT @rentalscaleup: Thought-provoking interview of @ExpediaGroup's Lisa Chen about turning around the image, policies, and products of @vrbo…",1,1296430589986377729
+"RT @iLeads: Given the #disruption of today's business sales cycles, it is more important than ever to be prepared with the best #data. We p…",11,1316116510277013506
 "RT @allthings_here: Unsere vier #Produktpakete sind jetzt im #Saas-Stil für alle Interessenten verfügbar:
 
 ✓ Free Version
 ✓ Essential
-✓ Pro…",2
+✓ Pro…",2,1316281760917917697
 "RT @HabiteoES: [EVENTO DIGITAL] 💡 2º Congreso Nacional de Servicing Inmobiliario
 
-Estamos encantado de participar mañana a este congreso !…",1
-"RT @SocialSMktg: With millions of Facebook pages online, how do you get your Facebook page seen? Check out these  13 tips to get your Faceb…",10
-RT @iLeads: Credit-based leads are destined to increase your approval rates by targeting customers who match your credit and collateral pro…,13
-RT @Konii_de: Sechs Monate #Coronakrise - was bedeutet das für ein junges #PropTech wie @buildingminds_ ? @JmuellerIoT erklärt es hier: htt…,1
+Estamos encantado de participar mañana a este congreso !…",1,1316360918301839361
+"RT @SocialSMktg: With millions of Facebook pages online, how do you get your Facebook page seen? Check out these  13 tips to get your Faceb…",10,1316229344885260289
+RT @iLeads: Credit-based leads are destined to increase your approval rates by targeting customers who match your credit and collateral pro…,13,1316179923170742273
+RT @Konii_de: Sechs Monate #Coronakrise - was bedeutet das für ein junges #PropTech wie @buildingminds_ ? @JmuellerIoT erklärt es hier: htt…,1,1316284744955580417
 "RT @NAIOhioEquities: The growing value of PropTech within CRE is the topic of @Pi_Labs new report, ""The Future of Work"" 
- https://t.co/IudJ…",1
-"RT @buildingminds_: In this interview, Markus Gerharz from Immobilien Manager talks to our CEO @JmuellerIoT who provides insights into a jo…",2
-RT @LiveTheModaLife: #Technology improves the Moda community’s experience. That’s the team and residents. Playing a fundamental role in day…,1
-RT @OsborneClarke: @OC_Conrad and Jonathan Mills joined @DickinsLouisa of @LMREPropTech for the final episode of season 2 of the PropCast i…,1
-"RT @CambridgeDrone: Working in construction? #CambridgeDrones can help survey sites, scan volumes of earth/material, elevations, deliver ti…",1
-RT @PrinexRE: ¡Aprovecha esta promoción exclusiva! Proporciona un servicio excelente y totalmente diferencial a tus compradores o inquilino…,1
-"RT @GoSpaceAI: In advance of the release of his latest book Elemental Change, Neil Usher is discussing the dynamic future of the workplace…",1
-"RT @Mallcommapp: With stretched budgets &amp; budget cuts becoming the norm, find out how much #Mallcomm could save you. Will it be more than 1…",3
-RT @alfredodam: El #proptech más allá de la simple apertura de puertas. Si no estás en casa y el vecino tiene que darte una noticia como qu…,2
-"RT @TechEstate_Tech: @KASALIVING, que compite por el mismo mercado que @Airbnb, consigue 30M$ en financiación Series B liderada por @Ribbit…",1
+ https://t.co/IudJ…",1,1315716377001558016
+"RT @buildingminds_: In this interview, Markus Gerharz from Immobilien Manager talks to our CEO @JmuellerIoT who provides insights into a jo…",2,1316353614739365889
+RT @LiveTheModaLife: #Technology improves the Moda community’s experience. That’s the team and residents. Playing a fundamental role in day…,1,1316320591310446592
+RT @OsborneClarke: @OC_Conrad and Jonathan Mills joined @DickinsLouisa of @LMREPropTech for the final episode of season 2 of the PropCast i…,1,1316341467204460546
+"RT @CambridgeDrone: Working in construction? #CambridgeDrones can help survey sites, scan volumes of earth/material, elevations, deliver ti…",1,1301486605283229697
+RT @PrinexRE: ¡Aprovecha esta promoción exclusiva! Proporciona un servicio excelente y totalmente diferencial a tus compradores o inquilino…,1,1316266798870925312
+"RT @GoSpaceAI: In advance of the release of his latest book Elemental Change, Neil Usher is discussing the dynamic future of the workplace…",1,1316322789268258818
+"RT @Mallcommapp: With stretched budgets &amp; budget cuts becoming the norm, find out how much #Mallcomm could save you. Will it be more than 1…",3,1316310487756349440
+RT @alfredodam: El #proptech más allá de la simple apertura de puertas. Si no estás en casa y el vecino tiene que darte una noticia como qu…,2,1315996144506474497
+"RT @TechEstate_Tech: @KASALIVING, que compite por el mismo mercado que @Airbnb, consigue 30M$ en financiación Series B liderada por @Ribbit…",1,1316302778344579072
 "RT @CMToday_Mag: Register for our first #virtualevent for the #builtenvironment in the region: https://t.co/uk4mM8zGIU
 
-Lynnette Abad of @p…",1
-RT @PropertyDanH: Good to be part of this with @ChrisPincher @maltbyps @joannaaverley et al discussing how tech can improve planning proces…,4
-RT @Le_Partenaire: Jerome J. a réalisé une estimation de loyer sur https://t.co/3p5JR0DRiG pour un appartement 2 pièces de 60 m2 sur Hyères…,1
-RT @propmodo: Join us as we discuss how building owners can better understand organizations’ space needs and create flexible workspaces tha…,5
+Lynnette Abad of @p…",1,1316316712350953473
+RT @PropertyDanH: Good to be part of this with @ChrisPincher @maltbyps @joannaaverley et al discussing how tech can improve planning proces…,4,1316299307914530816
+RT @Le_Partenaire: Jerome J. a réalisé une estimation de loyer sur https://t.co/3p5JR0DRiG pour un appartement 2 pièces de 60 m2 sur Hyères…,1,1316322348136628226
+RT @propmodo: Join us as we discuss how building owners can better understand organizations’ space needs and create flexible workspaces tha…,5,1316112730080731136
 "RT @salonrent: Retrouvez notre partenaire @blogimmo lors des Proptech Digital Days by RENT, les 4 et 5 Novembre prochains 🙌
 
-Pour S'INSCRIR…",1
-RT @BullpenConsult: [BLOG] Toronto Under Construction Episode 11 features @TariqAdi or @AdiDevelopments - he chats about starting a develop…,1
-RT @365connect: 365 Connect Receives Platinum dotCOMM Award for Its https://t.co/ewLgCzCOZt AI-Powered Chatbot Platform – READ MORE: https:…,7
-RT @NuovitHomes: ¿Cuál es el papel de las empresas #proptech en el sector #inmobiliario? https://t.co/ntu3w9I3Fv de @fotocasa https://t.co/…,1
-"RT @UKProptech: If you haven't already, register to attend our webinar alongside PropTech VC's, @fifthwallvc, @ConcreteVCtech &amp; #M7Structur…",5
-RT @NewFinServ: #PropTech / VTS debuts real-time data for commercial leasing https://t.co/EaF99j9Oaw,1
-RT @NewFinServ: #PropTech / Redaptive Closes On $150M For Energy Efficiency Technologies https://t.co/vIZ4s2Tqui,1
-RT @Sonneilhomes: ⚠️⚠️⚠️ ¿Aún no conoces @GranCanetR? Apúntate a nuestro webinar de hoy. ¡Te esperamos a las 12 del medio día! 👇 https://t.…,1
-"RT @PocketBuildings: ""While data across some verticals is only truly valuable once it hits critical scale, data within real estate can be q…",1
-RT @housingtech: North Tyneside Council is now seeing measurable improvements to its business processes since implementing @OrchardSystems’…,1
-"RT @GeoPhy: @GeoPhy's  building-level view of credit profiles helps you get smart on multifamily properties, fast. Introducing Tenant Credi…",3
-RT @fotocasa: ¿Cómo han cambiado las proptech los procesos de compra en el sector inmobiliario? Profundizamos en el tema en nuestro blog.…,1
+Pour S'INSCRIR…",1,1316306206445768704
+RT @BullpenConsult: [BLOG] Toronto Under Construction Episode 11 features @TariqAdi or @AdiDevelopments - he chats about starting a develop…,1,1285606008614727680
+RT @365connect: 365 Connect Receives Platinum dotCOMM Award for Its https://t.co/ewLgCzCOZt AI-Powered Chatbot Platform – READ MORE: https:…,7,1314282588878635008
+RT @NuovitHomes: ¿Cuál es el papel de las empresas #proptech en el sector #inmobiliario? https://t.co/ntu3w9I3Fv de @fotocasa https://t.co/…,1,1316309030655197186
+"RT @UKProptech: If you haven't already, register to attend our webinar alongside PropTech VC's, @fifthwallvc, @ConcreteVCtech &amp; #M7Structur…",5,1314604162286485510
+RT @NewFinServ: #PropTech / VTS debuts real-time data for commercial leasing https://t.co/EaF99j9Oaw,1,1316296612835188736
+RT @NewFinServ: #PropTech / Redaptive Closes On $150M For Energy Efficiency Technologies https://t.co/vIZ4s2Tqui,1,1316296692828962817
+RT @Sonneilhomes: ⚠️⚠️⚠️ ¿Aún no conoces @GranCanetR? Apúntate a nuestro webinar de hoy. ¡Te esperamos a las 12 del medio día! 👇 https://t.…,1,1316294770260574209
+"RT @PocketBuildings: ""While data across some verticals is only truly valuable once it hits critical scale, data within real estate can be q…",1,1314714760810762241
+RT @housingtech: North Tyneside Council is now seeing measurable improvements to its business processes since implementing @OrchardSystems’…,1,1316287129417379840
+"RT @GeoPhy: @GeoPhy's  building-level view of credit profiles helps you get smart on multifamily properties, fast. Introducing Tenant Credi…",3,1316028557462630404
+RT @fotocasa: ¿Cómo han cambiado las proptech los procesos de compra en el sector inmobiliario? Profundizamos en el tema en nuestro blog.…,1,1315949157018931200
 "RT @housfy_es: La sección #startup del diario Expansión destaca el papel de Housfy en el sector de las #proptech 🙌
 
-Somos una plataforma de…",3
+Somos una plataforma de…",3,1315986876130570240
 "RT @karinecoeur: l Événement 
 
-Ce soir quel plaisir de participer à un événement pro ! Salle pleine pour le Cüriositee x Proptech organisé…",3
-RT @natalie_record: Another successful Ministerial PropTech Roundtable today. Nearly a year on from our first Ministerial #PropTech event.…,1
-RT @RealtyNXT: #NewsUpdate | Agora has recently closed a NIS 3 million round to help it continue its development of a platform for managing…,1
+Ce soir quel plaisir de participer à un événement pro ! Salle pleine pour le Cüriositee x Proptech organisé…",3,1316067935593672711
+RT @natalie_record: Another successful Ministerial PropTech Roundtable today. Nearly a year on from our first Ministerial #PropTech event.…,1,1316065718501363714
+RT @RealtyNXT: #NewsUpdate | Agora has recently closed a NIS 3 million round to help it continue its development of a platform for managing…,1,1316254181821280262
 "RT @WalterStrametz: https://t.co/pWfBRzQE7F, 19.1.21:
 Europas erfolgreichste Fachkonferenz für Immobilien &amp; Blockchain wieder in Wien
 
-EARL…",2
-RT @CarlosPierretri: Un placer compartir portada sobre Proptech con @JesusEncinar. @idealista y el color amarillo son inseparables. https:/…,3
-RT @ChrisPincher: Today I met the #PropTech sector and Local Government to discuss how data and digital tech as part of our #PlanningForThe…,17
+EARL…",1,1315789455123517442
+RT @CarlosPierretri: Un placer compartir portada sobre Proptech con @JesusEncinar. @idealista y el color amarillo son inseparables. https:/…,3,1315705591067807746
+RT @ChrisPincher: Today I met the #PropTech sector and Local Government to discuss how data and digital tech as part of our #PlanningForThe…,17,1316024793464881163
 "RT @RobertJenrick: #PlanningForTheFuture means bringing the planning system into the digital age.
 
-We’re working with the emerging #PropTec…",6
-"RT @blocksquare_io: Did you know @blocksquare finished 1st out of 130+ startups at the 2019 CV Competition in Crypto Valley Zug, Switzerlan…",2
-RT @ConnectedWMag: PropTech #startups &amp; smart building solutions to watch: https://t.co/23Rs9HjQ3g  #IoT #sustainability #AI #5G #cloud #ed…,2
-RT @res902: ¿Cuál es el papel de las empresas proptech en el sector inmobiliario? https://t.co/JVDq7qrxrL,1
+We’re working with the emerging #PropTec…",6,1316138335031656450
+"RT @blocksquare_io: Did you know @blocksquare finished 1st out of 130+ startups at the 2019 CV Competition in Crypto Valley Zug, Switzerlan…",2,1232923393235783680
+RT @ConnectedWMag: PropTech #startups &amp; smart building solutions to watch: https://t.co/23Rs9HjQ3g  #IoT #sustainability #AI #5G #cloud #ed…,2,1316080026371096578
+RT @res902: ¿Cuál es el papel de las empresas proptech en el sector inmobiliario? https://t.co/JVDq7qrxrL,1,1316090490505383941
 "RT @RealEstate_Mx: Las empresas proptech han llegado al sector inmobiliario para quedarse y hacer la vida más fácil a las personas.💻🏢
-https…",1
+https…",1,1316151772071841798
 "RT @blocksquare_io: Did you know @blocksquare is ranked amongst the Top100 Proptech startups in Europe according to @BuiltWorldcom?
 
-https:…",1
-"RT @fifthwallvc: Unpacking the last 5 years of the burgeoning #Proptech sector, told through the perspective of @WeAreVTS CEO @NickRomito a…",5
-RT @iLeads: Contacts our data and lead experts to discuss how you can start driving more revenue today. https://t.co/fX0Lvxk6UB #liveconnec…,1
-RT @UPropTech: SustainCo Inc. Proposes Name Change to Universal PropTech Inc. at Special Meeting of Shareholders https://t.co/1Gemf0JwXc,1
-RT @BrendanFWallace: My conversation w/ @fifthwallvc investment @WeAreVTS CEO @NickRomito on the history of PropTech and the interconnected…,2
-RT @andres_leal7: 🎧 Último episodio de nuestra segunda temporada en Triarii Audio Experience Podcast  🎧  Ya en @Spotify  🔥Luis CEO de @plan…,2
-"RT @carlosblanco: Hoy en @LaVanguardia tenemos a @Finteca @ProHipotecas (B2B), startup incubada en @NuclioVB y que no para de crecer (en má…",4
-RT @PocketBuildings: Are you fascinated by #architecture and beautiful #buildings (like we are!)?  Find out more about this iconic building…,1
-"RT @blocksquare_io: Did you know that in 2019 @blocksquare successfully finished @fintechfusion acceleration program in Geneva, #Switzerlan…",1
-RT @CREMattSD: @theBrokerList @MassimoGroup @EdisonCRE @azPRninja @DanielleFHaney @natalie_CRE10X @FlannCasey @KeithAuten @retailbroker @CR…,2
+https:…",1,1232832811444441089
+"RT @fifthwallvc: Unpacking the last 5 years of the burgeoning #Proptech sector, told through the perspective of @WeAreVTS CEO @NickRomito a…",5,1316048865674625025
+RT @iLeads: Contacts our data and lead experts to discuss how you can start driving more revenue today. https://t.co/fX0Lvxk6UB #liveconnec…,1,1316122561135226881
+RT @UPropTech: SustainCo Inc. Proposes Name Change to Universal PropTech Inc. at Special Meeting of Shareholders https://t.co/1Gemf0JwXc,1,1316120716899692545
+RT @BrendanFWallace: My conversation w/ @fifthwallvc investment @WeAreVTS CEO @NickRomito on the history of PropTech and the interconnected…,2,1316104551418585088
+RT @andres_leal7: 🎧 Último episodio de nuestra segunda temporada en Triarii Audio Experience Podcast  🎧  Ya en @Spotify  🔥Luis CEO de @plan…,2,1315681200057483264
+"RT @carlosblanco: Hoy en @LaVanguardia tenemos a @Finteca @ProHipotecas (B2B), startup incubada en @NuclioVB y que no para de crecer (en má…",4,1315906954267709440
+RT @PocketBuildings: Are you fascinated by #architecture and beautiful #buildings (like we are!)?  Find out more about this iconic building…,1,1316079104660312069
+"RT @blocksquare_io: Did you know that in 2019 @blocksquare successfully finished @fintechfusion acceleration program in Geneva, #Switzerlan…",1,1232772447344087040
+RT @CREMattSD: @theBrokerList @MassimoGroup @EdisonCRE @azPRninja @DanielleFHaney @natalie_CRE10X @FlannCasey @KeithAuten @retailbroker @CR…,2,1316104916679553025
 "RT @jmwass: Glad to be included here. Now, let’s see the best proptech has to offer! 
 
-In great company with @PubKevin @irrvrntVC @b_nicks1…",1
-RT @PropChallenge: Excited to have @DarlenePopeWe serve as Chair for the @connectedremag Virtual Tech Event and partner in our @REBNY #Prop…,2
-"RT @iLeads: When you add our data to your data, you now have the real estate, #loan and #credit insight for more effective marketing, custo…",1
-RT @PropChallenge: @davidsrose CEO of US Real Estate Markets talks about @REBNY #PropTech Challenge https://t.co/WFy91PEUAb - We're looking…,4
-RT @SocialSMktg: This advice is for anyone of you bootstrapping your business' social media marketing. Doesn’t matter if your product is se…,1
-"RT @thingssandy: Today's #CIO should be a facilitator of change, remembering more than anything else it is not about #technology, it is abo…",1
-RT @NRLAssociation: Looking for advice on how to tackle #condensation? Have a read of our factsheet for landlords and tenants. https://t.co…,1
+In great company with @PubKevin @irrvrntVC @b_nicks1…",1,1316156087335297030
+RT @PropChallenge: Excited to have @DarlenePopeWe serve as Chair for the @connectedremag Virtual Tech Event and partner in our @REBNY #Prop…,2,1316151771774025728
+"RT @iLeads: When you add our data to your data, you now have the real estate, #loan and #credit insight for more effective marketing, custo…",1,1316132358840627206
+RT @PropChallenge: @davidsrose CEO of US Real Estate Markets talks about @REBNY #PropTech Challenge https://t.co/WFy91PEUAb - We're looking…,4,1315985819191193600
+RT @SocialSMktg: This advice is for anyone of you bootstrapping your business' social media marketing. Doesn’t matter if your product is se…,1,1316132887058669568
+"RT @thingssandy: Today's #CIO should be a facilitator of change, remembering more than anything else it is not about #technology, it is abo…",1,1315985972354482179
+RT @NRLAssociation: Looking for advice on how to tackle #condensation? Have a read of our factsheet for landlords and tenants. https://t.co…,1,1315917690234699776
 "RT @realquantumapp: Buy vs. Rent: How will the future of the housing market be affected by millennials?
 https://t.co/3vTaAgd8EX
-#byappraise…",1
-"RT @walkaboutco: Tomorrow afternoon, our CEO, Toni Portmann, is speaking on Adam Sinkus' Podcast @WinningTactics! Follow Adam Sinkus (https…",1
-RT @nobul: Join Nobul today and embrace the future of real estate. #Realtor #Proptech #futureofrealestate #orlandorealestate #orlandorealto…,3
-RT @Sonneilhomes: 🧐 Thinking about moving to #Spain but not sure about the procedures when buying a #home? Check out our #blog and do not w…,1
+#byappraise…",1,1316121818193965060
+"RT @walkaboutco: Tomorrow afternoon, our CEO, Toni Portmann, is speaking on Adam Sinkus' Podcast @WinningTactics! Follow Adam Sinkus (https…",1,1316128701785018368
+RT @nobul: Join Nobul today and embrace the future of real estate. #Realtor #Proptech #futureofrealestate #orlandorealestate #orlandorealto…,3,1316078750090498049
+RT @Sonneilhomes: 🧐 Thinking about moving to #Spain but not sure about the procedures when buying a #home? Check out our #blog and do not w…,1,1315921745350623232
 "RT @MetaPropNYC: What does @guygal, CEO of @side_realestate see as one of the biggest upcoming trends in #RealEstate?
 
-A growing demand for…",2
-"RT @LiveTheModaLife: #SmartTech. #PropTech. IoT... Technology plays a vital role in our lives, pre &amp; post-lockdown. How are we using it in…",1
+A growing demand for…",2,1315736523124412417
+"RT @LiveTheModaLife: #SmartTech. #PropTech. IoT... Technology plays a vital role in our lives, pre &amp; post-lockdown. How are we using it in…",1,1309401840770048000
 "RT @antgrasso: 90 percent of traditional real estate organizations see proptech as an opportunity, as rising levels of investment show.
 
-So…",90
+So…",90,1313962419396452352
 "RT @salonrent: Les inscriptions pour les Proptech Digital Days by RENT sont OUVERTES 🙌
 
-SAVE THE DATE : Rendez-vous les 4 et 5 Novembre 202…",5
+SAVE THE DATE : Rendez-vous les 4 et 5 Novembre 202…",5,1316043045561868289
 "RT @unitee_io: En direct 🎥 // @HBuzyCazaux intervient en visio pour cette dernière partie des conférences #Proptech !
-Suivez en live le #Cü…",3
-RT @kraln: @1DavidClarke I have worked for a proptech startup in Europe. One of our biggest investors was also one of the largest property…,1
-"RT @sofialocks: Coworkings, how to cope with the future? Keep up with Sofia Locks cloud technology and the experienced Italian design of Is…",1
-RT @david_bernabeu: Gracias @expansioncom por vuestro reportaje sobre la industria del #PropTech destacando a @citiboxES como caso de éxito…,9
+Suivez en live le #Cü…",3,1316073275928256512
+RT @kraln: @1DavidClarke I have worked for a proptech startup in Europe. One of our biggest investors was also one of the largest property…,1,1315999879181799424
+"RT @sofialocks: Coworkings, how to cope with the future? Keep up with Sofia Locks cloud technology and the experienced Italian design of Is…",1,1315993189472370688
+RT @david_bernabeu: Gracias @expansioncom por vuestro reportaje sobre la industria del #PropTech destacando a @citiboxES como caso de éxito…,9,1315603897097035782
 "RT @Mountxcanada: ¡Save the date!
 We are waiting for you at the biggest event of the year.
 November 11 and 12, 2020
-Free event, sign up ⬇️…",1
+Free event, sign up ⬇️…",1,1316061373810515968
 "RT @NAIGlobal: The rapidly evolving #proptech industry is elevating the entire CRE model 
 
-https://t.co/OUqdHPyvEL",1
+https://t.co/OUqdHPyvEL",1,1316031548362235904
 "RT @unitee_io: Jour J #Cüriositee 💥// A partir de 18h30 :
 
-👉 Suivez en live (inscription gratuite) nos tables rondes par ici : https://t.co…",2
-RT @PropertyRadar: @snapdocs raises $60M to manage the mortgage process in the cloud #mortgage #realestate #proptech #trends https://t.co/u…,1
-RT @BehrTech: What are the wireless requirements for scaling a smart building IoT deployment? Download our latest white paper ➡️  https://t…,1
-"RT @ProptechLatam: Además, @fvazquezmedem es coautor del libro ""7 pasos para la transformación. Los líderes ante el cambio"", junto con @Ana…",1
+👉 Suivez en live (inscription gratuite) nos tables rondes par ici : https://t.co…",2,1315941862788812805
+RT @PropertyRadar: @snapdocs raises $60M to manage the mortgage process in the cloud #mortgage #realestate #proptech #trends https://t.co/u…,1,1316046369103241219
+RT @BehrTech: What are the wireless requirements for scaling a smart building IoT deployment? Download our latest white paper ➡️  https://t…,1,1316038483358740481
+"RT @ProptechLatam: Además, @fvazquezmedem es coautor del libro ""7 pasos para la transformación. Los líderes ante el cambio"", junto con @Ana…",1,1316038751899000832
 "RT @joinajar: How it was:                                How it's going:
 
-#Ajar #JoinAjar #RealEstate #PropertyManagement #PropTech https:/…",2
+#Ajar #JoinAjar #RealEstate #PropertyManagement #PropTech https:/…",2,1315948130630762496
 "RT @EllaRosenberg8: Delighted to share my second piece with @unissu_global 
 #cryptocurrencies #aml #eu #princessregulator #misseulaw 
-#bloc…",1
+#bloc…",1,1316030520699113472
 "RT @MoneyWeighted: New Challenges in CRE Security 
 
-Proptech could help CRE meet the security and public health challenges in the industria…",1
-"RT @getmyre: Au sein de @getmyre, Carole est en charge du développement commercial et de l'élaboration des relations stratégiques avec les…",1
-RT @getmyre: L'équipe de @getmyre est heureuse d’accueillir Carole Isman en qualité de Senior Sales Manager. Ce recrutement accompagne notr…,1
+Proptech could help CRE meet the security and public health challenges in the industria…",1,1315970708250525696
+"RT @getmyre: Au sein de @getmyre, Carole est en charge du développement commercial et de l'élaboration des relations stratégiques avec les…",1,1316022018215616518
+RT @getmyre: L'équipe de @getmyre est heureuse d’accueillir Carole Isman en qualité de Senior Sales Manager. Ce recrutement accompagne notr…,1,1316021461279109121
 "RT @fortworthchris: I'm excited to be recording a convo w/ the founders of @MetaPropNYC - @aaronnblock &amp; @ZacharyAarons this week.  
 
-MetaP…",3
+MetaP…",3,1315785991752384513
 "RT @simon_chopin: Building progress &amp; efficiency in RE
 
 Why digital twins are important for CRE ?
 
-#PropTech #futurofrealestate #RealEstate…",2
-RT @david_bernabeu: Que grande compartir portada con @JesusEncinar de @idealista y @CarlosPierretri de @badi #PropTech https://t.co/JZTBzlr…,2
-"RT @caba_news: PCL Construction and partner, Internet of Things (IoT) leak protection supplier Eddy Solutions, are pleased to announce the…",1
-"RT @insigniavc: At Insignia, we have backed the next generation of proptech startups and we continue to look for new models that will funda…",1
-"RT @dzschwaben: Get to know @planstack_de! Ein Vorzeigedurchstarter aus #Augsburg mit Sitz im DZ.S 🎉 Tobias Seemiller, Accelerator-Manager…",1
-RT @MESTAfrica: Have you signed up for this week's #MESTPresents? Join us on Oct 15 as we help founders better understand the key factors o…,2
+#PropTech #futurofrealestate #RealEstate…",2,1315990261974159360
+RT @david_bernabeu: Que grande compartir portada con @JesusEncinar de @idealista y @CarlosPierretri de @badi #PropTech https://t.co/JZTBzlr…,2,1315958068413423617
+"RT @caba_news: PCL Construction and partner, Internet of Things (IoT) leak protection supplier Eddy Solutions, are pleased to announce the…",1,1314672227053441024
+"RT @insigniavc: At Insignia, we have backed the next generation of proptech startups and we continue to look for new models that will funda…",1,1315947350645334016
+"RT @dzschwaben: Get to know @planstack_de! Ein Vorzeigedurchstarter aus #Augsburg mit Sitz im DZ.S 🎉 Tobias Seemiller, Accelerator-Manager…",1,1316002048182231040
+RT @MESTAfrica: Have you signed up for this week's #MESTPresents? Join us on Oct 15 as we help founders better understand the key factors o…,2,1315955732517355522
 "RT @hosman_co: L’innovation ne se fait pas uniquement à travers la technologie ou le service, elle peut aussi être sociale 🤝
-Hosman reverse…",2
+Hosman reverse…",2,1315963550242922496
 "RT @PropertyDanH: Lots of talk about the future of the office at the moment, my view via @EstatesGazette 
 
 https://t.co/9rnl2ZCvO4
 
-#PropTe…",2
-"RT @UKProptech: Check out interview with #NREP in global PropTech podcast, #ThePropcast, with @DickinsLouisa @LMREPropTech, as they discuss…",1
-"RT @NHSProperty: PropTech, smarter buildings and digital upskilling: our Chief Information Officer discusses innovation in the NHS estate w…",3
-"RT @VUCITY_: This video shows consented 'Sir Geoffrey Arthur' building in #Oxford, which will create 77 student bedrooms, 8 studio rooms &amp;…",1
-RT @carlosblanco: Hoy interesante artículo en #Startup de @Expansioncom hablando del sector #PropTech destacando a @Housfy_es startup incub…,10
-"RT @LocateeCH: We teamed up with smart building research and thought leader Memoori once again to provide you with the latest, most valuabl…",1
-"RT @insigniavc: This week on Insignia Business Review, Samir Chaïbi is back with his take on what's next for #proptech in Southeast Asia. (…",3
-RT @zoop_one: Many fintechs have gone into overdrive to respond to the crisis. Insurtech and proptech companies are shoring up their capita…,1
-RT @Le_Partenaire: Rachel L. a réalisé une estimation de loyer sur https://t.co/3p5JR0DRiG pour un appartement 1 pièce de 22 m2 sur Nantes.…,1
-"RT @insigniavc: (3/5) For emerging markets, we have seen the emergence of online brokerage companies, like our portfolio https://t.co/ZjIGh…",1
-"RT @DashflowApp: COVID-19 has increased the need for technology usage, digital solutions and problem solving within CRE companies. The use…",1
-RT @DashflowApp: #EGTechAwards has kicked off - good luck to everyone!  #realestate #CRE #proptech And @EmilyW_9 doing an excellent job of…,1
+#PropTe…",2,1315933209645977600
+"RT @UKProptech: Check out interview with #NREP in global PropTech podcast, #ThePropcast, with @DickinsLouisa @LMREPropTech, as they discuss…",1,1315974349938208768
+"RT @NHSProperty: PropTech, smarter buildings and digital upskilling: our Chief Information Officer discusses innovation in the NHS estate w…",3,1313113890893574148
+"RT @VUCITY_: This video shows consented 'Sir Geoffrey Arthur' building in #Oxford, which will create 77 student bedrooms, 8 studio rooms &amp;…",1,1315941655133007872
+RT @carlosblanco: Hoy interesante artículo en #Startup de @Expansioncom hablando del sector #PropTech destacando a @Housfy_es startup incub…,10,1315601284758671361
+"RT @LocateeCH: We teamed up with smart building research and thought leader Memoori once again to provide you with the latest, most valuabl…",1,1315941847265611778
+"RT @insigniavc: This week on Insignia Business Review, Samir Chaïbi is back with his take on what's next for #proptech in Southeast Asia. (…",3,1315943487154475008
+RT @zoop_one: Many fintechs have gone into overdrive to respond to the crisis. Insurtech and proptech companies are shoring up their capita…,1,1315947974078365702
+RT @Le_Partenaire: Rachel L. a réalisé une estimation de loyer sur https://t.co/3p5JR0DRiG pour un appartement 1 pièce de 22 m2 sur Nantes.…,1,1315953900839731201
+"RT @insigniavc: (3/5) For emerging markets, we have seen the emergence of online brokerage companies, like our portfolio https://t.co/ZjIGh…",1,1315945411467649025
+"RT @DashflowApp: COVID-19 has increased the need for technology usage, digital solutions and problem solving within CRE companies. The use…",1,1288815187802427392
+RT @DashflowApp: #EGTechAwards has kicked off - good luck to everyone!  #realestate #CRE #proptech And @EmilyW_9 doing an excellent job of…,1,1304080535938048003
 "RT @DashflowApp: Our unique DashModel is an exclusive appraisal tool which revolutionises CRE pricing and profitability. 
-Reduce errors wit…",1
+Reduce errors wit…",1,1308371441847603200
 "RT @DashflowApp: Throwback Thursday! 
-#tbt #tbthursday #Proptech #commercialrealestate #technology https://t.co/7xkJYwq8Gk",1
-RT @DashflowApp: #tbt looking back on our #preCOVID breakfast sessions where we would price deals over our morning coffees and croissants.…,1
+#tbt #tbthursday #Proptech #commercialrealestate #technology https://t.co/7xkJYwq8Gk",1,1309096518159347715
+RT @DashflowApp: #tbt looking back on our #preCOVID breakfast sessions where we would price deals over our morning coffees and croissants.…,1,1311699960585433089
 "RT @taichi_health: 明後日開催！
 ピッチイベントに @SmartDish_jp が参戦します！
 
-【無料オンラインイベント】PropTech JAPAN Online Meetup スタートアップピッチが10月15日(木)17時から開催！ https://t.…",3
+【無料オンラインイベント】PropTech JAPAN Online Meetup スタートアップピッチが10月15日(木)17時から開催！ https://t.…",3,1315944948701700096
 "RT @LMREPropTech: Final episode of The Propcast is out NOW!!
 
-Episode 10 is live of The Propcast by Louisa Dickins in partnership with UK P…",2
-RT @AOProptech: Digitisation is currently disrupting the way #RealEstate transactions are being processed. Find out more about #PropTech an…,1
-RT @fifthwallvc: Congratulations to portco CEO @robynbeavers of @BlueprintPower who was honored with @EY_US's Entrepreneur of the Year 2020…,3
-RT @AOProptech: #IoT devices in buildings are becoming more common. It is estimated that there will be as much as 10 billion devices instal…,1
+Episode 10 is live of The Propcast by Louisa Dickins in partnership with UK P…",2,1315936031041085441
+RT @AOProptech: Digitisation is currently disrupting the way #RealEstate transactions are being processed. Find out more about #PropTech an…,1,1315583890439000065
+RT @fifthwallvc: Congratulations to portco CEO @robynbeavers of @BlueprintPower who was honored with @EY_US's Entrepreneur of the Year 2020…,3,1314604778979168256
+RT @AOProptech: #IoT devices in buildings are becoming more common. It is estimated that there will be as much as 10 billion devices instal…,1,1315933933981364225
 "RT @CaroleQuentric: RDV ce soir à 18h30 pour échanger entre professionnels de l'immobilier ! 👋#innovation #immobilier 
 
-🖥 En webinar à dist…",1
+🖥 En webinar à dist…",1,1315928188086820865
 "RT @Proptech_Cap: New £90m fund chases proptech startups across UK and Europe
 #proptech #startups #UK #RealEstate 
 
-https://t.co/0yPXx2RSut…",1
+https://t.co/0yPXx2RSut…",1,1315932790530215936
 "RT @Legal4Landlords: .@tecletuk Lettings CRM Integration live soon...👀
-We're delighted to be integrating with the teclet platform. It'll en…",3
+We're delighted to be integrating with the teclet platform. It'll en…",3,1315678613577125888
 "RT @ClimateTrade: 🗓️  Event ""Top FinTech Solutions for Sustainability"" ✅
 
-Discover the Top FinTech, InsurTech and PropTech Solutions for #S…",1
-"RT @TheNewsFunnel: Not every #multifamily deal needs a full underwriting. With QuickVal, our latest beta feature, users can now screen a de…",3
-"RT @ricardcastellet: Gran trabajo de @NuclioVB con startups como @finteca @prohipotecas, felicidades @carlosblanco &amp; team #proptech #fintech",1
-"RT @TaitPlanning: Ironically, the uncritical embrace of PropTech is grounded in assumptions every bit a technocratic as those of the 1947 p…",2
-"RT @TaitPlanning: Fifthly, this tech is likely to be damaging to local democracy. PropTech companies propose to run planning consultations,…",2
-"RT @TaitPlanning: There isn’t much research on PropTech in planning, but studies in the smart city literature suggest that the ‘dataficatio…",1
-"RT @TaitPlanning: PropTech is short for ‘Property Technology’, a burgeoning area of technology-focused business that reaches right across t…",4
-RT @TaitPlanning: The government’s White Paper on planning is a move away from qualitative document-based information to quantitative machi…,7
+Discover the Top FinTech, InsurTech and PropTech Solutions for #S…",1,1315929281290215424
+"RT @TheNewsFunnel: Not every #multifamily deal needs a full underwriting. With QuickVal, our latest beta feature, users can now screen a de…",3,1315660200213385216
+"RT @ricardcastellet: Gran trabajo de @NuclioVB con startups como @finteca @prohipotecas, felicidades @carlosblanco &amp; team #proptech #fintech",1,1315913193252884485
+"RT @TaitPlanning: Ironically, the uncritical embrace of PropTech is grounded in assumptions every bit a technocratic as those of the 1947 p…",2,1313836662166822913
+"RT @TaitPlanning: Fifthly, this tech is likely to be damaging to local democracy. PropTech companies propose to run planning consultations,…",2,1313836420008738816
+"RT @TaitPlanning: There isn’t much research on PropTech in planning, but studies in the smart city literature suggest that the ‘dataficatio…",1,1313834206150234114
+"RT @TaitPlanning: PropTech is short for ‘Property Technology’, a burgeoning area of technology-focused business that reaches right across t…",4,1313834060985360384
+RT @TaitPlanning: The government’s White Paper on planning is a move away from qualitative document-based information to quantitative machi…,7,1313833880588292097
 "RT @sensative: How do you optimize your #properties' energy consumption if you do not know how warm it is right now?
-You will get new insig…",1
-RT @modifai4: Watch this #sunvalley #realestate listing get a #mountainmodern update with #modifai.  #Visualizations help sell homes and le…,2
+You will get new insig…",1,1315913171761324034
+RT @modifai4: Watch this #sunvalley #realestate listing get a #mountainmodern update with #modifai.  #Visualizations help sell homes and le…,2,1315795053965537281
 "RT @aequius: PH Real Estate rents Palm Jumeirah villa for a record Dh1.4m - The National
 
 https://t.co/hv9oUVQJV0
 
-#RealEstateInvesting #Pr…",1
+#RealEstateInvesting #Pr…",1,1315877680903008256
 "RT @bproperty_com: Utilizing the Virtual Realm to its Fullest! #proptech #bproperty #realestate #bangladesh #virtual 
 
-Read here: https://t…",1
+Read here: https://t…",1,1315268226306113536
 "RT @realbobbybryant: :::BETTER-FASTER-SMARTER:::
 
-If you are a startup and someone ask you about your competitor, tell them to read this st…",3
-RT @TriariiLatam: 🎧 Imperdible! Último podcast #Proptech de nuestra segunda temporada! -  https://t.co/skh3peO76l https://t.co/Fcu1FOACiK,1
+If you are a startup and someone ask you about your competitor, tell them to read this st…",3,1315837666429198336
+RT @TriariiLatam: 🎧 Imperdible! Último podcast #Proptech de nuestra segunda temporada! -  https://t.co/skh3peO76l https://t.co/Fcu1FOACiK,1,1315694828156604417
 "RT @propviz: The Influence of Technology within the Real Estate Industry - IMC Grupo https://t.co/f85Vvh7bte
-#property #tech #proptech",1
-"RT @realfundtokens: Recently Inveslar, with RealFund technology, has launched the first STO for a real estate tokenized loan ever made in S…",3
-"RT @denbizjournal: In #proptech news, @Snapdocs CEO Aaron King told San Francisco Business Times the day may come where he and his company…",1
-RT @JLLAustralia: Meaningful data and analysis will be a defining attribute of businesses to emerge from the economic crisis in control and…,1
-RT @BRSW_Paris: Coliving : The Babel Community s'allie à la Caisse des dépôts pour grandir : https://t.co/Ef9HPIG5vb via @LesEchos #startup…,1
-"RT @RiseBuildings: After reading @Bisnow's article, ""2020 Is The #Tech Awakening #CRE Has Been Waiting For,"" we're feeling optimistic about…",1
-RT @SuziLDavis: #MondayMotivation #beyou #havecourage #support #Listen #challenge #laugh #care https://t.co/Ha9JyuJqxH,1
-"RT @thingssandy: As we all struggle with the repetitive nature of working from home, video call burnout, wondering how do we engage to fost…",1
-RT @HarvardBiz: Establishing habits that are aligned with your long-term goals can add stability in an otherwise unsteady time. https://t.c…,1
-RT @CR_Advisory: Learn how today's economic climate has created a call to action to push forward into a new generation of #proptech. Don't…,1
-RT @PropChallenge: We're looking for the best #PropTech solutions to get tenants back into our #RealEstate assets safely / securely.  Submi…,3
+#property #tech #proptech",1,1315824544288997381
+"RT @realfundtokens: Recently Inveslar, with RealFund technology, has launched the first STO for a real estate tokenized loan ever made in S…",3,1315710096274526208
+"RT @denbizjournal: In #proptech news, @Snapdocs CEO Aaron King told San Francisco Business Times the day may come where he and his company…",1,1315759904469254145
+RT @JLLAustralia: Meaningful data and analysis will be a defining attribute of businesses to emerge from the economic crisis in control and…,1,1315759469482172418
+RT @BRSW_Paris: Coliving : The Babel Community s'allie à la Caisse des dépôts pour grandir : https://t.co/Ef9HPIG5vb via @LesEchos #startup…,1,1315770858238095361
+"RT @RiseBuildings: After reading @Bisnow's article, ""2020 Is The #Tech Awakening #CRE Has Been Waiting For,"" we're feeling optimistic about…",1,1315684925262225410
+RT @SuziLDavis: #MondayMotivation #beyou #havecourage #support #Listen #challenge #laugh #care https://t.co/Ha9JyuJqxH,1,1315547693247344640
+"RT @thingssandy: As we all struggle with the repetitive nature of working from home, video call burnout, wondering how do we engage to fost…",1,1315652202250280960
+RT @HarvardBiz: Establishing habits that are aligned with your long-term goals can add stability in an otherwise unsteady time. https://t.c…,1,1315744088449265665
+RT @CR_Advisory: Learn how today's economic climate has created a call to action to push forward into a new generation of #proptech. Don't…,1,1313886873052483584
+RT @PropChallenge: We're looking for the best #PropTech solutions to get tenants back into our #RealEstate assets safely / securely.  Submi…,3,1315649693796519936
 "RT @BBCNews: Find the latest rules, restrictions and guidance in your area
 
 Just enter your postcode
 
-https://t.co/Vz2KtpwIPG https://t.co/…",1
-"RT @MoneyWeighted: If real estate tokenization were to become popular, several innovations become conceivable, including structured finance…",1
-RT @UKProptech: Not too late to get involved in the vote for our annual UKPA Board of Directors Election! Sign up to your Gold Membership h…,2
-RT @iovus_uk: What Building Owners Need to Know About COVID-19 and Air Filtration - https://t.co/1RQ57BoPcB via @propmodo,1
+https://t.co/Vz2KtpwIPG https://t.co/…",1,1315726608544731138
+"RT @MoneyWeighted: If real estate tokenization were to become popular, several innovations become conceivable, including structured finance…",1,1315582256635736066
+RT @UKProptech: Not too late to get involved in the vote for our annual UKPA Board of Directors Election! Sign up to your Gold Membership h…,2,1315685331853860864
+RT @iovus_uk: What Building Owners Need to Know About COVID-19 and Air Filtration - https://t.co/1RQ57BoPcB via @propmodo,1,1315679270254116865
 "RT @contxto_: 🇲🇽 Proptech Wiggot consigue US$800K para integrar más IA en bienes raíces de México
-https://t.co/24nqhHqiGH",2
+https://t.co/24nqhHqiGH",2,1315717312314572801
 "RT @Go_IoT: In the lab, on the slab
 Inside the newest WISKA LoRaWAN multi sensor
-#SmartBuildings #LoRaWAN #Wireless #WirelessSensor #MultiS…",2
-"RT @nobul: Haven’t heard of us yet? Just wait, you will. #proptech #futureofrealestate #realestate #Upstart100 #thefutureisours https://t.c…",2
-RT @AECTechTV: Episode 6 of #AECTechTV was released on Friday. Item #1: @EEPaul talks about a #Proptech data standards report by @PropertyD…,8
-RT @alfredodam: No te pierdas el Programa03 de @spanishproptech con la colaboración de @misoficinas @Housephere y @ProptechLatam . Noticias…,4
+#SmartBuildings #LoRaWAN #Wireless #WirelessSensor #MultiS…",2,1315606919726407680
+"RT @nobul: Haven’t heard of us yet? Just wait, you will. #proptech #futureofrealestate #realestate #Upstart100 #thefutureisours https://t.c…",2,1314991586468528128
+RT @AECTechTV: Episode 6 of #AECTechTV was released on Friday. Item #1: @EEPaul talks about a #Proptech data standards report by @PropertyD…,8,1315547754614140929
+RT @alfredodam: No te pierdas el Programa03 de @spanishproptech con la colaboración de @misoficinas @Housephere y @ProptechLatam . Noticias…,4,1314347491362512896
 "RT @Pi_Labs: Come and meet us! #officehours 
 
-This Wednesday, we're hosting office hours in the UK to meet up with promising #proptech #sta…",3
-"RT @PocketBuildings: Why are digital #building docs, videos and online tools vital for #leasing… https://t.co/APSLwIuM1h",1
-"RT @MetaPropNYC: In this article Bassem Hamdy, CEO of MetaProp PortCo @BriqHQ, explains what makes #blockchain so potentially transformativ…",1
+This Wednesday, we're hosting office hours in the UK to meet up with promising #proptech #sta…",3,1315616163624255488
+"RT @PocketBuildings: Why are digital #building docs, videos and online tools vital for #leasing… https://t.co/APSLwIuM1h",1,[]
+"RT @MetaPropNYC: In this article Bassem Hamdy, CEO of MetaProp PortCo @BriqHQ, explains what makes #blockchain so potentially transformativ…",1,1303020214842515458
 "RT @BeemmoFr: A @antibes_jlp (06600), découvrez ce T2 de 47m2 
 🛋 1 séjour | 1 cuisine | 1 chambre | 1 SDB | 1 balcon
-🚗 1 parking | 1 cave…",2
-"RT @ziggcap: #portco @snapdocs has had some of the most incredible growth in all of proptech this year. We've been investors since day 1, b…",1
-"RT @_Valimmo: Retrouvez la vidéo de #SONEKA avec Sylvain Dumas, notre Directeur Stratégie Finance, sur son utilisation de leur outil depuis…",3
+🚗 1 parking | 1 cave…",2,1315678232214200321
+"RT @ziggcap: #portco @snapdocs has had some of the most incredible growth in all of proptech this year. We've been investors since day 1, b…",1,1315689595401654273
+"RT @_Valimmo: Retrouvez la vidéo de #SONEKA avec Sylvain Dumas, notre Directeur Stratégie Finance, sur son utilisation de leur outil depuis…",3,1315678605666594817
 "RT @fcivitillo: Muchos exitos a @andres_leal7 y @TriariiLatam 
-#PropTech #ConTech #Latinoamerica #BIM #AECO #RealState",1
-RT @fcivitillo: ¿#YouTube como un portal de compras? #Google  está probando esta función. Los videos de la plataforma podrían convertirse e…,1
-RT @tigre_wenrich: Join me and David Martin of Terra for this month's PropTech Hotseat. We'll be exploring new 3-D visualization technologi…,2
-"RT @owenboswarva: Here's a map of median Council Tax bands in England and Wales as at 31 March 2020, calculated from VOA stats. https://t.c…",4
+#PropTech #ConTech #Latinoamerica #BIM #AECO #RealState",1,1315683697111248896
+RT @fcivitillo: ¿#YouTube como un portal de compras? #Google  está probando esta función. Los videos de la plataforma podrían convertirse e…,1,1315683478323822598
+RT @tigre_wenrich: Join me and David Martin of Terra for this month's PropTech Hotseat. We'll be exploring new 3-D visualization technologi…,2,1314636677474914304
+"RT @owenboswarva: Here's a map of median Council Tax bands in England and Wales as at 31 March 2020, calculated from VOA stats. https://t.c…",4,1315358809762791426
 "RT @leclozr: [S'inspirer des startups pour innover] 📅
 
-L'afterwork #Cüriositee par @unitee_io c'est mardi 13/10 à @leclozr, avec une éditio…",1
+L'afterwork #Cüriositee par @unitee_io c'est mardi 13/10 à @leclozr, avec une éditio…",1,1314559860097404928
 "RT @tbinnovates: How your city will transform as mobility tech catches on https://t.co/2D3PKaWnqF 
 
 #urbanmobility
 #mobility
 #transit
-#Auto…",1
-"RT @Sykosch: Welcome to the best team, Sven Bröckling! Wir freuen uns sehr darüber, dass Du jetzt bei #Sykosch mit an Bord bist. Wir wünsch…",1
+#Auto…",1,1315653524194291715
+"RT @Sykosch: Welcome to the best team, Sven Bröckling! Wir freuen uns sehr darüber, dass Du jetzt bei #Sykosch mit an Bord bist. Wir wünsch…",1,1315665062233862150
 "RT @ProntoPiso: ¿Quieres saber los cambios que ha sufrido el producto inmobiliario bancario a raíz del COVID19? ¡Haz click!
 
-⏩https://t.co/…",1
+⏩https://t.co/…",1,1315653448445177856
 "RT Via: https://t.co/BkP6Q9fc4a
 
-Toyota has unveiled plans to build an insanely #smartcity! QuickTake via enricomol… https://t.co/6poQRYcbuo",1
-"RT @Re2bit1: Mamacrowd: chiusa con oltre 2,6 mln la prima campagna di crowdfunding immobiliare – Re2bit https://t.co/hvTVxNwfMN #crowdfundi…",3
-RT @ffjoustra: Are you attending IFMA Sverige's Nordic Workplace virtual event in November?https://t.co/H0spY6tMlh #proptech #workplace #sm…,1
+Toyota has unveiled plans to build an insanely #smartcity! QuickTake via enricomol… https://t.co/6poQRYcbuo",1,[]
+"RT @Re2bit1: Mamacrowd: chiusa con oltre 2,6 mln la prima campagna di crowdfunding immobiliare – Re2bit https://t.co/hvTVxNwfMN #crowdfundi…",3,1315646004931293184
+RT @ffjoustra: Are you attending IFMA Sverige's Nordic Workplace virtual event in November?https://t.co/H0spY6tMlh #proptech #workplace #sm…,1,1315652039083544576
 "RT @PropTechJapan: 10月6日開催のオンラインイベントの模様をCNET Japanに掲載頂きました。
 当日の内容について詳細にまとめて頂いています。下記よりぜひご覧ください。
 
 #PropTech #不動産テック
 
-不動産業界のDXを推進するもの、阻むもの--…",5
+不動産業界のDXを推進するもの、阻むもの--…",5,1315465852326604802
 "RT @SocialDesignCr1: RT @AlifRealty: ""In investing, what is comfortable is rarely profitable.""
-#alifrealty #alifterms #a2zrealestate  #prop…",1
+#alifrealty #alifterms #a2zrealestate  #prop…",1,1315556658446307335
 "RT @SesoGlobal: Modern, stylish living awaits in this beautifully designed home in Accra.
 
-Call us on: (+233) 54 825 6918 or (+233) 020 340…",1
-"RT @Plentific: Can #PropTech play a role in cementing #sustainability in the built environment? We think so, and there's a strong case for…",1
-"RT @narreach: Transcendent Investment Management, a top single-family #property #investor in the #US, has chosen HouseCanary as its artific…",1
-RT @PropertyWire: How to make the Covid-19 proptech revolution last https://t.co/FOqNl9e440,2
+Call us on: (+233) 54 825 6918 or (+233) 020 340…",1,1315624158169108480
+"RT @Plentific: Can #PropTech play a role in cementing #sustainability in the built environment? We think so, and there's a strong case for…",1,1315639814893469696
+"RT @narreach: Transcendent Investment Management, a top single-family #property #investor in the #US, has chosen HouseCanary as its artific…",1,1315601893217849346
+RT @PropertyWire: How to make the Covid-19 proptech revolution last https://t.co/FOqNl9e440,2,1314585379648004096
 "RT @AlifRealty: ""In investing, what is comfortable is rarely profitable.""
-#alifrealty #alifterms #a2zrealestate  #proptech #property #reale…",3
-"RT @UKProptech: Excited to introduce @EagleEyeCloud as category sponsor for our PropTech Advocate Award, celebrating an individual that has…",1
-"RT @DalaiLama: Happiness can just refer to the pleasure we find on a sensory level, but real happiness is related to peace of mind. If we h…",1
-RT @Re2bit1: Approvato il nuovo regolamento europeo su equity e lending crowdfunding – Re2bit https://t.co/k0bNGRCqB6 #crowdfunding #immobi…,3
+#alifrealty #alifterms #a2zrealestate  #proptech #property #reale…",3,1315556128260911106
+"RT @UKProptech: Excited to introduce @EagleEyeCloud as category sponsor for our PropTech Advocate Award, celebrating an individual that has…",1,1314208805283012609
+"RT @DalaiLama: Happiness can just refer to the pleasure we find on a sensory level, but real happiness is related to peace of mind. If we h…",1,1315586256051396608
+RT @Re2bit1: Approvato il nuovo regolamento europeo su equity e lending crowdfunding – Re2bit https://t.co/k0bNGRCqB6 #crowdfunding #immobi…,3,1315602341643653121
 "RT @SesoGlobal: #propertyinvestment is the safest investment in the world.
 
-#MondayMorning #mondaythoughts #StaySafeNigeria #propertyinvest…",1
-"RT @UKProptech: Interesting insights from #PropTech Gold Member, @Groundsure, as they share the importance of accurate coastal erosion data…",1
-"RT @across_magazine: Video summary: ACROSS Retail Talks Online on the topic ""PropTech in (retail) real estate"": https://t.co/LJvX4zWXiP htt…",1
+#MondayMorning #mondaythoughts #StaySafeNigeria #propertyinvest…",1,1315606677077610496
+"RT @UKProptech: Interesting insights from #PropTech Gold Member, @Groundsure, as they share the importance of accurate coastal erosion data…",1,1315603133263949824
+"RT @across_magazine: Video summary: ACROSS Retail Talks Online on the topic ""PropTech in (retail) real estate"": https://t.co/LJvX4zWXiP htt…",1,1315589071146713089
 "RT @hyresgasterna: Så tar vi 🇸🇪 ur bostadskrisen!🏗
 
-▶️Välkommen på webbinarium och presentation av vårt förslag om hur vi kan finansiera by…",7
-"RT @owenboswarva: I had some spare time this week, so I made an interactive cluster map of new build homes in England and Wales. https://t.…",9
-"RT @HandeBerktan: Gayrimenkul Stratejisi'nde hızla büyüyen alan proptech gayrimenkul teknolojilerini, faaliyet alanları ve yatırım fırsatla…",1
-"RT @agenersurrell: Feliz de colaborar con @TechEstate_Tech, la nueva plataforma de @ConstrumatBCN que conecta los key players del #PropTech…",8
-"RT @owenboswarva: In the 2020 release VOA has helpfully broken down the years from 2000 into five build periods, instead of two. That makes…",3
-RT @DrBeyerle: #ESG Three letters that seem so simple: SRI – Socially Responsible Investment. But they describe nothing less than the devel…,1
-"RT @HarvardBiz: When you feel overwhelmed, always start with slow breaths, and then take action from there. https://t.co/O0YoBOYhSV",1
-"RT @katiebindley: When tech workers started leaving the Bay Area there were a lot of ""why not take that SF salary to Boise?!"" tweets. The a…",1
-RT @PropertyDanH: Digital is such a vital element of an effective and productive construction/property sector. Great to see @nadhimzahawi f…,1
-"RT @joakimbaage: Another interesting finance model, this time for second homes, making them accessible for more than the 1%. A better use o…",1
-"RT @urbanitae: Os contamos las novedades sobre la #inversión inmobiliaria y el #proptech todos los jueves en el programa ""Inversión Inmobil…",1
+▶️Välkommen på webbinarium och presentation av vårt förslag om hur vi kan finansiera by…",7,1315568687051689984
+"RT @owenboswarva: I had some spare time this week, so I made an interactive cluster map of new build homes in England and Wales. https://t.…",9,1315239940398043136
+"RT @HandeBerktan: Gayrimenkul Stratejisi'nde hızla büyüyen alan proptech gayrimenkul teknolojilerini, faaliyet alanları ve yatırım fırsatla…",1,1315579795208638464
+"RT @agenersurrell: Feliz de colaborar con @TechEstate_Tech, la nueva plataforma de @ConstrumatBCN que conecta los key players del #PropTech…",8,1314880858457878528
+"RT @owenboswarva: In the 2020 release VOA has helpfully broken down the years from 2000 into five build periods, instead of two. That makes…",3,1315244363144998912
+RT @DrBeyerle: #ESG Three letters that seem so simple: SRI – Socially Responsible Investment. But they describe nothing less than the devel…,1,1315377840574132228
+"RT @HarvardBiz: When you feel overwhelmed, always start with slow breaths, and then take action from there. https://t.co/O0YoBOYhSV",1,1315508088095617030
+"RT @katiebindley: When tech workers started leaving the Bay Area there were a lot of ""why not take that SF salary to Boise?!"" tweets. The a…",1,1315351681379389441
+RT @PropertyDanH: Digital is such a vital element of an effective and productive construction/property sector. Great to see @nadhimzahawi f…,1,1314490482458865664
+"RT @joakimbaage: Another interesting finance model, this time for second homes, making them accessible for more than the 1%. A better use o…",1,1315289963819401217
+"RT @urbanitae: Os contamos las novedades sobre la #inversión inmobiliaria y el #proptech todos los jueves en el programa ""Inversión Inmobil…",1,1314278226798272512
 "RT @AlifRealty: ""In investing, what is comfortable is rarely profitable.""
-#alifrealty #alifterms #a2zrealestate… https://t.co/Mm9nn7iosQ",1
-RT @TonsTweetings: +1! คำว่า AI ที่ใช้กันได้เสร่อพอๆกัน ภาคอสังหาฯ​จริงๆ คืออุตสาหกรรมหนึ่งที่ชอบใช้ fancy words มาครอบสิ่งที่ตัวเองกำลังทำ…,62
-RT @enricomolinari: This super-efficient seed corn harvester ensures minimized kernel loss @OxboCorp via… https://t.co/4jAbQc4XHj,1
-RT @NewFinServ: #PropTech / Molo raises £266m in new funding to expand digital mortgage lending https://t.co/6ZEPH8mQmv,1
-RT @BurakCendek: Fifth Wall launches $118M European Proptech Fund. Great to see other sector specific funds expanding globally @trdny @fift…,1
-RT @HarvardBiz: Perfectionists tend to make three big mistakes that interfere with their ability to prioritize their most important tasks.…,1
-"RT @aarnih: Dr. Anas Bataw, director of the Centre of Excellence in Smart Construction (CESC) at Heriot-Watt University in Dubai discusses…",1
+#alifrealty #alifterms #a2zrealestate… https://t.co/Mm9nn7iosQ",1,[]
+RT @TonsTweetings: +1! คำว่า AI ที่ใช้กันได้เสร่อพอๆกัน ภาคอสังหาฯ​จริงๆ คืออุตสาหกรรมหนึ่งที่ชอบใช้ fancy words มาครอบสิ่งที่ตัวเองกำลังทำ…,62,1314806476909600768
+RT @enricomolinari: This super-efficient seed corn harvester ensures minimized kernel loss @OxboCorp via… https://t.co/4jAbQc4XHj,1,[]
+RT @NewFinServ: #PropTech / Molo raises £266m in new funding to expand digital mortgage lending https://t.co/6ZEPH8mQmv,1,1315546982753107968
+RT @BurakCendek: Fifth Wall launches $118M European Proptech Fund. Great to see other sector specific funds expanding globally @trdny @fift…,1,1314600315300335616
+"RT @WalterStrametz: https://t.co/pWfBRzQE7F, 19.1.21:
+Europas erfolgreichste Fachkonferenz für Immobilien &amp; Blockchain wieder in Wien
+
+EARL…",1,1314339801345265673
+RT @HarvardBiz: Perfectionists tend to make three big mistakes that interfere with their ability to prioritize their most important tasks.…,1,1315502222990508034
+"RT @aarnih: Dr. Anas Bataw, director of the Centre of Excellence in Smart Construction (CESC) at Heriot-Watt University in Dubai discusses…",1,1315501674321063936
 "RT @YBFVentures: Awesome news from PropTech Hub alum @Quantify_Tech.
 
-https://t.co/btU95ReFnX",1
+https://t.co/btU95ReFnX",1,1313997423811858433
 "RT @Valcre: Spooky season 👻 ⠀
 ⁣⠀
-#saas #cre #valcre #commercialrealestate #realestate #property #whyvalcre #appraisalinstitute #tech #reale…",1
-"RT @HarvardBiz: There are four broad reasons to hold meetings: to influence others, to make decisions, to solve problems, or to strengthen…",1
-"RT @NewFinServ: #PropTech / Propy, a blockchain-verified platform for selling houses, raises funding from Tim Draper https://t.co/29aW2eLYcH",1
-RT @NewFinServ: #PropTech / Orchard Transforms Home Buying with Digital Transaction Platform https://t.co/N17XUFehaq,1
+#saas #cre #valcre #commercialrealestate #realestate #property #whyvalcre #appraisalinstitute #tech #reale…",1,1315461322222444544
+"RT @HarvardBiz: There are four broad reasons to hold meetings: to influence others, to make decisions, to solve problems, or to strengthen…",1,1315442073781317632
+"RT @NewFinServ: #PropTech / Propy, a blockchain-verified platform for selling houses, raises funding from Tim Draper https://t.co/29aW2eLYcH",1,1315439738199797760
+RT @NewFinServ: #PropTech / Orchard Transforms Home Buying with Digital Transaction Platform https://t.co/N17XUFehaq,1,1315439873784901632
 "RT @propmodo: One aspect of the COVID-19 commercial real estate puzzle that has yet to be solved is how will retail rebound. 
 
-#retail #rea…",1
+#retail #rea…",1,1315391400737869824
 "RT @BuildProptech: This week, we interviewed @chrisrohaut of @codiwork
- on how she's unlocking residential real estate as a potential #cowo…",2
-RT @shadowventures: Technically Speaking: A Series for Non-Technical Investors | Ep. 1 https://t.co/epu1GOhuXl #startups #venturecapital @s…,1
-"RT @blocksquare_io: In 2019 @blocksquare presented @fintechfusion Demo Day acceleration program in Geneva, #Switzerland. Here's a cool vide…",1
+ on how she's unlocking residential real estate as a potential #cowo…",2,1313108509618245632
+RT @shadowventures: Technically Speaking: A Series for Non-Technical Investors | Ep. 1 https://t.co/epu1GOhuXl #startups #venturecapital @s…,1,1315366714796896257
+"RT @blocksquare_io: In 2019 @blocksquare presented @fintechfusion Demo Day acceleration program in Geneva, #Switzerland. Here's a cool vide…",1,1232983743826100226
 "RT @PropertyTV_io: Respected hosts and property's best, every, single, week!
 
 Monday - Property Line - Renovie
-Wednesday - Property Edge -…",1
-"RT @PropertyTV_io: Join @LynetteKeyowski and @mikekmcara for Beyond the Box: Conversations with real estate executives, venture capital par…",1
+Wednesday - Property Edge -…",1,1314785336711540737
+"RT @PropertyTV_io: Join @LynetteKeyowski and @mikekmcara for Beyond the Box: Conversations with real estate executives, venture capital par…",1,1315274804472082434
 "RT @RENXca: Your Saturday #CRE Read:
-Tech is increasingly a desired feature in new homes. So Ocgrow Group CEO Harish Consul formed an allia…",2
+Tech is increasingly a desired feature in new homes. So Ocgrow Group CEO Harish Consul formed an allia…",2,1314898714918629376
 "RT @blocksquare_io: Did you know @blocksquare was one of the finalists at @Builtworldcom Innovation contest?
 
 https://t.co/KUnwKZgw40
 
-#pro…",1
-"RT @ArnaudZ1: .@CenturyLink  Proptech was the next big thing for multifamily before this pandemic, and now more than ever, it still is. htt…",1
-"RT @owenboswarva: The second is the area around Durham Cathedral, where the median Council Tax band has moved from D to B. https://t.co/88G…",1
-"RT @owenboswarva: The first is the area around the Elephant &amp; Castle Shopping Centre, where the median Council Tax band has moved from B to…",1
-RT @owenboswarva: Between 2019 and 2020 the median Council Tax band moved in 434 (1.25%) of LSOAs in England and Wales – an indicator of si…,1
-"RT @MESTAfrica: This Thursday, Oct 15, #MESTPresents: Leapfrogging the Proptech Industry with  @kelvinw_BIG of @bidibuild + Thato Rammoko o…",1
+#pro…",1,1232802627995545601
+"RT @ArnaudZ1: .@CenturyLink  Proptech was the next big thing for multifamily before this pandemic, and now more than ever, it still is. htt…",1,1315211856735342598
+"RT @owenboswarva: The second is the area around Durham Cathedral, where the median Council Tax band has moved from D to B. https://t.co/88G…",1,1315364659000639488
+"RT @owenboswarva: The first is the area around the Elephant &amp; Castle Shopping Centre, where the median Council Tax band has moved from B to…",1,1315362729184632837
+RT @owenboswarva: Between 2019 and 2020 the median Council Tax band moved in 434 (1.25%) of LSOAs in England and Wales – an indicator of si…,1,1315361114025328641
+"RT @MESTAfrica: This Thursday, Oct 15, #MESTPresents: Leapfrogging the Proptech Industry with  @kelvinw_BIG of @bidibuild + Thato Rammoko o…",1,1315344225878388737
 "RT @marley: Forgot to share this one 😉
 Thank you @placetech for allowing me to share my thoughts 🙏🏽
-Exciting times for #PropTech #cretech #…",4
-RT @workforthem: 💻 New Design Job! 👉 UI/UX Designer for Startup PropTech Co @NotDisclosedYet #Freelance #RemoteFriendly https://t.co/FvIjK2…,1
+Exciting times for #PropTech #cretech #…",4,1315277827881742336
+RT @workforthem: 💻 New Design Job! 👉 UI/UX Designer for Startup PropTech Co @NotDisclosedYet #Freelance #RemoteFriendly https://t.co/FvIjK2…,1,1314247699508555776
 "RT @PropertyDanH: This looks concerning, certainly something that all property owners and managers should be aware of.
 
-#DataEthics #PropTe…",1
-RT @WorkRemoteFT: 💻 New Remote Job! 👉 UI/UX Designer for Startup PropTech Co @NotDisclosedYet #Freelance #RemoteFriendly https://t.co/sxARH…,1
-"RT @Sykosch: Welcome to the best team, Detlev Langenhahn! Wir freuen uns sehr darüber, dass Du jetzt bei #Sykosch mit an Bord bist. Wir wün…",1
+#DataEthics #PropTe…",1,1315307036045963278
+RT @WorkRemoteFT: 💻 New Remote Job! 👉 UI/UX Designer for Startup PropTech Co @NotDisclosedYet #Freelance #RemoteFriendly https://t.co/sxARH…,1,1314236749745328129
+"RT @Sykosch: Welcome to the best team, Detlev Langenhahn! Wir freuen uns sehr darüber, dass Du jetzt bei #Sykosch mit an Bord bist. Wir wün…",1,1315289576924237830
 "RT @MorinoMarie: #proptech #startup #RealEstate #digitalisation #equity @al_chopin
 @TGS_France
-Lyon : Axeleo Capital réunit 35 millions d'e…",2
-RT @FintechNewsHK: 15 Fintech Startups From Hong Kong to Watch Out for in 2021 @cryptocom @regtics @HashKeyGroup @velotrade @MEREALBIOMETRI…,6
+Lyon : Axeleo Capital réunit 35 millions d'e…",2,1315282546486325251
+RT @FintechNewsHK: 15 Fintech Startups From Hong Kong to Watch Out for in 2021 @cryptocom @regtics @HashKeyGroup @velotrade @MEREALBIOMETRI…,6,1314147737710010368
 "RT @aequius: Take the Property Week office survey | Online - Property Week
 
 https://t.co/KNouyAk9V7
 
-#RealEstateInvesting #PropTech #Dubai…",2
+#RealEstateInvesting #PropTech #Dubai…",2,1315284270315954178
 "RT @ITjob8: H/F Développeur iOS +3 ans - Proptech Swift &amp; MVVM - Equipe Mobile - Grand public 
- CDI - Paris Intramuros - PME Publiée le 28/…",1
-"RT @fifthwallvc: Thank you @Propertyshe! If you haven't already, check out Susan Freeman's weekly column via @PropertyWeek for the latest i…",1
-RT @FintechCH: Berner Kantonalbank Joins Swiss Immo Lab To Invest in Proptech Startups https://t.co/gqgvS62Hla @bekbbcbe #fintech #proptech…,4
+ CDI - Paris Intramuros - PME Publiée le 28/…",1,1315193578675634177
+"RT @fifthwallvc: Thank you @Propertyshe! If you haven't already, check out Susan Freeman's weekly column via @PropertyWeek for the latest i…",1,1314612807392882690
+RT @FintechCH: Berner Kantonalbank Joins Swiss Immo Lab To Invest in Proptech Startups https://t.co/gqgvS62Hla @bekbbcbe #fintech #proptech…,4,1313780594145361920
 "RT @prop_tech: Sunday Property Round-Up 11th October:  With #proptech news and #MMC updates
 
 https://t.co/VZWTDhVrGT
 
-#sundaypapers #proper…",4
-"RT @RestoreYork: You can’t go back and change the beginning, but you can start where you are and change the ending [C.S. Lewis]",1
-RT @Allsopp_Allsopp: We have joined forces with premium real estate agencies in #Dubai to create a brand new property portal as the market…,1
+#sundaypapers #proper…",4,1315252974382391297
+"RT @RestoreYork: You can’t go back and change the beginning, but you can start where you are and change the ending [C.S. Lewis]",1,1315259396922974208
+RT @Allsopp_Allsopp: We have joined forces with premium real estate agencies in #Dubai to create a brand new property portal as the market…,1,1315220522507083777
 "RT @albertogaruccio: RT @enricomolinari: Let’s have an up-close look at #Samsung #GalaxyZFlip @GiGadgets_ via @enricomolinari 
 
-cc: @Curieu…",1
-RT @smsspeedway: Very well deserved winners. Excellent offerings from top notch Proptech companies. The very high success rate within the @…,2
+cc: @Curieu…",1,1315179174898925569
+RT @smsspeedway: Very well deserved winners. Excellent offerings from top notch Proptech companies. The very high success rate within the @…,2,1314548884111323136
 "RT @FukuharaSatoshi: 不動産業界のDXを推進するもの、阻むもの--DX銘柄2020選出の三菱地所とGAが語る / https://t.co/U2m1bGImiR
-PropTech JAPANが主催したオンラインイベント「不動産業界におけるデジタルトランスフォ…",1
+PropTech JAPANが主催したオンラインイベント「不動産業界におけるデジタルトランスフォ…",1,1314863008095633408
 "RT @enricomolinari: Let’s have an up-close look at #Samsung #GalaxyZFlip @GiGadgets_ via @enricomolinari 
 
-cc:… https://t.co/FSIaBSeTXr",1
+cc:… https://t.co/FSIaBSeTXr",1,[]
 "RT @aequius: Coronavirus live: UAE reports 1,231 new cases after 117,812 further tests - The National
 
 https://t.co/eXpeMFU7QI
 
-#RealEstate…",1
-RT @ItalianProptech: Grazie @ancenazionale di aver messo #Proptech al centro del dibattito di #Fidec2019 con @FiloDellePiane @filipporean @…,1
-RT @andres_leal7: Transformación digital inmobiliaria: la cuenta regresiva ya comenzó https://t.co/LMNTGsasdN #proptech,1
-RT @andres_leal7: 🚀Muy feliz de ser elegido por @unissu_global  junto a otros emprendedores del sector #Proptech en Colombia y América Lati…,5
-"RT @hackernoon: ""Our Proptech Future: Tokenization Will Move the Real Estate Industry Forward"" by @serge_golubev https://t.co/kcvZsCSrZg #r…",1
-RT @HarvardBiz: “Don’t worry about the level of individual prominence you have achieved; worry about the individuals you have helped become…,1
-"RT @ColProptech: Somos #patrocinadores de #SabanaHack2020, evento organizado por @unisabana y estaremos apoyando el Reto ""Colombia Proptech…",1
+#RealEstate…",1,1315152904664363008
+RT @ItalianProptech: Grazie @ancenazionale di aver messo #Proptech al centro del dibattito di #Fidec2019 con @FiloDellePiane @filipporean @…,1,1197117902568087553
+RT @andres_leal7: Transformación digital inmobiliaria: la cuenta regresiva ya comenzó https://t.co/LMNTGsasdN #proptech,1,1311659156462399490
+RT @andres_leal7: 🚀Muy feliz de ser elegido por @unissu_global  junto a otros emprendedores del sector #Proptech en Colombia y América Lati…,5,1314660655614623746
+"RT @hackernoon: ""Our Proptech Future: Tokenization Will Move the Real Estate Industry Forward"" by @serge_golubev https://t.co/kcvZsCSrZg #r…",1,1315094795107340290
+RT @HarvardBiz: “Don’t worry about the level of individual prominence you have achieved; worry about the individuals you have helped become…,1,1315051675305095172
+"RT @ColProptech: Somos #patrocinadores de #SabanaHack2020, evento organizado por @unisabana y estaremos apoyando el Reto ""Colombia Proptech…",1,1314726710261080064
 "RT @realbobbybryant: ::::PODCAST ALERT::::
 
-I’m excited about this upcoming podcast with Nicholas E. Sawka. We are talking about Ask DOSS,…",1
+I’m excited about this upcoming podcast with Nicholas E. Sawka. We are talking about Ask DOSS,…",1,1315017924697092096
 "RT @propmodo: There is no shortcut to networking and making spontaneous connections.
 
-How do we keep people spontaneous, creative and netwo…",1
+How do we keep people spontaneous, creative and netwo…",1,1315019797483012096
 "RT @FinnovatingHub: ❗ÚLTIMAS PLAZAS❗
 
 ""Top FinTech Solutions for #Sustainability""
@@ -419,83 +423,83 @@ How do we keep people spontaneous, creative and netwo…",1
 WEBINAR GRATUITO
 19 de octubre, 2020 (15:00h.)
 
-✔Descubr…",1
-RT @goodwinlaw: #GoodwinLaw is proud to sponsor the @uli Fall Meeting Oct 13-15. #GoodwinRealEstate's Minta Kay will lead a panel on the fu…,1
-"RT @StackDevJobs: Tech Lead (Proptech) at KSK (Kuala Lumpur, Malaysia) https://t.co/woYy6ODcBy #javascript",2
-"RT @drkierachapman: We have a protest article in the latest TCPA journal about PropTech, data, enclosure, and privatisation within the plan…",7
-RT @Fishergate_Sch: Well done to Sarah. A great advert for the fantastic work that characterises our wonderful school.,1
-"RT @piersmorgan: On #MentalHealthAwarenessDay, hard to think of a more inspiring message than this from new England star @CalvertLewin14's…",1
-"RT @NuukaSolutions: The interest in upgrading to safe, sustainable, and remotely controlled buildings is booming in the real estate industr…",5
-RT @REveoApp: How ⁦@Adam_Betta⁩ Managing Broker of ⁦@HighlandPrtnrs⁩ close multimillion dollar listing #soldonREveo by connecting clients t…,1
+✔Descubr…",1,1313820021521604609
+RT @goodwinlaw: #GoodwinLaw is proud to sponsor the @uli Fall Meeting Oct 13-15. #GoodwinRealEstate's Minta Kay will lead a panel on the fu…,1,1311338216763600896
+"RT @StackDevJobs: Tech Lead (Proptech) at KSK (Kuala Lumpur, Malaysia) https://t.co/woYy6ODcBy #javascript",2,1314952584948576257
+"RT @drkierachapman: We have a protest article in the latest TCPA journal about PropTech, data, enclosure, and privatisation within the plan…",7,1313838136854749184
+RT @Fishergate_Sch: Well done to Sarah. A great advert for the fantastic work that characterises our wonderful school.,1,1314873922895130624
+"RT @piersmorgan: On #MentalHealthAwarenessDay, hard to think of a more inspiring message than this from new England star @CalvertLewin14's…",1,1314904498234634241
+"RT @NuukaSolutions: The interest in upgrading to safe, sustainable, and remotely controlled buildings is booming in the real estate industr…",5,1313826006067826688
+RT @REveoApp: How ⁦@Adam_Betta⁩ Managing Broker of ⁦@HighlandPrtnrs⁩ close multimillion dollar listing #soldonREveo by connecting clients t…,1,1314655933780328450
 "RT @aequius: Coronavirus live: Turkey 'hid truth' about case numbers, doctors group says - The National
 
 https://t.co/P0FGlCfoWB
 
-#RealEsta…",1
-RT @HarvardBiz: Prioritize tasks that will reduce the number of urgent but unimportant tasks you’ll have in the future. https://t.co/sH8Clb…,1
-RT @SuziLDavis: #SaturdayMorning #Believe #beyou #challenge #support #Listen #havecourage #goforit https://t.co/0Me8mZEfcW,1
-RT @noticiasCDT: Conoce más acerca de este y otros desafíos para los nuevos profesionales de la construcción en el Encuentro #ConstrucciónA…,1
-RT @nobul: We have clients everyday looking for homes across the country. The future of real estate is digital. Read this family’s story ab…,2
-RT @google_partner: Me gustaría empezar el #findesemana dando las gracias a @portalapi_cat por reconocer el valor que aporta @posizionarte…,3
-"RT @TaitPlanning: @BristolNoTowers @drkierachapman @andy_inch1 @Farnsworth100 @greenarteries @RosieP4 @RegenerationEX @justspace7 Secondly,…",3
-RT @drkierachapman: @AntBreach @TaitPlanning @BristolNoTowers @andy_inch1 @Farnsworth100 @greenarteries @RosieP4 @RegenerationEX @justspace…,4
-RT @Dave_Mullen_: Quick thoughts on future of data in real estate -&gt; Less platform economics + more data points = multiple expansion https:…,2
+#RealEsta…",1,1314921882697773057
+RT @HarvardBiz: Prioritize tasks that will reduce the number of urgent but unimportant tasks you’ll have in the future. https://t.co/sH8Clb…,1,1314919733939052544
+RT @SuziLDavis: #SaturdayMorning #Believe #beyou #challenge #support #Listen #havecourage #goforit https://t.co/0Me8mZEfcW,1,1314826984900435973
+RT @noticiasCDT: Conoce más acerca de este y otros desafíos para los nuevos profesionales de la construcción en el Encuentro #ConstrucciónA…,1,1314641906874245120
+RT @nobul: We have clients everyday looking for homes across the country. The future of real estate is digital. Read this family’s story ab…,2,1314629198644940801
+RT @google_partner: Me gustaría empezar el #findesemana dando las gracias a @portalapi_cat por reconocer el valor que aporta @posizionarte…,3,1314880686982127616
+"RT @TaitPlanning: @BristolNoTowers @drkierachapman @andy_inch1 @Farnsworth100 @greenarteries @RosieP4 @RegenerationEX @justspace7 Secondly,…",3,1314472426261164032
+RT @drkierachapman: @AntBreach @TaitPlanning @BristolNoTowers @andy_inch1 @Farnsworth100 @greenarteries @RosieP4 @RegenerationEX @justspace…,3,1314484411681984512
+RT @Dave_Mullen_: Quick thoughts on future of data in real estate -&gt; Less platform economics + more data points = multiple expansion https:…,2,1313135035285790720
 "RT @Mashroomcom: The first reviews are in and our users are loving Mashroom! 🚀
 
-Our recently re-launched platform allows landlords to list…",2
+Our recently re-launched platform allows landlords to list…",2,1314535015200501760
 "RT @fintech_germany: SleevesUp! Sees a bright future as co-working space in tier 2 and tier 3 cities https://t.co/RkwKALf5Dx
-#coworking #st…",6
-RT @nihsingapore: #Spacent is a Finnish #proptech company specialised in enabling more effective space resource offering. Check out the new…,3
-RT @TrustMeBlockChn: This is why we at the TPX Property Exchanges do not like the Robinhood offering. It does not put the retail customer a…,1
-"RT @chrispevans1: ‘Be gentle and kind to yourself, you’re doing the best you can’ #WorldMentalHealthDay2020 #weekendmood https://t.co/SxtxI…",1
-"RT @mietwise: KOMMERZIELL IMMOBILIENVERWALTUNGSSOFTWARE: @ModeranSolution, commercial real estate lease lifecycle management software (http…",1
+#coworking #st…",6,1314778702920679424
+RT @nihsingapore: #Spacent is a Finnish #proptech company specialised in enabling more effective space resource offering. Check out the new…,3,1314098255987441664
+RT @TrustMeBlockChn: This is why we at the TPX Property Exchanges do not like the Robinhood offering. It does not put the retail customer a…,1,1314840749536673792
+"RT @chrispevans1: ‘Be gentle and kind to yourself, you’re doing the best you can’ #WorldMentalHealthDay2020 #weekendmood https://t.co/SxtxI…",1,1314835787825979392
+"RT @mietwise: KOMMERZIELL IMMOBILIENVERWALTUNGSSOFTWARE: @ModeranSolution, commercial real estate lease lifecycle management software (http…",1,1146315639071674373
 "RT @FintechFor: RT @enricomolinari: This machine goes through the process of peeling asparagus @cheddar via @enricomolinari
 
-#agritech #efa…",1
-RT @enricomolinari: This machine goes through the process of peeling asparagus @cheddar via @enricomolinari… https://t.co/xU9yjLOV4Y,1
-RT @HarvardBiz: True transformation takes time — and happens through a series of phases. Skipping steps only creates the illusion of speed…,1
-RT @DalaiLama: I would like to congratulate the United Nations World Food Programme (WFP) on being awarded this year's Nobel Peace Prize fo…,1
-RT @thelandsite: The UK's only Property Network Platform - Sourcing information and expertise in your area and nationwide.  Find out how we…,1
+#agritech #efa…",1,1314829241356345344
+RT @enricomolinari: This machine goes through the process of peeling asparagus @cheddar via @enricomolinari… https://t.co/xU9yjLOV4Y,1,[]
+RT @HarvardBiz: True transformation takes time — and happens through a series of phases. Skipping steps only creates the illusion of speed…,1,1314826938364702720
+RT @DalaiLama: I would like to congratulate the United Nations World Food Programme (WFP) on being awarded this year's Nobel Peace Prize fo…,1,1314803527797993473
+RT @thelandsite: The UK's only Property Network Platform - Sourcing information and expertise in your area and nationwide.  Find out how we…,1,1314462100660588545
 "RT @aequius: Saudi Arabia exempts real estate deals from VAT and imposes new 5% tax - The National
 
 https://t.co/FNkCB2rKic
 
-#RealEstateInv…",1
-"RT @AppElyssa: Te invitamos a leer este artículo, en donde resaltamos avances tecnológicos cómo los de @propiedata, futura aliada de #Elyss…",1
+#RealEstateInv…",1,1314790516706480130
+"RT @AppElyssa: Te invitamos a leer este artículo, en donde resaltamos avances tecnológicos cómo los de @propiedata, futura aliada de #Elyss…",1,1314659834692763650
 "RT @startuprad_io: SleevesUp! Sees a bright future as co-working space in tier 2 and tier 3 cities https://t.co/vK2VPUyipV
-#coworking #star…",5
-RT @OpenpathSec: Our touchless “wave to unlock” feature is making waves in the #startup world. You can now vote for Openpath as @dotLA “Ris…,3
-RT @andres_leal7: Muy contentos desde @TriariiLatam de contribuir como consultores en tecnología a esta nota en @RevistaDinero ¿Qué es #Pro…,2
-RT @TriariiLatam: 🧐 ¿Qué es transformación digital y el impacto en real estate? https://t.co/UZxakFcpn5 a través de @YouTube  #proptech #Te…,2
-RT @andres_leal7: 🎧 ¿Ya escuchaste nuestro último #podcast sobre innovación inmobiliaria en Triarii Audio Experience?   📲 https://t.co/niyZ…,1
-RT @techopiaOTT: .@1_valet's smart-building platform that lets condo and apartment dwellers open doors without keys and ride elevators with…,3
-RT @venbona_Deutsch: So sieht die völlig kostenlose Profilseite für Makler aus 👍 #fürmakler #profilseite #bieterplattform #venbona #bieterv…,1
+#coworking #star…",5,1314703959022542848
+RT @OpenpathSec: Our touchless “wave to unlock” feature is making waves in the #startup world. You can now vote for Openpath as @dotLA “Ris…,3,1314664326049878017
+RT @andres_leal7: Muy contentos desde @TriariiLatam de contribuir como consultores en tecnología a esta nota en @RevistaDinero ¿Qué es #Pro…,2,1314047198439538688
+RT @TriariiLatam: 🧐 ¿Qué es transformación digital y el impacto en real estate? https://t.co/UZxakFcpn5 a través de @YouTube  #proptech #Te…,2,1313923147155021825
+RT @andres_leal7: 🎧 ¿Ya escuchaste nuestro último #podcast sobre innovación inmobiliaria en Triarii Audio Experience?   📲 https://t.co/niyZ…,1,1314612985059594240
+RT @techopiaOTT: .@1_valet's smart-building platform that lets condo and apartment dwellers open doors without keys and ride elevators with…,3,1314664078489649152
+RT @venbona_Deutsch: So sieht die völlig kostenlose Profilseite für Makler aus 👍 #fürmakler #profilseite #bieterplattform #venbona #bieterv…,1,1311709117367623680
 "RT @robynbeavers: Excited to have been recognized among so
-many inspiring leaders in the Entrepreneur Of The Year® 2020 New York program as…",10
-"RT @PropChallenge: Our #Design, #Construction, #Development Challenge seeks to improve #AEC processes by leveraging #technology tools that…",1
-"RT @PropChallenge: Our #Residenial #Leasing &amp; #Brokerage Challenge is designed to make the transaction experience more engaging, seamless &amp;…",1
-"RT @PropChallenge: Our #Commercial #Leasing &amp; #Brokerage Challenge is designed to improve insight from volumes of public /private #data, su…",1
-"RT @TheNewsFunnel: QuickVal is now available in beta! Making manual back-of-the-envelope analysis a thing of the past, @rediqCRE's latest b…",1
-"RT @Afisem_Nantes: #Proptech : Axeleo Capital finance les #startups de #immobilier et du #BTP , #Financement ⁦@axeleo⁩  https://t.co/LF5FJr…",5
+many inspiring leaders in the Entrepreneur Of The Year® 2020 New York program as…",10,1314271978296143873
+"RT @PropChallenge: Our #Design, #Construction, #Development Challenge seeks to improve #AEC processes by leveraging #technology tools that…",1,1314551291264339969
+"RT @PropChallenge: Our #Residenial #Leasing &amp; #Brokerage Challenge is designed to make the transaction experience more engaging, seamless &amp;…",1,1314619166419308545
+"RT @PropChallenge: Our #Commercial #Leasing &amp; #Brokerage Challenge is designed to improve insight from volumes of public /private #data, su…",1,1314645585849454594
+"RT @TheNewsFunnel: QuickVal is now available in beta! Making manual back-of-the-envelope analysis a thing of the past, @rediqCRE's latest b…",1,1314601552305324032
+"RT @Afisem_Nantes: #Proptech : Axeleo Capital finance les #startups de #immobilier et du #BTP , #Financement ⁦@axeleo⁩  https://t.co/LF5FJr…",5,1314441507458420738
 "RT @REach_GB: Super excited to welcome @MennoLammers founder of 
 @PropTechNL &amp; #PropTechForGood to #REACHUK mentor community!
 
-Find out mor…",1
-RT @ffjoustra: Are you attending IFMA Sverige's Nordic Workplace virtual event in November?https://t.co/B3cMBTRhXx #proptech #workplace #sm…,4
-"RT @housingprogram: The real estate sector has traditionally been a laggard when it comes to innovation, with many firms guilty of being to…",1
-"RT @propmodo: By creating more ways for connections to happen, technology has effectively lowered the barrier to entry for commercial prope…",1
-RT @ElieFinegold: Anybody who has talked with me about the future of real estate is well aware (and possibly had their fill) of my obsessio…,1
+Find out mor…",1,1313039773842505729
+RT @ffjoustra: Are you attending IFMA Sverige's Nordic Workplace virtual event in November?https://t.co/B3cMBTRhXx #proptech #workplace #sm…,4,1314624939878744064
+"RT @housingprogram: The real estate sector has traditionally been a laggard when it comes to innovation, with many firms guilty of being to…",1,1314636061151199232
+"RT @propmodo: By creating more ways for connections to happen, technology has effectively lowered the barrier to entry for commercial prope…",1,1314622361417576448
+RT @ElieFinegold: Anybody who has talked with me about the future of real estate is well aware (and possibly had their fill) of my obsessio…,1,1314600017185865728
 "RT @Okapi_AI: The Okapi NYC team hard at work! 
 .
 .
-#TeamOuting #Teamwork #PropTech #riskmanagement #riskassessment #artificialintelligence…",2
-RT @brlaron: What to Do With Your Parking Lot During the Pandemic - https://t.co/qOmAyP9bOu via @propmodo,1
-"RT @Propertyshe: READ: latest @Propertyshe Perspectives: New @fifthwallvc and @BNPParibas #proptech start-up fund, commercial #drones, buil…",1
-"RT @MetaPropNYC: Manuela Seve, Founder and CEO of @geracaoalpha1, has advice for giving your customers the best possible experience: ""Be re…",2
-"RT @carlosblanco: Busco co-inversores para una startup de #PropTech #RealEstate que es un software B2B en SaaS, es decir una aplicación en…",7
-RT @housingtech: Great Places Housing has chosen @AareonUKLtd for its new suite of housing management software and digital solutions. Find…,1
-"RT @posizionarte: Una vez más, volvemos a estar presentes en el mapa #Proptech 2020 como una de las agencia de #marketingdigital de referen…",2
-RT @DasInkling: The KTP project I have been supervising on behalf of @arbnco is now complete. It's been amazing working on this alongside @…,1
+#TeamOuting #Teamwork #PropTech #riskmanagement #riskassessment #artificialintelligence…",2,1314535255148199938
+RT @brlaron: What to Do With Your Parking Lot During the Pandemic - https://t.co/qOmAyP9bOu via @propmodo,1,1314592772536623106
+"RT @Propertyshe: READ: latest @Propertyshe Perspectives: New @fifthwallvc and @BNPParibas #proptech start-up fund, commercial #drones, buil…",1,1314611859484540935
+"RT @MetaPropNYC: Manuela Seve, Founder and CEO of @geracaoalpha1, has advice for giving your customers the best possible experience: ""Be re…",2,1314619211956789254
+"RT @carlosblanco: Busco co-inversores para una startup de #PropTech #RealEstate que es un software B2B en SaaS, es decir una aplicación en…",7,1314494459904757760
+RT @housingtech: Great Places Housing has chosen @AareonUKLtd for its new suite of housing management software and digital solutions. Find…,1,1313750450991230976
+"RT @posizionarte: Una vez más, volvemos a estar presentes en el mapa #Proptech 2020 como una de las agencia de #marketingdigital de referen…",2,1314551911937343492
+RT @DasInkling: The KTP project I have been supervising on behalf of @arbnco is now complete. It's been amazing working on this alongside @…,1,1314549649873698816
 "RT @unissu_global: RE:New. 
 RE:Fresh. 
 RE:Create.
@@ -503,177 +507,178 @@ RE:Connect.
 
 Save the date - https://t.co/LxjnyoLIK9
 
-#PropTech #CreTech #ReTech https://…",2
-"RT @ines_stre: To all female founders &amp; diverse founding teams in fintech, insurtech &amp; proptech - join our virtual VC office hours on Nov 1…",1
-"RT @ConstrumatBCN: 🆕 Estos son los expertos del sector que ayudarán a dibujar @TechEstate_Tech, la nueva plataforma de #BBConstrumat que co…",1
+#PropTech #CreTech #ReTech https://…",2,1314230320594661376
+"RT @ines_stre: To all female founders &amp; diverse founding teams in fintech, insurtech &amp; proptech - join our virtual VC office hours on Nov 1…",1,1314595832834985984
+"RT @ConstrumatBCN: 🆕 Estos son los expertos del sector que ayudarán a dibujar @TechEstate_Tech, la nueva plataforma de #BBConstrumat que co…",1,1311678538232352768
 "RT @propmodo: Empty spaces generate no revenue, and any opportunity to rent parking places (even at a bulk discount) contributes.
 
-#parking…",1
-"RT @UKProptech: Introducing 2019 Winner, @Mallcommapp, as the official category sponsor for the 'Most Collaborative Business – PropTech' Aw…",1
-"RT @DAVID1GIBBON: Another new position for EVANA AG. AI Engineer/Developer can be based in either Frankfurt, Saarbrücken with fully remote…",4
+#parking…",1,1314590003360534529
+"RT @UKProptech: Introducing 2019 Winner, @Mallcommapp, as the official category sponsor for the 'Most Collaborative Business – PropTech' Aw…",1,1314571462200766465
+"RT @DAVID1GIBBON: Another new position for EVANA AG. AI Engineer/Developer can be based in either Frankfurt, Saarbrücken with fully remote…",4,1314558520826769410
 "RT @Welmo_fr: 📣Nouvel article à lire sur le #blog✍️
-Entre surface habitable, privative, utile ou encore pondérée, on peut vite s’y perdre🧐…",1
-RT @martynziegler: Breaking: Premier League confirm new pay-per-view arrangement for matches not on TV https://t.co/3j0yfKL16M,1
-"RT @rialtestech: The #realestate industry has taken some long strides in the world of digitalization. Now in 2020, 58% of the real estate c…",1
+Entre surface habitable, privative, utile ou encore pondérée, on peut vite s’y perdre🧐…",1,1314563939016093697
+RT @martynziegler: Breaking: Premier League confirm new pay-per-view arrangement for matches not on TV https://t.co/3j0yfKL16M,1,1314552204473389057
+"RT @rialtestech: The #realestate industry has taken some long strides in the world of digitalization. Now in 2020, 58% of the real estate c…",1,1314566831378780171
 "RT @CaroleQuentric: 🏡
-Professionnels de l'#immobilier, nous sommes heureux de vous inviter à l'afterwork CÜRIOSITEE mardi 13 octobre à 18h3…",1
-"RT @axeleo: 🎤 @MathiasFlattin, Partner chez Axeleo Capital, interviendra sur le sujet de l'innovation dans le secteur de la construction et…",1
+Professionnels de l'#immobilier, nous sommes heureux de vous inviter à l'afterwork CÜRIOSITEE mardi 13 octobre à 18h3…",1,1314545656934158337
+"RT @axeleo: 🎤 @MathiasFlattin, Partner chez Axeleo Capital, interviendra sur le sujet de l'innovation dans le secteur de la construction et…",1,1314541196681850886
 "RT @unitee_io: 🤝 Partenaire // BeMove x #Cüriositee #Proptech
 
 🖥 Virtuel https://t.co/zlVdu5SYYj
-🎟 Présentiel à l'eclozr https://t.co/igS2c…",1
-RT @jasonwhutcheson: Reading about @pacasohomes $17M funding—I can't tell if it's a #proptech evolution of timeshare or just a reincarnatio…,1
-"RT @europlace: #ParisInfraWeek 2020 📸 @K_ZINEEDDINE, notre Directeur des Études, a introduit la séance ""La #technologie au service des tran…",1
-RT @dataloftuk: Proud to get this endorsement from @KerfuffleClub - rapidly becoming the go-to source for independent assessment of Proptec…,1
-RT @RENXca: Montreal-based real estate data firm @local_logic has 85 billion + data points on lifestyle / location features in Canadian &amp; U…,1
+🎟 Présentiel à l'eclozr https://t.co/igS2c…",1,1309490199211266049
+RT @jasonwhutcheson: Reading about @pacasohomes $17M funding—I can't tell if it's a #proptech evolution of timeshare or just a reincarnatio…,1,1311972955006566400
+"RT @europlace: #ParisInfraWeek 2020 📸 @K_ZINEEDDINE, notre Directeur des Études, a introduit la séance ""La #technologie au service des tran…",1,1314481182520864768
+RT @dataloftuk: Proud to get this endorsement from @KerfuffleClub - rapidly becoming the go-to source for independent assessment of Proptec…,1,1314522791828488194
+RT @RENXca: Montreal-based real estate data firm @local_logic has 85 billion + data points on lifestyle / location features in Canadian &amp; U…,1,1314528595612700673
 "RT @salonrent: Les Proptech Digital Days sont en préparation... 🤫
 
 On vous en dit plus très bientôt, restez connectés 🙌
 
-#RENT2020 #PROPTEC…",4
-RT @Kelltontech: Is your #RealEstate Business fulfilling the #Digital-Age Demand? Learn how we interweave #technologies to shape the future…,2
-"RT @The_Depositary: We're featured on @LA_Today, announcing our extended partnership with @TenancyDeposits and our plans to integrate with…",1
-RT @Re2bit1: BizAway: accordo con Homelike per l’affitto di case temporanee ai clienti aziendali – Re2bit https://t.co/J8j9pEsO6j #PropTech…,3
-"RT @Re2bit1: TopLife Concierge e Sofia Locks creano app integrata per servizi, spazi e accessi – Re2bit https://t.co/YNzaUTtGGW  #facility…",3
+#RENT2020 #PROPTEC…",4,1314514184328097792
+RT @Kelltontech: Is your #RealEstate Business fulfilling the #Digital-Age Demand? Learn how we interweave #technologies to shape the future…,2,1314513579295551490
+"RT @The_Depositary: We're featured on @LA_Today, announcing our extended partnership with @TenancyDeposits and our plans to integrate with…",1,1314499187455791104
+RT @Re2bit1: BizAway: accordo con Homelike per l’affitto di case temporanee ai clienti aziendali – Re2bit https://t.co/J8j9pEsO6j #PropTech…,3,1314484114217725952
+"RT @Re2bit1: TopLife Concierge e Sofia Locks creano app integrata per servizi, spazi e accessi – Re2bit https://t.co/YNzaUTtGGW  #facility…",3,1314482753707089920
 "RT @SesoGlobal: Join us for a virtual tour of Britannia Court, #Accra #Ghana
 holding this Sunday 11th Oct at 3pm Ghana Time.
 
-Register here…",1
-RT @KristjanByfield: Absolutely amazing for @The_Depositary to win an award @propacad #EAMasters - congrats to @stephenbrown54 &amp; @Broomhamr…,4
-RT @KristjanByfield: Cheeky celebration @The_Depositary  WooooHooooo! #EAMasters #PropTech #renting with @PropTechCarla https://t.co/ijHHFs…,1
-RT @bod_tech: Nuestra herramienta #proptech #BIMUX nace de juntar nuestra experiencia en #propertymanagement con las tecnologías más punter…,1
-RT @housingtech: .@OrchardSystems’ Income Analytics software cuts arrears at @greensquare_grp. Find out more in the new issue of Housing Te…,1
-RT @PropertyDanH: Standards have a vital role to play in enabling the effective use of data in real estate and delighted that this report f…,1
-"RT @bnppre: [#STARTUPS] Proud to parner with @fifthwallvc in the Fifth Wall #RealEstate Technology European Fund, its first European #Propt…",4
-RT @TopUpConsultant: Some #PropTech lessons from an evening of epic failure https://t.co/oLDsUQf3CS,1
-RT @PEXA_AUSTRALIA: We're delighted to announce that PEXA Key has won the 2020 @FinancialReview Most Innovative Companies – Best Service In…,1
-RT @insigniavc: This week #oncallwithinsignia we had on-call Gojek mafia and #proptech @pinhome_id co-founders Dayu Dara Permata and Ahmed…,3
-RT @1min30: Proptech : Comment l’industrie immobilière évolue grâce au digital https://t.co/6zNqoPeqHX,2
+Register here…",1,1314490792996724736
+RT @KristjanByfield: Absolutely amazing for @The_Depositary to win an award @propacad #EAMasters - congrats to @stephenbrown54 &amp; @Broomhamr…,4,1314232662131961857
+RT @KristjanByfield: Cheeky celebration @The_Depositary  WooooHooooo! #EAMasters #PropTech #renting with @PropTechCarla https://t.co/ijHHFs…,1,1314253913781153796
+RT @drkierachapman: @AntBreach @TaitPlanning @BristolNoTowers @andy_inch1 @Farnsworth100 @greenarteries @RosieP4 @RegenerationEX @justspace…,1,1314484106424717317
+RT @bod_tech: Nuestra herramienta #proptech #BIMUX nace de juntar nuestra experiencia en #propertymanagement con las tecnologías más punter…,1,1314442479664533504
+RT @housingtech: .@OrchardSystems’ Income Analytics software cuts arrears at @greensquare_grp. Find out more in the new issue of Housing Te…,1,1314478908377628673
+RT @PropertyDanH: Standards have a vital role to play in enabling the effective use of data in real estate and delighted that this report f…,1,1311220968782786560
+"RT @bnppre: [#STARTUPS] Proud to parner with @fifthwallvc in the Fifth Wall #RealEstate Technology European Fund, its first European #Propt…",4,1313098022562213890
+RT @TopUpConsultant: Some #PropTech lessons from an evening of epic failure https://t.co/oLDsUQf3CS,1,1169864127197483008
+RT @PEXA_AUSTRALIA: We're delighted to announce that PEXA Key has won the 2020 @FinancialReview Most Innovative Companies – Best Service In…,1,1314114568155803654
+RT @insigniavc: This week #oncallwithinsignia we had on-call Gojek mafia and #proptech @pinhome_id co-founders Dayu Dara Permata and Ahmed…,3,1314426475949428736
+RT @1min30: Proptech : Comment l’industrie immobilière évolue grâce au digital https://t.co/6zNqoPeqHX,2,1314423516469571584
 "RT @PortalWatch: 🚨SPEAKER ALERT🚨 
 -&gt; Virtual EU Property Portal Watch 🇪🇺 
 -&gt; Malcolm Myers, Founder &amp; CEO | European Internet Ventures
 
-👉Re…",1
+👉Re…",1,1314153506606116866
 "RT @ProptechLatam: Participaron Felipe Camet, Fundador y CEO de CRES,  
-@MikyDeustua (CEO Inmobiliaria Granadero), Pablo Seminario (Gerente…",1
-RT @ColProptech: #Mañana llega nuestro Proptech #livetalks con Mauricio Urrea VP de @pactiaoficial hablando de la aceleración en la innovac…,2
-"RT @ZWave_Alliance: ""With smart technology/PropTech transitioning to the residential space, tenants are taking notice."" @ABODOapts outlines…",1
+@MikyDeustua (CEO Inmobiliaria Granadero), Pablo Seminario (Gerente…",1,1314230618755129348
+RT @ColProptech: #Mañana llega nuestro Proptech #livetalks con Mauricio Urrea VP de @pactiaoficial hablando de la aceleración en la innovac…,2,1313926806160973824
+"RT @ZWave_Alliance: ""With smart technology/PropTech transitioning to the residential space, tenants are taking notice."" @ABODOapts outlines…",1,1314400443494215681
 "RT @3DCityScapes: Your pre-construction property, BROUGHT TO LIFE.
 
 What if you can see your future home in 8k graphics?
-✔️Whenever you wan…",1
-RT @RENXca: Local Logic (@local_logic) has compiled more than 85 billion data points which identify lifestyle and location attributes in ci…,3
-RT @RealFoundations: RF's David Stanford joined a panel of industry thought leaders on episode 2 of @altusgroup’s “Navigating the Next Norm…,1
-RT @PropTechBIZ: ¿Has conectado ya con las #startups de @BnewWeek ?. Hemos seleccionado a las mejores 50 startups que encontrarás en el esp…,4
+✔️Whenever you wan…",1,1284176281060495366
+RT @RENXca: Local Logic (@local_logic) has compiled more than 85 billion data points which identify lifestyle and location attributes in ci…,3,1314286943992119296
+RT @RealFoundations: RF's David Stanford joined a panel of industry thought leaders on episode 2 of @altusgroup’s “Navigating the Next Norm…,1,1314283670744817668
+RT @PropTechBIZ: ¿Has conectado ya con las #startups de @BnewWeek ?. Hemos seleccionado a las mejores 50 startups que encontrarás en el esp…,4,1314085829002833920
 "RT @latechdubtp: 📢@bim_world 
 
 @resolving propose un atelier avec @Spiebatignolles aujourd'hui à 14h pour parler #BIM et #chantier!
-🕑---&gt; h…",2
-RT @brlaron: Here Is How the #Property Industry Has Been Able to Start #Building Again - https://t.co/rVSddPSixN via @propmodo,1
-RT @YorkRLA: Email info@yorkrla.co.uk to attend https://t.co/zG0NkOz1os,1
-"RT @arla_uk: As we approach #worldhomelessday we continue to support efforts to reduce homelessness. As part of our many lobbying efforts,…",1
+🕑---&gt; h…",2,1314147519857930240
+RT @brlaron: Here Is How the #Property Industry Has Been Able to Start #Building Again - https://t.co/rVSddPSixN via @propmodo,1,1314288197904539648
+RT @YorkRLA: Email info@yorkrla.co.uk to attend https://t.co/zG0NkOz1os,1,1314222782998368259
+"RT @arla_uk: As we approach #worldhomelessday we continue to support efforts to reduce homelessness. As part of our many lobbying efforts,…",1,1314208951588716545
 "RT @askdossnow: DOSS: An Intelligent Personal Assistant for the Real Estate industry. 
 
-Speak, Text, or Type any question about any propert…",1
+Speak, Text, or Type any question about any propert…",1,1314294427654017024
 "RT @realbobbybryant: DOSS: An Intelligent Personal Assistant for the Real Estate industry. 
 
-Speak, Text, or Type any question about any pr…",1
-RT @btrnews247: @SmartRentdotcom are hosting a free #webinar: Technology in BTR - inside the #construction process: https://t.co/GhQE3OYOa7…,2
+Speak, Text, or Type any question about any pr…",1,1314294346406072322
+RT @btrnews247: @SmartRentdotcom are hosting a free #webinar: Technology in BTR - inside the #construction process: https://t.co/GhQE3OYOa7…,2,1313708804857569280
 "RT @DeepLearn007: The Gartner Hype Cycle #AI 2020
 
 https://t.co/qZ8lGNVWvC
 
 @SpirosMargaris @Xbond49 @psb_dc @jblefevre60
-@nigewillson @Pau…",1
+@nigewillson @Pau…",1,1314176692827697152
 "RT @joinajar: أجار هي واحدة من بين “أكثر 50 شركة ناشئة تمويلاً” في الشرق الأوسط.
 
 https://t.co/1SEYIy8Nns
 
-#Ajar #JoinAjar #RealEstate #Pro…",1
+#Ajar #JoinAjar #RealEstate #Pro…",1,1314208216381747205
 "RT @joinajar: Ajar is one of the Middle East's 50 most funded startups!
 
 https://t.co/CBbnJp4McI
 
-#Ajar #JoinAjar #RealEstate #PropertyMana…",1
-"RT @propmodo: How do we keep people spontaneous, creative and networked during the pandemic? The simplest answer is that networking needs t…",1
+#Ajar #JoinAjar #RealEstate #PropertyMana…",1,1314209024334721028
+"RT @propmodo: How do we keep people spontaneous, creative and networked during the pandemic? The simplest answer is that networking needs t…",1,1314289878511882246
 "RT @HlynurGudjons: PropTech Video Recap @NordicHouseNY PropTech Video Recap
 
-#proptech #venturecapital #realestate #nordic #startups #reale…",1
+#proptech #venturecapital #realestate #nordic #startups #reale…",1,1314285593480826881
 "RT @IcelandinNY: PropTech Video Recap @NordicHouseNY PropTech Video Recap
 
-#proptech #venturecapital #realestate #nordic #startups #realest…",1
-"RT @fifthwallvc: Return-to-work has pushed the topic of flex-office to the forefront, so @BrendanFWallace caught-up with Laura Hines-Pierce…",1
-"RT @CPExecutive: #Technology is an asset to property managers. First  digitize, then use that #data to adapt, evolve and eliminate pain poi…",1
-RT @GetFlowPath: Happy Thursday! A big #thankyou to all the new FlowPath Facility Management Platform followers. Don't keep #flowpath a sec…,1
-RT @PropChallenge: #Sustainable #Building #Operations are crucial to providing businesses &amp; residents safe and healthy environments. This c…,1
+#proptech #venturecapital #realestate #nordic #startups #realest…",1,1314285683511562247
+"RT @fifthwallvc: Return-to-work has pushed the topic of flex-office to the forefront, so @BrendanFWallace caught-up with Laura Hines-Pierce…",1,1314286113389830144
+"RT @CPExecutive: #Technology is an asset to property managers. First  digitize, then use that #data to adapt, evolve and eliminate pain poi…",1,1314286546623893504
+RT @GetFlowPath: Happy Thursday! A big #thankyou to all the new FlowPath Facility Management Platform followers. Don't keep #flowpath a sec…,1,1314196534519631872
+RT @PropChallenge: #Sustainable #Building #Operations are crucial to providing businesses &amp; residents safe and healthy environments. This c…,1,1314181307988152321
 "RT @BeemmoFr: 🔝 Vendu !
 📍 Nice T3
 🚀 Appartement vendu en 30 jours
-🏆 Félicitations à nos clients vendeurs &amp; acquéreurs et merci pour leur co…",5
+🏆 Félicitations à nos clients vendeurs &amp; acquéreurs et merci pour leur co…",5,1314122363995336704
 "RT @CoFlatMate: Currently available ✔️
 Flatmate needed at Greenville Estate, Agungi, Lagos State. 
-The room is ensuite with large Wardrobe.…",6
-RT @conkers3: @AIM_profit @RidyardMike @BrilliantLeader @ULStechnology @eConveyancer @DigitalMoveUK @ShareScope #ULS+3% 57.2p✅#Proptech #AI…,1
-"RT @SmartConnectPR: “The self-storage market has never been more active, booming over the past decade,” Dave Hettinger, senior national acc…",1
-RT @dribbblejobs: Not Disclosed Yet is hiring for a position of UI/UX Designer for Startup PropTech Co in USA Definitely - we are in Miami.…,1
-RT @RENXca: Real estate data firm @local_logic has over 85 billion data points on lifestyle and location features in Canadian &amp; U.S. cities…,4
-"RT @PocketBuildings: Why are digital #building documents, videos, and online tools vital for the property, asset, and portfolio companies #…",1
+The room is ensuite with large Wardrobe.…",6,1314235969542017024
+RT @conkers3: @AIM_profit @RidyardMike @BrilliantLeader @ULStechnology @eConveyancer @DigitalMoveUK @ShareScope #ULS+3% 57.2p✅#Proptech #AI…,1,1314209292682031105
+"RT @SmartConnectPR: “The self-storage market has never been more active, booming over the past decade,” Dave Hettinger, senior national acc…",1,1314265886832893952
+RT @dribbblejobs: Not Disclosed Yet is hiring for a position of UI/UX Designer for Startup PropTech Co in USA Definitely - we are in Miami.…,1,1314233181542002694
+RT @RENXca: Real estate data firm @local_logic has over 85 billion data points on lifestyle and location features in Canadian &amp; U.S. cities…,4,1314241831207661573
+"RT @PocketBuildings: Why are digital #building documents, videos, and online tools vital for the property, asset, and portfolio companies #…",1,1314194771259392001
 "RT @MinutHQ: Minut is built for privacy - so that you don’t have to choose between your peace of mind and your guests’ privacy 🏡
 
-Read more…",1
-"RT @CharlesWarnock: Data storytelling, how to win 94% of your listing presentations, and becoming a go-to real estate agent. Bonus video wi…",1
+Read more…",1,1314237022236745728
+"RT @CharlesWarnock: Data storytelling, how to win 94% of your listing presentations, and becoming a go-to real estate agent. Bonus video wi…",1,1314253071531290626
 "RT @InteractiveVid2: $VERB @VerbTech_co #BuiltInCRM #Property #videotours #REO #PropTech #WorkFromAnywhere
 
-Market your #HomesForSale with…",1
-"RT @walkaboutco: Our CEO, Toni Portmann, just finished up a live demo of Walkabout Workplace at @AtxStartupWeek! Thank you to the team at t…",12
-RT @thingssandy: Excited to announce the launch of our @REBNY 2020 #PropTech Challenge in partnership with the @connectedremag Virtual Tech…,1
-RT @workinstartups: 🏘️ 🌟 Passion for #PropTech or #investment? Or #marketing pro after a new #startup challenge? Our friends at @Brickowner…,3
-"RT @businesslondon: .@BNPPRE_UK and @fifthwallvc have joined forces to launch the European Proptech Fund, investing in real estate-tech com…",1
-RT @SpectreSoftware: @peterknightblog @KerfuffleClub @dataloftuk Thanks Peter! Does that mean @ICGapproved is the Justice League of PropTec…,2
+Market your #HomesForSale with…",1,1314249199454572544
+"RT @walkaboutco: Our CEO, Toni Portmann, just finished up a live demo of Walkabout Workplace at @AtxStartupWeek! Thank you to the team at t…",12,1313937816213229569
+RT @thingssandy: Excited to announce the launch of our @REBNY 2020 #PropTech Challenge in partnership with the @connectedremag Virtual Tech…,1,1313154559632715778
+RT @workinstartups: 🏘️ 🌟 Passion for #PropTech or #investment? Or #marketing pro after a new #startup challenge? Our friends at @Brickowner…,2,1313834130367537152
+"RT @businesslondon: .@BNPPRE_UK and @fifthwallvc have joined forces to launch the European Proptech Fund, investing in real estate-tech com…",1,1314179346563657728
+RT @SpectreSoftware: @peterknightblog @KerfuffleClub @dataloftuk Thanks Peter! Does that mean @ICGapproved is the Justice League of PropTec…,2,1313813904900972545
 "RT @getxspaced: US #landlords and #tenants are using our platform to make #rent payments easier during the pandemic.
 
-It's free and availab…",4
-"RT @biconnections: 90 percent of traditional real estate organizations see proptech as an opportunity, as rising levels of investment show.…",5
+It's free and availab…",4,1314235139367464967
+"RT @biconnections: 90 percent of traditional real estate organizations see proptech as an opportunity, as rising levels of investment show.…",5,1314227844818628609
 "RT @shunn_sakurai: いよいよ明日開催です！
 
 #PropTech #ConTech #不動産テック
 
-※増席しました【DX銘柄選出企業が登壇】不動産業界におけるデジタルトランスフォーメーションの今後とは https://t.co/q9aTz4ko1E @Pea…",1
-"RT @propmodo: The office isn’t dead, it’s evolving into a better, smarter place. By understanding how occupants prefer to use a space and u…",1
+※増席しました【DX銘柄選出企業が登壇】不動産業界におけるデジタルトランスフォーメーションの今後とは https://t.co/q9aTz4ko1E @Pea…",1,1312909564333834241
+"RT @propmodo: The office isn’t dead, it’s evolving into a better, smarter place. By understanding how occupants prefer to use a space and u…",1,1314218184447205379
 "RT @rentprofile: @PlaceTech covers the launch of Onboarding ⬇
 
 https://t.co/YQQjXhHT7X
 
-#proptech #app #mobile #lettingagents #rentals #dig…",3
-"RT @UKProptech: Interesting insights from #PropTech Gold Member, @lettingproperty, as they discuss how the Chancellor's Green Plan will aff…",1
-RT @trdny: .@fifthwall is raising $118M for a new European proptech fund https://t.co/7eGmio9Z5d,4
-RT @proptechvc: #WorkFromHome has dramatically impacted #CRE. Hear @EllaJadeBrand and #PropTech VC @zainjaffer discuss here: https://t.co/N…,2
-"RT @ProptechList: Check out those 5 profiles listed in Building Information Modeling (BIM): @maletaeng, @faro_hq, @SpinalCom, @WizzCad, @po…",2
-"RT @NRLAssociation: The Tenancy Saver Loans scheme launched in Wales yesterday, and a similar scheme was announced in Scotland last month.…",1
+#proptech #app #mobile #lettingagents #rentals #dig…",3,1314155516168482816
+"RT @UKProptech: Interesting insights from #PropTech Gold Member, @lettingproperty, as they discuss how the Chancellor's Green Plan will aff…",1,1314190085085110272
+RT @trdny: .@fifthwall is raising $118M for a new European proptech fund https://t.co/7eGmio9Z5d,4,1313529393961152514
+RT @proptechvc: #WorkFromHome has dramatically impacted #CRE. Hear @EllaJadeBrand and #PropTech VC @zainjaffer discuss here: https://t.co/N…,2,1308166640786460681
+"RT @ProptechList: Check out those 5 profiles listed in Building Information Modeling (BIM): @maletaeng, @faro_hq, @SpinalCom, @WizzCad, @po…",2,1313456645591232513
+"RT @NRLAssociation: The Tenancy Saver Loans scheme launched in Wales yesterday, and a similar scheme was announced in Scotland last month.…",1,1314135104621510656
 "RT @allenandbrooks: property management companies among other players in the real estate and construction sectors.
 
-For more information, p…",1
-RT @allenandbrooks: Property Technology commonly known as PropTech is the innovative use of technology in real estate space to optimize and…,1
-"RT @Paris_Seine_: Quand on ajoute du #digital à nos méthodes, nous avons + de temps pour nos clients ! Merci @DocuSignFR pour cette transit…",1
+For more information, p…",1,1314202543195529220
+RT @allenandbrooks: Property Technology commonly known as PropTech is the innovative use of technology in real estate space to optimize and…,1,1314202539047284739
+"RT @Paris_Seine_: Quand on ajoute du #digital à nos méthodes, nous avons + de temps pour nos clients ! Merci @DocuSignFR pour cette transit…",1,1313482712896999429
 "RT @Alastria_: This is how the State of the Union @EU_Commission   address relates to #PropTech. #SectorialRealState @EU_Commission
-https:/…",3
-RT @sofialocks: La digitalizzazione del controllo accessi è imprescindibile nel futuro del real-estate. Ecco come il PropTech sarà alla bas…,1
-"RT @IoneRueteBBC: Muy orgullosa de presentar el plantel de lujo que asesorará a @TechEstate_Tech, la nueva plataforma de @ConstrumatBCN que…",1
-"RT @reeseys: Have you heard of ""PropTech"" yet? Here are some of the reasons that you will be more and more in the future: https://t.co/bn94…",2
-"RT @Pi_Labs: LIVE TODAY: Don't miss @FaisalButt_  in conversation with speakers from @assuraplc, @AOProptech, and #PROMINDGroup on investin…",4
-RT @fabienprevots: FRENCHNEWTECH Proptech : Axeleo Capital finance les start-up de l'immobilier et du BTP https://t.co/XEslB4CKn8 #entrepri…,1
-RT @PlanetSmartCity: @SmartCitiesWorld looks at how the renaming of the Marketplace of the European Innovation Partnership on Smart Cities…,1
-RT @StartingUp_Mag: Das Münchner PropTech-Start-up Scoperty hat seine zweite Finanzierungsrunde erfolgreich abgeschlossen und sich einen si…,2
-RT @PEREonline: Spain’s Azora and France’s @BNPPRE both made their first commitments to a #proptech fund in backing @fifthwallvc’s debut Eu…,1
-RT @_futureproperty: LIVE in 15 mins - Investing in the next generation of sustainable solutions. An interactive discussion at 12:30 BST ta…,1
-RT @MxndCorp: Al final no pudo ser... 😥Enhorabuena a la propuesta ganadora Invertis👏🏻Nuestra propuesta d #proptech desd l visión disruptiva…,5
+https:/…",3,1314168381218619392
+RT @sofialocks: La digitalizzazione del controllo accessi è imprescindibile nel futuro del real-estate. Ecco come il PropTech sarà alla bas…,1,1314182002266996736
+"RT @IoneRueteBBC: Muy orgullosa de presentar el plantel de lujo que asesorará a @TechEstate_Tech, la nueva plataforma de @ConstrumatBCN que…",1,1314177036018159616
+"RT @reeseys: Have you heard of ""PropTech"" yet? Here are some of the reasons that you will be more and more in the future: https://t.co/bn94…",2,1313931869369622528
+"RT @Pi_Labs: LIVE TODAY: Don't miss @FaisalButt_  in conversation with speakers from @assuraplc, @AOProptech, and #PROMINDGroup on investin…",4,1314132203165618177
+RT @fabienprevots: FRENCHNEWTECH Proptech : Axeleo Capital finance les start-up de l'immobilier et du BTP https://t.co/XEslB4CKn8 #entrepri…,1,1313808424606416898
+RT @PlanetSmartCity: @SmartCitiesWorld looks at how the renaming of the Marketplace of the European Innovation Partnership on Smart Cities…,1,1314156689227223040
+RT @StartingUp_Mag: Das Münchner PropTech-Start-up Scoperty hat seine zweite Finanzierungsrunde erfolgreich abgeschlossen und sich einen si…,2,1314162624704045056
+RT @PEREonline: Spain’s Azora and France’s @BNPPRE both made their first commitments to a #proptech fund in backing @fifthwallvc’s debut Eu…,1,1314164650041389063
+RT @_futureproperty: LIVE in 15 mins - Investing in the next generation of sustainable solutions. An interactive discussion at 12:30 BST ta…,1,1314162091444625409
+RT @MxndCorp: Al final no pudo ser... 😥Enhorabuena a la propuesta ganadora Invertis👏🏻Nuestra propuesta d #proptech desd l visión disruptiva…,5,1314156519555059712
 "RT @SesoGlobal: Join us for a Virtual Open House on Sunday 11th Oct 2020.
-Take a virtual tour of Chois Estate, Abijo GRA &amp; The Overlook Con…",1
+Take a virtual tour of Chois Estate, Abijo GRA &amp; The Overlook Con…",1,1314154520977514501
 "RT @BCO_NextGen: FINAL CALL to vote! Members... 
 
-You only have until 12 October to cast your vote for Employer of The Year and #PropTech c…",1
-RT @archilyse: How is your digitisation strategy coming along? Do you need a hand digitising your floor plan archive? https://t.co/ItBznFyV…,1
-"RT @DiscoverCREtech: Coming up next - Join The Carbon Trust, Lloyds Bank &amp; CFP Green Buildings to explore how to improve the #sustainabilit…",1
+You only have until 12 October to cast your vote for Employer of The Year and #PropTech c…",1,1314094437589544966
+RT @archilyse: How is your digitisation strategy coming along? Do you need a hand digitising your floor plan archive? https://t.co/ItBznFyV…,1,1313406102910963712
+"RT @DiscoverCREtech: Coming up next - Join The Carbon Trust, Lloyds Bank &amp; CFP Green Buildings to explore how to improve the #sustainabilit…",1,1314148546447388673
 "RT @PropTechJapan: \ 第二期運営メンバー受付開始💪/
 
 おかげさまで1,500名規模に成長したPropTech JAPAN。
@@ -682,20 +687,20 @@ RT @archilyse: How is your digitisation strategy coming along? Do you need a han
 
 ぜひお気軽にご応募ください。
 
-#PropT…",8
+#PropT…",8,1313751113728835584
 "RT @PropTechJapan: 「不動産業界におけるデジタルトランスフォーメーションの今後とは」を開催、100名以上にご参加頂きました。
-ご登壇頂いた経産省 宮本氏 (株)GA technologies 稲本氏 三菱地所(株)石井氏@ishikennn (株)桐井製作所…",5
-"RT @mark_forrester: ""Proptech"" innovators often shout about disruption &amp; self-service. I'm backing a 🇿🇦 team on a quest to empower the prof…",2
+ご登壇頂いた経産省 宮本氏 (株)GA technologies 稲本氏 三菱地所(株)石井氏@ishikennn (株)桐井製作所…",5,1313818190980419590
+"RT @mark_forrester: ""Proptech"" innovators often shout about disruption &amp; self-service. I'm backing a 🇿🇦 team on a quest to empower the prof…",2,1313818688408166402
 "RT @propertyme: PropertyMe has been named the ABA100 Winner in The Australian Business Awards 2020 for CX Management 🎊
 
-Read the full relea…",1
-"RT @VidaImobiliaria: Proptech made in Portugal, dentro de dois anos a Keezag quer acompanhar 20% das transações de imóveis concluídas no me…",1
+Read the full relea…",1,1313981854265962497
+"RT @VidaImobiliaria: Proptech made in Portugal, dentro de dois anos a Keezag quer acompanhar 20% das transações de imóveis concluídas no me…",1,1313859640275472390
 "RT @ryan_tcw: Clever! 
 
-#proptech #fintech #tech #uktech https://t.co/fgWkiVPd8u",2
-"RT @annademyre: ""Our #business is constantly evolving, we are being asked for more and more customized #reports and this is where @getmyre…",1
-RT @sensorberg: 👀 What does the world of digital buildings actually look like? What is possible today? What has already been implemented?…,1
-"RT @aareal: Etabliertes #Wohnungsunternehmen hier, agiles #PropTech dort? Da prallen Welten aufeinander. Henning Zander, #Aareal Head of St…",3
+#proptech #fintech #tech #uktech https://t.co/fgWkiVPd8u",2,1314111439645401089
+"RT @annademyre: ""Our #business is constantly evolving, we are being asked for more and more customized #reports and this is where @getmyre…",1,1313436919838183424
+RT @sensorberg: 👀 What does the world of digital buildings actually look like? What is possible today? What has already been implemented?…,1,1313845532213866496
+"RT @aareal: Etabliertes #Wohnungsunternehmen hier, agiles #PropTech dort? Da prallen Welten aufeinander. Henning Zander, #Aareal Head of St…",3,1313841514867568640
 "RT @PropTechJapan: スタートアップピッチイベントを開催します！
 記念すべき第1回は10/15 17:00スタート。
 
@@ -703,295 +708,298 @@ RT @sensorberg: 👀 What does the world of digital buildings actually look like
 
 #PropTech #ConTech #不動産テック
 
-【10月15日（木）】PropTech…",4
+【10月15日（木）】PropTech…",4,1314026751740178432
 "RT @forochatiberoa1: ¡HOY es jueves de Foro Chat Iberoamérica!
 
 GOFFREDO ROSSI, desde Panamá,
 CEO de la startups @aptoclick 
 
-17:00 VEN, 23…",1
+17:00 VEN, 23…",1,1311642687859294211
 "RT @PropertyDanH: The latest @REDFoundation_ paper identified 350 standards that influence #data in the UK Real Estate Market...
 
-Making th…",1
-RT @askdossnow: Ask DOSS is mentioned in Houston Innovation about our being selected as 1 of 5 tech startups accepted into the Gener8tor Te…,1
-RT @realbobbybryant: Ask DOSS is mentioned in Houston Innovation about our being selected as 1 of 5 tech startups accepted into the Gener8t…,1
-RT @benliao: Join this session with @Colliers and @techstars alumni @joinlane and @getbooqed featured by @theC100.  #tsproptech #proptech #…,1
-"RT @propmodo: There are a lot of reasons that smaller construction companies have been able to make such a miraculous rebound back to work,…",3
-RT @shadowventures: Why COVID is Accelerating M&amp;A Activity (and How to Get a Deal Done) https://t.co/8q4Zcplqdq #startups #venturecapital @…,3
-RT @syncaroo_com: How booking platforms &amp; apps could become evergreen marketing channels for flex workspace operators. #proptech #coworking…,1
+Making th…",1,1311568689821515776
+RT @askdossnow: Ask DOSS is mentioned in Houston Innovation about our being selected as 1 of 5 tech startups accepted into the Gener8tor Te…,1,1313975372564910081
+RT @realbobbybryant: Ask DOSS is mentioned in Houston Innovation about our being selected as 1 of 5 tech startups accepted into the Gener8t…,1,1313975198752952322
+RT @benliao: Join this session with @Colliers and @techstars alumni @joinlane and @getbooqed featured by @theC100.  #tsproptech #proptech #…,1,1313966253355270144
+"RT @propmodo: There are a lot of reasons that smaller construction companies have been able to make such a miraculous rebound back to work,…",3,1313900181843181569
+RT @shadowventures: Why COVID is Accelerating M&amp;A Activity (and How to Get a Deal Done) https://t.co/8q4Zcplqdq #startups #venturecapital @…,3,1313917114932228097
+RT @syncaroo_com: How booking platforms &amp; apps could become evergreen marketing channels for flex workspace operators. #proptech #coworking…,1,1313940965657378816
 "RT @SocialSMktg: A social media calendar keeps you rational in your decisions (should I post this or not?).
 
-Source: https://t.co/cBYDjuT10…",1
+Source: https://t.co/cBYDjuT10…",1,1313932114228850688
 "RT @JoinCoadjute: We are very excited to announce that @reynodes COO at @JoinCoadjute will be speaking at #CordaCon2020. 
 
-Don’t miss out o…",4
-RT @sensative: How do you optimize the #energyconsumption in your #properties if you do not know how warm it is right now? With a pre-packa…,1
-RT @MichaelBleby: Sowing the seeds of regulation in property transactions: #Econveyancing rules bake in a five-year duopoly. #proptech #aus…,2
+Don’t miss out o…",4,1313930052590096385
+RT @sensative: How do you optimize the #energyconsumption in your #properties if you do not know how warm it is right now? With a pre-packa…,1,1313796980611657728
+RT @MichaelBleby: Sowing the seeds of regulation in property transactions: #Econveyancing rules bake in a five-year duopoly. #proptech #aus…,1,1313917257827979265
 "RT @magnus_s: Boom!
 Search leaseholds in the UK by expiry date. 
 #PropTech 
 It took 5 years to get this data from UK LandReg...  ;-) 
-Impre…",1
+Impre…",1,1313839606123687936
 "RT @PropertyJungle: Looking good has never been so easy.
 
 Find out more TODAY!
 
 https://t.co/Qc9GQ472CO
 
-#PropertyWebsiteDevelopers #Proper…",1
-"RT @ricardcastellet: No os perdáis la sesión de #proptech de Barcelona Tech City, innovación y digitalización en el sector inmobiliario @ap…",1
-RT @PropChallenge: Excited to partner with @connectedremag and their #Virtual #Tech Event. Focusing on the #Psychology of Making People fee…,5
+#PropertyWebsiteDevelopers #Proper…",1,1313497977290448900
+"RT @ricardcastellet: No os perdáis la sesión de #proptech de Barcelona Tech City, innovación y digitalización en el sector inmobiliario @ap…",1,1313886964081397761
+RT @PropChallenge: Excited to partner with @connectedremag and their #Virtual #Tech Event. Focusing on the #Psychology of Making People fee…,5,1313815123346305024
 "RT @AlicanteOpen: Este puede ser tu espacio de trabajo. 😍
 ¿Qué más te ofrecemos en el #hub?
-Mentoría, Formación, Testing... y ¡Acceso a Fin…",2
+Mentoría, Formación, Testing... y ¡Acceso a Fin…",2,1313397720078585856
 "RT @mapzot: Next Generation Real Estate Technology, Delivered Today!  
 https://t.co/rM1lAaFSk1
 
-#Proptech #Realtech #CommercialRealEstate #…",1
+#Proptech #Realtech #CommercialRealEstate #…",1,1304459416545169408
 "RT @mapzot: Artificial Intelligence helping you make the best CRE decisions!
 Explore @mapzot  today https://t.co/gJW8PNS91N
 
-#ArtificialInt…",1
+#ArtificialInt…",1,1313168801983205379
 "RT @mapzot: Looking for your Perfect Store Location?
 @mapzot  is here at your service!
-Get data-driven results, visit now: https://t.co/gJW…",1
+Get data-driven results, visit now: https://t.co/gJW…",1,1313540490491383809
 "RT @mapzot: Who thought it’d be this easy?
 @mapzot is #ArtificialIntelligence that makes it Faster, Smarter, and Accurate!
-Try now: https:/…",1
-"RT @AlicanteOpen: ¡Aquí están los ganadores del reto ""Proptech for sale"" que lanzamos junto a @sareb! 💪",1
-"RT @sareb: ¡Enhorabuena a @inviertis, ganadora del reto ""#proptech for sale""! La compañía pondrá en marcha un proyecto piloto con la comerc…",5
+Try now: https:/…",1,1313894608443568129
+"RT @AlicanteOpen: ¡Aquí están los ganadores del reto ""Proptech for sale"" que lanzamos junto a @sareb! 💪",1,1313805908951142400
+"RT @sareb: ¡Enhorabuena a @inviertis, ganadora del reto ""#proptech for sale""! La compañía pondrá en marcha un proyecto piloto con la comerc…",5,1313779902106267649
 "RT @AlicanteOpen: ¡Enhorabuena a @inviertis ! Su proyecto es el ganador del reto que lanzamos junto a @sareb 👏🥳
-Buscábamos propuestas que r…",1
-RT @BrendanFWallace: Great article on @fifthwallvc portfolio company @homebound: https://t.co/37bDo8X06W,1
-"RT @propmodo: For brokers who want to build their networks and grow their businesses, there are still plenty of ways to meet new faces that…",1
-RT @brlaron: How the #Pandemic Has Impacted #Amenitizing #Childcare - https://t.co/CykbQHHro1 via @propmodo,1
-RT @archilyse: Good news for the #SwissPropTech sector! Berner Kantonalbank joins Swiss Immo Lab to invest in Proptech Startups: https://t.…,4
-RT @fifthwallvc: The year is 2006. A customer walks into a Hummer dealership - never mind - the year is 2020. @BrendanFWallace is onstage a…,1
+Buscábamos propuestas que r…",1,1313851595629768706
+RT @BrendanFWallace: Great article on @fifthwallvc portfolio company @homebound: https://t.co/37bDo8X06W,1,1313554104816336898
+"RT @propmodo: For brokers who want to build their networks and grow their businesses, there are still plenty of ways to meet new faces that…",1,1313551809043021825
+RT @brlaron: How the #Pandemic Has Impacted #Amenitizing #Childcare - https://t.co/CykbQHHro1 via @propmodo,1,1313896505514881026
+RT @archilyse: Good news for the #SwissPropTech sector! Berner Kantonalbank joins Swiss Immo Lab to invest in Proptech Startups: https://t.…,4,1313853124201848832
+RT @fifthwallvc: The year is 2006. A customer walks into a Hummer dealership - never mind - the year is 2020. @BrendanFWallace is onstage a…,1,1313889237654147077
 "RT @EnvelopeTech: Thanks to @StartupInfos for this great piece!  
 
-SimCity Meets Quantitative Analysis at Envelope – a Thriving, Woman-led…",2
-"RT @propmodo: Workers that are parents will be much more likely to return to the office, even for a few days a week, if their office helped…",1
-"RT @fifthwallvc: As companies wrestle with the return-to-work question, portfolio company @WeAreVTS is arming landlords with a new tool: da…",1
-"RT @MacConvilles: In response to Covid-19 MacConvilles Surveying are redesigning the way we work, adapting &amp; evolving for the new norm. Fin…",1
-RT @gregrobertson: Speaking of a hot real estate market.  @MyClimateCheck #proptech #realestate https://t.co/HCqIiJxemk,1
+SimCity Meets Quantitative Analysis at Envelope – a Thriving, Woman-led…",2,1313882316079616000
+"RT @propmodo: Workers that are parents will be much more likely to return to the office, even for a few days a week, if their office helped…",1,1313865229780938758
+"RT @fifthwallvc: As companies wrestle with the return-to-work question, portfolio company @WeAreVTS is arming landlords with a new tool: da…",1,1313884311154614273
+"RT @MacConvilles: In response to Covid-19 MacConvilles Surveying are redesigning the way we work, adapting &amp; evolving for the new norm. Fin…",1,1313885561992679428
+RT @gregrobertson: Speaking of a hot real estate market.  @MyClimateCheck #proptech #realestate https://t.co/HCqIiJxemk,1,1313871076712046592
 "RT @realbobbybryant: ::::AWESOME NEWS ANNOUNCEMENT::::
 
-I'm ecstatic to finally be able to share that Ask DOSS is one(1) of five(5) tech st…",1
-"RT @eventstet: @keynesianr, Chair in Real Estate, @USC will be speaking about the effects of consumer debt on the rental market during Covi…",1
+I'm ecstatic to finally be able to share that Ask DOSS is one(1) of five(5) tech st…",1,1313872622396997634
+"RT @eventstet: @keynesianr, Chair in Real Estate, @USC will be speaking about the effects of consumer debt on the rental market during Covi…",1,1313874261862346752
 "RT @joinajar: We are proud to announce that #Ajar is one of the Middle East’s 50 most funded startups!
-بكل فخر نعلن أن #أجار هي واحدة من بي…",3
-RT @rentprofile: More press coverage from @MarketWatch about our Audience Favourite Win at the Visa Everywhere Initiative 2020 Pandemic Cha…,1
-RT @InvestorIdeas: SustainCo Inc. (TSXV: SMS) Broadens Focus Seeking Additional Proptech for Healthy Building Solutions and Services Offeri…,2
-RT @PrimeResi: BNP Paribas &amp; Fifth Wall team up for European proptech VC fund https://t.co/nNdS8q49Kz,1
+بكل فخر نعلن أن #أجار هي واحدة من بي…",3,1313770287763279872
+RT @rentprofile: More press coverage from @MarketWatch about our Audience Favourite Win at the Visa Everywhere Initiative 2020 Pandemic Cha…,1,1313869911043837952
+RT @InvestorIdeas: SustainCo Inc. (TSXV: SMS) Broadens Focus Seeking Additional Proptech for Healthy Building Solutions and Services Offeri…,2,1313469818431913985
+RT @PrimeResi: BNP Paribas &amp; Fifth Wall team up for European proptech VC fund https://t.co/nNdS8q49Kz,1,1313399123052093440
 "RT @RentRovi: 🥳RentRovi olarak 150.Evimizi güvenilir kiracılarla buluşturmanın mutluluğunu yaşıyoruz
 
-#rentrovi #evkiralama #kiralıkdaire #…",1
-"RT @fcivitillo: Según el último reporte de la Cámara Chilena de la Construcción #CChC, entre enero y marzo la venta de viviendas cayó 47% e…",1
-"RT @TheNewsFunnel: QuickVal: @rediq’s new #multifamily underwriting tool. Just upload your property financials, input your assumptions, and…",1
-"RT @afriqueitnews: Ce sont des jeunes pousses sénégalaises, ivoiriennes et françaises, opérant dans des domaines variés comme la FinTech (c…",1
+#rentrovi #evkiralama #kiralıkdaire #…",1,1313804238791872512
+"RT @fcivitillo: Según el último reporte de la Cámara Chilena de la Construcción #CChC, entre enero y marzo la venta de viviendas cayó 47% e…",1,1312769713802485764
+"RT @TheNewsFunnel: QuickVal: @rediq’s new #multifamily underwriting tool. Just upload your property financials, input your assumptions, and…",1,1313577284411031552
+"RT @afriqueitnews: Ce sont des jeunes pousses sénégalaises, ivoiriennes et françaises, opérant dans des domaines variés comme la FinTech (c…",1,1313826654263734272
 "RT @euratechnologie: #Evénement : 3 jours pour #Entreprendre spécial #Ecommerce &amp; #PropTech
 
-🚀ateliers thématiques pour construire votre pr…",1
-"RT @KeylivingCAN: How does our model compare with traditional homeownership? We have a unique, co-ownership model that gives you the benefi…",1
-RT @EweMoveBeverley: Protect Your #Property Against Fraud In 5mins! #Property #HomesForSale @The_Landlord https://t.co/SR2X1Stuvl,1
+🚀ateliers thématiques pour construire votre pr…",1,1313520668085026816
+"RT @KeylivingCAN: How does our model compare with traditional homeownership? We have a unique, co-ownership model that gives you the benefi…",1,1313841788826931200
+RT @EweMoveBeverley: Protect Your #Property Against Fraud In 5mins! #Property #HomesForSale @The_Landlord https://t.co/SR2X1Stuvl,1,1313839259871313921
 "RT @theC100: #C10048Hrs Proptech 🏡 discussion features
 ▪️ @joinlane CEO @ClintJRobinson
 ▪️ @RatioCity CEO Monika Jaroszonek
-▪️ @getbooqed C…",5
+▪️ @getbooqed C…",5,1313560049546072073
 "RT @godroneup: 6 reasons your #proptech strategy should include DroneUp. #propertymanagemet #CRE #business #assetmanagement 
-https://t.co/F…",1
-RT @RISMediaUpdates: How are real estate offices dealing with the pandemic around the world? We did a survey to find out. @PropTech_REP htt…,1
-"RT Fixflo ""We were delighted to have our MD Rajeev Nayyar appear on the Block Management Network podcast this week… https://t.co/U9wN0s5ekO",1
-"RT @RENXca: Read it first: Ocgrow Group of Companies creates alliance with @amazon, launches fully Alexa-enabled SOLA condos project in Cal…",3
+https://t.co/F…",1,1313615012867510273
+RT @RISMediaUpdates: How are real estate offices dealing with the pandemic around the world? We did a survey to find out. @PropTech_REP htt…,1,1313589392100020230
+"RT Fixflo ""We were delighted to have our MD Rajeev Nayyar appear on the Block Management Network podcast this week… https://t.co/U9wN0s5ekO",1,[]
+"RT @RENXca: Read it first: Ocgrow Group of Companies creates alliance with @amazon, launches fully Alexa-enabled SOLA condos project in Cal…",3,1313821762010918917
 "RT @BeemmoFr: [Team #Paris] 🐝
 📍Rdv d’estimation #Paris17 
-📈 Vous aussi, vous souhaitez connaître la valeur de votre bien immobilier? Contac…",5
-RT @uSeeHomes: Have you heard the news? @uSeeHomes is a proud sponsor of this years #EAMasters! Why not book a demo of our software to see…,3
-RT @inviertis: Orgullosos ganadores del reto de @Sareb que ayuda al posicionamiento de Inviertis como una de las #proptech de referencia. P…,3
-RT @naashonomics: #india #proptech #realestate service will see 30% yoy growth as #india economy grows rent/price will be boost making it v…,1
-"RT @AOProptech: You have probably heard of #IoT before, but how does it work? And what are the trends that will shape this decade regarding…",2
-RT @MMWorkplace: It was a great pleasure to discuss #bim #proptech  #tenantexperience and #sustainability with Christian Stammel of @BIMWor…,1
+📈 Vous aussi, vous souhaitez connaître la valeur de votre bien immobilier? Contac…",5,1313816231288483840
+RT @uSeeHomes: Have you heard the news? @uSeeHomes is a proud sponsor of this years #EAMasters! Why not book a demo of our software to see…,3,1313809741265678337
+RT @inviertis: Orgullosos ganadores del reto de @Sareb que ayuda al posicionamiento de Inviertis como una de las #proptech de referencia. P…,3,1313783627923193856
+RT @naashonomics: #india #proptech #realestate service will see 30% yoy growth as #india economy grows rent/price will be boost making it v…,1,1313825103650586626
+"RT @AOProptech: You have probably heard of #IoT before, but how does it work? And what are the trends that will shape this decade regarding…",2,1313764196505595906
+RT @MMWorkplace: It was a great pleasure to discuss #bim #proptech  #tenantexperience and #sustainability with Christian Stammel of @BIMWor…,1,1313475561113649158
 "RT @ElReferente: #Ecosistema🌎
 
 El proptech Casavo adquiere la startup de tours virtuales @realistico_es 
 
-📌https://t.co/F57M1rmJ4l",1
-RT @TechEstate_Tech: @casavoHQ adquiere la PropTech especializada en tours virtuales @realistico_es después de dos años de colaboración. La…,2
-"RT @AlicanteOpen: ¡Aquí están los ganadores del reto ""Proptech for sale"" que lanzamos junto a @sareb! 💪 https://t.co/9c9d6PZMJm",1
-RT @UKProptech: Are you a #PropTech company that has worked alongside other companies in the industry to drive #DigitalTransformation of th…,3
-RT @REach_GB: Join @Terri_Nova &amp; @ShelliTrung @builtworlds 2020 Digital Global Summit today and tomorrow ! Reserve your spot now! https://t…,1
-RT @UKTNofficial: PropTech startup Mashroom raises £4m https://t.co/iAPEOKC0AK,1
-RT @PlanetSmartCity: Who knew #IoT could improve quality of life and reduce costs? That's exactly our aim by integrating solutions into our…,1
-"RT @BLeaderNews: ""We’re thrilled to have some amazing investors on board &amp; look forward to leaning on their expertise as we broaden the hor…",1
-RT @PropertyJourn: PropTech Today: the challenge with iBuyers https://t.co/1Vo8gbAsCc #proptech #technology #TechNews,2
-RT @QwerteeI: #InspirationalWednesdays✌This week we look at a #trending article around digital mortgage platforms &amp; their questioned potent…,1
-RT @Mallcommapp: Proud to be a sponsor of this years UK PropTech Association (UKPA) Awards having picked up an award of our own last year!…,1
-RT @Pi_Labs: Calling all #PropTech entrepreneurs...Pi Labs Office Hours are back! If you have an idea that you would like to get feedback o…,4
-RT @MeFintech: An AI-Based Real Estate Lending Platform for Dubai’s Financial Institutions https://t.co/HmYiVNTyjQ #AI #Dubai #fintech #pro…,1
-RT @ElvinBox: @PropTech_BG @LondonCEClub Sincere &amp; grateful thanks! Flying the LCEC flag in the lovely city of #Sofia #Bulgaria #technology…,1
+📌https://t.co/F57M1rmJ4l",1,1312678849487015936
+RT @TechEstate_Tech: @casavoHQ adquiere la PropTech especializada en tours virtuales @realistico_es después de dos años de colaboración. La…,2,1313403737361256449
+"RT @AlicanteOpen: ¡Aquí están los ganadores del reto ""Proptech for sale"" que lanzamos junto a @sareb! 💪 https://t.co/9c9d6PZMJm",1,1313805908951142400
+RT @UKProptech: Are you a #PropTech company that has worked alongside other companies in the industry to drive #DigitalTransformation of th…,3,1313779100738351104
+RT @REach_GB: Join @Terri_Nova &amp; @ShelliTrung @builtworlds 2020 Digital Global Summit today and tomorrow ! Reserve your spot now! https://t…,1,1313798871001239552
+RT @UKTNofficial: PropTech startup Mashroom raises £4m https://t.co/iAPEOKC0AK,1,1291704982975193089
+RT @PlanetSmartCity: Who knew #IoT could improve quality of life and reduce costs? That's exactly our aim by integrating solutions into our…,1,1313760164005240832
+"RT @BLeaderNews: ""We’re thrilled to have some amazing investors on board &amp; look forward to leaning on their expertise as we broaden the hor…",1,1313773613745569792
+RT @PropertyJourn: PropTech Today: the challenge with iBuyers https://t.co/1Vo8gbAsCc #proptech #technology #TechNews,2,1313680483079933953
+RT @QwerteeI: #InspirationalWednesdays✌This week we look at a #trending article around digital mortgage platforms &amp; their questioned potent…,1,1313789263478239233
+RT @Mallcommapp: Proud to be a sponsor of this years UK PropTech Association (UKPA) Awards having picked up an award of our own last year!…,1,1313768392667664384
+RT @Pi_Labs: Calling all #PropTech entrepreneurs...Pi Labs Office Hours are back! If you have an idea that you would like to get feedback o…,4,1313475665140817923
+RT @MeFintech: An AI-Based Real Estate Lending Platform for Dubai’s Financial Institutions https://t.co/HmYiVNTyjQ #AI #Dubai #fintech #pro…,1,1313724700942532608
+RT @ElvinBox: @PropTech_BG @LondonCEClub Sincere &amp; grateful thanks! Flying the LCEC flag in the lovely city of #Sofia #Bulgaria #technology…,1,1313772850457858048
 "RT @realbobbybryant: I sincerely enjoyed this experience talking Voice-Tech with Nick Meyers via The Artificial Podcast. Check it out! 
 
-#p…",3
-RT @PropTech_BG: Elvin Box Chair London Construction Excellence joins us on Nov 5 with a workshop on the topic of System Thinking &amp; Technol…,1
-"RT @UKProptech: Deadline is fast approaching... Nominate yourself, your company or others and celebrate the best of UK PropTech at the virt…",1
-RT @YourOwnROOM: We are happy to announce that our Co-Founder Mr. Sachin Joshi featured in an article by @brilliantread Media.  He shared g…,1
-RT @_futureproperty: The #ReimaginingRealEstate Sustainability Summit European Perspectives begins in just one hour! Grab a cup of coffee a…,1
-RT @REALCOMMtweet: We are three weeks away from Realcomm | IBcon 2020! Register and connect with industry leaders for cutting-edge conversa…,4
+#p…",3,1313700672467021825
+RT @PropTech_BG: Elvin Box Chair London Construction Excellence joins us on Nov 5 with a workshop on the topic of System Thinking &amp; Technol…,1,1311775303035953152
+"RT @UKProptech: Deadline is fast approaching... Nominate yourself, your company or others and celebrate the best of UK PropTech at the virt…",1,1313497846528737298
+RT @YourOwnROOM: We are happy to announce that our Co-Founder Mr. Sachin Joshi featured in an article by @brilliantread Media.  He shared g…,1,1313767874641760258
+RT @_futureproperty: The #ReimaginingRealEstate Sustainability Summit European Perspectives begins in just one hour! Grab a cup of coffee a…,1,1313756225033601024
+RT @MichaelBleby: Sowing the seeds of regulation in property transactions: #Econveyancing rules bake in a five-year duopoly. #proptech #aus…,1,1313753072762404864
+RT @REALCOMMtweet: We are three weeks away from Realcomm | IBcon 2020! Register and connect with industry leaders for cutting-edge conversa…,4,1313603688703746048
 "RT @aequius: Investing in a leasehold? You may want to think again!
 
 https://t.co/JV7PaGf7pQ
 
-#RealEstateInvesting… https://t.co/QWONJKCCg7",1
-RT @BrigadeReap: We are incredibly humbled by this recognition. Our work has only just begun. Our startups are our biggest stars and this i…,6
-"RT @owenboswarva: Supplier opportunity – Data Analysis &amp; Insight Capability Partner at @HMLandRegistry, location flexible https://t.co/MHIa…",6
-RT @Erik_is_online: Levert het IoT in gebouwen ook echt bedrijfswaarde op? En hoe dan wel? #proptech expert Koen Matthijs geeft het antwoor…,1
+#RealEstateInvesting… https://t.co/QWONJKCCg7",1,[]
+RT @BrigadeReap: We are incredibly humbled by this recognition. Our work has only just begun. Our startups are our biggest stars and this i…,6,1313441387916914689
+"RT @owenboswarva: Supplier opportunity – Data Analysis &amp; Insight Capability Partner at @HMLandRegistry, location flexible https://t.co/MHIa…",6,1313567471866085377
+RT @Erik_is_online: Levert het IoT in gebouwen ook echt bedrijfswaarde op? En hoe dan wel? #proptech expert Koen Matthijs geeft het antwoor…,1,1313722664519958531
 "RT @askdossnow: Our CEO, Bobby Bryant, talks Voice-Tech and Real Estate on The Artificial Podcast. 
 
-#proptech #voicetech #voicefirst #plac…",1
-RT @365connect: 365 Connect Receives Two NYX Marcom Awards for Its Industry-Leading ADA-Certified Platform – READ MORE:  https://t.co/03djL…,1
+#proptech #voicetech #voicefirst #plac…",1,1313701028748034054
+RT @365connect: 365 Connect Receives Two NYX Marcom Awards for Its Industry-Leading ADA-Certified Platform – READ MORE:  https://t.co/03djL…,1,1298351263839649795
 "RT @realquantumapp: Tips to make sure eagerness to close doesn't overshadow the need to properly review CRE sale terms.
-https://t.co/qJPIue…",1
-RT @altusgroup: Scott Morey of @one11advisors and a panel of guests explore the evolution and future of #Proptech in this new episode of Na…,1
-"RT @OpenpathSec: TODAY: We’ll be at #ISCWest 2020 with new products, demos, and live Q&amp;A sessions. Check out our virtual boot in the Exhibi…",2
-RT @MetaPropNYC: The #PropTech space is full of automation but @BoweryValuation hasn’t fully 'bought in' and it has its benefits; Their hyb…,1
+https://t.co/qJPIue…",1,1313570050062913536
+RT @altusgroup: Scott Morey of @one11advisors and a panel of guests explore the evolution and future of #Proptech in this new episode of Na…,1,1313521788148740098
+"RT @OpenpathSec: TODAY: We’ll be at #ISCWest 2020 with new products, demos, and live Q&amp;A sessions. Check out our virtual boot in the Exhibi…",2,1313121592348606465
+RT @MetaPropNYC: The #PropTech space is full of automation but @BoweryValuation hasn’t fully 'bought in' and it has its benefits; Their hyb…,1,1172133100798840832
 "RT @KerfuffleClub: New online letting tool for agents @SpriftProperty 🥰
 https://t.co/Uv01OcU4ew 
 
-P.S. Did you check out our #supplierspotl…",3
-RT @realfundtokens: Gracias a @BnewWeek BNEW - Barcelona New Economy Week por habernos seleccionado como una de las 50 empresas más innovad…,3
-RT @AntBuckleyThorp: To all the AEC/Proptech startups out there laughing at the UK Excel covid19 story - let this be a reminder to us all t…,6
-"RT @CREmobile: It’s the simple things! Jose Miguel Padron Ibarrondo of The JM Padron Team sums it up nicely. #TheAnalystPRO is the fastest,…",1
-"RT @andres_leal7: @NicolasUribe @camaracomerbog Nicolás, invitado a participar en nuestra tercera temporada de nuestro podcast 🎧 https://t.…",1
-"RT @mglamarca: Esto es lo que quiere decir el gobierno y el sector inmobiliario español cuando hablan de ""profesionalizar el mercado del al…",1
-"RT @Totalview_media: When shooting 360 aerial view for clients,  a good rule of thumb is to ensure the focus remains on the client's space…",3
-"RT @Asociacion_DEC: ""En el mundo de las #PropTech, hay muchas compañías que basan ""su vida"" en la mejora de la experiencia de usuario"", @rg…",1
-RT @TriariiLatam: ¿Cómo #Blockchain puede revolucionar el sector inmobiliario? https://t.co/jPgdeXuBtk  #proptech,2
-RT @YorkRLA: Email info@yorkrla.co.uk for an invite https://t.co/tW4Bos2kvp,1
-"RT @TheNewsFunnel: QuickVal: redIQ’s new #multifamily underwriting tool. Just upload your property financials, input your assumptions, and…",2
-"RT @eventstet: Michael Cohen, VP at @TheCoStarGroup will be speaking with us about the effects of the #evictionmoratorium and rental demand…",3
+P.S. Did you check out our #supplierspotl…",3,1313396132152774658
+RT @realfundtokens: Gracias a @BnewWeek BNEW - Barcelona New Economy Week por habernos seleccionado como una de las 50 empresas más innovad…,3,1313484179447984129
+RT @AntBuckleyThorp: To all the AEC/Proptech startups out there laughing at the UK Excel covid19 story - let this be a reminder to us all t…,6,1313424012534571008
+"RT @CREmobile: It’s the simple things! Jose Miguel Padron Ibarrondo of The JM Padron Team sums it up nicely. #TheAnalystPRO is the fastest,…",1,1313576422951223306
+"RT @andres_leal7: @NicolasUribe @camaracomerbog Nicolás, invitado a participar en nuestra tercera temporada de nuestro podcast 🎧 https://t.…",1,1313569586554564608
+"RT @mglamarca: Esto es lo que quiere decir el gobierno y el sector inmobiliario español cuando hablan de ""profesionalizar el mercado del al…",1,1313457166930542597
+"RT @Totalview_media: When shooting 360 aerial view for clients,  a good rule of thumb is to ensure the focus remains on the client's space…",3,1313394684576903168
+"RT @Asociacion_DEC: ""En el mundo de las #PropTech, hay muchas compañías que basan ""su vida"" en la mejora de la experiencia de usuario"", @rg…",1,1313422160980041729
+RT @TriariiLatam: ¿Cómo #Blockchain puede revolucionar el sector inmobiliario? https://t.co/jPgdeXuBtk  #proptech,2,1311849801122807808
+RT @YorkRLA: Email info@yorkrla.co.uk for an invite https://t.co/tW4Bos2kvp,1,1313457853643001858
+"RT @TheNewsFunnel: QuickVal: redIQ’s new #multifamily underwriting tool. Just upload your property financials, input your assumptions, and…",2,1313118967658053634
+"RT @eventstet: Michael Cohen, VP at @TheCoStarGroup will be speaking with us about the effects of the #evictionmoratorium and rental demand…",3,1313530460098625536
 "RT @VanessaAlvarez1: We’re so excited to be in #Boston! 
-#realestate #PropTech  https://t.co/MgCXdfMmuJ",3
+#realestate #PropTech  https://t.co/MgCXdfMmuJ",3,1313486786522501126
 "RT @Xbond49: This #Website was created to show what youd like as a #cartoon
 
-#ArtificialIntelligence #MachineLearning #DeepLearning #fintec…",1
-RT @CHAOSarchitects: We are excited to announce our five new members of the board and two new advisers. They bring exceptional experience i…,1
+#ArtificialIntelligence #MachineLearning #DeepLearning #fintec…",1,1313388775477706752
+RT @CHAOSarchitects: We are excited to announce our five new members of the board and two new advisers. They bring exceptional experience i…,1,1301146287287529473
 "RT @enertiv: A new milestone: 10 BILLION hours of data captured!
 
-#IoT #AI #MachineLearning #DeepLearning #SmartBuilding #PropTech #CREtech…",1
-RT @Venn_Innovation: Congratulations on @propertyguys on your continued global growth! Bravo! Great to see #proptech companies growing here…,1
-"RT @propmodo: As offices begin to reopen, will they have to compete with our homes and neighborhood coffee shops to entice employees to ret…",1
-RT @AmySprift: Massive week ahead in the world of @SpriftProperty! The launch of 'Lettings Intelligence' at the #EAMasters with the @propac…,1
+#IoT #AI #MachineLearning #DeepLearning #SmartBuilding #PropTech #CREtech…",1,1313528798692900864
+RT @Venn_Innovation: Congratulations on @propertyguys on your continued global growth! Bravo! Great to see #proptech companies growing here…,1,1313516992608063496
+"RT @propmodo: As offices begin to reopen, will they have to compete with our homes and neighborhood coffee shops to entice employees to ret…",1,1313513986332131329
+RT @AmySprift: Massive week ahead in the world of @SpriftProperty! The launch of 'Lettings Intelligence' at the #EAMasters with the @propac…,1,1313036673140297729
 "RT @SpriftProperty: The Virtual EA Masters https://t.co/9JJY2deDvh
 
-#estateagency #estateagents #estateagent #proptech #propertymarket #eam…",1
-"RT @SkylineConf: 🚨 #Speaker Atul Bhatt, Advisor of Policy &amp; Innovation at @CMHC_ca will be our third &amp; final speaker at our upcoming event…",1
+#estateagency #estateagents #estateagent #proptech #propertymarket #eam…",1,1313058115290632193
+"RT @SkylineConf: 🚨 #Speaker Atul Bhatt, Advisor of Policy &amp; Innovation at @CMHC_ca will be our third &amp; final speaker at our upcoming event…",1,1313501859773022208
 "RT @LMREPropTech: Don't miss our upcoming webinar next Tuesday! 
 
 LMRE Host - 'Lessons learnt in PropTech from the leaders in the space'
 
-J…",1
-"RT @AssettiSW: How is data and important information gathered for your team? Do you use spreadsheets, online tools, a cloud application or…",1
-RT @UKProptech: As the #PropTech industry continues to thrive and has played a crucial part in supporting the #property industry through to…,1
+J…",1,1313497414729445378
+"RT @AssettiSW: How is data and important information gathered for your team? Do you use spreadsheets, online tools, a cloud application or…",1,1313454872839311360
+RT @UKProptech: As the #PropTech industry continues to thrive and has played a crucial part in supporting the #property industry through to…,1,1313501965549273090
 "RT @CityofYork: Wearing a face covering can stop the spread of the virus. Let’s stay safe and protect each other.
-For guidance on how to ma…",1
-"RT @Prologis: Join Will O'Donnell, head of Prologis Ventures, for the latest in technological advancements in commercial real estate on Oct…",2
-RT @EweMoveBeverley: UK rent prices are on the rise #Property #HomesForSale #Landlords @PropertyWire https://t.co/H5UI5xtXw8,1
-RT @TheNeg: Both @Crowdcube and @Seedrs were used by investors to back the hybrid agency along with many other well-known #proptech and onl…,2
-"RT @VecoByEurolink: Data equals knowledge, and the more knowledge you have at your disposal, the better position you’ll be in to make infor…",1
-RT @andres_leal7: #Proptech: la industria que promete revolucionar el sector inmobiliario  https://t.co/wIQAwcpoNp a través de @RevistaDine…,1
+For guidance on how to ma…",1,1313510030415663104
+"RT @Prologis: Join Will O'Donnell, head of Prologis Ventures, for the latest in technological advancements in commercial real estate on Oct…",2,1313284574324035585
+RT @EweMoveBeverley: UK rent prices are on the rise #Property #HomesForSale #Landlords @PropertyWire https://t.co/H5UI5xtXw8,1,1313499770170880000
+RT @TheNeg: Both @Crowdcube and @Seedrs were used by investors to back the hybrid agency along with many other well-known #proptech and onl…,2,1313418723307343873
+"RT @VecoByEurolink: Data equals knowledge, and the more knowledge you have at your disposal, the better position you’ll be in to make infor…",1,1313495155505344516
+RT @andres_leal7: #Proptech: la industria que promete revolucionar el sector inmobiliario  https://t.co/wIQAwcpoNp a través de @RevistaDine…,1,1311763943971487745
 "RT @asdweek: Today’s Daily Ten (10/01/2020) 
 https://t.co/9xKvm8tmYR 
-#palantir #realestate #tech #news #innovation #Daily10 #proptech #Any…",1
-RT @KristjanByfield: Just been shown a fantastic bit of agent devised #PropTech - products built by agents just get what we do &amp; what needs…,1
+#palantir #realestate #tech #news #innovation #Daily10 #proptech #Any…",1,1311629497423343617
+RT @KristjanByfield: Just been shown a fantastic bit of agent devised #PropTech - products built by agents just get what we do &amp; what needs…,1,1313435700298166272
 "RT @IcelandinNY: PropTech in New York webinar, Oct. 7 - @NordicHouseNY 
 
 – RSVP here: https://t.co/swDemARpeT
 
-#nihny #ny #nordicmade #nord…",1
+#nihny #ny #nordicmade #nord…",1,1313489444398391306
 "RT @HlynurGudjons: PropTech in New York webinar, Oct. 7 - @NordicHouseNY 
 
 – RSVP here: https://t.co/HDC1JwSxra
 
-#nihny #ny #nordicmade #no…",1
+#nihny #ny #nordicmade #no…",1,1313489514774528000
 "RT @atlantio: ATLANT’s UVAS SELECTED FOR FINTECH INNOVATION LAB ASIA-PACIFIC BY #ACCENTURE
 -----
-#Blockchain #Ethereum #Fintech #Proptech #…",1
-RT @housingtech: .@ongoUK has reduced its arrears over the past two years thanks to introducing a ‘rent first’ approach alongside @Mobysoft…,1
+#Blockchain #Ethereum #Fintech #Proptech #…",1,1313410408213078023
+RT @housingtech: .@ongoUK has reduced its arrears over the past two years thanks to introducing a ‘rent first’ approach alongside @Mobysoft…,1,1313390244264316929
 "RT @TCW_01: @ThePeakyPlumber Dear #Ukhousing @CommsHero @WeAreResource #CommsHero @housingdigital_ @PBC_Today 
 
-We are up against a fantast…",3
-"RT @Mallcommapp: Meadowhall has been utilising #Mallcomm for a number of years, but we continue to adapt and evolve the product to ensure t…",3
-RT @UKProptech: Worried about getting business off the ground in the wake of COVID-19? See how the experts are managing the slow process ba…,1
+We are up against a fantast…",3,1313438181396828160
+"RT @Mallcommapp: Meadowhall has been utilising #Mallcomm for a number of years, but we continue to adapt and evolve the product to ensure t…",3,1313450259889246209
+RT @UKProptech: Worried about getting business off the ground in the wake of COVID-19? See how the experts are managing the slow process ba…,1,1313465359920496642
 "RT @PropertyDanH: Now, I definitely don't want to highlight this $41.3m fine to anyone in property, so opted for subtle image.
 
-An increasi…",1
-RT @rentprofile: Thank you to Sheraton Management for being one of the first clients to use Onboarding. We’re happy to see how much it impr…,1
-RT @RealtyNXT: #Proptech | @PropertyRaptor is a #CRM #digital platform that nurtures leads and increases #conversion rates by matching #cus…,1
+An increasi…",1,1313432185622409217
+RT @rentprofile: Thank you to Sheraton Management for being one of the first clients to use Onboarding. We’re happy to see how much it impr…,1,1313464102275166214
+RT @RealtyNXT: #Proptech | @PropertyRaptor is a #CRM #digital platform that nurtures leads and increases #conversion rates by matching #cus…,1,1313457677872242694
 "RT @Steph_PBCToday: 95% of property professionals positive about #proptech https://t.co/wKpSnbB8Bx
 
-#digitalstrategy #Technology #DigitalCo…",1
-"RT @sofialocks: PropTech solutions bring flexible spaces into the digital arena. Make your business competitive with our cloud technology,…",1
+#digitalstrategy #Technology #DigitalCo…",1,1003953836279697408
+"RT @sofialocks: PropTech solutions bring flexible spaces into the digital arena. Make your business competitive with our cloud technology,…",1,1313448924422844419
 "RT @AlifRealty: Our CEO &amp; CO-FOUNDER MR. Khurrum Zahoor explains the importance of educating the investors about latest market trends.
-http…",1
+http…",1,1313168887874109442
 "RT @AlifRealty: Indian real estate market will be a world leader by 2030.
-#alifrealty  #alifterms #a2zrealestate #propertyadvisor #proptech…",1
-RT @PropChallenge: @REBNY 2020 #PropTech Challenge is now live.  We're excited to partner with the @connectedremag Virtual #Tech Event on 1…,1
-RT @YourOwnROOM: Staying at a co-living space has never been easier before. Just a few taps on the screen and step inside your flat. It's a…,1
+#alifrealty  #alifterms #a2zrealestate #propertyadvisor #proptech…",1,1313372112875257856
+RT @PropChallenge: @REBNY 2020 #PropTech Challenge is now live.  We're excited to partner with the @connectedremag Virtual #Tech Event on 1…,1,1313449136092590080
+RT @YourOwnROOM: Staying at a co-living space has never been easier before. Just a few taps on the screen and step inside your flat. It's a…,1,1313445027469697025
 "RT @ShiCooks: #Norway's 47BN coastal #infrastructure project 
 
 By @TheB1M ~ TY, @enricomolinari 
 #SmartCities #PropTech #Industry40
 
-@Droit…",2
-RT @RENXca: Want to build a cutting edge marketing campaign for your next development? Montreal's Imagine 4D seeks residential real estate…,1
-"RT @METR_BMS: Wir machen #Wohnimmobilien durch #Digitalisierung fit für die Zukunft und revolutionieren die Art und Weise, wie Gebäude scho…",1
-"RT @Plentific: Time is precious. That's why we believe trade businesses should adopt new solutions to reduce the time spent on admin, and i…",2
-"RT @UKProptech: Don't miss our webinar to hear from #PropTech Gold Members, @offr_property &amp; their recent £2.7m raise in seed funding &amp; les…",1
+@Droit…",2,1256166568192606208
+RT @RENXca: Want to build a cutting edge marketing campaign for your next development? Montreal's Imagine 4D seeks residential real estate…,1,1313440126056509440
+"RT @METR_BMS: Wir machen #Wohnimmobilien durch #Digitalisierung fit für die Zukunft und revolutionieren die Art und Weise, wie Gebäude scho…",1,1313438639565819910
+"RT @Plentific: Time is precious. That's why we believe trade businesses should adopt new solutions to reduce the time spent on admin, and i…",2,1313421076072935424
+"RT @UKProptech: Don't miss our webinar to hear from #PropTech Gold Members, @offr_property &amp; their recent £2.7m raise in seed funding &amp; les…",1,1313150778077573129
 "RT @inspectapp: Join us at @DiscoverCREtech's Real Estate Sustainability Summit 7th October for a demo on Property Inspections.
 
-Register t…",1
-RT @LatamProptech: ¿Qué es proptech y por qué transformará al sector inmobiliario?  https://t.co/4lapCQU5zI,1
+Register t…",1,1313428770628481025
+RT @LatamProptech: ¿Qué es proptech y por qué transformará al sector inmobiliario?  https://t.co/4lapCQU5zI,1,1312821920358969345
 "RT @CapsuleCorpStd: 🤔Vous avez un projet innovant en tête? Capsule Corp. se charge de votre mise en orbite! 🛰️ 
-📱Prenez contact avec notre…",2
-RT @Julienwatry: Crédit immobilier : les députés votent la résiliation de l’assurance emprunteur #Proptech https://t.co/nKikNAY8pP https://…,1
-RT @gemassmer: The Residential Sector Needs To Offer A Seamless Blend Of Uses @TheUKAA @UKProptech #CRE #PropTech @Yardi  https://t.co/7VL7…,1
-"RT @RealtyNXT: #News | @cbreasia has partnered with #RealTechX, an innovation program backed by Asian venture capital firm @TarongaGroup Ve…",1
-RT @HarvardBiz: The four qualities of great leaders. https://t.co/oc3bdEJuIn,1
-"RT @OmoGbajaBiamila: Roland Igbinoba (@RIgbinoba) is the Founder, Pison Housing Company; a Growth &amp; Development Economist; Microbiologist;…",4
-"RT @MartinGednyEMEA: “Property investors recognise that providing a variety of unique spaces will create the flexibility residents need."" @…",4
-RT @Datafloq: How PropTech Is Evolving Within The Property Industry? https://t.co/nxlb7Y9nrY https://t.co/BwzuurGP8N,1
-RT @CityAM: New £90m fund chases proptech startups across UK and Europe https://t.co/mX8kzH48Gx https://t.co/whJn3tbSBq,3
-RT @KeesmanMatthijs: How PropTech Is Evolving Within The Property Industry? https://t.co/IfiIrBPCqU via @Datafloq #bigdata #ai #datascience,2
-RT @KristjanByfield: Calling all my #PropTech friendly #EstateAgents &amp; #LettingAgents - why not enter the @UKProptech #awards and share sto…,4
-"RT @WUExAC: Vitaly Berezka has been pursuing new career paths since July 2020. The GEMBA graduate, who is also a university lecturer at the…",1
-RT @HarvardBiz: Leaders everywhere are enjoying the rewards and privileges of having a top position — while ignoring their teams. https://t…,1
-RT @NodeCo: What a great alliance thus has already proven to be - its great to be working with the @ParagonBC team as landlords realise the…,1
+📱Prenez contact avec notre…",2,1313358361325436930
+RT @Julienwatry: Crédit immobilier : les députés votent la résiliation de l’assurance emprunteur #Proptech https://t.co/nKikNAY8pP https://…,1,1313193565506469888
+RT @gemassmer: The Residential Sector Needs To Offer A Seamless Blend Of Uses @TheUKAA @UKProptech #CRE #PropTech @Yardi  https://t.co/7VL7…,1,1313413315142524928
+RT @workinstartups: 🏘️ 🌟 Passion for #PropTech or #investment? Or #marketing pro after a new #startup challenge? Our friends at @Brickowner…,1,1313411198969434112
+"RT @RealtyNXT: #News | @cbreasia has partnered with #RealTechX, an innovation program backed by Asian venture capital firm @TarongaGroup Ve…",1,1313369366549856256
+RT @HarvardBiz: The four qualities of great leaders. https://t.co/oc3bdEJuIn,1,1313392485792722944
+"RT @OmoGbajaBiamila: Roland Igbinoba (@RIgbinoba) is the Founder, Pison Housing Company; a Growth &amp; Development Economist; Microbiologist;…",4,1313136237830602756
+"RT @MartinGednyEMEA: “Property investors recognise that providing a variety of unique spaces will create the flexibility residents need."" @…",4,1313365967771242496
+RT @Datafloq: How PropTech Is Evolving Within The Property Industry? https://t.co/nxlb7Y9nrY https://t.co/BwzuurGP8N,1,1313368757331464192
+RT @CityAM: New £90m fund chases proptech startups across UK and Europe https://t.co/mX8kzH48Gx https://t.co/whJn3tbSBq,3,1313369288003088384
+RT @KeesmanMatthijs: How PropTech Is Evolving Within The Property Industry? https://t.co/IfiIrBPCqU via @Datafloq #bigdata #ai #datascience,2,1313373862697070593
+RT @KristjanByfield: Calling all my #PropTech friendly #EstateAgents &amp; #LettingAgents - why not enter the @UKProptech #awards and share sto…,4,1313226828119711744
+"RT @WUExAC: Vitaly Berezka has been pursuing new career paths since July 2020. The GEMBA graduate, who is also a university lecturer at the…",1,1313374079915880448
+RT @HarvardBiz: Leaders everywhere are enjoying the rewards and privileges of having a top position — while ignoring their teams. https://t…,1,1313361256619933696
+RT @NodeCo: What a great alliance thus has already proven to be - its great to be working with the @ParagonBC team as landlords realise the…,1,1312009031834390528
 "RT @LandlordBB: 'What role does reliable Wi-Fi play in the success of your serviced accommodation business?' 
 
-Read our blog post at: https…",1
+Read our blog post at: https…",1,1313360840574283776
 "RT @Camber_Creek: Interesting piece in @propmodo with new information on how the pandemic affects how we manage our buildings. #PropTech
-ht…",3
-RT @propster_: Ein neues Projekt mit der CONCEPT BAU GmbH in München. Mehr Informationen zum Quartier Neuhausen finden sich im Blogbeitrag…,1
-RT @ColProptech: Mañana llega Proptech Meetings a las 5PM que contará con la participación de Martín Arango CEO de Home Capital @homecapita…,1
+ht…",3,1313207544148627457
+RT @propster_: Ein neues Projekt mit der CONCEPT BAU GmbH in München. Mehr Informationen zum Quartier Neuhausen finden sich im Blogbeitrag…,1,1313027356446121984
+RT @ColProptech: Mañana llega Proptech Meetings a las 5PM que contará con la participación de Martín Arango CEO de Home Capital @homecapita…,1,1313263414668558336
 "RT @shunn_sakurai: DX銘柄2020イベント始まりました！不動産業界から選出されたGAテクノロジーズ、三菱地所の皆様からプレゼンいただきます。冒頭は制度設計、運営されている経産省様からのプレゼンです。
 
-#PropTech #不動産テック #DX #デジタルト…",2
-RT @RealtyNXT: #NewsUpdate | Habitat for Humanity’s Terwilliger Center for Innovation in Shelter announced an #equity #investment of INR 19…,1
-"RT @mgrullonh: La tecnología organiza, rentabiliza y ayuda los procesos comerciales inmobiliarios, pero el aporte más importante es la data…",1
-RT @ApartmentWire: There are a lot of venture capital firms and tech startups pitching the latest and greatest solutions for multifamily.…,1
-"RT @PropertyTV_io: This week on Beyond The Box, @LynetteKeyowski  is joined by the extremely intelligent and seasoned tech expert Bill Andr…",1
-RT @TheCXApp: DESKS: a hot topic for workplace #reentry. The most important thing you need to know is employees gain increased mobility and…,1
+#PropTech #不動産テック #DX #デジタルト…",2,1313334231074922498
+RT @RealtyNXT: #NewsUpdate | Habitat for Humanity’s Terwilliger Center for Innovation in Shelter announced an #equity #investment of INR 19…,1,1313338650009034752
+"RT @mgrullonh: La tecnología organiza, rentabiliza y ayuda los procesos comerciales inmobiliarios, pero el aporte más importante es la data…",1,1312088565652873218
+RT @ApartmentWire: There are a lot of venture capital firms and tech startups pitching the latest and greatest solutions for multifamily.…,1,1312129483143434240
+"RT @PropertyTV_io: This week on Beyond The Box, @LynetteKeyowski  is joined by the extremely intelligent and seasoned tech expert Bill Andr…",1,1313082762568425472
+RT @TheCXApp: DESKS: a hot topic for workplace #reentry. The most important thing you need to know is employees gain increased mobility and…,1,1312067319150055424
 "RT @jmwass: So, I have a PropTech Rolling Fund.
 
 We've got some amazing founders and real estate executives on board.
 
-And some great deals…",3
+And some great deals…",3,1313143814874333191
 "RT @joinlane: Tune in on Nov 18-19 to hear Lane CCO and superstar 
-@RheaClaus discuss the mobile-first, digitally powered future of work at…",1
-RT @TheEighthDoor: PropTech - the digital revolution of the property industry - Don't miss out by sitting on the fence - join our latest pr…,1
-"RT @ffjoustra: A breakthrough in BIM for facility management, the return to the – socially distanced – office, new use cases of making sens…",1
-"RT @rigbinoba: YES! I will speaking on the strategic inflection point that we are in, as it concerns Property Technology #PropTech @NGPrope…",2
-RT @TriariiLatam: 💡Innovación: Adaptarse o morir en Real Estate - Escucha nuestro nuevo podcast sobre Real Estate Tech -Proptech 👉🏼  https:…,1
+@RheaClaus discuss the mobile-first, digitally powered future of work at…",1,1313204975456137216
+RT @TheEighthDoor: PropTech - the digital revolution of the property industry - Don't miss out by sitting on the fence - join our latest pr…,1,1312693961153224704
+"RT @ffjoustra: A breakthrough in BIM for facility management, the return to the – socially distanced – office, new use cases of making sens…",1,1313229514760237059
+"RT @rigbinoba: YES! I will speaking on the strategic inflection point that we are in, as it concerns Property Technology #PropTech @NGPrope…",2,1313144528635920386
+RT @TriariiLatam: 💡Innovación: Adaptarse o morir en Real Estate - Escucha nuestro nuevo podcast sobre Real Estate Tech -Proptech 👉🏼  https:…,1,1312938226462621696
 "RT @michaeldacosta: Nice slice of cake https://t.co/q754ehMKnC #blockchain @CityAM @AnneBoden @antgrasso @sallyeaves @Variety
-@FGraillot #P…",1
-RT @Pontos_Group: Great news! Pontos expands its real estate technology network by partnering with global venture capital firm @fifthwallvc…,1
+@FGraillot #P…",1,1310714670739841024
+RT @ccim: New Challenges in CRE Security: #Proptech could help #CRE meet the security and public health challenges in the industrial and wa…,1,1313140679774818305
+RT @Pontos_Group: Great news! Pontos expands its real estate technology network by partnering with global venture capital firm @fifthwallvc…,1,1311279118265266176

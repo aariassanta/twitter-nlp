@@ -93,9 +93,18 @@ graph4 = dcc.Graph(
 df = pd.read_csv('../csv/retweeted.csv')
 df.sort_values(by=['Freq'],ascending=False, inplace=True)
 
+# Convierte URL en hyperlinks a la URL
+
+def convert(row):
+    #print(row)
+    return '<a href="https://twitter.com/i/web/status/{}">{}</a>'.format(row['Id'],  row['Tweet'])
+
+df['Tweet'] = df.apply(convert, axis=1)
+
 chart_table_retweeted = go.Figure(data=[go.Table(
     columnwidth = [400,80],
-    header=dict(values=list(df.columns)),
+    #header=dict(values=list(df.columns)),
+    header=dict(values=['Tweet','Freq']),
     cells=dict(values=[df.Tweet, df.Freq], align=['left', 'center'])
 )]
 )

@@ -34,6 +34,11 @@ def get_urls(tweet):
   urls = entities.get('urls', []) 
   return [tag['expanded_url'] for tag in urls] 
 
+def get_tweet_id(tweet): 
+  retweeted = tweet.get('retweeted_status', {})  
+  id = retweeted.get('id_str', []) 
+  return id   
+
 if __name__ == '__main__': 
     fname = sys.argv[1] 
 
@@ -88,16 +93,26 @@ if __name__ == '__main__':
         for line in f: 
             tweet = json.loads(line) 
             if tweet['text'][:2] == 'RT':
-                name.update([tweet['text']])
+                id = get_tweet_id(tweet)
+                name.update([str(id) + ' ' + tweet['text']])
 
     print('\n' + '------------ 20 most retweeted tweets' + '\n')
     #print(name)
     for tag, count in name.most_common(20): 
       print("{}: {}".format(tag, count)) 
 
+    df = pd.DataFrame(name.items(), columns=['Tweet','Freq'])
+
+    # Separa Id del tweet retuiteado del tecto del mismo y crea
+    # columna adicional Id con el número
+
+    splitted = df['Tweet'].str.split(n=1, expand=True)
+    #print(splitted)
+    df['Tweet'] =  splitted[1]
+    df['Id'] =  splitted[0]
+
     # Save to file
 
-    df = pd.DataFrame(name.items(), columns=['Tweet','Freq'])
     df.to_csv("./csv/retweeted.csv", sep=',',index=False)
 
     print('\n')
