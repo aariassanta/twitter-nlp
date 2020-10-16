@@ -54,7 +54,7 @@ if __name__ == '__main__':
     # Save to file
 
     df = pd.DataFrame(name.items(), columns=['User','Freq'])
-    df.to_csv("./csv/Users.csv", sep=',',index=False)
+    df.to_csv("./csv/users.csv", sep=',',index=False)
 
     print('\n')
 
@@ -76,7 +76,7 @@ if __name__ == '__main__':
     # Save to file
 
     df = pd.DataFrame(name.items(), columns=['User','Freq'])
-    df.to_csv("./csv/Retweeted_Users.csv", sep=',',index=False)
+    df.to_csv("./csv/retweeted_users.csv", sep=',',index=False)
 
     print('\n')
 
@@ -98,7 +98,7 @@ if __name__ == '__main__':
     # Save to file
 
     df = pd.DataFrame(name.items(), columns=['Tweet','Freq'])
-    df.to_csv("./csv/Retweeted.csv", sep=',',index=False)
+    df.to_csv("./csv/retweeted.csv", sep=',',index=False)
 
     print('\n')
 
@@ -158,7 +158,7 @@ if __name__ == '__main__':
 
     # Save to file
 
-    df = pd.DataFrame(name.items(), columns=['Words','Freq'])
+    df = pd.DataFrame(name.items(), columns=['Word','Freq'])
     df.to_csv("./csv/words.csv", sep=',',index=False)
 
     print('\n')
