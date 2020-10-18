@@ -93,6 +93,6 @@ if __name__ == '__main__':
     try:
         twitter_stream = Stream(auth, MyListener(args.data_dir, args.query))
         twitter_stream.filter(track=[args.query])
-    except Exception:
-        print('Ha ocurrido una excepción')
+    except:
+        #print('Ha ocurrido una excepción')
         pass
