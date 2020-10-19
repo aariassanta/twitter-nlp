@@ -18,6 +18,8 @@ iris_df = pd.DataFrame(data=np.concatenate((iris.data,iris.target.reshape(-1,1))
 iris_df["Flower Name"] = [iris.target_names[int(i)] for i in iris_df["Flower Type"]]
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+#external_stylesheets = ['./bWLwgP.css']
+#external_stylesheets = ['/Users/Alfredo/twitter-nlp/dashboard/skeleton.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
@@ -74,6 +76,38 @@ chart4 = px.box(data_frame=iris_df,
 graph4 = dcc.Graph(
         id='graph4',
         figure=chart4,
+        className="six columns"
+    )
+
+# Radar Chart
+df = pd.read_csv('../csv/hashtags.csv')
+df.sort_values(by=['Freq'],ascending=False, inplace=True)
+
+df = df[1:] # Elimina primer regsitro que coincide con el término de búsqueda
+#chart5 = px.line_polar(df.head(25), r=df.Freq.head(25), theta=df.Hashtag.head(25), line_close=True)
+chart5 = px.line_polar(df.head(25), r='Freq', theta='Hashtag', line_close=True)
+
+chart5.update_layout(
+    title="Hashtags más utilizados"
+)
+chart5.update_traces(fill='toself')
+
+graph5 = dcc.Graph(
+        id='graph5',
+        figure=chart5,
+        className="six columns"
+    )
+
+# Tree Map
+chart6 = px.treemap(df.head(25), path=['Hashtag'], values='Freq')
+
+chart6.update_layout(
+    title="Hashtags más utilizados"
+)
+
+graph6 = dcc.Graph(
+        id='graph6',
+        figure=chart6,
         className="six columns"
     )
 
@@ -285,7 +319,7 @@ table_locations= dcc.Graph(
 
 # Generación presentación HTML
 
-row1 = html.Div(children=[graph1, graph3])
+row1 = html.Div(children=[graph5, graph6])
 
 row2 = html.Div(children=[table_retweeted, table_hashtags])
 

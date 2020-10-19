@@ -1,0 +1,6 @@
+para arrancar script python de stream downloader hay que ejecutar:
+supervisord -c ~/twitter-nlp/supervisor/supervisord.conf
+
+para ver si se ha ejecutado el script:
+supervisorctl status
+o ver pagina localhost:9001
