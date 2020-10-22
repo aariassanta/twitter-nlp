@@ -105,6 +105,34 @@ chart6.update_layout(
     title="Hashtags más utilizados"
 )
 
+# Add dropdown
+#chart6.update_layout(
+#    updatemenus=[
+#        dict(
+#            type = "buttons",
+#            direction = "left",
+#            buttons=list([
+#                dict(
+#                    args=["type", "treemap"],
+#                    label="Tree Map",
+#                    method="restyle"
+#                ),
+#                dict(
+#                    args=["type", "line_polar"],
+#                    label="line_polar",
+#                    method="restyle"
+#                )
+#            ]),
+#            pad={"r": 10, "t": 10},
+#            showactive=True,
+#            x=0.01,
+#            xanchor="left",
+#            y=1.1,
+#            yanchor="top"
+#        ),
+#    ]
+#)
+
 graph6 = dcc.Graph(
         id='graph6',
         figure=chart6,

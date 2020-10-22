@@ -7,7 +7,10 @@ from stop_words import get_stop_words
 import pandas as pd
 
 additional_stop_words =['-','&amp;']
-stop_words = get_stop_words('english') + get_stop_words('spanish') + additional_stop_words
+stop_words = get_stop_words('english') \
+    + get_stop_words('spanish') \
+    + get_stop_words('french') \
+    + additional_stop_words
  
 def get_screen_name(tweet): 
   user = tweet.get('user', {})  
@@ -184,7 +187,12 @@ if __name__ == '__main__':
         name = Counter() 
         for line in f: 
             tweet = json.loads(line) 
-            location = get_user_location(tweet).split(',')[0] 
+ 
+            if (get_user_location(tweet) is not None) : # Si localizacion está vacio no hacer split para evitar error
+                location = get_user_location(tweet).split(',')[0] 
+            else:
+                location = get_user_location(tweet)
+
             name.update([location]) 
 
     print('\n' + '------------ 20 most used locations' + '\n')

@@ -1,0 +1,13 @@
+2020-10-21 13:17:23,145 INFO Increased RLIMIT_NOFILE limit to 1024
+2020-10-21 13:17:23,168 INFO RPC interface 'supervisor' initialized
+2020-10-21 13:17:23,168 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-10-21 13:17:23,173 INFO daemonizing the supervisord process
+2020-10-21 13:17:23,176 INFO supervisord started with pid 1365
+2020-10-21 13:17:24,183 INFO spawned: 'mytwittersearch' with pid 1369
+2020-10-21 13:17:25,187 INFO success: mytwittersearch entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-21 16:17:41,781 INFO exited: mytwittersearch (exit status 0; expected)
+2020-10-21 16:17:42,789 INFO spawned: 'mytwittersearch' with pid 4712
+2020-10-21 16:17:43,792 INFO success: mytwittersearch entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-21 16:40:40,396 INFO exited: mytwittersearch (exit status 0; expected)
+2020-10-21 16:40:41,401 INFO spawned: 'mytwittersearch' with pid 4915
+2020-10-21 16:40:42,408 INFO success: mytwittersearch entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
