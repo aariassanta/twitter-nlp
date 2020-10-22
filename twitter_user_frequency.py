@@ -168,7 +168,8 @@ if __name__ == '__main__':
         #name = {}
         for line in f: 
             tweet = json.loads(line) 
-            [ name.update([word]) for word in tweet['text'][4:].lower().split() if not word in stop_words ]
+            #[ name.update([word]) for word in tweet['text'][4:].lower().split() if not word in stop_words ]
+            [ name.update([word]) for word in tweet['text'][4:].lower().split() if ((not word in stop_words) & (word[0] is not '#')) ]
 
     print('\n' + '------------ 20 most repeated words' + '\n')
     for tag, count in name.most_common(20): 
@@ -188,7 +189,9 @@ if __name__ == '__main__':
         for line in f: 
             tweet = json.loads(line) 
  
-            if (get_user_location(tweet) is not None) : # Si localizacion está vacio no hacer split para evitar error
+            # Si localizacion está vacia no hacer split para evitar error
+
+            if (get_user_location(tweet) is not None) : 
                 location = get_user_location(tweet).split(',')[0] 
             else:
                 location = get_user_location(tweet)

@@ -11,3 +11,16 @@
 2020-10-21 16:40:40,396 INFO exited: mytwittersearch (exit status 0; expected)
 2020-10-21 16:40:41,401 INFO spawned: 'mytwittersearch' with pid 4915
 2020-10-21 16:40:42,408 INFO success: mytwittersearch entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-22 17:17:02,237 INFO exited: mytwittersearch (exit status 0; expected)
+2020-10-22 17:17:03,282 INFO spawned: 'mytwittersearch' with pid 24143
+2020-10-22 17:17:04,285 INFO success: mytwittersearch entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-22 17:24:52,891 WARN received SIGTERM indicating exit request
+2020-10-22 17:24:52,895 INFO waiting for mytwittersearch to die
+2020-10-22 17:24:52,900 INFO stopped: mytwittersearch (terminated by SIGKILL)
+2020-10-22 17:28:42,562 INFO Increased RLIMIT_NOFILE limit to 1024
+2020-10-22 17:28:42,687 INFO RPC interface 'supervisor' initialized
+2020-10-22 17:28:42,687 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-10-22 17:28:42,693 INFO daemonizing the supervisord process
+2020-10-22 17:28:42,695 INFO supervisord started with pid 1241
+2020-10-22 17:28:43,700 INFO spawned: 'mytwittersearch' with pid 1242
+2020-10-22 17:28:44,706 INFO success: mytwittersearch entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
