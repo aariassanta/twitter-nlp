@@ -16,7 +16,14 @@ def get_hashtags():
 df_hashtags = get_hashtags()
 NHashtags = str(len(df_hashtags))
 
+def get_last_updated():
+    df = pd.read_csv('./csv/last_updated.csv')
+    #df.sort_values(by=['last_updated'], ascending=False, inplace=True)
+    #df = df[1:]  # Elimina primer regsitro que coincide con el término de búsqueda
+    last_updated = df['last_updated'].iloc[0]
+    return last_updated
 
+last_updated = get_last_updated()
 
 st.markdown(
     """<head>
@@ -35,9 +42,9 @@ st.markdown(
 
 st.markdown('''
 <div class="jumbotron text-center" style='background-color: #fff'>
-  <h1 style="margin: auto; width: 100%;">COVID-19 Interactive Dashboard</h1>
-  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">Data Source: CSSE, John Hopkins University</p>
-  <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Last Updated: ''' + " " + '''</p>
+  <h1 style="margin: auto; width: 100%;">Twitter PROPTECH Term Interactive Dashboard</h1>
+  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">Data Source: Twitter Stream</p>
+  <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Last Updated: ''' + last_updated + '''</p>
   <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">( Best viewed on Desktop. Use Landscape mode for Mobile View. )</p>
   <h2>______</h2><br><br><p style="margin: auto; font-weight: 500; text-align: center; width: 100%; font-size: 50px">World Stats</p>
 </div>
