@@ -117,21 +117,24 @@ st.markdown(
 st.markdown('''
 <div class="jumbotron text-center" style='background-color: #fff'>
   <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Generación de una tabla con la frecuencia de aparición de los hashtags</p>
-  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">Hashtags detectados: ''' + NHashtags + '''</p>
+  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">''' + NHashtags + ''' Hashtags detectados, de los cuales, los ''' + str(Top) + ''' primeros se representan en la siguiente tabla, en orden e indicando el número de repeticiones  </p>
   <h2>______</h2>
 </div>
 ''', unsafe_allow_html=True)
 
 #st.table(to_show)
 
-df_html = df.head(Top).reset_index(drop=True).to_html(index='True', classes="table-hover") # Utiliza Clase table de Bootstrap
-df_html = df_html.replace("dataframe", "")  # Elimina clase por defecto dataframe
-df_html = df_html.replace('border="1"', 'border="2"')  # Incrementa tamaño línea borde tabla
-df_html = df_html.replace("<table", '<table style="font-size:15px; text-align: center; width: 100%" ') # Cambia tamaño fuente a 15px
-df_html = df_html.replace("<th>Hashtag", '<th style="text-align: center">Hashtag ') # Cambia alineación a header Hashtag
-df_html = df_html.replace("<th>Freq", '<th style="text-align: center">Freq ') # Cambia alineación a header Hashtag
+def modifica_tabla_hashtags(tabla):
+    df_html = tabla.head(Top).reset_index(drop=True).to_html(index='True', classes="table-hover") # Utiliza Clase table-hover de Bootstrap
+    df_html = df_html.replace("dataframe", "")  # Elimina clase por defecto dataframe
+    df_html = df_html.replace('border="1"', 'border="2"')  # Incrementa tamaño línea borde tabla
+    df_html = df_html.replace("<table", '<table style="font-size:15px; text-align: center; width: 100%" ') # Cambia tamaño fuente a 15px
+    #df_html = df_html.replace("<th>Hashtag", '<th style="text-align: center">Hashtag ') # Cambia alineación a header Hashtag
+    df_html = df_html.replace("<th>"+ df.columns[0], '<th style="text-align: center">'+ df.columns[0]) # Cambia alineación a header Columna 1
+    df_html = df_html.replace("<th>"+ df.columns[1], '<th style="text-align: center">'+ df.columns[1]) # Cambia alineación a header Columna 2
+    return df_html
 
-st.write(df_html, unsafe_allow_html=True)
+st.write(modifica_tabla_hashtags(df), unsafe_allow_html=True)
 
 #fig = go.Figure(data=[go.Table(
 #    header=dict(values=['<b>Hashtag</b>','<b>Freq</b>'],
