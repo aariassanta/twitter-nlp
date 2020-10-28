@@ -6,15 +6,17 @@ import plotly.graph_objects as go
 
 
 @st.cache
-def get_data():
+def get_hashtags():
     df = pd.read_csv('./csv/hashtags.csv')
     df.sort_values(by=['Freq'], ascending=False, inplace=True)
     df = df[1:]  # Elimina primer regsitro que coincide con el término de búsqueda
     return df
 
 
-df = get_data()
-NHashtags = str(len(df))
+df_hashtags = get_hashtags()
+NHashtags = str(len(df_hashtags))
+
+
 
 st.markdown(
     """<head>
@@ -72,17 +74,6 @@ st.markdown('''
 
 ''', unsafe_allow_html=True)
 
-
-
-def highlight_col(x):
-    red = 'color: #e73631'
-    black = 'color: #000'
-    green = 'color: #70a82c'
-    df1 = pd.DataFrame('', index=x.index, columns=x.columns)
-    df1.iloc[:, 1] = black
-    df1.iloc[:, 2] = red
-    return df1
-
 values = st.slider("# TOP Hashtags representados", 1, 50, (1, 10))
 
 st.title('')
@@ -91,21 +82,11 @@ st.title('Seleccionar # Top Registros a visualizar')
 NTop = [10,15,25]
 Top = st.selectbox('', NTop, 0)
 
-#to_show=df.sort_values('Freq', ascending= False).reset_index(drop=True).head(values[1]).style.set_properties(**{'text-align': 'left', 'font-size': '15px'})
-to_show=df.sort_values('Freq', ascending= False).reset_index(drop=True).head(Top) \
-.style \
-.set_table_styles([{'selector': 'th', 'props': [('font-size', '15px')]}]) \
-.set_properties(subset=["Hashtag"], **{'text-align': 'center', 'font-size': '15px'}) \
-.set_properties(subset=["Freq"], **{'text-align': 'right', 'font-size': '15px'}) \
-
-
 st.markdown(" ")
-
 
 st.markdown(
     '''
     <div class='jumbotron text-center' style='background-color: #fff; padding:0px; margin:0px'>
-    <br>
     <br>
         <p style="margin: auto; font-weight: 500; text-align: center; width: 100%; font-size: 50px">Análisis Hashtags</p>
     <br>
@@ -117,43 +98,24 @@ st.markdown(
 st.markdown('''
 <div class="jumbotron text-center" style='background-color: #fff'>
   <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Generación de una tabla con la frecuencia de aparición de los hashtags</p>
-  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">''' + NHashtags + ''' Hashtags detectados, de los cuales, los ''' + str(Top) + ''' primeros se representan en la siguiente tabla, en orden e indicando el número de repeticiones  </p>
+  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">''' + NHashtags + ''' Hashtags detectados, de los cuales, los ''' + str(Top) + ''' primeros se representan en la siguiente tabla, en orden, e indicando el número de repeticiones  </p>
   <h2>______</h2>
 </div>
 ''', unsafe_allow_html=True)
 
-#st.table(to_show)
 
-def modifica_tabla_hashtags(tabla):
+def modifica_tabla_html(tabla):
     df_html = tabla.head(Top).reset_index(drop=True).to_html(index='True', classes="table-hover") # Utiliza Clase table-hover de Bootstrap
     df_html = df_html.replace("dataframe", "")  # Elimina clase por defecto dataframe
     df_html = df_html.replace('border="1"', 'border="2"')  # Incrementa tamaño línea borde tabla
     df_html = df_html.replace("<table", '<table style="font-size:15px; text-align: center; width: 100%" ') # Cambia tamaño fuente a 15px
     #df_html = df_html.replace("<th>Hashtag", '<th style="text-align: center">Hashtag ') # Cambia alineación a header Hashtag
-    df_html = df_html.replace("<th>"+ df.columns[0], '<th style="text-align: center">'+ df.columns[0]) # Cambia alineación a header Columna 1
-    df_html = df_html.replace("<th>"+ df.columns[1], '<th style="text-align: center">'+ df.columns[1]) # Cambia alineación a header Columna 2
+    df_html = df_html.replace("<th>"+ tabla.columns[0], '<th style="text-align: center">'+ tabla.columns[0]) # Cambia alineación a header Columna 1
+    df_html = df_html.replace("<th>"+ tabla.columns[1], '<th style="text-align: center">'+ tabla.columns[1]) # Cambia alineación a header Columna 2
     return df_html
 
-st.write(modifica_tabla_hashtags(df), unsafe_allow_html=True)
+st.write(modifica_tabla_html(df_hashtags), unsafe_allow_html=True)
 
-#fig = go.Figure(data=[go.Table(
-#    header=dict(values=['<b>Hashtag</b>','<b>Freq</b>'],
-#                fill_color='yellow',
-#                line_color='lightgray',
-#                font_size=15,
-#                height=30,
-#                align=['center']),
-#    cells=dict(values=[df.Hashtag.head(Top), df.Freq.head(Top)],
-#               fill_color='white',
-#               line_color='lightgray',
-#               font_size=15,
-#               height=30,
-#               align=['left','right']))
-#])
-
-#fig.show()
-
-#st.write(fig)
 st.markdown('''
 <div class="jumbotron text-center" style='background-color: #fff'>
 </div>
@@ -170,7 +132,7 @@ st.markdown("The first five records of the Airbnb data we downloaded.")
 
 #df = df.style.set_properties(**{'font-size':'25pt',})
 
-st.dataframe(df.head(values[1])
+st.dataframe(df_hashtags.head(values[1])
              .assign(hack='').set_index('hack'))  # Elimina Columna Index
 
 # st.dataframe(df.head(values[1])\
@@ -199,7 +161,7 @@ st.markdown(
 st.subheader("In a table")
 st.markdown("Following are the top five most expensive properties.")
 #st.write(df.query("price>=800").sort_values("price", ascending=False).head())
-st.write(df.query("Freq>=25").sort_values("Freq", ascending=False).head(values[1])
+st.write(df_hashtags.query("Freq>=25").sort_values("Freq", ascending=False).head(values[1])
          .assign(hack='').set_index('hack'))  # Elimina Columna Index
 
 st.subheader("Selecting a subset of columns")
@@ -214,7 +176,7 @@ st.write("You can also display static tables. As opposed to a data frame, with a
 #    .round(2).sort_values("price", ascending=False)\
 #    .assign(avg_price=lambda x: x.pop("price").apply(lambda y: "%.2f" % y)))
 
-st.table(df.sort_values("Freq", ascending=False).head(values[1])
+st.table(df_hashtags.sort_values("Freq", ascending=False).head(values[1])
          .assign(hack='').set_index('hack'))  # Elimina Columna Index
 
 
@@ -253,13 +215,13 @@ st.write("""Select a custom price range from the side bar to update the histogra
 
 # Tree Map
 #f = px.treemap(df.head(25), path=['Hashtag'], values='Freq', title="Freq distribution")
-f = px.treemap(df.head(values[1]), path=[
+f = px.treemap(df_hashtags.head(values[1]), path=[
                'Hashtag'], values='Freq', title="Hashtags Frequency distribution")
 
 st.plotly_chart(f)
 
 
-r = px.line_polar(df.head(values[1]), r='Freq',
+r = px.line_polar(df_hashtags.head(values[1]), r='Freq',
                   theta='Hashtag', line_close=True)
 
 st.plotly_chart(r)

@@ -240,6 +240,38 @@ if __name__ == '__main__':
     df = pd.DataFrame(urls.items(), columns=['URL', 'Freq'])
     df.to_csv("./csv/urls.csv", sep=',', index=False)
 
+
+# Get last created tweet
+
+    with open(fname, 'r') as f:
+        #name = Counter()
+        last_updated = ''
+        for line in f:
+            tweet = json.loads(line)
+            if tweet['created_at'] > last_updated:
+                last_updated = tweet['created_at']
+
+    print('\n' + '------------ last created date tweet' + '\n')
+    
+    print("Fecha último tweet creado: {}".format(last_updated))
+
+    # Separa Id del tweet retuiteado del tecto del mismo y crea
+    # columna adicional Id con el número
+
+    #splitted = df['Tweet'].str.split(n=1, expand=True)
+#   
+    df_last_updated = pd.DataFrame()
+    df_last_updated['last_updated'] = [last_updated]
+    #df['Id'] = splitted[0]
+
+    # Save to file
+
+    df_last_updated.to_csv("./csv/last_updated.csv", sep=',', index=False)
+
+    print('\n')
+
+
+
 # --------------------------------------------------------------------------------
 # Starting NLP process
 # --------------------------------------------------------------------------------

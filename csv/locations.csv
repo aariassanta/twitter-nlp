@@ -1,14 +1,14 @@
 Location,Freq
 Reading,5
 APAC,1
-,628
+,639
 Barcelona,71
 Aix-en-Provence,3
-Paris,124
+Paris,125
 Alicante,6
 France,39
-London,225
-Birmingham,12
+London,228
+Birmingham,14
 London mainly,9
 Malaysia,20
 South West,4
@@ -30,7 +30,7 @@ Earth,66
 New Delhi,3
 Vigo,11
 Lappeenranta,6
-United Kingdom,105
+United Kingdom,111
 Everywhere,5
 MAD BCN BIO SEV VAL LCA,1
 York,4
@@ -43,7 +43,7 @@ Trabajando en casa,1
 MADRID,2
 ECSAT,3
 Quezon. City,1
-Berlin,32
+Berlin,33
 Royaume-Uni,3
 Saint-Herblain,4
 LDN - BER - ZH - LUX,13
@@ -72,7 +72,7 @@ South Africa,18
 Mumbai,13
 Cannes,5
 Rosario,1
-Toronto,77
+Toronto,78
 Paris | Nice | Bordeaux,4
 Maracaibo,9
 🇮🇹 🇪🇺 🇺🇸    ,5
@@ -80,11 +80,11 @@ Singapore,10
 Sheffield,2
 Accra ,1
 Accra,1
-Madrid - Spain,19
+Madrid - Spain,21
 IRT,1
 Comunidad de Madrid,12
 Föhren,1
-Latinoamérica,23
+Latinoamérica,24
 global,1
 Massachusetts,1
 Surrey,2
@@ -127,7 +127,7 @@ Hauts-De-France,1
 New York,95
 Barcelona & Madrid,2
 Edinburgh,2
-Berne,6
+Berne,7
 London ,5
 Redditch,1
 UK & Ireland,1
@@ -143,7 +143,7 @@ Nassif El Yazgi Street,1
 Paris | Bordeaux | Côte d’Azur,3
 Montpellier,2
 Contactez-nous 09 77 55 20 33,3
-Atlanta,15
+Atlanta,16
 Buenos Aires,3
 Some Unknown Server,1
 Frankfurt,1
@@ -153,7 +153,7 @@ Cambridge MA,1
 Washington,6
 U.S. and Canada,3
 Americas,1
-Houston,22
+Houston,24
 Karlovarský,1
 Charlotte,5
 127.0.0.1,1
@@ -226,7 +226,7 @@ In a data storage,4
 Pittsburgh,2
 Detroit,2
 Stockholm,7
-Los Angeles,10
+Los Angeles,11
 Oakland,2
 Bay Area,2
 Kolkata,1
@@ -243,7 +243,7 @@ Bernabeu,1
 South East,1
 ikoyi,1
 10317 Berlin,1
-Gloucester Place,1
+Gloucester Place,2
 Manchester,13
 Uk,2
 Ikoyi,1
@@ -284,8 +284,8 @@ Cluj-Napoca,1
 Ahmedabad,1
 Makati,1
 Lund,2
-Holmfirth/London,3
-Leeds ,2
+Holmfirth/London,4
+Leeds ,3
 Toulouse,3
 Deutschland,3
 Sioux Falls,1
@@ -344,7 +344,7 @@ NYC-ish,1
 NYC,2
 New Orleans,2
 Americas | Asia-Pacific | EMEA,1
-Manhattan,3
+Manhattan,4
 Rio de janeiro,10
 Benin-City,1
 New York City,9
@@ -363,11 +363,11 @@ Midsommarkransen,1
 Ajax. Ontario Canada,1
 Newcastle Upon Tyne,2
 Nairobi,1
-Kansas City Metro Area,8
+Kansas City Metro Area,9
 Milton Keynes,1
 Salt Lake City,1
 LONDON / Edinburgh / Oxford,1
-digitaldays.rent.immo,33
+digitaldays.rent.immo,35
 Cabanatuan,1
 Reims,1
 Coimbatore,1
@@ -380,7 +380,7 @@ Cuidad de México,3
 Austin,3
 West Midlands,3
 Nepal (Madhesh & Bagmati),1
-Toronto | Miami,1
+Toronto | Miami,2
 Carol Stream,1
 Piramal School of Leadership,1
 Whitehall,1
@@ -395,10 +395,10 @@ A Coruña,1
 Connecticut,2
 Wokingham,1
 Ridgefield CT,1
-Ecuador,3
+Ecuador,4
 Vancouver,2
 Islamabad,2
-Seattle WA,1
+Seattle WA,2
 Culiacán,1
 Brooklyn NY,1
 London(ish),2
@@ -547,7 +547,7 @@ Norwalk CT,1
 Kuala Lumpur City,1
 #PDX,1
 Vernon,1
-Cincinnati,2
+Cincinnati,3
 Charlbury,1
 Washington DC,1
 Phaya Thai,1
@@ -607,7 +607,7 @@ Swirling Vortex of Entropy,1
 Federal Capital Territory,1
 the place ✈ ,1
 Lekki,1
-Switzerland 🇨🇭,1
+Switzerland 🇨🇭,2
 ÜT: 35.211427,1
 archonsec.com,1
 Gilching,1
@@ -666,7 +666,7 @@ Nashville,1
 click here 👉🏼,5
 インド→東京,1
 NYC Metropolitan Area,1
-IG: AsiaRealEstateSummit,1
+IG: AsiaRealEstateSummit,2
 Philippines,1
 Instagram: AsiaPropertyAwards,1
 Bangkok,1
@@ -722,4 +722,6 @@ Ilkley,1
 Liverpool,1
 The Venetian Resort - Las Vega,2
 DC Metro area,1
-Zora,1
+Zora,2
+Vaughan,1
+Mirfield,1
