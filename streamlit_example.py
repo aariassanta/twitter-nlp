@@ -4,16 +4,51 @@ import plotly.express as px
 
 @st.cache
 def get_data():
-    return pd.read_csv("http://data.insideairbnb.com/united-states/ny/new-york-city/2019-09-12/visualisations/listings.csv")
+    #return pd.read_csv("http://data.insideairbnb.com/united-states/ny/new-york-city/2019-09-12/visualisations/listings.csv")
+    df = pd.read_csv('./csv/hashtags.csv')
+    df.sort_values(by=['Freq'],ascending=False, inplace=True)
+    df = df[1:] # Elimina primer regsitro que coincide con el término de búsqueda
+    return df
 
 df = get_data()
+
+# Set CSS properties for th elements in dataframe
+th_props = [
+  ('font-size', '11px'),
+  ('text-align', 'center'),
+  ('font-weight', 'bold'),
+  ('color', '#6d6d6d'),
+  ('background-color', '#f7f7f9')
+  ]
+
+# Set CSS properties for td elements in dataframe
+td_props = [
+  ('font-size', '11px')
+  ]
+
+# Set table styles
+styles = [
+  dict(selector="th", props=th_props),
+  dict(selector="td", props=td_props)
+  ]
+
 st.title("Streamlit 101: An in-depth introduction")
 st.markdown("Welcome to this in-depth introduction to [Streamlit](www.streamlit.io)! For this exercise, we'll use an Airbnb [dataset](http://data.insideairbnb.com/united-states/ny/new-york-city/2019-09-12/visualisations/listings.csv) containing NYC listings.")
 st.header("Customary quote")
 st.markdown("> I just love to go home, no matter where I am, the most luxurious hotel suite in the world, I love to go home.\n\n—Michael Caine")
 st.header("Airbnb NYC listings: data at a glance")
 st.markdown("The first five records of the Airbnb data we downloaded.")
-st.dataframe(df.head())
+
+values = st.sidebar.slider("# TOP Hashtags representados", 1, 50, (1, 10))
+
+#df = df.style.set_properties(**{'font-size':'25pt',})
+
+st.dataframe(df.head(values[1])\
+    .assign(hack='').set_index('hack')) # Elimina Columna Index
+
+#st.dataframe(df.head(values[1])\
+#    .styles.set_table_styles(styles)) # Elimina Columna Index
+
 st.header("Caching our data")
 st.markdown("Streamlit has a handy decorator [`st.cache`](https://streamlit.io/docs/api.html#optimize-performance) to enable data caching.")
 st.code("""
@@ -29,45 +64,74 @@ with st.echo():
 st.header("Where are the most expensive properties located?")
 st.subheader("On a map")
 st.markdown("The following map shows the top 1% most expensive Airbnbs priced at $800 and above.")
-st.map(df.query("price>=800")[["latitude", "longitude"]].dropna(how="any"))
+#st.map(df.query("price>=800")[["latitude", "longitude"]].dropna(how="any"))
 st.subheader("In a table")
 st.markdown("Following are the top five most expensive properties.")
-st.write(df.query("price>=800").sort_values("price", ascending=False).head())
+#st.write(df.query("price>=800").sort_values("price", ascending=False).head())
+st.write(df.query("Freq>=25").sort_values("Freq", ascending=False).head(values[1])\
+    .assign(hack='').set_index('hack')) # Elimina Columna Index
 
 st.subheader("Selecting a subset of columns")
-st.write(f"Out of the {df.shape[1]} columns, you might want to view only a subset. Streamlit has a [multiselect](https://streamlit.io/docs/api.html#streamlit.multiselect) widget for this.")
-defaultcols = ["name", "host_name", "neighbourhood", "room_type", "price"]
-cols = st.multiselect("Columns", df.columns.tolist(), default=defaultcols)
-st.dataframe(df[cols].head(10))
+#st.write(f"Out of the {df.shape[1]} columns, you might want to view only a subset. Streamlit has a [multiselect](https://streamlit.io/docs/api.html#streamlit.multiselect) widget for this.")
+#defaultcols = ["name", "host_name", "neighbourhood", "room_type", "price"]
+#cols = st.multiselect("Columns", df.columns.tolist(), default=defaultcols)
+#st.dataframe(df[cols].head(10))
 
 st.header("Average price by room type")
 st.write("You can also display static tables. As opposed to a data frame, with a static table you cannot sorting by clicking a column header.")
-st.table(df.groupby("room_type").price.mean().reset_index()\
-    .round(2).sort_values("price", ascending=False)\
-    .assign(avg_price=lambda x: x.pop("price").apply(lambda y: "%.2f" % y)))
-st.header("Which host has the most properties listed?")
-listingcounts = df.host_id.value_counts()
-top_host_1 = df.query('host_id==@listingcounts.index[0]')
-top_host_2 = df.query('host_id==@listingcounts.index[1]')
-st.write(f"""**{top_host_1.iloc[0].host_name}** is at the top with {listingcounts.iloc[0]} property listings.
-**{top_host_2.iloc[1].host_name}** is second with {listingcounts.iloc[1]} listings. Following are randomly chosen
-listings from the two displayed as JSON using [`st.json`](https://streamlit.io/docs/api.html#streamlit.json).""")
+#st.table(df.groupby("room_type").price.mean().reset_index()\
+#    .round(2).sort_values("price", ascending=False)\
+#    .assign(avg_price=lambda x: x.pop("price").apply(lambda y: "%.2f" % y)))
 
-st.json({top_host_1.iloc[0].host_name: top_host_1\
-    [["name", "neighbourhood", "room_type", "minimum_nights", "price"]]\
-        .sample(2, random_state=4).to_dict(orient="records"),
-        top_host_2.iloc[0].host_name: top_host_2\
-    [["name", "neighbourhood", "room_type", "minimum_nights", "price"]]\
-        .sample(2, random_state=4).to_dict(orient="records")})
+st.table(df.sort_values("Freq", ascending=False).head(values[1])\
+    .assign(hack='').set_index('hack')) # Elimina Columna Index
+
+
+st.header("Which host has the most properties listed?")
+
+#df.style.hide_index()
+
+#listingcounts = df.Hashtag.value_counts()
+##top_host_1 = df.query('host_id==@listingcounts.index[0]')
+##top_host_2 = df.query('host_id==@listingcounts.index[1]')
+#top_host_1 = df.query('Hashtag==@listingcounts.index[0]')
+#top_host_2 = df.query('Hashtag==@listingcounts.index[1]')
+#st.write(f"""**{top_host_1.iloc[0].Hashtag}** is at the top with {listingcounts.iloc[0]} property listings.
+#**{top_host_2.iloc[1].Hashtag}** is second with {listingcounts.iloc[1]} listings. Following are randomly chosen
+#listings from the two displayed as JSON using [`st.json`](https://streamlit.io/docs/api.html#streamlit.json).""")
+#
+#st.json({top_host_1.iloc[0].host_name: top_host_1\
+#    [["name", "neighbourhood", "room_type", "minimum_nights", "price"]]\
+#        .sample(2, random_state=4).to_dict(orient="records"),
+#        top_host_2.iloc[0].host_name: top_host_2\
+#    [["name", "neighbourhood", "room_type", "minimum_nights", "price"]]\
+#        .sample(2, random_state=4).to_dict(orient="records")})
 
 st.header("What is the distribution of property price?")
 st.write("""Select a custom price range from the side bar to update the histogram below displayed as a Plotly chart using
 [`st.plotly_chart`](https://streamlit.io/docs/api.html#streamlit.plotly_chart).""")
-values = st.sidebar.slider("Price range", float(df.price.min()), float(df.price.clip(upper=1000.).max()), (50., 300.))
-f = px.histogram(df.query(f"price.between{values}"), x="price", nbins=15, title="Price distribution")
-f.update_xaxes(title="Price")
-f.update_yaxes(title="No. of listings")
+
+#df['Freq'] = df['Freq'].astype(float)
+
+#values = st.sidebar.slider("Freqrange", float(df.Freq.min()), float(df.Freq.clip(upper=1000.).max()), (50., 300.))
+
+
+#f = px.histogram(df[df['Freq'].between(values[0],values[1])], x="Freq", nbins=15, title="Freq distribution")
+#f.update_xaxes(title="Freq")
+#f.update_yaxes(title="No. of Hashtags Mentions")
+
+# Tree Map
+#f = px.treemap(df.head(25), path=['Hashtag'], values='Freq', title="Freq distribution")
+f = px.treemap(df.head(values[1]), path=['Hashtag'], values='Freq', title="Hashtags Frequency distribution")
+
 st.plotly_chart(f)
+
+
+r = px.line_polar(df.head(values[1]), r='Freq', theta='Hashtag', line_close=True)
+
+st.plotly_chart(r)
+
+#st.balloons()
 
 st.header("What is the distribution of availability in various neighborhoods?")
 st.write("Using a radio button restricts selection to only one option at a time.")
