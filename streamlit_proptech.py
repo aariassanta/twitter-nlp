@@ -46,42 +46,10 @@ st.markdown('''
   <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">Data Source: Twitter Stream</p>
   <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Last Updated: ''' + last_updated + '''</p>
   <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">( Best viewed on Desktop. Use Landscape mode for Mobile View. )</p>
-  <h2>______</h2><br><br><p style="margin: auto; font-weight: 500; text-align: center; width: 100%; font-size: 50px">World Stats</p>
-</div>
-<div class="jumbotron text-center" style='padding: 0px'>
-  <div class="row" style="background-color: #fff;width: 100%; margin: auto;">
-    <div class="col-sm-4">
-      <p style='text-align: center; background-color: #fff; font-weight: 400 ;color: #000'>Total Confirmed</p>
-      <p style='text-align: center; font-size: 15px; color: #000'>[''' + " " + " " + ''']</p>
-      <p style='text-align: center; font-size: 35px; font-weight: bold; color: #000'>''' + " " + '''</p>
-    </div>
-    <div class="col-sm-4" style='background-color: #fff; border-radius: 5px'>
-      <p style='text-align: center; font-weight: 400 ; color: #000'>Total Deaths</p>
-      <p style='text-align: center; font-size: 15px; color: #e73631'>[''' + " " + " " + ''']</p>
-      <p style='text-align: center; font-size: 35px; font-weight: bold; color: #e73631'>''' + " " + '''</p>
-    </div>
-    <div class="col-sm-4">
-      <p style='text-align: center; background-color: #fff; font-weight: 400 ;color: #000'>Total Recovered</p>
-      <p style='text-align: center; font-size: 15px; color: #70a82c'>[''' + " " + " " + ''']</p>
-      <p style='text-align: center; font-size: 35px; font-weight: bold; color: #70a82c'>''' + " " + '''</p>
-    </div>
-  </div>
-</div>
-
-<div class="twitter-tweet twitter-tweet-rendered" style="width: 50%; margin: 10px auto; display: flex; max-width: 550px;">
-    <div class="col-4">
-        <iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 290px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://platform.twitter.com/embed/index.html?dnt=false&amp;embedId=twitter-widget-1&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1319658846160408584&amp;lang=en&amp;origin=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Fembedded-tweets%2Foverview&amp;theme=light&amp;widgetsVersion=ed20a2b%3A1601588405575&amp;width=550px" data-tweet-id="1319658846160408584">
-        </iframe>
-    </div>
-    <div class="col-4">
-        <iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 290px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://platform.twitter.com/embed/index.html?dnt=false&amp;embedId=twitter-widget-1&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1319658846160408584&amp;lang=en&amp;origin=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Fembedded-tweets%2Foverview&amp;theme=light&amp;widgetsVersion=ed20a2b%3A1601588405575&amp;width=550px" data-tweet-id="1319658846160408584">
-        </iframe>
-    </div>
+  <h2>______</h2>
 </div>
 
 ''', unsafe_allow_html=True)
-
-values = st.slider("# TOP Hashtags representados", 1, 50, (1, 10))
 
 st.title('')
 st.title('Seleccionar # Top Registros a visualizar')
@@ -127,6 +95,50 @@ st.markdown('''
 <div class="jumbotron text-center" style='background-color: #fff'>
 </div>
 ''', unsafe_allow_html=True)
+
+values = st.slider("# TOP Hashtags representados", 1, 50, (1, 10))
+
+st.markdown('''
+<div class="jumbotron text-center" style='background-color: #fff'>
+  <h1 style="margin: auto; width: 100%;">Twitter PROPTECH Term Interactive Dashboard</h1>
+  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">Data Source: Twitter Stream</p>
+  <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Last Updated: ''' + last_updated + '''</p>
+  <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">( Best viewed on Desktop. Use Landscape mode for Mobile View. )</p>
+  <h2>______</h2><br><br><p style="margin: auto; font-weight: 500; text-align: center; width: 100%; font-size: 50px">World Stats</p>
+</div>
+<div class="jumbotron text-center" style='padding: 0px'>
+  <div class="row" style="background-color: #fff;width: 100%; margin: auto;">
+    <div class="col-sm-4">
+      <p style='text-align: center; background-color: #fff; font-weight: 400 ;color: #000'>Total Confirmed</p>
+      <p style='text-align: center; font-size: 15px; color: #000'>[''' + " " + " " + ''']</p>
+      <p style='text-align: center; font-size: 35px; font-weight: bold; color: #000'>''' + " " + '''</p>
+    </div>
+    <div class="col-sm-4" style='background-color: #fff; border-radius: 5px'>
+      <p style='text-align: center; font-weight: 400 ; color: #000'>Total Deaths</p>
+      <p style='text-align: center; font-size: 15px; color: #e73631'>[''' + " " + " " + ''']</p>
+      <p style='text-align: center; font-size: 35px; font-weight: bold; color: #e73631'>''' + " " + '''</p>
+    </div>
+    <div class="col-sm-4">
+      <p style='text-align: center; background-color: #fff; font-weight: 400 ;color: #000'>Total Recovered</p>
+      <p style='text-align: center; font-size: 15px; color: #70a82c'>[''' + " " + " " + ''']</p>
+      <p style='text-align: center; font-size: 35px; font-weight: bold; color: #70a82c'>''' + " " + '''</p>
+    </div>
+  </div>
+</div>
+
+<div class="twitter-tweet twitter-tweet-rendered" style="width: 50%; margin: 10px auto; display: flex; max-width: 550px;">
+    <div class="col-4">
+        <iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 290px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://platform.twitter.com/embed/index.html?dnt=false&amp;embedId=twitter-widget-1&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1319658846160408584&amp;lang=en&amp;origin=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Fembedded-tweets%2Foverview&amp;theme=light&amp;widgetsVersion=ed20a2b%3A1601588405575&amp;width=550px" data-tweet-id="1319658846160408584">
+        </iframe>
+    </div>
+    <div class="col-4">
+        <iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 290px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://platform.twitter.com/embed/index.html?dnt=false&amp;embedId=twitter-widget-1&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1319658846160408584&amp;lang=en&amp;origin=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Fembedded-tweets%2Foverview&amp;theme=light&amp;widgetsVersion=ed20a2b%3A1601588405575&amp;width=550px" data-tweet-id="1319658846160408584">
+        </iframe>
+    </div>
+</div>
+
+''', unsafe_allow_html=True)
+
 
 st.title("Análisis Término Búsqueda Proptech en TWITTER")
 st.markdown(
