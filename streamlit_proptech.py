@@ -102,7 +102,7 @@ def modifica_tabla_html(tabla):
 
 def modifica_tabla_retweeted(tabla):
     tabla = tabla [['Id','Tweet','Freq']] # reordena columnas de tabla 
-    tabla['Tweet'] = '<a href=' + 'https://twitter.com/i/web/status/' + tabla['Id'] + '><div>' + tabla['Tweet'] + '</div></a>' # Añade url link a Tweet
+    tabla['Tweet'] = '<a href=' + 'https://twitter.com/i/web/status/' + tabla['Id'] + ' ' + 'target="_blank"' + '><div>' + tabla['Tweet'] + '</div></a>' # Añade url link a Tweet
     tabla.drop('Id',axis='columns', inplace=True)
     df_html = tabla.head(Top).reset_index(drop=True).to_html(index='True', classes="table-hover", escape=False) # Utiliza Clase table-hover de Bootstrap
     df_html = df_html.replace("dataframe", "")  # Elimina clase por defecto dataframe
