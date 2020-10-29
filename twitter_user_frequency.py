@@ -1,6 +1,7 @@
 #
 
 import sys
+import datetime
 from collections import Counter
 import json
 from stop_words import get_stop_words
@@ -243,18 +244,29 @@ if __name__ == '__main__':
 
 # Get last created date tweet
 
+    #with open(fname, 'r') as f:
+    #    #name = Counter()
+    #    last_updated = ''
+    #    for line in f:
+    #        tweet = json.loads(line)
+    #        if tweet['created_at'] > last_updated:
+    #            last_updated = tweet['created_at']
+
     with open(fname, 'r') as f:
         #name = Counter()
-        last_updated = ''
+        last_updated = datetime.datetime.strptime('Wed Jan 01 00:00:00 +0000 2000', '%a %b %d %H:%M:%S +0000 %Y')
         for line in f:
             tweet = json.loads(line)
-            if tweet['created_at'] > last_updated:
-                last_updated = tweet['created_at']
+            date = datetime.datetime.strptime(tweet['created_at'], '%a %b %d %H:%M:%S +0000 %Y')
+            if date > last_updated:
+                last_updated = date
 
     print('\n' + '------------ last created date tweet' + '\n')
     
     print("Fecha último tweet creado: {}".format(last_updated))
- 
+    #date_time_obj = datetime.datetime.strptime(last_updated, '%a %b %d %H:%M:%S +0000 %Y')
+    #print("Fecha último tweet creado: {}".format(date_time_obj.date()))
+
     # Inicializa Dataframe y asigna fecha 
   
     df_last_updated = pd.DataFrame()

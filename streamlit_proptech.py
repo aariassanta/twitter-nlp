@@ -42,9 +42,9 @@ st.markdown(
 
 st.markdown('''
 <div class="jumbotron text-center" style='background-color: #fff'>
-  <h1 style="margin: auto; width: 100%;">Twitter PROPTECH Term Interactive Dashboard</h1>
+  <h1 style="margin: auto; width: 100%;">Twitter <font color="red">PROPTECH</font> Term Interactive Dashboard</h1>
   <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">Data Source: Twitter Stream</p>
-  <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Last Updated: ''' + last_updated + '''</p>
+  <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Last Updated: <font color="red">''' + last_updated + '''</font></p>
   <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">( Best viewed on Desktop. Use Landscape mode for Mobile View. )</p>
   <h2>______</h2>
 </div>
@@ -64,17 +64,17 @@ st.markdown(
     <div class='jumbotron text-center' style='background-color: #fff; padding:0px; margin:0px'>
     <br>
         <p style="margin: auto; font-weight: 500; text-align: center; width: 100%; font-size: 50px">Análisis Hashtags</p>
-    <br>
+        <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Generación de una tabla con la frecuencia de aparición de los hashtags</p>
     </div>
     ''',
     unsafe_allow_html=True
 )
 
+#<font color="red">This is some text!</font> 
+
 st.markdown('''
 <div class="jumbotron text-center" style='background-color: #fff'>
-  <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Generación de una tabla con la frecuencia de aparición de los hashtags</p>
-  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">''' + NHashtags + ''' Hashtags detectados, de los cuales, los ''' + str(Top) + ''' primeros se representan en la siguiente tabla, en orden, e indicando el número de repeticiones  </p>
-  <h2>______</h2>
+  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;"> <font color="red">''' + NHashtags + '''</font>  Hashtags detectados, de los cuales, los ''' + str(Top) + ''' primeros se representan en la siguiente tabla, en orden, e indicando el número de repeticiones  </p>
 </div>
 ''', unsafe_allow_html=True)
 
@@ -93,6 +93,7 @@ st.write(modifica_tabla_html(df_hashtags), unsafe_allow_html=True)
 
 st.markdown('''
 <div class="jumbotron text-center" style='background-color: #fff'>
+    <h2>______</h2>
 </div>
 ''', unsafe_allow_html=True)
 
