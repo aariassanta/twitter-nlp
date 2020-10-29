@@ -16,6 +16,26 @@ def get_hashtags():
 df_hashtags = get_hashtags()
 NHashtags = str(len(df_hashtags))
 
+def get_users():
+    df = pd.read_csv('./csv/users.csv')
+    df.sort_values(by=['Freq'], ascending=False, inplace=True)
+    #df = df[1:]  # Elimina primer regsitro que coincide con el término de búsqueda
+    return df
+
+
+df_users = get_users()
+NUsers = str(len(df_users))
+
+def get_retweeted_users():
+    df = pd.read_csv('./csv/retweeted_users.csv')
+    df.sort_values(by=['Freq'], ascending=False, inplace=True)
+    #df = df[1:]  # Elimina primer regsitro que coincide con el término de búsqueda
+    return df
+
+
+df_retweeted_users = get_retweeted_users()
+NRetweeted_users = str(len(df_retweeted_users))
+
 def get_last_updated():
     df = pd.read_csv('./csv/last_updated.csv')
     #df.sort_values(by=['last_updated'], ascending=False, inplace=True)
@@ -57,6 +77,10 @@ st.title('Seleccionar # Top Registros a visualizar')
 NTop = [10,15,25]
 Top = st.selectbox('', NTop, 0)
 
+# --------------------------------------------------------------------------------
+# Análisis Hashtags
+# --------------------------------------------------------------------------------
+
 st.markdown(" ")
 
 st.markdown(
@@ -96,6 +120,80 @@ st.markdown('''
     <h2>______</h2>
 </div>
 ''', unsafe_allow_html=True)
+
+# --------------------------------------------------------------------------------
+# Análisis Usuarios
+# --------------------------------------------------------------------------------
+
+st.markdown(" ")
+
+st.markdown(
+    '''
+    <div class='jumbotron text-center' style='background-color: #fff; padding:0px; margin:0px'>
+    <br>
+        <p style="margin: auto; font-weight: 500; text-align: center; width: 100%; font-size: 50px">Análisis Usuarios</p>
+        <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Genera 2 tablas con los usuarios más activos y los más retuiteados</p>
+    </div>
+    ''',
+    unsafe_allow_html=True
+)
+
+st.markdown('''
+<div class="jumbotron text-center" style='background-color: #fff'>
+  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;"> <font color="red">''' + NUsers + '''</font>  Usuarios únicos detectados, de los cuales, los ''' + str(Top) + ''' primeros se representan en la siguiente tabla, en orden, e indicando el número de twits generados</p>
+</div>
+''', unsafe_allow_html=True)
+
+
+def modifica_tabla_html(tabla):
+    df_html = tabla.head(Top).reset_index(drop=True).to_html(index='True', classes="table-hover") # Utiliza Clase table-hover de Bootstrap
+    df_html = df_html.replace("dataframe", "")  # Elimina clase por defecto dataframe
+    df_html = df_html.replace('border="1"', 'border="2"')  # Incrementa tamaño línea borde tabla
+    df_html = df_html.replace("<table", '<table style="font-size:15px; text-align: center; width: 100%" ') # Cambia tamaño fuente a 15px
+    #df_html = df_html.replace("<th>Hashtag", '<th style="text-align: center">Hashtag ') # Cambia alineación a header Hashtag
+    df_html = df_html.replace("<th>"+ tabla.columns[0], '<th style="text-align: center">'+ tabla.columns[0]) # Cambia alineación a header Columna 1
+    df_html = df_html.replace("<th>"+ tabla.columns[1], '<th style="text-align: center">'+ tabla.columns[1]) # Cambia alineación a header Columna 2
+    return df_html
+
+st.write(modifica_tabla_html(df_users), unsafe_allow_html=True)
+
+#st.markdown('''
+#<div class="jumbotron text-center" style='background-color: #fff'>
+#    <h2>______</h2>
+#</div>
+#''', unsafe_allow_html=True)
+
+#----------
+
+st.markdown('''
+<div class="jumbotron text-center" style='background-color: #fff'>
+  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;"> <font color="red">''' + NRetweeted_users + '''</font>  Usuarios retuiteados detectados, de los cuales, los ''' + str(Top) + ''' primeros se representan en la siguiente tabla, en orden, e indicando el número de twits generados</p>
+</div>
+''', unsafe_allow_html=True)
+
+
+def modifica_tabla_html(tabla):
+    df_html = tabla.head(Top).reset_index(drop=True).to_html(index='True', classes="table-hover") # Utiliza Clase table-hover de Bootstrap
+    df_html = df_html.replace("dataframe", "")  # Elimina clase por defecto dataframe
+    df_html = df_html.replace('border="1"', 'border="2"')  # Incrementa tamaño línea borde tabla
+    df_html = df_html.replace("<table", '<table style="font-size:15px; text-align: center; width: 100%" ') # Cambia tamaño fuente a 15px
+    #df_html = df_html.replace("<th>Hashtag", '<th style="text-align: center">Hashtag ') # Cambia alineación a header Hashtag
+    df_html = df_html.replace("<th>"+ tabla.columns[0], '<th style="text-align: center">'+ tabla.columns[0]) # Cambia alineación a header Columna 1
+    df_html = df_html.replace("<th>"+ tabla.columns[1], '<th style="text-align: center">'+ tabla.columns[1]) # Cambia alineación a header Columna 2
+    return df_html
+
+st.write(modifica_tabla_html(df_retweeted_users), unsafe_allow_html=True)
+
+st.markdown('''
+<div class="jumbotron text-center" style='background-color: #fff'>
+    <h2>______</h2>
+</div>
+''', unsafe_allow_html=True)
+
+
+# --------------------------------------------------------------------------------
+# Análisis 
+# --------------------------------------------------------------------------------
 
 values = st.slider("# TOP Hashtags representados", 1, 50, (1, 10))
 
