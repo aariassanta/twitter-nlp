@@ -49,6 +49,10 @@ def get_tweet_id(tweet):
     id = retweeted.get('id_str', [])
     return id
 
+def get_full_text(tweet):
+    extended = tweet.get('extended_tweet', {})
+    full_text = extended.get('full_text', [])
+    return full_text
 
 if __name__ == '__main__':
     fname = sys.argv[1]
@@ -106,6 +110,20 @@ if __name__ == '__main__':
             if tweet['text'][:2] == 'RT':
                 id = get_tweet_id(tweet)
                 name.update([str(id) + ' ' + tweet['text']])
+    
+    #with open(fname, 'r') as f:
+    #    name = Counter()
+    #    for line in f:
+    #        tweet = json.loads(line)
+    #        full_text = str(get_full_text(tweet))
+    #        print(full_text)
+    #        if tweet['text'][:2] == 'RT':
+    #            id = get_tweet_id(tweet)
+    #            #full_text = get_full_text(tweet)
+    #            #print(full_text)
+    #            name.update([str(id) + ' ' + full_text])
+
+
 
     print('\n' + '------------ 20 most retweeted tweets' + '\n')
     # print(name)

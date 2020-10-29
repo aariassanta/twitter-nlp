@@ -1,0 +1,841 @@
+{
+    "created_at": "Thu Oct 29 11:11:41 +0000 2020",
+    "id": 1321771683624017920,
+    "id_str": "1321771683624017920",
+    "text": "REA Technologies has acquired a majority stake through a binding agreement in Singapore-based proptech company Elar\u2026 https:\/\/t.co\/NkePeBjAbr",
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 605783487,
+        "id_str": "605783487",
+        "name": "Inc42",
+        "screen_name": "Inc42",
+        "location": "Delhi, India",
+        "url": "http:\/\/inc42.com",
+        "description": "The Authoritative Voice On The Indian Startup Ecosystem",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 25781,
+        "friends_count": 241,
+        "listed_count": 1222,
+        "favourites_count": 10099,
+        "statuses_count": 102897,
+        "created_at": "Mon Jun 11 19:58:31 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "D8D8D8",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "F42535",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1027479034416877568\/lTfYZwfF_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1027479034416877568\/lTfYZwfF_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/605783487\/1602833249",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "REA Technologies has acquired a majority stake through a binding agreement in Singapore-based proptech company Elara Technologies which is the parent company of Housing, Makaan and PropTiger. \n\nhttps:\/\/t.co\/vpW0n6SKvM",
+        "display_text_range": [
+            0,
+            217
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https:\/\/t.co\/vpW0n6SKvM",
+                    "expanded_url": "https:\/\/inc42.com\/buzz\/rea-group-acquires-controlling-stake-in-housing-com-owner-elara\/",
+                    "display_url": "inc42.com\/buzz\/rea-group\u2026",
+                    "indices": [
+                        194,
+                        217
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https:\/\/t.co\/NkePeBjAbr",
+                "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1321771683624017920",
+                "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1603969901363"
+}
+{
+    "created_at": "Thu Oct 22 13:31:07 +0000 2020",
+    "id": 1319270058561064960,
+    "id_str": "1319270058561064960",
+    "text": "We are hiring! \n\nSales agents wanted  in Nigeria and Ghana. Get in touch today!\n\n#hiring #proptech #realestate\u2026 https:\/\/t.co\/nfgJZAnEm9",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 264948207,
+        "id_str": "264948207",
+        "name": "Hansel\ud83c\uddf3\ud83c\uddec",
+        "screen_name": "hannytalker",
+        "location": "Nigeria",
+        "url": "https:\/\/linktr.ee\/hannytalker",
+        "description": "I post verified vacancies || Feel free to send a DM|| Don't bother greeting me I know you are respectful..Just go straight to the point.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 75506,
+        "friends_count": 2893,
+        "listed_count": 183,
+        "favourites_count": 3455,
+        "statuses_count": 17731,
+        "created_at": "Sat Mar 12 18:45:00 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme10\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme10\/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1299570558653394945\/-soVg2hs_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1299570558653394945\/-soVg2hs_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "We are hiring! \n\nSales agents wanted  in Nigeria and Ghana. Get in touch today!\n\n#hiring #proptech #realestate #Nigeria #Ghana #Recruitment #jobs #sales #careers #jobsearch #recruiting #hr #employment #thursdaymotivation https:\/\/t.co\/cLrPFxdg7H https:\/\/t.co\/z09AHcotWC",
+        "display_text_range": [
+            0,
+            244
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "hiring",
+                    "indices": [
+                        81,
+                        88
+                    ]
+                },
+                {
+                    "text": "proptech",
+                    "indices": [
+                        89,
+                        98
+                    ]
+                },
+                {
+                    "text": "realestate",
+                    "indices": [
+                        99,
+                        110
+                    ]
+                },
+                {
+                    "text": "Nigeria",
+                    "indices": [
+                        111,
+                        119
+                    ]
+                },
+                {
+                    "text": "Ghana",
+                    "indices": [
+                        120,
+                        126
+                    ]
+                },
+                {
+                    "text": "Recruitment",
+                    "indices": [
+                        127,
+                        139
+                    ]
+                },
+                {
+                    "text": "jobs",
+                    "indices": [
+                        140,
+                        145
+                    ]
+                },
+                {
+                    "text": "sales",
+                    "indices": [
+                        146,
+                        152
+                    ]
+                },
+                {
+                    "text": "careers",
+                    "indices": [
+                        153,
+                        161
+                    ]
+                },
+                {
+                    "text": "jobsearch",
+                    "indices": [
+                        162,
+                        172
+                    ]
+                },
+                {
+                    "text": "recruiting",
+                    "indices": [
+                        173,
+                        184
+                    ]
+                },
+                {
+                    "text": "hr",
+                    "indices": [
+                        185,
+                        188
+                    ]
+                },
+                {
+                    "text": "employment",
+                    "indices": [
+                        189,
+                        200
+                    ]
+                },
+                {
+                    "text": "thursdaymotivation",
+                    "indices": [
+                        201,
+                        220
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1319270039866896386,
+                    "id_str": "1319270039866896386",
+                    "indices": [
+                        245,
+                        268
+                    ],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/Ek79HIkU8AI-F6Y.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/Ek79HIkU8AI-F6Y.jpg",
+                    "url": "https:\/\/t.co\/z09AHcotWC",
+                    "display_url": "pic.twitter.com\/z09AHcotWC",
+                    "expanded_url": "https:\/\/twitter.com\/hannytalker\/status\/1319270058561064960\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 355,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1319216623555956737,
+                    "id_str": "1319216623555956737",
+                    "indices": [
+                        221,
+                        244
+                    ],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/Ek7Mh5TX0AEekZb.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/Ek7Mh5TX0AEekZb.jpg",
+                    "url": "https:\/\/t.co\/cLrPFxdg7H",
+                    "display_url": "pic.twitter.com\/cLrPFxdg7H",
+                    "expanded_url": "https:\/\/twitter.com\/SesoGlobal\/status\/1319216637355216896\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 355,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1319216637355216896,
+                    "source_status_id_str": "1319216637355216896",
+                    "source_user_id": 960550129211240449,
+                    "source_user_id_str": "960550129211240449"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1319270039866896386,
+                    "id_str": "1319270039866896386",
+                    "indices": [
+                        245,
+                        268
+                    ],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/Ek79HIkU8AI-F6Y.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/Ek79HIkU8AI-F6Y.jpg",
+                    "url": "https:\/\/t.co\/z09AHcotWC",
+                    "display_url": "pic.twitter.com\/z09AHcotWC",
+                    "expanded_url": "https:\/\/twitter.com\/hannytalker\/status\/1319270058561064960\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 355,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1319216623555956737,
+                    "id_str": "1319216623555956737",
+                    "indices": [
+                        221,
+                        244
+                    ],
+                    "media_url": "http:\/\/pbs.twimg.com\/media\/Ek7Mh5TX0AEekZb.jpg",
+                    "media_url_https": "https:\/\/pbs.twimg.com\/media\/Ek7Mh5TX0AEekZb.jpg",
+                    "url": "https:\/\/t.co\/cLrPFxdg7H",
+                    "display_url": "pic.twitter.com\/cLrPFxdg7H",
+                    "expanded_url": "https:\/\/twitter.com\/SesoGlobal\/status\/1319216637355216896\/photo\/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 355,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 627,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1319216637355216896,
+                    "source_status_id_str": "1319216637355216896",
+                    "source_user_id": 960550129211240449,
+                    "source_user_id_str": "960550129211240449"
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "hiring",
+                "indices": [
+                    81,
+                    88
+                ]
+            },
+            {
+                "text": "proptech",
+                "indices": [
+                    89,
+                    98
+                ]
+            },
+            {
+                "text": "realestate",
+                "indices": [
+                    99,
+                    110
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https:\/\/t.co\/nfgJZAnEm9",
+                "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1319270058561064960",
+                "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                "indices": [
+                    112,
+                    135
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1603373467470"
+}
+{
+    "created_at": "Thu Oct 22 11:08:53 +0000 2020",
+    "id": 1319234265071058944,
+    "id_str": "1319234265071058944",
+    "text": "RT @memoori: Why We Need to Develop Occupancy Sensor Testing for the Real World https:\/\/t.co\/AtipYa4a0J #IoT #SmartBuildings #PropTech http\u2026",
+    "source": "",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1267810977715642369,
+        "id_str": "1267810977715642369",
+        "name": "IoT (Internet of Things)",
+        "screen_name": "iotvishal",
+        "location": "Bangalore",
+        "url": "https:\/\/iotand5g.blogspot.com\/",
+        "description": "Follow me for the latest updates in IoT  (Internet of Things)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 860,
+        "friends_count": 1,
+        "listed_count": 11,
+        "favourites_count": 26,
+        "statuses_count": 45758,
+        "created_at": "Tue Jun 02 13:31:13 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1276760536705724417\/ol2P_j0e_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1276760536705724417\/ol2P_j0e_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1267810977715642369\/1593238412",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Oct 22 10:29:57 +0000 2020",
+        "id": 1319224464563908608,
+        "id_str": "1319224464563908608",
+        "text": "Why We Need to Develop Occupancy Sensor Testing for the Real World https:\/\/t.co\/AtipYa4a0J #IoT #SmartBuildings\u2026 https:\/\/t.co\/XbKkl2MaeA",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28543900,
+            "id_str": "28543900",
+            "name": "Memoori",
+            "screen_name": "memoori",
+            "location": "Stockholm, Sweden",
+            "url": "http:\/\/memoori.com",
+            "description": "Smart Building Research & Thought Leadership.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2725,
+            "friends_count": 2181,
+            "listed_count": 217,
+            "favourites_count": 18,
+            "statuses_count": 5953,
+            "created_at": "Fri Apr 03 11:31:58 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme12\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme12\/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E3E2DE",
+            "profile_text_color": "634047",
+            "profile_use_background_image": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1215308916655054849\/66TrKnES_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1215308916655054849\/66TrKnES_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/28543900\/1578587202",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Why We Need to Develop Occupancy Sensor Testing for the Real World https:\/\/t.co\/AtipYa4a0J #IoT #SmartBuildings #PropTech https:\/\/t.co\/rIiMYFn2sh",
+            "display_text_range": [
+                0,
+                121
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "IoT",
+                        "indices": [
+                            91,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "SmartBuildings",
+                        "indices": [
+                            96,
+                            111
+                        ]
+                    },
+                    {
+                        "text": "PropTech",
+                        "indices": [
+                            112,
+                            121
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/AtipYa4a0J",
+                        "expanded_url": "https:\/\/memoori.com\/why-we-need-to-develop-occupancy-sensor-testing-for-the-real-world\/",
+                        "display_url": "memoori.com\/why-we-need-to\u2026",
+                        "indices": [
+                            67,
+                            90
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1319224448780742658,
+                        "id_str": "1319224448780742658",
+                        "indices": [
+                            122,
+                            145
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/Ek7TpYiWMAIP8cR.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Ek7TpYiWMAIP8cR.jpg",
+                        "url": "https:\/\/t.co\/rIiMYFn2sh",
+                        "display_url": "pic.twitter.com\/rIiMYFn2sh",
+                        "expanded_url": "https:\/\/twitter.com\/memoori\/status\/1319224464563908608\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1600,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1319224448780742658,
+                        "id_str": "1319224448780742658",
+                        "indices": [
+                            122,
+                            145
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/Ek7TpYiWMAIP8cR.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Ek7TpYiWMAIP8cR.jpg",
+                        "url": "https:\/\/t.co\/rIiMYFn2sh",
+                        "display_url": "pic.twitter.com\/rIiMYFn2sh",
+                        "expanded_url": "https:\/\/twitter.com\/memoori\/status\/1319224464563908608\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1600,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "IoT",
+                    "indices": [
+                        91,
+                        95
+                    ]
+                },
+                {
+                    "text": "SmartBuildings",
+                    "indices": [
+                        96,
+                        111
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https:\/\/t.co\/AtipYa4a0J",
+                    "expanded_url": "https:\/\/memoori.com\/why-we-need-to-develop-occupancy-sensor-testing-for-the-real-world\/",
+                    "display_url": "memoori.com\/why-we-need-to\u2026",
+                    "indices": [
+                        67,
+                        90
+                    ]
+                },
+                {
+                    "url": "https:\/\/t.co\/XbKkl2MaeA",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1319224464563908608",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [
+                        113,
+                        136
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "IoT",
+                "indices": [
+                    104,
+                    108
+                ]
+            },
+            {
+                "text": "SmartBuildings",
+                "indices": [
+                    109,
+                    124
+                ]
+            },
+            {
+                "text": "PropTech",
+                "indices": [
+                    125,
+                    134
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https:\/\/t.co\/AtipYa4a0J",
+                "expanded_url": "https:\/\/memoori.com\/why-we-need-to-develop-occupancy-sensor-testing-for-the-real-world\/",
+                "display_url": "memoori.com\/why-we-need-to\u2026",
+                "indices": [
+                    80,
+                    103
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "memoori",
+                "name": "Memoori",
+                "id": 28543900,
+                "id_str": "28543900",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1603364933637"
+}

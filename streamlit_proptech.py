@@ -3,6 +3,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 import plotly.express as px
 import plotly.graph_objects as go
+import re
 
 
 @st.cache
@@ -99,8 +100,21 @@ def modifica_tabla_html(tabla):
     return df_html
 
 
+#def convert(row):
+#    #print(row)
+#    return '<a href="https://twitter.com/i/web/status/{}">{}</a>'.format(row['Id'],  row['Tweet'])
+
+#tabla['Tweet'] = tabla.apply(convert, axis=1)
+
+#splitted = df['Tweet'].str.split(n=1, expand=True)
+## print(splitted)
+#df['Tweet'] = splitted[1]
+#df['Id'] = splitted[0]
+
 def modifica_tabla_retweeted(tabla):
-    tabla.drop('Id',axis='columns', inplace=True)
+    tabla = tabla [['Id','Tweet','Freq']] # reordena columnas de tabla 
+    #tabla['Tweet'] = tabla['Id'] + ' ' + tabla['Tweet'] # Añade al comienzo el Id del tweet
+    #tabla.drop('Id',axis='columns', inplace=True)
     df_html = tabla.head(Top).reset_index(drop=True).to_html(index='True', classes="table-hover") # Utiliza Clase table-hover de Bootstrap
     df_html = df_html.replace("dataframe", "")  # Elimina clase por defecto dataframe
     df_html = df_html.replace('border="1"', 'border="2"')  # Incrementa tamaño línea borde tabla
@@ -108,7 +122,21 @@ def modifica_tabla_retweeted(tabla):
     #df_html = df_html.replace("<th>Hashtag", '<th style="text-align: center">Hashtag ') # Cambia alineación a header Hashtag
     df_html = df_html.replace("<th>"+ tabla.columns[0], '<th style="text-align: center">'+ tabla.columns[0]) # Cambia alineación a header Columna 1
     df_html = df_html.replace("<th>"+ tabla.columns[1], '<th style="text-align: center">'+ tabla.columns[1]) # Cambia alineación a header Columna 2
+    #for row in df_html:
+    #    #ID = re.search('<\th> <td>(.*)<\td>', row)
+    #    ID = re.search('</th> <td>1319270058561064960</td>', row)
+    #    replacement = '<\th> <td>' + '<a href="https://twitter.com/i/web/status/' + ID.group(1) + '">'+ ID.group(1) + '</a>'
+    #    row.replace('<\th> <td>', replacement)
+
+    #ID = re.search('<td>(.*)</td>', df_html)
+    #replacement = '</th> <td>' + '<a href="https://twitter.com/i/web/status/' + ID.group() + '">'+ ID.group() + '</a>'    
+    #df_html = df_html.replace('</th> <td>', replacement)
+
     return df_html
+
+#</th> <td>1319270058561064960</td>
+#result = re.search('asdf=5;(.*)123jasd', s)
+#print(result.group(1))
 
 # --------------------------------------------------------------------------------
 # Análisis Hashtags
