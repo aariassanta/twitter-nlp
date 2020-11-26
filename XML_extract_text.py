@@ -315,9 +315,9 @@ tabla_resultados_split = tabla_resultados.Alertas.apply(pd.Series) \
 
 st.markdown('''
 <div class="jumbotron text-center" style='background-color: #fff'>
-  <h1 style="margin: auto; width: 100%; text-align: center">Twitter <font color="red">PROPTECH</font> Term Interactive Dashboard</h1>
-  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">Data Source: Twitter Stream</p>
-  <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Last Updated: <font color="red">''' + 'Resumen BOE' + '''</font></p>
+  <h1 style="margin: auto; width: 100%; text-align: center">Análisis <font color="red">BOE</font> Interactive Dashboard</h1>
+  <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">Data Source: BOE Página Web</p>
+  <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">Last Updated: <font color="red">''' + today.strftime("%d/%m/%Y") + '''</font></p>
   <h2></h2><p style="margin: auto; font-weight: 400; text-align: center; width: 100%;">( Best viewed on Desktop. Use Landscape mode for Mobile View. )</p>
   <h2></h2><p style="margin: auto; font-weight: bold; text-align: center; width: 100%;">______</p>
 </div>
