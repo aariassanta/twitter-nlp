@@ -118,7 +118,7 @@ def save_html(html, path):
         f.write(html)
         
         
-save_html(r.content, './BOEs/resumen.xml')
+save_html(r.content, './BOEs/Resumen-BOE-' + hoy + '.xml')
 
 
 # %%
@@ -126,7 +126,7 @@ save_html(r.content, './BOEs/resumen.xml')
 
 
 # %%
-resumen = etree.parse('./BOEs/resumen.xml')
+resumen = etree.parse('./BOEs/Resumen-BOE-' + hoy + '.xml')
 
 
 # %%
@@ -278,7 +278,7 @@ tabla_resultados = tabla_resumen.set_index('Item_id').join(tabla_materias.set_in
 
 
 # %%
-tabla_resultados.to_csv('./BOEs/Resultados.csv', index=False)
+tabla_resultados.to_csv('./BOEs/Resultados-BOE-' + hoy + '.csv', index=False)
 
 # %% [markdown]
 # ## Hace Split de Alertas y crea una fila para cada una y ordena por nombre Alerta
