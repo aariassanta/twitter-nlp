@@ -352,12 +352,12 @@ st.header('')
 st.header('Selecciona Alertas')
 
 options =  list(tabla_resultados_split['Alerta'].unique())
-default=['Sanidad','Seguridad Social']
+defecto= list(tabla_resultados_split['Alerta'].unique())
 
 if st.button('Selecciona todas'):
-    default = list(tabla_resultados_split['Alerta'].unique())
+    defecto = list(tabla_resultados_split['Alerta'].unique())
 
-Alerta = st.multiselect('', options, default=default) 
+Alerta = st.multiselect('', options, default=defecto) 
 #st.write('Has seleccionado:', Alerta)
 
 st.header('')

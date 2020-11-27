@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20201127085601">
+  <metadatos>
+    <identificador>BOE-A-2020-15061</identificador>
+    <titulo>Corrección de errores del Acuerdo Internacional Administrativo, para el período 2020-2021, entre el Ministerio de Sanidad del Reino de España y la Organización Mundial de la Salud, para llevar a cabo actividades de cooperación en materia de donación y trasplante de órganos, células y tejidos humanos, hecho en Madrid y Ginebra el 30 de octubre de 2020, al amparo del Acuerdo Marco de Cooperación entre el Reino de España y la Organización Mundial de la Salud de 12 de septiembre de 2001.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>311</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="9562">Ministerio de Asuntos Exteriores, Unión Europea y Cooperación</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <numero_oficial/>
+    <fecha_disposicion/>
+    <fecha_publicacion>20201127</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>105600</pagina_inicial>
+    <pagina_final>105600</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2020-15061</url_epub>
+    <url_pdf>/boe/dias/2020/11/27/pdfs/BOE-A-2020-15061.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="71" orden="">Acuerdos internacionales</materia>
+      <materia codigo="1759" orden="">Créditos Presupuestarios</materia>
+      <materia codigo="9637" orden="">Ministerio de Sanidad</materia>
+      <materia codigo="5317" orden="">Organización Mundial de la Salud</materia>
+      <materia codigo="6942" orden="">Trasplantes de órganos</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="123" orden="">Relaciones internacionales</alerta>
+      <alerta codigo="124" orden="">Sanidad</alerta>
+      <alerta codigo="127" orden="">Sistema financiero</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-14457" orden="2120">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>del Acuerdo de 30 de octubre de 2020</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Advertido error en la publicación del Acuerdo internacional administrativo, para el período 2020-2021, entre el Ministerio de Sanidad del Reino de España y la Organización Mundial de la Salud, para llevar a cabo actividades de cooperación en materia de donación y trasplante de órganos, células y tejidos humanos, hecho en Madrid y Ginebra el 30 de octubre de 2020, publicado en el «Boletín Oficial del Estado» núm. 304 de 19 de noviembre de 2020, se procede a efectuar la oportuna rectificación:</p>
+    <p class="parrafo_2">En la página núm. 101017, en el segundo párrafo del apartado Signatarios, donde dice: «Mariângela Simão, Subdirectora General de Acceso a Medicamentos, Vacunas y Productos Farmacéuticos de la Organización Mundial de la Salud», debe decir: «Mariângela Simão, Subdirectora General de Acceso a Medicamentos y Productos Sanitarios de la Organización Mundial de la Salud.»</p>
+  </texto>
+</documento>

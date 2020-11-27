@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20201127092601">
+  <metadatos>
+    <identificador>BOE-A-2020-15068</identificador>
+    <titulo>Sentencia de 29 de septiembre de 2020, de la Sala Tercera del Tribunal Supremo, que estima parcialmente el recurso interpuesto por la representación procesal de la Agrupación Sindical de Transportistas Autónomos de Catalunya (ASTAC Catalunya), contra el Real Decreto 70/2019, de 15 de febrero, por el que se modifican el Reglamento de la Ley de Ordenación de los Transportes Terrestres y otras normas reglamentarias en materia de formación de los conductores de los vehículos de transporte por carretera, de documentos de control en relación con los transportes por carretera, de transporte sanitario por carretera, de transporte de mercancías peligrosas y del Comité Nacional de Transporte por Carretera.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>311</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="1430">Tribunal Supremo</departamento>
+    <rango codigo="1240">Sentencia</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20200929</fecha_disposicion>
+    <fecha_publicacion>20201127</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>105634</pagina_inicial>
+    <pagina_final>105634</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2020-15068</url_epub>
+    <url_pdf>/boe/dias/2020/11/27/pdfs/BOE-A-2020-15068.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="397" orden="">Autorizaciones</materia>
+      <materia codigo="3178" orden="">Empresas de transporte</materia>
+      <materia codigo="6928" orden="">Transporte de viajeros</materia>
+      <materia codigo="6931" orden="">Transporte público</materia>
+      <materia codigo="6937" orden="">Transportes por carretera</materia>
+      <materia codigo="6974" orden="">Tribunal Supremo</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="109" orden="">Derecho Administrativo</alerta>
+      <alerta codigo="132" orden="">Transportes y tráfico</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1990-24442" orden="4009">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>la nulidad del art. 44.2, párrafo 1, del Real Decreto 1211/1990, de 28 de septiembre, en la redacción dada por el art. 2.22 del Real Decreto 70/2019, de 15 de febrero</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2019-2289" orden="4010">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">En el recurso contencioso-administrativo número 1/144/2019, interpuesto Agrupación Sindical de Transportistas Autónomos de Catalunya (ASTAC Catalunya) contra el Real Decreto 70/2019, de 15 de febrero, la Sala Tercera (Sección Tercera) del Tribunal Supremo ha dictado sentencia con fecha 29 de septiembre de 2020 cuya parte dispositiva es del tenor literal siguiente:</p>
+    <p class="centro_redonda">FALLO</p>
+    <p class="parrafo_2">Por todo lo expuesto, en nombre del Rey y por la autoridad que le confiere la Constitución, esta Sala ha decidido:</p>
+    <p class="parrafo_2">Estimar parcialmente el recurso contencioso administrativo interpuesto por la representación procesal de Agrupación Sindical de Transportistas Autónomos de Catalunya (ASTAC Catalunya), contra el Real Decreto 70/2019, de 15 de febrero, por el que se modifican el Reglamento de la Ley de Ordenación de los Transportes Terrestres y otras normas reglamentarias en materia de formación de los conductores de los vehículos de transporte por carretera, de documentos de control en relación con los transportes por carretera, de transporte sanitario por carretera, de transporte de mercancías peligrosas y del Comité Nacional de Transporte por Carretera, del que anulamos su artículo 2, apartado 22, que da nueva redacción al artículo 44 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por el Real Decreto 1211/1990, de 28 de septiembre, en el primer párrafo de su segundo apartado, que se ha transcrito en el Fundamento de Derecho Quinto de esta sentencia, desestimando el recurso contencioso administrativo en todo lo demás.</p>
+    <p class="parrafo_2">Sin imposición de costas.</p>
+    <p class="parrafo_2">Notifíquese esta resolución a las partes e insértese en la colección legislativa.</p>
+    <p class="parrafo_2">Así se acuerda y firma.–D. Eduardo Espín Templado.–D. José Manuel Bandrés Sánchez Cruzat.–D. Eduardo Calvo Rojas.–D.ª M.ª Isabel Perelló Doménech.–D. José María del Riego Valledor.–D. Diego Córdoba Castroverde.–D. Fernando Román García.</p>
+  </texto>
+</documento>
