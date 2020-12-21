@@ -151,6 +151,8 @@ tabla_resumen = pd.DataFrame()
 
 # %%
 for seccion in raiz.xpath('//seccion[contains(@nombre, "I. Disposiciones generales")]'):
+#for seccion in raiz.xpath('//seccion[contains(@nombre, "III. Otras disposiciones") or contains(@nombre, "I. Disposiciones generales")]'):
+#for seccion in raiz.xpath('//seccion'):
     nombre_seccion = seccion.xpath('@nombre')
 
     for departamento in seccion:
@@ -176,7 +178,7 @@ for seccion in raiz.xpath('//seccion[contains(@nombre, "I. Disposiciones general
 
 
 # %%
-tabla_resumen.sort_values('Item_id')
+#tabla_resumen.sort_values('Item_id')
 
 # %% [markdown]
 # # Descarga ficheros XML asociados
@@ -380,3 +382,77 @@ st.write(tabla_resultados_presentacion, unsafe_allow_html=True)
 
 
 #tabla_resultados_split = tabla_resultados_split.reset_index(drop=True).drop(['Epigrafe','Departamento','Seccion','Item_URL_XML'], axis='columns')
+
+# --------------------------------------------------------------------------------------
+# DOGC
+# --------------------------------------------------------------------------------------
+
+URL_HTML_resumen =  "https://dogc.gencat.cat/es/index.html?newLang=es_ES&language=es_ES"
+
+## carga página HTML y genera árbol
+
+response = requests.get(URL_HTML_resumen)
+tree = html.fromstring(response.text)
+
+## Recoge Nombre Secciones Sumario
+
+secciones = tree.xpath('//*[@id="sumari"]/ul/li')
+#print(secciones)
+df_secciones_sumarios = pd.DataFrame()
+for seccion in secciones:
+    seccion = seccion.xpath('./form/a/text()')
+    seccion = re.sub('(\\r|\\n|\\t)+', '', seccion[0])
+    print(seccion[1:-1])
+    df_secciones_sumarios = df_secciones_sumarios.append({'Seccion': seccion[1:-1]}, ignore_index=True)
+
+## Recoge Valores para formar URLs Secciones Sumario
+
+URL_base_sumario = tree.xpath('//*[@id="sumari"]/ul/li[1]/form/@action')
+
+df_URL_sumarios = pd.DataFrame()
+for seccion in secciones:    
+    cadena = ''
+    for input in seccion.xpath('./form'):
+        argumentos = input.xpath('./input/@name')
+        valores = input.xpath('./input/@value')
+        #print(argumentos, valores)
+
+    for indice in range(len(argumentos)):
+        cadena += argumentos[indice] + '=' + valores[indice] + '&'
+
+    URL_sumario = 'https://dogc.gencat.cat' + str(URL_base_sumario[0]) + '?' + str(cadena[:-1])
+    print(URL_sumario)
+    df_URL_sumarios = df_URL_sumarios.append({'URL_Seccion': URL_sumario}, ignore_index=True)
+
+## Concatena en df columnas Sccion y URL de sumarios 
+
+df_sumarios = pd.concat([df_secciones_sumarios, df_URL_sumarios], axis=1)
+
+## Recoge Items en Seccion Disposiciones
+
+response = requests.get(df_sumarios['URL_Seccion'][0])
+sumario_HTML = html.fromstring(response.text)
+
+#seccion = sumario_HTML.xpath('//*[@id="disposicions"]/div[1]/text()')
+seccion = sumario_HTML.xpath('//*[@id="disposicions"]/div/text()')
+bloques = sumario_HTML.xpath('//*[@id="disposicions"]')
+df_disposiciones = pd.DataFrame()
+for bloque in bloques: 
+    item_name = bloque.xpath('./div/p/text()')
+    item_name = re.sub('(\\r|\\n|\\t)+', '', item_name[0])
+    pdf_link = bloque.xpath('./div/div/a[4]/@href')
+
+    df_disposiciones = pd.DataFrame({'Item': item_name, 
+                                    'PDF_link': pdf_link})
+
+df_disposiciones['Seccion'] = ''
+
+for row in df_disposiciones.index:
+    df_disposiciones.iat[row,2] = seccion[0][:-1] 
+
+df_disposiciones
+
+st.header('')
+st.header('DOGC disposiciones')
+
+st.write(df_disposiciones)
