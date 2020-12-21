@@ -429,7 +429,7 @@ for seccion in secciones:
 
 df_sumarios = pd.concat([df_secciones_sumarios, df_URL_sumarios], axis=1)
 
-## Recoge Items en Seccion Disposiciones
+### Recoge Items en Seccion Disposiciones
 
 response = requests.get(df_sumarios['URL_Seccion'][0])
 sumario_HTML = html.fromstring(response.text)
@@ -437,21 +437,19 @@ sumario_HTML = html.fromstring(response.text)
 #seccion = sumario_HTML.xpath('//*[@id="disposicions"]/div[1]/text()')
 seccion = sumario_HTML.xpath('//*[@id="disposicions"]/div/text()')
 bloques = sumario_HTML.xpath('//*[@id="disposicions"]')
-df_disposiciones = pd.DataFrame()
+df_disposiciones = pd.DataFrame(columns=['Seccion','Item_Name','PDF_link'])
 for bloque in bloques: 
     item_name = bloque.xpath('./div/p/text()')
-    item_name = re.sub('(\\r|\\n|\\t)+', '', item_name[0])
+    #item_name = re.sub('(\\r|\\n|\\t)+', '', item_name[0])
     pdf_link = bloque.xpath('./div/div/a[4]/@href')
 
-    df_disposiciones = pd.DataFrame({'Item': item_name, 
-                                    'PDF_link': pdf_link})
+for row in range(len(pdf_link)):
+    df_disposiciones = df_disposiciones.append({'Item_Name': re.sub('(\\r|\\n|\\t)+', '',                                                   item_name[row]),
+                                            'PDF_link' : pdf_link[row],
+                                            'Seccion' : seccion[0][:-1]},
+                                            ignore_index=True)
 
-df_disposiciones['Seccion'] = ''
-
-for row in df_disposiciones.index:
-    df_disposiciones.iat[row,2] = seccion[0][:-1] 
-
-df_disposiciones
+#df_disposiciones
 
 st.header('')
 st.header('DOGC disposiciones')
