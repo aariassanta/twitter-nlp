@@ -2,11 +2,12 @@
 # To add a new markdown cell, type '# %% [markdown]'
 
 # %%
-from lxml import etree
+from lxml import etree, html
 import pandas as pd
 from datetime import date
 import requests
 import streamlit as st
+import re
 
 # %%
 doc = etree.parse('BOE-A-2020-14372.xml')
