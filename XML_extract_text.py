@@ -444,14 +444,30 @@ for bloque in bloques:
     pdf_link = bloque.xpath('./div/div/a[4]/@href')
 
 for row in range(len(pdf_link)):
-    df_disposiciones = df_disposiciones.append({'Item_Name': re.sub('(\\r|\\n|\\t)+', '',                                                   item_name[row]),
+    df_disposiciones = df_disposiciones.append({'Item_Name': re.sub('(\\r|\\n|\\t)+', '', item_name[row]),
                                             'PDF_link' : pdf_link[row],
                                             'Seccion' : seccion[0][:-1]},
                                             ignore_index=True)
 
 #df_disposiciones
 
+def modifica_tabla_resultados_DOGC(tabla):
+    tabla = tabla.reset_index(drop=True)
+    tabla['Item_Name'] = '<a href=' + tabla['PDF_link'] + ' ' + 'target="_blank"' + '><div>' + tabla['Item_Name'] + '</div></a>' # Añade url link  pdf a Item_id
+    tabla.drop(['PDF_link'], axis='columns', inplace=True)
+    df_html = tabla.reset_index(drop=True).to_html(index='True', classes="table-hover", escape=False) # Utiliza Clase table-hover de Bootstrap
+    df_html = df_html.replace("dataframe", "")  # Elimina clase por defecto dataframe
+    df_html = df_html.replace('border="1"', 'border="2"')  # Incrementa tamaño línea borde tabla
+    df_html = df_html.replace("<table", '<table style="font-size:12px; text-align: center; width: 100%" ') # Cambia tamaño fuente a 15px
+    df_html = df_html.replace("<th>"+ tabla.columns[0], '<th style="text-align: center">'+ tabla.columns[0]) # Cambia alineación a header Columna 1
+    df_html = df_html.replace("<th>"+ tabla.columns[1], '<th style="text-align: center">'+ tabla.columns[1]) # Cambia alineación a header Columna 2
+    
+    return df_html
+
 st.header('')
 st.header('DOGC disposiciones')
 
-st.write(df_disposiciones)
+
+tabla_resultados_presentacion_DOGC = modifica_tabla_resultados_DOGC(df_disposiciones)
+
+st.write(tabla_resultados_presentacion_DOGC, unsafe_allow_html=True)

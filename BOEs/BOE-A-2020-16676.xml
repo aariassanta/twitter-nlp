@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20201222142602">
+  <metadatos>
+    <identificador>BOE-A-2020-16676</identificador>
+    <titulo>Decreto 147/2020, de 21 de diciembre, de disolución automática del Parlamento de Cataluña y de convocatoria de elecciones.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>332</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="8070">Comunidad Autónoma de Cataluña</departamento>
+    <rango codigo="1510">Decreto</rango>
+    <numero_oficial>147/2020</numero_oficial>
+    <fecha_disposicion>20201221</fecha_disposicion>
+    <fecha_publicacion>20201222</fecha_publicacion>
+    <fecha_vigencia>20201222</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>117511</pagina_inicial>
+    <pagina_final>117512</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="2">Autonómico</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2020-16676</url_epub>
+    <url_pdf>/boe/dias/2020/12/22/pdfs/BOE-A-2020-16676.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es-ct/d/2020/12/21/147</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es-ct/d/2020/12/21/147">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es-ct"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/d"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2020-16676</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-21</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">147</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es-ct/d/2020/12/21/147/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es-ct"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/d"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2020-16676</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-21</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">147</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es-ct/d/2020/12/21/147"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es-ct/d/2020/12/21/147/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Decreto 147/2020, de 21 de diciembre, de disolución automática del Parlamento de Cataluña y de convocatoria de elecciones.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-22</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es-ct/d/2020/12/21/147/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es-ct/d/2020/12/21/147/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es-ct/d/2020/12/21/147/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es-ct/d/2020/12/21/147/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es-ct/d/2020/12/21/147/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es-ct/d/2020/12/21/147/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es-ct/d/2020/12/21/147/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es-ct/d/2020/12/21/147/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es-ct/d/2020/12/21/147/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="665" orden="">Cataluña</materia>
+      <materia codigo="2510" orden="">Diputados</materia>
+      <materia codigo="3136" orden="">Elecciones autonómicas</materia>
+      <materia codigo="5377" orden="">Parlamento Autonómico</materia>
+      <materia codigo="5706" orden="">Procedimiento Electoral</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="111" orden="">Derecho Constitucional</alerta>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2008-19526" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>la Ley 13/2008, de 5 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-13087" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>los arts. 66 y 67 del Estatuto aprobado por Ley Orgánica 6/2006, de 19 de julio</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Vista la Comunicación de la presidencia del Parlamento al Pleno de la cámara sobre la imposibilidad de proponer un candidato para ser investido Presidente o Presidenta de la Generalitat y de inicio del cómputo del plazo de dos meses fijado por el artículo 67.3 del Estatuto de autonomía de Cataluña y del artículo 4.7 de la Ley 13/2008, de 5 de noviembre, de la Presidencia de la Generalitat y del Gobierno (BOPC número 709, de 21 de octubre de 2020);</p>
+    <p class="parrafo">Vista la Comunicación de la Presidencia del Parlamento, de 21 de diciembre de 2020, al Vicepresidente del Gobierno en sustitución de la Presidencia de la Generalitat y Consejero de Economía y Hacienda, por la que se constata el transcurso de los dos meses desde la Comunicación al Pleno de la imposibilidad de proponer un candidato o candidata para ser investido presidente o presidenta de la Generalitat;</p>
+    <p class="parrafo">En consecuencia, en cumplimiento de lo dispuesto en los artículos 66 y 67.3 del Estatuto de autonomía de Cataluña, y en el artículo 4.7 de la Ley 13/2008, de 5 de noviembre, de la Presidencia de la Generalitat y del Gobierno, el Parlamento de Cataluña queda automáticamente disuelto y se convocan elecciones al Parlamento de Cataluña mediante el presente Decreto.</p>
+    <p class="parrafo">Sin embargo, si por razones derivadas de la protección del derecho a la salud frente a la situación de emergencia sanitaria provocada por la pandemia generada por la COVID-19, el desarrollo del proceso electoral no se pudiera llevar a cabo con las garantías de salud pública necesarias, se podrá dejar sin efectos esta convocatoria y posponer la votación para una fecha posterior que ofrezca dichas garantías;</p>
+    <p class="parrafo">Visto lo establecido en el artículo 56 y en la disposición transitoria segunda del Estatuto de Autonomía de Cataluña, que mantiene en vigor la disposición transitoria cuarta del Estatuto de Autonomía de Cataluña de 1979, y en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General,</p>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 6 y concordantes de la Ley 13/2008, de 5 de noviembre, de la Presidencia de la Generalitat y del Gobierno, y visto el Decreto 114/2020, de 30 de septiembre, de sustitución del Presidente de la Generalitat de Cataluña, decreto:</p>
+    <p class="articulo">Artículo 1. Disolución del Parlamento.</p>
+    <p class="parrafo">Habiendo transcurrido el plazo previsto en el artículo 67.3 del Estatuto de autonomía de Cataluña y en el artículo 4.7 de la Ley 13/2008, de 5 de noviembre, de la Presidencia de la Generalitat y del Gobierno, queda disuelto el Parlamento de Cataluña elegido el día 21 de diciembre de 2017.</p>
+    <p class="articulo">Artículo 2. Convocatoria.</p>
+    <p class="parrafo">Se convocan elecciones al Parlamento de Cataluña, que tendrán lugar el día 14 de febrero de 2021.</p>
+    <p class="articulo">Artículo 3. Diputados.</p>
+    <p class="parrafo">De acuerdo con lo establecido en la disposición transitoria segunda del Estatuto de autonomía de Cataluña, que mantiene en vigor la disposición transitoria cuarta del Estatuto de autonomía de Cataluña de 1979, las circunscripciones electorales de Barcelona, Girona, Lleida y Tarragona elegirán, respectivamente, a 85, 17, 15 y 18 diputados.</p>
+    <p class="articulo">Artículo 4. Campaña electoral.</p>
+    <p class="parrafo">La campaña electoral durará quince días, empezará a las cero horas del día 29 de enero de 2021 y terminará a las veinticuatro horas del día 12 de febrero de 2021.</p>
+    <p class="articulo">Disposición adicional.</p>
+    <p class="parrafo">Las elecciones convocadas mediante el presente Decreto se regirán por lo establecido en el artículo 56 y en la disposición transitoria segunda del Estatuto de autonomía de Cataluña, que mantiene en vigor la disposición transitoria cuarta del Estatuto de autonomía de Cataluña de 1979; por las normas correspondientes de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General; por el Decreto de normas complementarias de estas elecciones, y por las demás disposiciones legales de aplicación a este proceso electoral.</p>
+    <p class="articulo">Disposición final.</p>
+    <p class="parrafo">Este Decreto entrará en vigor el mismo día de su publicación en el «Diari Oficial de la Generalitat de Catalunya».</p>
+    <p class="parrafo_2">Barcelona, 21 de diciembre de 2020.–El Vicepresidente del Gobierno en sustitución de la Presidencia de la Generalitat y Consejero de Economía y Hacienda, Pere Aragonès i Garcia.</p>
+  </texto>
+</documento>
