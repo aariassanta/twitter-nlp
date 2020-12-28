@@ -471,3 +471,93 @@ st.header('DOGC disposiciones')
 tabla_resultados_presentacion_DOGC = modifica_tabla_resultados_DOGC(df_disposiciones)
 
 st.write(tabla_resultados_presentacion_DOGC, unsafe_allow_html=True)
+
+# --------------------------------------------------------------------------------------
+# DOUE
+# --------------------------------------------------------------------------------------
+
+URL_HTML_resumen =  "https://eur-lex.europa.eu/oj/direct-access.html?locale=es"
+
+## carga página HTML y genera árbol
+
+response = requests.get(URL_HTML_resumen)
+tree = html.fromstring(response.text)
+
+## Recoge Nombre Secciones Sumario
+
+secciones = tree.xpath('//*[@id="MainContent"]/div[2]/div[2]/div/table/tbody/tr[1]')
+#print(secciones)
+
+## Recoge Valores para formar URLs Secciones Sumario
+
+df_secciones_sumarios = pd.DataFrame()
+for seccion in secciones:
+    seccion_name = seccion.xpath('./td[2]/a/text()')
+    seccion_URL = seccion.xpath('./td[2]/a/@href')
+    #seccion = re.sub('(\\r|\\n|\\t)+', '', seccion)
+    #print(seccion_name)
+    #print(seccion_URL)
+
+for row in range(len(seccion_name)):
+    df_secciones_sumarios = df_secciones_sumarios.append({'Seccion': seccion_name[row],
+                                            'Seccion_link' : 'https://eur-lex.europa.eu' + seccion_URL[row][4:]},
+                                            ignore_index=True)
+
+df_legislaciones = pd.DataFrame()
+
+for URL in df_secciones_sumarios['Seccion_link']:
+    
+    ### Recoge Items en Seccion Legislación
+
+    #print(URL)
+    response = requests.get(URL)
+    sumario_HTML = html.fromstring(response.text)
+
+    documentos = sumario_HTML.xpath('//*[@class="oj-ti-doc-dur"]/a[1]/text()[1]')
+    documentos_URL = sumario_HTML.xpath('//*[@class="oj-ti-doc-dur"]/a[1]/@href')
+
+    for row in range(len(documentos)):
+        df_legislaciones = df_legislaciones.append({'Seccion': 'L' + documentos_URL[row][-7:-4],
+                                        'Item_Name': documentos[row],
+                                        'Item_Link': 'https://eur-lex.europa.eu' + documentos_URL[row][10:],
+                                        'PDF_Link': ''},
+                                        ignore_index=True)
+
+
+### Recoge PDF link en Items Legislación
+
+row = 0
+for link in df_legislaciones['Item_Link']:
+
+    response = requests.get(link)
+    sumario_HTML = html.fromstring(response.text)
+
+    PDF_Link = sumario_HTML.xpath('//*[@id="format_language_table_PDF_ES"]/@href')
+    df_legislaciones['PDF_Link'].iloc[row] = 'https://eur-lex.europa.eu' + PDF_Link[0][10:]
+
+    row += 1
+
+### Ordena columnas    
+
+df_legislaciones = df_legislaciones[['Seccion', 'Item_Name', 'Item_Link', 'PDF_Link']]
+
+def modifica_tabla_resultados_DOUE(tabla):
+    tabla = tabla.reset_index(drop=True)
+    tabla['Item_Name'] = '<a href=' + tabla['PDF_Link'] + ' ' + 'target="_blank"' + '><div>' + tabla['Item_Name'] + '</div></a>' # Añade url link  pdf a Item_id
+    tabla.drop(['PDF_Link', 'Item_Link'], axis='columns', inplace=True)
+    df_html = tabla.reset_index(drop=True).to_html(index='True', classes="table-hover", escape=False) # Utiliza Clase table-hover de Bootstrap
+    df_html = df_html.replace("dataframe", "")  # Elimina clase por defecto dataframe
+    df_html = df_html.replace('border="1"', 'border="2"')  # Incrementa tamaño línea borde tabla
+    df_html = df_html.replace("<table", '<table style="font-size:12px; text-align: center; width: 100%" ') # Cambia tamaño fuente a 15px
+    df_html = df_html.replace("<th>"+ tabla.columns[0], '<th style="text-align: center">'+ tabla.columns[0]) # Cambia alineación a header Columna 1
+    df_html = df_html.replace("<th>"+ tabla.columns[1], '<th style="text-align: center">'+ tabla.columns[1]) # Cambia alineación a header Columna 2
+    
+    return df_html
+
+st.header('')
+st.header('DOUE Legislación')
+
+
+tabla_resultados_presentacion_DOUE = modifica_tabla_resultados_DOUE(df_legislaciones)
+
+st.write(tabla_resultados_presentacion_DOUE, unsafe_allow_html=True)
