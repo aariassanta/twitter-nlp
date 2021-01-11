@@ -1,0 +1,8 @@
+# Lanza daemon Supervisor con streamer de twitter
+supervisord
+
+# Lanza análisis del stream
+python twitter_user_frequency.py ./proptech/stream_proptech.json
+
+# Presenta resultados en Streamlit
+run streamlit_proptech.py

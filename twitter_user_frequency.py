@@ -110,6 +110,7 @@ if __name__ == '__main__':
             if tweet['text'][:2] == 'RT':
                 id = get_tweet_id(tweet)
                 name.update([str(id) + ' ' + tweet['text']])
+                #name.update([tweet['text']])
     
     #with open(fname, 'r') as f:
     #    name = Counter()
@@ -127,8 +128,8 @@ if __name__ == '__main__':
 
     print('\n' + '------------ 20 most retweeted tweets' + '\n')
     # print(name)
-    for tag, count in name.most_common(20):
-        print("{}: {}".format(tag, count))
+    #for tag, count in name.most_common(20):
+    #    print("{}: {}".format(tag, count))
 
     df = pd.DataFrame(name.items(), columns=['Tweet', 'Freq'])
 
@@ -140,9 +141,23 @@ if __name__ == '__main__':
     df['Tweet'] = splitted[1]
     df['Id'] = splitted[0]
 
+    # Tweets retwiteados no tienen un ID tweet comun por lo que hay que 
+    # agruparlos por el texto del tweet y coger uno cualquiera de los diferentes
+    # Ids, por ejemplo el mayor de ellos, para despues generar el enlace al tweet
+
+    df_grouped = df.groupby("Tweet", as_index=False).agg( \
+        sum_Id=('Freq', 'sum'), \
+        max_Id=('Id', 'max'), \
+        ).sort_values(by='sum_Id', ascending=False)
+    
+    df_grouped.columns = ['Tweet','Freq','Id']
+    
+    print(df_grouped.head(20))
+
     # Save to file
 
-    df.to_csv("./csv/retweeted.csv", sep=',', index=False)
+    #df.to_csv("./csv/retweeted.csv", sep=',', index=False)
+    df_grouped.to_csv("./csv/retweeted.csv", sep=',', index=False)
 
     print('\n')
 
