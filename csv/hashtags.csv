@@ -1,10 +1,10 @@
 Hashtag,Freq
 startups,152
-proptech,2672
+proptech,2679
 actualité,4
 cüriositee,7
 australianfintech,1
-fintech,506
+fintech,509
 tech,93
 bnpparibas,3
 eatoday,5
@@ -13,14 +13,14 @@ azora,2
 webinar,13
 golf,1
 costadelsol,1
-realestate,500
+realestate,503
 blockchain,60
 cocina,2
 viviendas,3
 avintia,1
 luznatural,1
 luzartificial,1
-realestateinvesting,31
+realestateinvesting,32
 soyadpi,1
 soyavai,1
 soyabai,1
@@ -79,7 +79,7 @@ realestatebroker,1
 realestateagent,10
 dynamicreshowing,2
 5g,76
-workplace,30
+workplace,31
 workplacesolutions,2
 officespace,2
 cre,88
@@ -99,12 +99,12 @@ startup,117
 li,2
 gründer,3
 sior,1
-immobilier,65
+immobilier,66
 estateag,1
 estateagents,16
 inmobiliario,6
 europeo,1
-insurtech,160
+insurtech,161
 insurance,4
 conveyancers,6
 encemoment,4
@@ -237,7 +237,7 @@ meencantamitrabajo,1
 onsite,3
 exclusiveinterview,1
 ir4,47
-finserv,235
+finserv,236
 fridayfika,1
 vps2020,1
 privateproperty,1
@@ -311,7 +311,7 @@ waybackwednesday,2
 propertysoftware,3
 rentrovi,1
 evkiralama,1
-saas,16
+saas,17
 customerserviceweek,1
 customerservicedepartment,1
 eamasters,3
@@ -328,7 +328,7 @@ uktech,4
 nationalcustomerserviceweek,2
 customercare,2
 defectmanagement,2
-contech,57
+contech,58
 sil2020,1
 mercadoimobiliario,3
 realestateportugal,1
@@ -450,8 +450,8 @@ tenents,1
 amenities,1
 rtpi,4
 riba,3
-commercial,8
-brokerage,3
+commercial,9
+brokerage,4
 leasing,3
 etapa,4
 humanos,4
@@ -663,7 +663,7 @@ flutter,5
 immobilierdentreprise,1
 cincinnati,1
 iotproptech,25
-tokenization,6
+tokenization,7
 entrevista,1
 audio,1
 development,4
@@ -760,8 +760,8 @@ coliving,10
 ciudades,2
 innovations,3
 vcsforfemalefounders,3
-marché,7
-appartement,7
+marché,8
+appartement,8
 denmark,1
 logo,1
 company,1
@@ -943,7 +943,7 @@ dalilighting,5
 enocean,4
 retailtech,47
 selfdriving,2
-safety,28
+safety,29
 dynamic,1
 speakers,1
 november,1
@@ -1028,7 +1028,7 @@ businessmodel,1
 opendoor,1
 justlisted,7
 aptvirtual,2
-reconnect,2
+reconnect,3
 privateworkspace,1
 wexchange,1
 teamyardi,1
@@ -1358,7 +1358,7 @@ poblenou,1
 deeptech,3
 prian,1
 immo,1
-banking,5
+banking,6
 digitalassets,1
 algorithms,1
 breaking,1
@@ -1637,7 +1637,7 @@ fast50,3
 propertymatters,6
 aareal,2
 dex,1
-defi,1
+defi,2
 salud,1
 cmp,1
 ukfast50winners,2
@@ -1939,7 +1939,7 @@ lesagencesdepapa,3
 ido,1
 rv,1
 printmarketing,2
-bestinshow,1
+bestinshow,2
 capeco,1
 construtech,2
 paris,1
@@ -2027,3 +2027,6 @@ energymanagement,1
 riyadh,1
 عقارك_ييدك,1
 دلالي_بسطها,1
+whatistheline,1
+wealthpark,1
+youtrust,1
