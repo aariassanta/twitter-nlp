@@ -378,7 +378,7 @@ st.header('Tabla Resultante')
 # Procesa tabla_resultados_split para presentación
 
 tabla_resultados_presentacion = modifica_tabla_resultados(tabla_resultados_split[tabla_resultados_split['Alerta'].isin(Alerta)])
-#df[df['A'].isin([3, 6])]
+
 st.write(tabla_resultados_presentacion, unsafe_allow_html=True)
 
 
