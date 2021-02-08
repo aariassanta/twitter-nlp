@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210203092601">
+  <metadatos>
+    <identificador>BOE-A-2021-1528</identificador>
+    <titulo>Corrección de errores de la Ley 8/2020, de 16 de diciembre, por la que se adoptan determinadas medidas urgentes en materia de agricultura y alimentación.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>29</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <numero_oficial/>
+    <fecha_disposicion/>
+    <fecha_publicacion>20210203</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>12267</pagina_inicial>
+    <pagina_final>12267</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-1528</url_epub>
+    <url_pdf>/boe/dias/2021/02/03/pdfs/BOE-A-2021-1528.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="158" orden="">Agricultura</materia>
+      <materia codigo="420" orden="">Ayudas</materia>
+      <materia codigo="1667" orden="">Contratos de trabajo</materia>
+      <materia codigo="1754" orden="">Cotización a la Seguridad Social</materia>
+      <materia codigo="3879" orden="">Ganadería</materia>
+      <materia codigo="5723" orden="">Producción alimentaria</materia>
+      <materia codigo="5931" orden="">Régimen Especial Agrario de la Seguridad Social</materia>
+      <materia codigo="6909" orden="">Trabajadores</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="101" orden="">Agricultura</alerta>
+      <alerta codigo="105" orden="">Comercio</alerta>
+      <alerta codigo="109" orden="">Derecho Administrativo</alerta>
+      <alerta codigo="112" orden="">Derecho Mercantil</alerta>
+      <alerta codigo="117" orden="">Ganadería y animales</alerta>
+      <alerta codigo="125" orden="">Seguridad Social</alerta>
+      <alerta codigo="128" orden="">Sistema tributario</alerta>
+      <alerta codigo="131" orden="">Trabajo y empleo</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-16346" orden="2120">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>de la Ley 8/2020, de 16 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Advertido error en la Ley 8/2020, de 16 de diciembre, por la que se adoptan determinadas medidas urgentes en materia de agricultura y alimentación, publicada en el «Boletín Oficial del Estado» n.º 328, de 17 de diciembre de 2020, se procede a efectuar la oportuna rectificación:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">En la página 115659, en el artículo cuarto, apartado 1, letra c), a partir de la tercera línea, donde dice: «c) …, la bonificación se corresponderá con la cuantía necesaria para que la cuota resultante por contingencias comunes no supere 4,63 euros/mes, o 4,30 euros por jornada real trabajada…», debe decir: « c) …, la bonificación se corresponderá con la cuantía necesaria para que la cuota resultante por contingencias comunes no supere 94,63 euros/mes, o 4,30 euros por jornada real trabajada…».</p>
+  </texto>
+</documento>

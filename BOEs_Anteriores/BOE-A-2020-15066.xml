@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20201127125601">
+  <metadatos>
+    <identificador>BOE-A-2020-15066</identificador>
+    <titulo>Orden ETD/1110/2020, de 25 de noviembre, por la que se acuerda la emisión, acuñación y puesta en circulación de monedas de colección "Historia de la Aviación".</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>311</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="9576">Ministerio de Asuntos Económicos y Transformación Digital</departamento>
+    <rango codigo="1350">Orden</rango>
+    <numero_oficial>ETD/1110/2020</numero_oficial>
+    <fecha_disposicion>20201125</fecha_disposicion>
+    <fecha_publicacion>20201127</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>105618</pagina_inicial>
+    <pagina_final>105622</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2020-15066</url_epub>
+    <url_pdf>/boe/dias/2020/11/27/pdfs/BOE-A-2020-15066.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/o/2020/11/25/etd1110</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2020/11/25/etd1110">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2020-15066</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-25</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etd1110</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2020/11/25/etd1110/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2020-15066</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-25</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">etd1110</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2020/11/25/etd1110"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2020/11/25/etd1110/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden ETD/1110/2020, de 25 de noviembre, por la que se acuerda la emisión, acuñación y puesta en circulación de monedas de colección "Historia de la Aviación".</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-27</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2020/11/25/etd1110/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2020/11/25/etd1110/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2020/11/25/etd1110/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2020/11/25/etd1110/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2020/11/25/etd1110/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2020/11/25/etd1110/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2020/11/25/etd1110/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2020/11/25/etd1110/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2020/11/25/etd1110/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas>
+      <nota codigo="38" orden="225">Efectos : desde el 28 de noviembre de 2020.</nota>
+    </notas>
+    <materias>
+      <materia codigo="5038" orden="">Monedas conmemorativas</materia>
+      <materia codigo="6933" orden="">Transportes aéreos</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="107" orden="">Cultura y ocio</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-2739" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 4.1.k) del Real Decreto 403/2020, de 25 de febrero</texto>
+        </anterior>
+        <anterior referencia="DOUE-L-2012-81343" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 5 del Reglamento (UE) 651/2012, de 4 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1994-28968" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 81 de la Ley 42/1994, de 30 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">La Ley 62/2003, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, en su artículo 102, modificó el artículo 81 de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social, dando una nueva terminología en relación con las monedas conmemorativas y de colección, de conformidad con la terminología utilizada en las disposiciones y normativa europea.</p>
+    <p class="parrafo">En la nueva redacción del citado artículo 81 se establece, entre otras cuestiones, que, «a partir de enero de 2004, se denominarán monedas de colección en euros, las monedas en euros no destinadas a la circulación, acuñadas normalmente en metales preciosos, con un valor nominal y diseño diferente a las destinadas a la circulación. Estas monedas deberán diferir perceptiblemente de las circuladas en, al menos, dos de las tres características siguientes: color, peso y diámetro».</p>
+    <p class="parrafo">En la misma disposición «se autoriza con carácter general a la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, a acuñar y comercializar monedas de colección de todo tipo. La acuñación y venta de estas monedas serán acordadas por orden del Ministerio de Economía que, de conformidad con las disposiciones europeas, fijará las características propias de las monedas, sus valores faciales y las fechas iniciales de emisión y, en su caso, los precios de venta al público».</p>
+    <p class="parrafo">El artículo 5 del Reglamento (UE) número 651/2012 del Parlamento Europeo y del Consejo, de 4 de julio de 2012, relativo a la emisión de monedas en euros, regula la emisión de monedas de colección.</p>
+    <p class="parrafo">El Real Decreto 2/2020, de 12 de enero, por el que se reestructuran los Departamentos ministeriales, ha creado el Ministerio de Asuntos Económicos y Transformación Digital.</p>
+    <p class="parrafo">El artículo 15.1.A).1.º del Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los Departamentos ministeriales, determina la estructura orgánica del Ministerio de Asuntos Económicos y Transformación Digital, y configura como órgano directivo la Secretaría General del Tesoro y Financiación Internacional, de la cual depende la Dirección General del Tesoro y Política Financiera.</p>
+    <p class="parrafo">El artículo 4.1.k) del Real Decreto 403/2020, de 25 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Asuntos Económicos y Transformación Digital, establece que, la Dirección General del Tesoro y Política Financiera ejercerá las funciones previstas en el artículo 66 de la Ley 40/2015, de 1 de octubre, en el ámbito de sus competencias, correspondiéndole, en particular, la gestión de acuñación de moneda y la representación en el Subcomité Europeo de Moneda («Eurocoin Subcommittee») y en los grupos de trabajo que dependan del mismo.</p>
+    <p class="parrafo">Se acuerda la emisión, acuñación y puesta en circulación de monedas de colección «Historia de la Aviación».</p>
+    <p class="parrafo">En su virtud, dispongo:</p>
+    <p class="articulo">Artículo 1. Acuerdo de emisión.</p>
+    <p class="parrafo">Se acuerda, para el año 2020, la emisión, acuñación y puesta en circulación de monedas de colección «Historia de la Aviación».</p>
+    <p class="articulo">Artículo 2. Características de las piezas.</p>
+    <p class="parrafo">Moneda de 1,5 € de valor facial (cupro-níquel).</p>
+    <p class="parrafo">Aleación: 25% ± 1% de níquel siendo el resto de cobre.</p>
+    <p class="parrafo">Peso: 15,0 g con una tolerancia en más o en menos de 0,50 g.</p>
+    <p class="parrafo">Diámetro: 33 mm.</p>
+    <p class="parrafo">Forma: Circular con canto liso.</p>
+    <p class="parrafo_2">Motivos:</p>
+    <p class="parrafo_2">En el anverso de la primera pieza, en una zona circular central, se reproduce en colores una imagen de Wilbur Wright a los mandos del Wright Flyer, días antes del 17 de diciembre de 1903, cuando el y su hermano Orville realizaron el primer vuelo con motor de la historia. La imagen procede de la colección del Smithsonian National Air and Space Museum Archives. En la parte superior, en sentido circular y en mayúsculas, la leyenda WRIGHT FLYER. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la segunda pieza, en una zona circular central, se reproduce en colores una imagen del dirigible alemán Graf Zeppelin. En la parte superior, en sentido circular y en mayúsculas, la leyenda GRAF ZEPPELIN. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la tercera pieza, en la zona circular central, se reproduce en colores una imagen del hidroavión Dornier Wal Plus Ultra. En la parte superior, en sentido circular y en mayúsculas, la leyenda DORNIER WAL–PLUS ULTRA. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la cuarta pieza, en la zona circular central, se reproduce en colores una imagen del avión biplano Bücker Bü-131. En la parte superior, en sentido circular y en mayúsculas, la leyenda BÜCKER Bü-131. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la quinta pieza, en la zona circular central, se reproduce en colores una imagen de un Bell X-1. En la parte superior, en sentido circular y en mayúsculas, la leyenda BELL X-1. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la sexta pieza, en la zona circular central, se reproduce en colores una imagen del reactor F-86 F Sabre. En la parte superior, en sentido circular y en mayúsculas, la leyenda F-86 F SABRE. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la séptima pieza, en la zona circular central, se reproduce en colores una imagen de un avión HA-200 Saeta. En la parte superior, en sentido circular y en mayúsculas, la leyenda HA-200 SAETA. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la octava pieza, en la zona circular central, se reproduce en colores una imagen de un F-4C Phantom. En la parte superior, en sentido circular y en mayúsculas, la leyenda F-4C PHANTOM. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la novena pieza, en la zona circular central, se reproduce en colores una imagen de un Northrop F-5. En la parte superior, en sentido circular y en mayúsculas, la leyenda NORTHROP F-5. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la décima pieza, en la zona circular central, se reproduce en colores una imagen de un Boeing 747. En la parte superior, en sentido circular y en mayúsculas, la leyenda BOEING 747. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la undécima pieza, en la zona circular central, se reproduce en colores una imagen del Concorde. En la parte superior, en sentido circular y en mayúsculas, la leyenda CONCORDE. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la duodécima pieza, en la zona circular central, se reproduce en colores una imagen de un CASA C-212 Aviocar. En la parte superior, en sentido circular y en mayúsculas, la leyenda CASA C-212 AVIOCAR. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la decimotercera pieza, en la zona circular central, se reproduce en colores una imagen de dos aviones CASA C-101 Aviojet. En la parte superior, en sentido circular y en mayúsculas, la leyenda CASA C-101 AVIOJET. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la decimocuarta pieza, en la zona circular central, se reproduce en colores una imagen de un Canadair CL-215. En la parte superior, en sentido circular y en mayúsculas, la leyenda CANADAIR CL-215. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la decimoquinta pieza, en la zona circular central, se reproduce en colores una imagen de un C-130 Hércules. En la parte superior, en sentido circular y en mayúsculas, la leyenda C-130 HERCULES. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la decimosexta pieza, en la zona circular central, se reproduce en colores la imagen de tres Lockheed P-3. En la parte superior, en sentido circular y en mayúsculas, la leyenda LOCKHEED P-3. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la decimoséptima pieza, en la zona circular central, se reproduce en colores una imagen de un F/A-18 Hornet. En la parte superior, en sentido circular y en mayúsculas, la leyenda F/A-18 HORNET. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la decimoctava pieza, en la zona circular central, se reproduce en colores una imagen de un Eurofighter EF-2000. En la parte superior, en sentido circular y en mayúsculas, la leyenda EUROFIGHTER EF-2000. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la decimonovena pieza, en la zona circular central, se reproduce en colores una imagen de un helicóptero AS332 Super Puma. En la parte superior, en sentido circular y en mayúsculas, la leyenda AS332 SUPER PUMA. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo">En el anverso de la vigésima pieza, en la zona circular central, se reproduce en colores una imagen de un Airbus A400M. En la parte superior, en sentido circular y en mayúsculas, la leyenda AIRBUS A400M. Rodea los motivos y leyendas de la zona central una línea de piñones. En la zona exterior de la moneda, una serie de motivos geométricos simbolizan las formas de las nubes y, en la parte inferior, en sentido circular ascendente y en mayúsculas, aparece la leyenda ESPAÑA y el año de acuñación 2020.</p>
+    <p class="parrafo_2">En el reverso (común a todas las piezas), sobresaliendo de un círculo central de la moneda, se reproduce la imagen de una hélice de dos palas; más arriba, en dos líneas y en mayúsculas, la leyenda HISTORIA DE LA AVIACIÓN; debajo de la imagen central, el valor de la moneda 1,5 EURO y, más abajo, la marca de Ceca. Fuera del círculo central, se reproducen las imágenes de dos turbinas, separadas entre sí por unas líneas. Rodea todos los motivos y todas las leyendas una gráfila de piñones.</p>
+    <p class="articulo">Artículo 3. Número máximo de piezas.</p>
+    <p class="parrafo">El número máximo de piezas que se acuñen para cada uno de los motivos será de 7.500 unidades.</p>
+    <p class="parrafo">Se autoriza a la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda a destinar a los fondos numismáticos del Museo de esta entidad hasta un máximo de cinco piezas de cada una de las monedas acuñadas en virtud de la presente orden ministerial y, en su caso, aquellos elementos industriales de su fabricación que por las características de la emisión, revistan interés numismático o museológico.</p>
+    <p class="articulo">Artículo 4. Fecha inicial de emisión.</p>
+    <p class="parrafo">La fecha inicial de emisión de las monedas tendrá lugar, durante el último trimestre de 2020, en tres fases, la primera fase estará integrada por cinco piezas, la segunda por diez piezas, y la última por las cinco piezas restantes de las monedas que integran esta colección.</p>
+    <p class="articulo">Artículo 5. Acuñación y puesta en circulación.</p>
+    <p class="parrafo">Las referidas monedas se acuñarán por cuenta del Estado en la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, que las entregará al Banco de España a través de la aportación de los documentos representativos de las monedas acuñadas.</p>
+    <p class="parrafo">La Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda procederá al pago del valor facial de estas monedas, que será abonado al Tesoro Público, y una vez adquiridas, procederá a su comercialización mediante el proceso que se indica a continuación.</p>
+    <p class="articulo">Artículo 6. Proceso de comercialización.</p>
+    <p class="parrafo">La Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda procederá a la comercialización de estas monedas, tanto en colecciones como aisladamente, por sí o a través de entidades contratadas al efecto, que se comprometerán a expenderlas al público con regularidad, así como a su exportación.</p>
+    <p class="articulo">Artículo 7. Precios de venta al público.</p>
+    <p class="parrafo">El precio inicial de venta al público de cada una de las piezas será de 14 euros, IVA excluido.</p>
+    <p class="parrafo">Estas piezas podrán venderse individualmente o formando colecciones, en cuyo caso el precio será la suma de los precios individuales de las piezas que las formen.</p>
+    <p class="articulo">Artículo 8. Medidas para la aplicación de esta orden.</p>
+    <p class="parrafo">La Dirección General del Tesoro y Política Financiera adoptará las medidas que resulten precisas para la aplicación de esta orden.</p>
+    <p class="articulo">Disposición final única. Efectos.</p>
+    <p class="parrafo">La presente orden producirá efectos desde el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 25 de noviembre de 2020.–La Vicepresidenta Tercera del Gobierno y Ministra de Asuntos Económicos y Transformación Digital, Nadia Calviño Santamaría.</p>
+  </texto>
+</documento>

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20201130085601">
+  <metadatos>
+    <identificador>BOE-A-2020-15292</identificador>
+    <titulo>Resolución de 10 de noviembre de 2020, de la Universidad Católica de Valencia San Vicente Mártir, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Maestro de Educación Infantil.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>313</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20201110</fecha_disposicion>
+    <fecha_publicacion>20201130</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>108149</pagina_inicial>
+    <pagina_final>108152</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2020/11/30/pdfs/BOE-A-2020-15292.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="3120" orden="">Educación Infantil</materia>
+      <materia codigo="4834" orden="">Maestros</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="8201" orden="">Universidad Católica de Valencia San Vicente Mártir</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2012-957" orden="2030">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el plan publicado por Resolución de 3 de noviembre de 2011</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, por el que se establece el procedimiento para la modificación de planes de estudios ya verificados, previo informe positivo de la Agencia Nacional de Evaluación de la Calidad y Acreditación, de fecha 29 de noviembre de 2018, a las modificaciones del plan de estudios correspondiente a las enseñanzas del título de Graduado o Graduada en Maestro de Educación Infantil por la Universidad Católica de Valencia San Vicente Mártir, cuyo título fue aprobado por Acuerdo de Consejo de Ministros de 17 de junio de 2011 (publicado en el BOE de 14 de julio de 2011 por Resolución de la Secretaría de Estado de Universidades de 27 de junio de 2011), y cuyo plan de estudios fue publicado, mediante Resolución de la Universidad de 3 de noviembre de 2011, en el «Boletín Oficial del Estado» de 21 de enero de 2012,</p>
+    <p class="parrafo">Este Rectorado ha resuelto ordenar la publicación de la modificación del plan de estudios conducente a la obtención del título de Graduado o Graduada en Maestro de Educación Infantil por la Universidad Católica de Valencia San Vicente Mártir, según consta en el anexo de esta resolución.</p>
+    <p class="parrafo_2">Valencia, 10 de noviembre de 2020.–El Rector, José Manuel Pagán Agulló.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Grado en Maestro de Educación Infantil</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de Materia Créditos</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+          <td class="cuerpo_tabla_centro">100</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_centro">30</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">38</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TOTAL.</td>
+          <td class="cuerpo_tabla_centro">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignaturas</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Módulo de Formación básica: Aprendizaje y desarrollo de la personalidad.</td>
+          <td class="cuerpo_tabla_izq" rowspan="3">Procesos educativos, aprendizaje y desarrollo de la personalidad (Psicología, Materia Común).</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td class="cuerpo_tabla_izq">Psicología del desarrollo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de la educación.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del desarrollo del lenguaje.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Dificultades de aprendizaje y trastornos del desarrollo.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td class="cuerpo_tabla_izq">Necesidades específicas de apoyo educativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Atención al alumnado con necesidades específicas de apoyo educativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dificultades específicas del aprendizaje.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Módulo de Formación básica: Procesos y contextos educativos.</td>
+          <td class="cuerpo_tabla_izq" rowspan="4">La escuela de educación infantil (Educación Materia Común).</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">24</td>
+          <td class="cuerpo_tabla_izq">Fundamentos e historia de la educación.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Didáctica e innovación educativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño y evaluación de planes de acción educativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Docencia y práctica educativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Organización del espacio escolar, materiales y habilidades docentes.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq">La organización del aula y del centro de educación infantil.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos de enseñanza/aprendizaje en el aula: Técnicas e instrumentos.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Observación sistemática y análisis de contextos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Metodologías en educación infantil y técnicas de observación y evaluación sistemática.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Módulo de Formación básica: Sociedad, familia y escuela.</td>
+          <td class="cuerpo_tabla_izq">Sociedad, familia y escuela Sociología (Materia Común).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Sociedad y educación intercultural.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Infancia, salud y alimentación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Salud escolar.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología (Materia Común).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Religión, cultura y valores.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Intervención educativa en el contexto familia.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Educación y familia.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Módulo Didáctico Disciplinar: Aprendizaje de las Ciencias de la Naturaleza; de las Ciencias Sociales y de la Matemática.</td>
+          <td class="cuerpo_tabla_izq">Aprendizaje de la matemática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Matemáticas y su didáctica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aprendizaje de las CC. de la naturaleza.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Ciencias de la naturaleza y su didáctica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aprendizaje de las CC. sociales.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Ciencias sociales y su didáctica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Módulo Didáctico Disciplinar: Aprendizaje de Lenguas y Lectoescritura.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Aprendizaje de las lenguas.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq">Desenvolupament de la llengua ora.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación literaria para maestros.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aprendizaje de la lectoescritura.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Lengua escrita en la educación Infantil.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Idioma moderno (Materia Común).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Inglés.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Módulo Didáctico Disciplinar: Música y expresión plástica.</td>
+          <td class="cuerpo_tabla_izq">Educación musical y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Educación musical y su didáctica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación plástica y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Educación plástica y su didáctica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Motricidad y expresión corporal.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">9</td>
+          <td class="cuerpo_tabla_izq">Desarrollo motriz y currículo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Expresión corporal.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Módulo Practicum y Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq" rowspan="4">Practicum.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">38</td>
+          <td class="cuerpo_tabla_izq">Practicum 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Practicum 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Practicum 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Practicum 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">Tipo de Formación<sup>(1)</sup></th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del desarrollo (MC).</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos e historia de la educación (MC).</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Desenvolupament de la llengua oral.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación plástica y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociedad y educación intercultural (MC).</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del desarrollo del lenguaje (MC).</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés (MC).</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Desarrollo motriz y currículo.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación y familia.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Expresión corporal.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Practicum 1.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de la educación (MC).</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Didáctica e innovación educativa (MC).</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La organización del aula y del centro de educación infantil.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Religión, cultura y valores.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lengua escrita en la educación Infantil.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Necesidades específicas de apoyo educativo.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño y evaluación de planes de acción educativa (MC).</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Docencia y práctica educativa (MC).</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación musical y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Practicum 2.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Atención al alumnado con necesidades específicas de apoyo educativo.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Metodologías en educación infantil y técnicas de observación y evaluación sistemática.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos de enseñanza/aprendizaje en el aula: Técnicas e instrumentos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Salud escolar.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Matemáticas y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dificultades específicas del aprendizaje.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación literaria para maestros.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Practicum 3.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASIGNATURA 1 Mención cualificadora.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OP-IT1</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASIGNATURA 2 Mención cualificadora.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OP-IT1</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Practicum 4.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">21</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias de la naturaleza y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias sociales y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASIGNATURA 3 Mención cualificadora.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OP-IT1</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASIGNATURA 4 Mención cualificadora.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OP-IT1</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASIGNATURA 5 Mención cualificadora.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OP-IT1</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="cita">FB (Formación Básica), OB (Obligatoria), OP-IT1 (Optativa Itinerario 1), PE (Prácticas Externas), TFG (Trabajo Fin de Grado).</p>
+  </texto>
+</documento>

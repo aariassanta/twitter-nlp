@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210202102601">
+  <metadatos>
+    <identificador>BOE-A-2021-1474</identificador>
+    <titulo>Resolución de 20 de enero de 2021, de la Entidad Pública Empresarial ENAIRE, por la que se modifica la de 15 de octubre de 2010, de Aeropuertos Españoles y Navegación Aérea, por la que se crea la sede electrónica de la Entidad Pública Empresarial Aeropuertos Españoles y Navegación Aérea; y se deroga parcialmente la Resolución de 18 de junio de 2020.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>28</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="9572">Ministerio de Transportes, Movilidad y Agenda Urbana</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210120</fecha_disposicion>
+    <fecha_publicacion>20210202</fecha_publicacion>
+    <fecha_vigencia>20210203</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>12132</pagina_inicial>
+    <pagina_final>12132</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-1474</url_epub>
+    <url_pdf>/boe/dias/2021/02/02/pdfs/BOE-A-2021-1474.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/01/20/(1)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/01/20/(1)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-1474</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-20</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/01/20/(1)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-1474</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-20</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/01/20/(1)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/01/20/(1)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 20 de enero de 2021, de la Entidad Pública Empresarial ENAIRE, por la que se modifica la de 15 de octubre de 2010, de Aeropuertos Españoles y Navegación Aérea, por la que se crea la sede electrónica de la Entidad Pública Empresarial Aeropuertos Españoles y Navegación Aérea; y se deroga parcialmente la Resolución de 18 de junio de 2020.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-02</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/01/20/(1)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/01/20/(1)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/01/20/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/01/20/(1)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/01/20/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/01/20/(1)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/01/20/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/01/20/(1)/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/01/20/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="1508" orden="">Administración electrónica</materia>
+      <materia codigo="101" orden="">Aeropuertos Españoles y Navegación Aérea</materia>
+      <materia codigo="4506" orden="">Internet</materia>
+      <materia codigo="7869" orden="">Registros telemáticos</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="143" orden="">Administración electrónica</alerta>
+      <alerta codigo="109" orden="">Derecho Administrativo</alerta>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-7275" orden="1010">
+          <palabra codigo="210">DEROGA</palabra>
+          <texto>el apartado 2.f) de la Resolución de 18 de junio de 2020</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2010-18168" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 2.f) de la Resolución de 15 de octubre de 2010</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Mediante Resolución del Director General-Presidente de la Entidad Pública Empresarial Aeropuertos Españoles y Navegación Aérea, de 15 de octubre de 2010, de Aeropuertos Españoles y Navegación Aérea, se creó la sede electrónica de la misma, que posteriormente fue modificada por las Resoluciones de 2 de diciembre de 2015 y de 18 de junio de 2020, de la Entidad Pública Empresarial ENAIRE, a fin de adaptar aquella Resolución a determinados cambios operados en diversos aspectos de la sede electrónica y entre ellos la identificación de la unidad responsable de sus contenidos comunes.</p>
+    <p class="parrafo">Habiéndose asignado a la División de Gabinete de la Dirección General de ENAIRE la responsabilidad sobre los contenidos comunes de la sede electrónica, se hace necesario modificar el apartado f) del artículo 2 de la Resolución de 15 de octubre de 2010, y la consecuente derogación de la letra f) del apartado 2 de la Resolución de 18 de junio de 2020.</p>
+    <p class="parrafo">En su virtud, y en el ejercicio de las facultades delegadas por el Consejo de Administración de ENAIRE en su reunión de 24 de julio de 2015, resuelvo:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo">Modificar el apartado f) del artículo 2 de la Resolución de 15 de octubre de 2010, que quedarán redactados como sigue:</p>
+    <blockquote class="sangrado">
+      <p class="articulo">«Artículo 2. Sede electrónica de ENAIRE.</p>
+      <p class="parrafo">f) La gestión de los contenidos comunes de la sede corresponderá a la División de Gabinete de la Dirección General.»</p>
+    </blockquote>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">Derogar la letra f) del apartado 2 de la Resolución de 18 de junio de 2020, por la que se modifica la de 15 de octubre de 2010.</p>
+    <p class="articulo">Tercero.</p>
+    <p class="parrafo">Publicar la presente Resolución en el «Boletín Oficial del Estado», la cual entrará en vigor al día siguiente de dicha publicación.</p>
+    <p class="parrafo_2">Madrid, 20 de enero de 2021.–El Director General de la Entidad Pública Empresarial ENAIRE, Ángel Luis Arias Serrano.</p>
+  </texto>
+</documento>

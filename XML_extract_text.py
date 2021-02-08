@@ -188,7 +188,12 @@ for seccion in raiz.xpath('//seccion[contains(@nombre, "I. Disposiciones general
 for item_URL in tabla_resumen['Item_URL_XML']:
     #print(URL)
     r = requests.get(item_URL)
-    f = './BOEs/' + item_URL[-16:] + '.xml'
+
+    ### Separa el número del BOE del resto de la cadena y aplica expresión REGEX 
+    print(item_URL.split('='))
+    filename = re.match('BOE\-A\-[0-9]+\-[0-9]+',item_URL.split('=')[1]).group()
+    f = './BOEs/' + filename + '.xml'
+
     save_html(r.content, f)
 
 

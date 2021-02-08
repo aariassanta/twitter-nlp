@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210129085601">
+  <metadatos>
+    <identificador>BOE-A-2021-1270</identificador>
+    <titulo>Orden TED/65/2021, de 11 de enero, por la que se corrigen errores de la Orden TED/902/2020, de 25 de septiembre, por la que se modifica la Orden ITC/1660/2009, de 22 de junio, por la que se establece la metodología de cálculo de la tarifa de último recurso de gas natural, con objeto de su adaptación a la nueva estructura de peajes del sistema gasista.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>25</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="9575">Ministerio para la Transición Ecológica y el Reto Demográfico</departamento>
+    <rango codigo="1350">Orden</rango>
+    <numero_oficial>TED/65/2021</numero_oficial>
+    <fecha_disposicion>20210111</fecha_disposicion>
+    <fecha_publicacion>20210129</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>10256</pagina_inicial>
+    <pagina_final>10256</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/01/29/pdfs/BOE-A-2021-1270.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="207" orden="">Almacenes</materia>
+      <materia codigo="619" orden="">Carburantes y combustibles</materia>
+      <materia codigo="1624" orden="">Consumidores y usuarios</materia>
+      <materia codigo="3187" orden="">Energía</materia>
+      <materia codigo="3889" orden="">Gas</materia>
+      <materia codigo="5665" orden="">Precios</materia>
+      <materia codigo="6806" orden="">Suministro de energía</materia>
+      <materia codigo="6827" orden="">Tarifas</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="106" orden="">Consumidores y usuarios</alerta>
+      <alerta codigo="115" orden="">Energía</alerta>
+    </alertas>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Advertido error en la Orden TED/902/2020, de 25 de septiembre, por la que se modifica la Orden ITC/1660/2009, de 22 de junio, por la que se establece la metodología de cálculo de la tarifa de último recurso de gas natural, con objeto de su adaptación a la nueva estructura de peajes del sistema gasista, publicada en el «Boletín Oficial del Estado» número 258, de 29 de septiembre de 2020, se procede a efectuar la oportuna rectificación:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">En la página 81940, el apartado Tres, en la modificación que produce del artículo 6.3 de la Orden ITC/1660/2009, de 22 de junio,</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">donde dice:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">«3. Coste del canon de almacenamiento subterráneo, expresado en cts/kWh:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen"><img class="frame-1" alt="1" src="/datos/imagenes/disp/2021/25/01270_4757.png" width="904" height="96"/>»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">debe decir:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">«3. Coste del canon de almacenamiento subterráneo, expresado en cts/kWh:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen"><img class="frame-1" alt="1" src="/datos/imagenes/disp/2021/25/01270_4802.png" width="904" height="96"/>»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">Madrid, 11 de enero de 2021.–La Vicepresidenta Cuarta del Gobierno y Ministra para la Transición Ecológica y el Reto Demográfico, Teresa Ribera Rodríguez.</p>
+  </texto>
+</documento>

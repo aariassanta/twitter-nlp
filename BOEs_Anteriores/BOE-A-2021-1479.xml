@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210202102601">
+  <metadatos>
+    <identificador>BOE-A-2021-1479</identificador>
+    <titulo>Decreto-ley 51/2020, de 15 de diciembre, de modificación del Decreto-ley 39/2020, de 3 de noviembre, de medidas extraordinarias de carácter social para hacer frente a las consecuencias de la COVID-19, y del Decreto-ley 49/2020, de 1 de diciembre, de medida urgente complementaria en materia de empleo y fomento de la actividad económica para hacer frente a las consecuencias de la mayor afectación en el mercado de trabajo de la COVID-19 en determinados territorios de Cataluña.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>28</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="8070">Comunidad Autónoma de Cataluña</departamento>
+    <rango codigo="1500">Decreto-ley</rango>
+    <numero_oficial>51/2020</numero_oficial>
+    <fecha_disposicion>20201215</fecha_disposicion>
+    <fecha_publicacion>20210202</fecha_publicacion>
+    <fecha_vigencia>20201217</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>12172</pagina_inicial>
+    <pagina_final>12179</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="2">Autonómico</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-1479</url_epub>
+    <url_pdf>/boe/dias/2021/02/02/pdfs/BOE-A-2021-1479.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es-ct/dl/2020/12/15/51</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es-ct/dl/2020/12/15/51">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es-ct"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/dl"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-1479</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-15</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">51</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es-ct/dl/2020/12/15/51/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es-ct"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/dl"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-1479</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-15</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">51</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es-ct/dl/2020/12/15/51"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es-ct/dl/2020/12/15/51/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Decreto-ley 51/2020, de 15 de diciembre, de modificación del Decreto-ley 39/2020, de 3 de noviembre, de medidas extraordinarias de carácter social para hacer frente a las consecuencias de la COVID-19, y del Decreto-ley 49/2020, de 1 de diciembre, de medida urgente complementaria en materia de empleo y fomento de la actividad económica para hacer frente a las consecuencias de la mayor afectación en el mercado de trabajo de la COVID-19 en determinados territorios de Cataluña.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-02</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es-ct/dl/2020/12/15/51/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es-ct/dl/2020/12/15/51/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es-ct/dl/2020/12/15/51/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es-ct/dl/2020/12/15/51/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es-ct/dl/2020/12/15/51/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es-ct/dl/2020/12/15/51/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es-ct/dl/2020/12/15/51/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es-ct/dl/2020/12/15/51/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es-ct/dl/2020/12/15/51/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas>
+      <nota codigo="14" orden="400">Publicada en el DOGC núm. 8297, de 17 de diciembre de 2020.</nota>
+      <nota codigo="0" orden="999">La actualización de la Orden TSF/127/2019, de 27 de junio, se establece por haber sido modificada por el Decreto ley 39/2020, de 3 de noviembre</nota>
+    </notas>
+    <materias>
+      <materia codigo="329" orden="">Asistencia social</materia>
+      <materia codigo="330" orden="">Asistentes Sociales</materia>
+      <materia codigo="420" orden="">Ayudas</materia>
+      <materia codigo="665" orden="">Cataluña</materia>
+      <materia codigo="1759" orden="">Créditos Presupuestarios</materia>
+      <materia codigo="3247" orden="">Epidemias</materia>
+      <materia codigo="5685" orden="">Presupuestos de las Comunidades Autónomas</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="104" orden="">Asuntos sociales</alerta>
+      <alerta codigo="124" orden="">Sanidad</alerta>
+      <alerta codigo="127" orden="">Sistema financiero</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-1477" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>los arts. 13.2.a) y 14.2 y 3 del Decreto ley 49/2020, de 1 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2020-15840" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>los anexos 1, 2, 3 y 4, con efectos desde el 1 de enero de 2020 o desde el 1 de enero de 2021, según los casos, del Decreto ley 39/2020, de 3 de noviembre</texto>
+        </anterior>
+        <anterior referencia="---" orden="2080">
+          <palabra codigo="404">ACTUALIZA</palabra>
+          <texto>, con efectos desde el 1 de enero de 2020, el anexo 5 de la Orden TSF/127/2019, de 27 de junio (DOGC núm. 7908, de 2 de julio de 2019)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2008-19526" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 38 de la Ley 13/2008, de 5 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-13087" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 64 del Estatuto aprobado por Ley Orgánica 6/2006, de 19 de julio</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="DOGC-f-2021-90011" orden="">
+          <palabra codigo="301">SE PUBLICA  Acuerdo de convalidación</palabra>
+          <texto>, por Resolución 1133/XII, de 13 de enero de 2021</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El artículo 67.6.a) del Estatuto prevé que los decretos ley sean promulgados, en nombre del Rey, por el Presidente o Presidenta de la Generalidad.</p>
+    <p class="parrafo">De conformidad con lo que disponen el artículo 6 y concordantes de la Ley 13/2008, de 5 de noviembre, de la presidencia de la Generalidad y del Gobierno, y visto el Decreto 114/2020, de 30 de septiembre, de sustitución del presidente de la Generalidad de Cataluña;</p>
+    <p class="parrafo">De acuerdo con lo anterior, promulgo el siguiente Decreto-ley</p>
+    <p class="centro_redonda">EXPOSICIÓN DE MOTIVOS</p>
+    <p class="parrafo_2">La pandemia de la COVID-19 ha generado una situación de excepcionalidad en muchos sectores, lo que requiere un desarrollo continuo de medidas extraordinarias de carácter social. Este Decreto-ley tiene por objeto el establecimiento de nuevas medidas sociales, que afectan a varios ámbitos y que tienen como finalidad hacer frente a las consecuencias de la crisis sanitaria y social generada por la pandemia.</p>
+    <p class="parrafo">Los efectos de la pandemia generada por la COVID-19 se están alargando en el tiempo y se manifiestan con una gran intensidad. A estos efectos deben añadirse los que derivan de las medidas que adoptan continuamente las autoridades sanitarias en materia de salud pública para la contención de los brotes epidémicos en el territorio de Cataluña, así como los derivados de la declaración del estado de alarma establecido por medio del Real decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2.</p>
+    <p class="parrafo">Por otra parte, en estos momentos de excepcionalidad en que la crisis sanitaria generada por la pandemia de la COVID-19 todavía no se ha superado, con el objetivo de prevenir brotes futuros, minimizar el riesgo de infección y hacer frente a la segunda ola, se requiere el desarrollo continuo de medidas presupuestarias destinadas a la atención social y el refuerzo de determinados servicios sociales. Vista la coyuntura económica actual, se acordó con los sectores implicados más representativos incrementar el precio de referencia de las plazas públicas de algunos servicios para garantizar la sostenibilidad de los sectores de personas mayores, de personas con discapacidad, de personas con problemática social derivada de enfermedad mental y de los servicios de atención precoz, y el mantenimiento de la calidad de los servicios prestados.</p>
+    <p class="parrafo">Ante esta situación excepcional, el Gobierno de la Generalidad aprobó el Decreto-ley 39/2020, de 3 de noviembre, de medidas extraordinarias de carácter social para hacer frente a las consecuencias de la COVID-19. Este Decreto-ley preveía, entre otras medidas, la actualización del coste de referencia, el módulo social y el copago de las prestaciones no gratuitas y la actualización del coste de referencia de las prestaciones gratuitas y de otros servicios de atención a las personas mayores, a las personas con discapacidad y a las personas con problemática social derivada de enfermedad mental, atención precoz y tutelas.</p>
+    <p class="parrafo">Se ha constatado, no obstante, que en el Decreto-ley 39/2020, de 3 de noviembre, se omitieron algunos servicios sociales que se deberían haber incluido. Asimismo, se ha constatado que debe modificarse el porcentaje de incremento de los módulos correspondientes a servicios residenciales para personas con discapacidad o personas con enfermedad mental. En el Decreto-ley mencionado este porcentaje era del 1,2% y ahora se fija en el 2,5%. Por tanto, estas situaciones se corrigen con la aprobación de este Decreto-ley.</p>
+    <p class="parrafo">Asimismo, y en el marco de la emergencia sanitaria vigente provocada por la COVID-19, las autoridades competentes adoptaron en los territorios de La Conca d’Òdena, Lleida y Baix Segrià medidas de confinamiento perimetral mucho más restrictivas que en el resto de Cataluña, lo que ha provocado que los efectos de la crisis en la actividad económica y la situación del mercado laboral en estos territorios sean mucho más acusados.</p>
+    <p class="parrafo">Estas circunstancias precisaron aprobar el Decreto-ley 49/2020, de 1 de diciembre, de medida urgente complementaria en materia de empleo y fomento de la actividad económica para hacer frente a las consecuencias de la mayor afectación en el mercado de trabajo de la COVID-19 en determinados territorios de Cataluña y de modificación del Decreto-ley 21/2020, de 2 de junio, de medidas urgentes de carácter económico, cultural y social para hacer frente a las consecuencias de la COVID-19. Con la aprobación de este Decreto-ley se pretende hacer frente de forma urgente a la situación especial de esos territorios, mediante la aprobación de subvenciones que promuevan la adopción de proyectos integrados liderados de forma coordinada por los entes locales y que den respuesta a las necesidades ocupacionales y del tejido productivo de esos territorios.</p>
+    <p class="parrafo">Ante la urgencia para proceder a conceder estas ayudas, y con el fin de simplificar su tramitación, se propone, con la presente modificación, la reducción de la justificación de los gastos a los justos y necesarios para la verificación del objeto subvencionable.</p>
+    <p class="parrafo">En este sentido, se modifican los artículos 13.2.a) y 14.2 y 3 del referido Decreto-ley 49/2020, de 1 de diciembre.</p>
+    <p class="parrafo">Todo lo que se ha expuesto determina que sea imprescindible esta intervención normativa inmediata del Gobierno, dado que la consecución de este objetivo necesario para satisfacer una necesidad social de primer orden con la celeridad requerida no se puede alcanzar si se recurre al procedimiento legislativo ordinario.</p>
+    <p class="parrafo">Por tanto, en uso de la autorización que concede el artículo 64 del Estatuto de autonomía de Cataluña, de conformidad con el artículo 38 de la Ley 13/2008, de 5 de noviembre, de la presidencia de la Generalidad y del Gobierno;</p>
+    <p class="parrafo">A propuesta del consejero de Trabajo, Asuntos Sociales y Familias, y de acuerdo con el Gobierno, decreto:</p>
+    <p class="capitulo_num">CAPÍTULO I</p>
+    <p class="capitulo_tit">Modificación del Decreto-ley 39/2020, de 3 de noviembre, de medidas extraordinarias de carácter social para hacer frente a las consecuencias de la COVID-19</p>
+    <p class="articulo">Artículo 1.</p>
+    <p class="parrafo">Se modifican los anexos 1, 2, 3 y 4 del Decreto-ley 39/2020, de 3 de noviembre, que quedan redactados de la siguiente forma:</p>
+    <blockquote class="sangrado">
+      <p class="anexo_num">«ANEXO 1</p>
+      <p class="anexo_tit">Actualización del coste de referencia, el módulo social y el copago relativo a las prestaciones no gratuitas de la Cartera de servicios sociales</p>
+      <table class="tabla_ancha">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla" rowspan="2">Código prestación</th>
+            <th class="cabeza_tabla" rowspan="2">Prestación</th>
+            <th class="cabeza_tabla" colspan="2">Coste de referencia</th>
+            <th class="cabeza_tabla" colspan="2">Módulo social</th>
+            <th class="cabeza_tabla" colspan="2">Copago</th>
+          </tr>
+          <tr>
+            <th class="cabeza_tabla">Importe</th>
+            <th class="cabeza_tabla">Unidad</th>
+            <th class="cabeza_tabla">Importe</th>
+            <th class="cabeza_tabla">Unidad</th>
+            <th class="cabeza_tabla">Importe</th>
+            <th class="cabeza_tabla">Unidad</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td rowspan="2">1.2.6.2.3.2.1</td>
+            <td rowspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo intermitente.</td>
+            <td class="cuerpo_tabla_der">39,18 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">1.191,73 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">117,50 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">1.074,23 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.2.3.2.2</td>
+            <td rowspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo limitado.</td>
+            <td class="cuerpo_tabla_der">71,81 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">2.184,22 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">365,85 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">1.818,37 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.2.3.2.3</td>
+            <td rowspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo limitado (trastornos de conducta).</td>
+            <td class="cuerpo_tabla_der">76,13 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">2.315,62 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">390,42 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">1.925,20 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.2.3.2.4</td>
+            <td rowspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo extenso.</td>
+            <td class="cuerpo_tabla_der">76,13 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">2.315,62 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">390,42 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">1.925,20 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.2.3.2.5</td>
+            <td rowspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo extenso (trastornos de conducta).</td>
+            <td class="cuerpo_tabla_der">82,71 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">2.515,76 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">497,11 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">2.018,65 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.2.3.2.6</td>
+            <td rowspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo generalizado.</td>
+            <td class="cuerpo_tabla_der">77,10 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">2.345,13 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">426,35 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">1.918,78 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.2.3.3.1</td>
+            <td rowspan="2">Servicio de centro residencial temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo extenso.</td>
+            <td class="cuerpo_tabla_der">103,94 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">3.161,51 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">656,01 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">2.505,50 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.2.3.3.2</td>
+            <td rowspan="2">Servicio de centro residencial temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo extenso (trastornos de conducta).</td>
+            <td class="cuerpo_tabla_der">119,49 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">3.634,49 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">713,82 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">2.920,67 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.2.3.3.3</td>
+            <td rowspan="2">Servicio de centro residencial temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo generalizado.</td>
+            <td class="cuerpo_tabla_der">103,94 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">3.161,51 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">656,01 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">2.505,50 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.2.3.3.4</td>
+            <td rowspan="2">Servicio de centro residencial temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo generalizado (con problemas de salud o de salud mental añadidos).</td>
+            <td class="cuerpo_tabla_der">113,53 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">3.453,20 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">732,08 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">2.721,12 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.3.3.2.1</td>
+            <td rowspan="2">Servicio de hogar residencia para personas con discapacidad física con necesidad de apoyo intermitente.</td>
+            <td class="cuerpo_tabla_der">32,71 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">994,93 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">142,77 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">852,16 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.3.3.2.2</td>
+            <td rowspan="2">Servicio de hogar residencia para personas con discapacidad física con necesidad de apoyo limitado.</td>
+            <td class="cuerpo_tabla_der">63,84 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">1.941,80 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">421,57 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">1.520,23 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.3.3.3.1</td>
+            <td rowspan="2">Servicio de centro residencial para personas con discapacidad física con necesidad de apoyo extenso.</td>
+            <td class="cuerpo_tabla_der">97,69 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">2.971,40 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">631,42 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">2.339,98 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.6.3.3.3.2</td>
+            <td rowspan="2">Servicio de centro residencial para personas con discapacidad física con necesidad de apoyo generalizado.</td>
+            <td class="cuerpo_tabla_der">105,55 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">3.210,48 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">799,73 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">2.410,75 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.7.2.1</td>
+            <td rowspan="2">Servicio de hogar con apoyo temporal o permanente para personas con problemática social derivada de enfermedad mental.</td>
+            <td class="cuerpo_tabla_der">23,59 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">717,53 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">151,40 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">566,13 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td rowspan="2">1.2.7.2.2</td>
+            <td rowspan="2">Servicio de hogar residencia temporal o permanente para personas con problemática social derivada de enfermedad mental.</td>
+            <td class="cuerpo_tabla_der">60,87 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+            <td class="cuerpo_tabla_centro" colspan="2"> </td>
+            <td class="cuerpo_tabla_der" colspan="2"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_der">1.851,46 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_centro">362,14 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+            <td class="cuerpo_tabla_der">1.489,32 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="anexo_num">ANEXO 2</p>
+      <p class="anexo_tit">Actualización del coste de referencia, relativo a las prestaciones gratuitas de la Cartera de servicios sociales</p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla" rowspan="2">Código prestación</th>
+            <th class="cabeza_tabla" rowspan="2">Prestación</th>
+            <th class="cabeza_tabla" colspan="2">Coste de referencia</th>
+          </tr>
+          <tr>
+            <th class="cabeza_tabla">Importe</th>
+            <th class="cabeza_tabla">Unidad</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">1.2.6.3.5</td>
+            <td class="cuerpo_tabla_izq">Servicio de asistencia personal para personas con discapacidad física</td>
+            <td class="cuerpo_tabla_centro">18,00 €</td>
+            <td class="cuerpo_tabla_centro">€/hora</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">1.2.6.4.2</td>
+            <td class="cuerpo_tabla_izq">Servicio de asistencia personal para personas con discapacidad sensorial sordoceguera</td>
+            <td class="cuerpo_tabla_centro">18,00 €</td>
+            <td class="cuerpo_tabla_centro">€/hora</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="anexo_num">ANEXO 3</p>
+      <p class="anexo_tit">Actualización de los módulos correspondientes a la línea J (programas de mantenimiento de servicios y establecimientos de servicios sociales definidos en la actual Cartera de servicios sociales relativos a servicios especializados de atención a las personas mayores con dependencia o riesgo social, a personas con discapacidad, problemática social derivada de trastorno mental, drogodependencias u otras adicciones, afectadas por el virus VIH/sida o con problemática social y riesgo de exclusión social) que figuran en el anexo 5 de la Orden TSF/127/2019, de 27 de junio, por la que se aprueban las bases que deben regir la convocatoria ordinaria de subvenciones de proyectos y actividades para entidades del ámbito de políticas sociales del Departamento de Trabajo, Asuntos Sociales y Familias</p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Prestación</th>
+            <th class="cabeza_tabla" colspan="3">Tarifas subvención</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq" rowspan="3">Experiencias piloto centro de día – Apoyo intermitente/limitado.</td>
+            <td class="cuerpo_tabla_izq">Módulo A.</td>
+            <td class="cuerpo_tabla_der">735,20 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Módulo B.</td>
+            <td class="cuerpo_tabla_der">441,10 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Módulo C.</td>
+            <td class="cuerpo_tabla_der">294,08 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" rowspan="3">Experiencias piloto centro de día – Apoyo extenso/generalizado.</td>
+            <td class="cuerpo_tabla_izq">Módulo A.</td>
+            <td class="cuerpo_tabla_der">1.209,36 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Módulo B.</td>
+            <td class="cuerpo_tabla_der">725,55 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Módulo C.</td>
+            <td class="cuerpo_tabla_der">483,69 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo intermitente.</td>
+            <td class="cuerpo_tabla_der">31,92 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo limitado.</td>
+            <td class="cuerpo_tabla_der">64,55 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo limitado (trastornos de conducta).</td>
+            <td class="cuerpo_tabla_der">68,87 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo extenso.</td>
+            <td class="cuerpo_tabla_der">68,87 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo extenso (trastornos de conducta).</td>
+            <td class="cuerpo_tabla_der">75,76 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de hogar residencia temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo generalizado.</td>
+            <td class="cuerpo_tabla_der">70,62 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de hogar residencia para personas con discapacidad física con necesidad de apoyo intermitente.</td>
+            <td class="cuerpo_tabla_der">32,71 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de hogar residencia para personas con discapacidad física con necesidad de apoyo limitado.</td>
+            <td class="cuerpo_tabla_der">63,84 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de hogar residencia para personas con discapacidad física con necesidad de apoyo extenso.</td>
+            <td class="cuerpo_tabla_der">88,52 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de hogar residencia para personas con discapacidad física con necesidad de apoyo generalizado.</td>
+            <td class="cuerpo_tabla_der">96,18 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de centro residencial temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo extenso.</td>
+            <td class="cuerpo_tabla_der">94,60 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de centro residencial temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo extenso (trastornos de conducta).</td>
+            <td class="cuerpo_tabla_der">109,12 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de centro residencial temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo generalizado.</td>
+            <td class="cuerpo_tabla_der">94,60 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de centro residencial temporal o permanente para personas con discapacidad intelectual con necesidad de apoyo generalizado (con problemas de salud o de salud mental añadidos).</td>
+            <td class="cuerpo_tabla_der">103,16 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de centro residencial para personas con discapacidad física con necesidad de apoyo extenso.</td>
+            <td class="cuerpo_tabla_der">92,51 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de centro residencial para personas con discapacidad física con necesidad de apoyo generalizado.</td>
+            <td class="cuerpo_tabla_der">100,37 €</td>
+            <td class="cuerpo_tabla_centro">€/estancia</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" colspan="2">Servicio de hogar con apoyo temporal o permanente para personas con problemática social derivada de enfermedad mental.</td>
+            <td class="cuerpo_tabla_der">579,09 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+          <tr>
+            <td colspan="2">Servicio de hogar residencia temporal o permanente para personas con problemática social derivada de enfermedad mental.</td>
+            <td class="cuerpo_tabla_der">911,42 €</td>
+            <td class="cuerpo_tabla_centro">€/mes</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="anexo_num">ANEXO 4</p>
+      <p class="anexo_tit">Actualización de tarifas de servicios específicos</p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Nombre servicio</th>
+            <th class="cabeza_tabla">Tipo servicio</th>
+            <th class="cabeza_tabla">Nueva tarifa</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">RESIDENCIA ASISTIDA DOMUSVI MONT MARTÍ (PROFUNDOS)</td>
+            <td class="cuerpo_tabla_izq">RES. PSIQ. PLAZAS NIÑOS</td>
+            <td class="cuerpo_tabla_centro">147,41 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">HOGAR RESIDENCIA ARMENGOU</td>
+            <td class="cuerpo_tabla_izq">RES. PSIQ. PLAZAS NIÑOS</td>
+            <td class="cuerpo_tabla_centro">147,41 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">RESIDENCIA PARA NIÑOS Y ADOLESCENTES CON DISCAPACIDAD INTELECTUAL ‘LA CASETA’</td>
+            <td class="cuerpo_tabla_izq">RES. PSIQ. PLAZAS NIÑOS</td>
+            <td class="cuerpo_tabla_centro">147,41 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">RESIDENCIA PARA NIÑOS Y ADOLESCENTES CON DISCAPACIDAD INTELECTUAL ‘EL TURÓ’</td>
+            <td class="cuerpo_tabla_izq">RES. PSIQ. PLAZAS NIÑOS</td>
+            <td class="cuerpo_tabla_centro">134,02 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" rowspan="2">RESIDENCIA CENTRO ‘JOAN RIU’</td>
+            <td class="cuerpo_tabla_izq" rowspan="2">RES. PSIQ. PLAZAS NIÑOS</td>
+            <td class="cuerpo_tabla_centro">103,96 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro">113,53 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">RESIDENCIA ÀTRIA (12 PLAZAS)</td>
+            <td class="cuerpo_tabla_izq">RES. PSIQ. PLAZAS NIÑOS</td>
+            <td class="cuerpo_tabla_centro">147,41 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">AREMI RESIDENCIA 2</td>
+            <td class="cuerpo_tabla_izq">RES. DISCAP. FÍSICA NIÑOS</td>
+            <td class="cuerpo_tabla_centro">140,52 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq"> </td>
+            <td class="cuerpo_tabla_izq"> </td>
+            <td class="cuerpo_tabla_centro"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">HOGAR CAU BLANC</td>
+            <td class="cuerpo_tabla_izq">RES. AUT.</td>
+            <td class="cuerpo_tabla_centro">131,88 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">HOGAR COTTET</td>
+            <td class="cuerpo_tabla_izq">RES. AUT.</td>
+            <td class="cuerpo_tabla_centro">131,88 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">RESIDENCIA GURU VALLDOREIX</td>
+            <td class="cuerpo_tabla_izq">RES. AUT.</td>
+            <td class="cuerpo_tabla_centro">131,88 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq" rowspan="2">MAS CASADEVALL I</td>
+            <td class="cuerpo_tabla_izq" rowspan="2">RES. AUT.</td>
+            <td class="cuerpo_tabla_centro">119,49 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro">131,88 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq"> </td>
+            <td class="cuerpo_tabla_izq"> </td>
+            <td class="cuerpo_tabla_centro"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">PERE MATA - UAPE</td>
+            <td class="cuerpo_tabla_izq">UAPE</td>
+            <td class="cuerpo_tabla_centro">75,51 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">VILLABLANCA SERVICIOS ASISTENCIALES (UHEDI)</td>
+            <td class="cuerpo_tabla_izq">UHEDI</td>
+            <td class="cuerpo_tabla_centro">75,51 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">HOSPITAL PSIQUIÁTRICO SALT (UHEDI)</td>
+            <td class="cuerpo_tabla_izq">UHEDI</td>
+            <td class="cuerpo_tabla_centro">75,51 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">UNIDAD POLIVALENTE BENITO MENNI EN SALUD MENTAL DE L'HOSPITALET (UAPE)</td>
+            <td class="cuerpo_tabla_izq">UAPE</td>
+            <td class="cuerpo_tabla_centro">75,51 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">SAGRAT COR - UAPE</td>
+            <td class="cuerpo_tabla_izq">UAPE</td>
+            <td class="cuerpo_tabla_centro">75,51 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">SAN JOAN DE DÉU TERRES DE LLEIDA (UAPE)</td>
+            <td class="cuerpo_tabla_izq">UAPE</td>
+            <td class="cuerpo_tabla_centro">75,51 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">SAN JOAN DE DÉU TERRES DE LLEIDA (UHEDI)</td>
+            <td class="cuerpo_tabla_izq">UHEDI</td>
+            <td class="cuerpo_tabla_centro">75,51 €</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">PARQUE SANITARIO SANT JOAN DE DÉU-NUMÀNCIA (UAPE)</td>
+            <td class="cuerpo_tabla_izq">UAPE</td>
+            <td class="cuerpo_tabla_centro">75,51 €</td>
+          </tr>
+          <tr>
+            <td>SAN JOAN DE DÉU - UHEDI</td>
+            <td>UHEDI</td>
+            <td class="cuerpo_tabla_centro">75,51 €»</td>
+          </tr>
+        </tbody>
+      </table>
+    </blockquote>
+    <p class="capitulo_num">CAPÍTULO II</p>
+    <p class="capitulo_tit">Modificación del Decreto-ley 49/2020, de 1 de diciembre, de medida urgente complementaria en materia de empleo y fomento de la actividad económica para hacer frente a las consecuencias de la mayor afectación en el mercado de trabajo de la COVID-19 en determinados territorios de Cataluña</p>
+    <p class="articulo">Artículo 2.</p>
+    <p class="parrafo">Se modifica la letra a) del artículo 13.2 del Decreto-ley 49/2020, de 1 de diciembre, que queda redactada de la siguiente forma:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«a) Prospección y asesoramiento</p>
+      <p class="parrafo_2">Se establece un importe máximo de 46.312,48 euros por persona que ejecute las tareas de prospección y asesoramiento, calculado sobre la base del coste de personal durante el periodo de ejecución del programa, incrementado en un 15% para gastos indirectos.»</p>
+    </blockquote>
+    <p class="articulo">Artículo 3.</p>
+    <p class="parrafo">Se modifican los apartados 2 y 3 del artículo 14 del Decreto-ley 49/2020, de 1 de diciembre, que quedan redactados de la siguiente forma:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«14.2 Para las actuaciones cuya modalidad de justificación sea la acreditación por módulos, de acuerdo con lo previsto por el artículo 23 de este Decreto-ley, la totalidad de los gastos se debe acreditar mediante la justificación de la ejecución de los módulos establecidos en el artículo 13.</p>
+      <p class="parrafo">14.3 Para las actuaciones cuya modalidad de justificación sea la cuenta justificativa, son subvencionables los gastos directos de personal, que incluirán las retribuciones salariales del personal y las cuotas de la Seguridad Social a cargo de la entidad.</p>
+      <p class="parrafo">También son subvencionables los gastos indirectos, que se imputarán con un tanto alzado del 15% sobre los gastos directos de personal, sin aportación de justificantes de gasto.»</p>
+    </blockquote>
+    <p class="articulo">Disposición transitoria. Aplicación retroactiva de preceptos determinados.</p>
+    <p class="parrafo">1. La aplicación de los importes modificados por este Decreto-ley en los anexos del Decreto-ley 39/2020, de 3 de noviembre, tiene efecto retroactivo a partir del 1 de enero de 2020.</p>
+    <p class="parrafo">2. Las entidades con conciertos deben presentar la factura de regularización de estos importes con fecha de 31 de diciembre 2020, entre el 1 y el 5 de enero de 2021.</p>
+    <p class="parrafo">3. Los importes relativos al coste del copago de los servicios modificados por este Decreto-ley en el anexo 1 del Decreto-ley 39/2020, de 3 de noviembre, tienen efecto desde el 1 de enero de 2021.</p>
+    <p class="articulo">Disposición final primera. Habilitación en relación con el Decreto-ley 29/2020, de 28 de julio, por el que se adoptan medidas presupuestarias en relación con el desarrollo de las actuaciones de atención social, ordenación y refuerzo de determinados servicios sociales de carácter residencial y de atención diurna contempladas en el Plan de contingencia para residencias, para hacer frente a los brotes de la pandemia generada por la COVID-19; por el que se mantiene la vigencia de preceptos en materia de infancia y adolescencia del Decreto-ley 11/2020, de 7 de abril, por el que se adoptan medidas económicas, sociales y administrativas para paliar los efectos de la pandemia generada por la COVID-19 y otras complementarias, y por el que se modifica el Decreto-ley 21/2020, de 2 de junio, de medidas urgentes de carácter económico, cultural y social, bajo el título de medidas de carácter social.</p>
+    <p class="parrafo">Se habilita al consejero de Trabajo, Asuntos Sociales y Familias para ordenar, mediante Resolución, el pago directo de las medidas que prevé el Decreto-ley 29/2020, de 28 de julio, a los centros residenciales y los centros de atención diurna acreditados con plazas colaboradoras o con plazas financiadas con prestación económica vinculada.</p>
+    <p class="articulo">Disposición final segunda. Rango normativo de determinados preceptos.</p>
+    <p class="parrafo">1. El artículo 1 de este Decreto-ley mantiene rango reglamentario de Orden a los efectos de su desarrollo, modificación y derogación.</p>
+    <p class="parrafo">2. Los importes establecidos en el artículo 1 de este Decreto-ley son aplicables hasta que se apruebe una nueva Orden de modificación de los precios establecidos por la Cartera de servicios sociales.</p>
+    <p class="parrafo">3. En el caso de los servicios que no tienen los precios establecidos en la Cartera de servicios sociales, el importe se podrá modificar mediante la Resolución de convocatoria pública de provisión de servicios, y empezará a ser aplicable a partir de la formalización de nuevas provisiones, de acuerdo con lo que establece el Decreto 69/2020, de 14 de julio, de acreditación, concierto social y gestión delegada en la Red de Servicios Sociales de Atención Pública.</p>
+    <p class="articulo">Disposición final tercera. Modificación automática de instrumentos de relación.</p>
+    <p class="parrafo">Los nuevos importes fijados en el artículo 1 de este Decreto-ley modifican automáticamente los establecidos en las resoluciones, contratos, convenios, órdenes o cualquier otro instrumento de relación vigente, de forma que se autoriza el pago inmediato de estos importes actualizados mediante la facturación y los demás mecanismos de pago mensuales.</p>
+    <p class="articulo">Disposición final cuarta. Entrada en vigor.</p>
+    <p class="parrafo">Este Decreto-ley entra en vigor el mismo día de su publicación en el «Diari Oficial de la Generalitat de Catalunya».</p>
+    <p class="parrafo_2">Por lo tanto, ordeno que todos los ciudadanos a los que se aplique este Decreto-ley cooperen en cumplirlo y que los tribunales y las autoridades a quienes corresponda lo hagan cumplir.</p>
+    <p class="parrafo_2">Barcelona, 15 de diciembre de 2020.–El Vicepresidente del Gobierno en sustitución de la Presidencia de la Generalidad y Consejero de Economía y Hacienda, Pere Aragonès i Garcia.–El Consejero de Trabajo, Asuntos Sociales y Familias, Chakir El Homrani Lesfar.</p>
+    <p class="publicado">(Publicado en el «Diario Oficial de la Generalitad de Cataluña» número 8297, de 17 de diciembre de 2020. Convalidado por Resolución 1133/XII, del Parlamento de Cataluña, publicada en el «Diario Oficial de la Generalitad de Cataluña» número 8319, de 18 de enero de 2021)</p>
+  </texto>
+</documento>

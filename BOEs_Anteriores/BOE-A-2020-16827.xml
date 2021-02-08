@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20201223142601">
+  <metadatos>
+    <identificador>BOE-A-2020-16827</identificador>
+    <titulo>Orden HAC/1238/2020, de 17 de noviembre de 2020, por la que se crean y regulan la Junta y la Mesa de Contratación de los Servicios Centrales en el Ministerio de Hacienda.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>334</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="5140">Ministerio de Hacienda</departamento>
+    <rango codigo="1350">Orden</rango>
+    <numero_oficial>HAC/1238/2020</numero_oficial>
+    <fecha_disposicion>20201117</fecha_disposicion>
+    <fecha_publicacion>20201223</fecha_publicacion>
+    <fecha_vigencia>20201224</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>118756</pagina_inicial>
+    <pagina_final>118760</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2020-16827</url_epub>
+    <url_pdf>/boe/dias/2020/12/23/pdfs/BOE-A-2020-16827.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/o/2020/11/17/hac1238</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2020/11/17/hac1238">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2020-16827</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-17</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hac1238</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2020/11/17/hac1238/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2020-16827</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-17</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hac1238</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2020/11/17/hac1238"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2020/11/17/hac1238/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden HAC/1238/2020, de 17 de noviembre de 2020, por la que se crean y regulan la Junta y la Mesa de Contratación de los Servicios Centrales en el Ministerio de Hacienda.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-23</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2020/11/17/hac1238/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2020/11/17/hac1238/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2020/11/17/hac1238/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2020/11/17/hac1238/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2020/11/17/hac1238/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2020/11/17/hac1238/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2020/11/17/hac1238/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2020/11/17/hac1238/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2020/11/17/hac1238/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="4680" orden="">Juntas de Contratación</materia>
+      <materia codigo="4940" orden="">Mesas de Contratación</materia>
+      <materia codigo="4978" orden="">Ministerio de Hacienda</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="109" orden="">Derecho Administrativo</alerta>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2018-6768" orden="1010">
+          <palabra codigo="210">DEROGA</palabra>
+          <texto>la Orden HFP/506/2018, de 21 de mayo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2020-8298" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto 689/2020, de 21 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2017-12902" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>los arts. 323 y 326 de la Ley 9/2017, de 8 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2015-10566" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 22.2 de la Ley 40/2015, de 1 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">La presente orden crea y regula los órganos colegiados en materia de contratación del Ministerio de Hacienda, de acuerdo con los cambios organizativos efectuados por el Real Decreto 689/2020, de 21 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Hacienda y se modifica el Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los departamentos ministeriales.</p>
+    <p class="parrafo">En concreto, se crean y regulan la Junta y la Mesa de Contratación de los Servicios Centrales del Ministerio de Hacienda, en ejercicio de la habilitación legal expresa del artículo 323 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, en el primer caso, y de conformidad con lo dispuesto en el artículo 326 de la misma Ley, en el segundo, y en el artículo 22.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. La Mesa de Contratación asistirá con carácter permanente a los diversos órganos de contratación unipersonales de los Servicios Centrales del departamento.</p>
+    <p class="parrafo">Esta norma se ajusta a los principios de buena regulación establecidos en el artículo 129 en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y, en concreto, a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica transparencia y eficiencia, ya que atiende y persigue el interés general creando órganos adaptados a los cambios organizativos mencionados para el ejercicio de determinadas competencias en materia de contratación.</p>
+    <p class="parrafo">Esta orden ha sido sometida a informe previo de la Junta Consultiva de Contratación Pública del Estado, de conformidad con lo previsto en el artículo 328.3.c) de la Ley 9/2017, de 8 de noviembre.</p>
+    <p class="parrafo">En su virtud, dispongo:</p>
+    <p class="articulo">Artículo 1. Objeto.</p>
+    <p class="parrafo">La presente orden tiene por objeto la creación de los siguientes órganos colegiados en el Ministerio de Hacienda, y la regulación de sus funciones, régimen de funcionamiento y composición:</p>
+    <p class="parrafo_2">a) La Junta de Contratación de los Servicios Centrales,</p>
+    <p class="parrafo">b) La Mesa de Contratación de los Servicios Centrales.</p>
+    <p class="articulo">Artículo 2. Creación y funciones de la Junta de Contratación de los Servicios Centrales del Ministerio de Hacienda.</p>
+    <p class="parrafo">1. Se crea la Junta de Contratación de los Servicios Centrales del Ministerio de Hacienda (en adelante, Junta), adscrita a la Subsecretaría.</p>
+    <p class="parrafo">2. De acuerdo con lo dispuesto en el artículo 323 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014 (en adelante, Ley 9/2017, de 8 de noviembre), la Junta actuará en el ámbito de los Servicios Centrales del departamento como órgano colegiado de contratación de los siguientes objetos:</p>
+    <p class="parrafo_2">a) Obras de reparación simple, de conservación y mantenimiento.</p>
+    <p class="parrafo">b) Suministros de bienes consumibles o de fácil deterioro por el uso.</p>
+    <p class="parrafo">c) Servicios.</p>
+    <p class="parrafo">d) Otros suministros y servicios relativos al ámbito competencial de más de un órgano de contratación del departamento.</p>
+    <p class="parrafo_2">3. No corresponderá a la Junta la contratación de los objetos mencionados en el apartado anterior cuando hayan sido declarados de adquisición o contratación centralizada, pueda seguirse el procedimiento abierto simplificado, o se trate de un contrato menor o una tramitación de emergencia regulados respectivamente en los artículos 159, 118 y 120 de la Ley 9/2017, de 8 de noviembre.</p>
+    <p class="parrafo">4. Corresponden a la Junta las siguientes funciones y facultades:</p>
+    <p class="parrafo_2">a) De contratación en el ámbito material definido en los apartados 2 y 3 anteriores. La facultad de aprobación de los expedientes de contratación no comprenderá la de aprobación del gasto, que corresponderá al órgano competente en esta materia en cada caso.</p>
+    <p class="parrafo">b) De programación general de la contratación en el departamento, para lo cual los distintos centros directivos deberán colaborar con la Junta, suministrando información relativa a planes y previsión de necesidades anuales o plurianuales.</p>
+    <p class="parrafo">c) De informe previo, a solicitud del órgano contratación, de contratos en que la Junta no sea órgano de contratación.</p>
+    <p class="parrafo">d) De seguimiento y control de la contratación realizada en el departamento. A estos efectos, se recabará de los distintos órganos directivos la información sobre preparación, adjudicación, formalización, ejecución, incidencias y extinción de aquellos contratos en que la Junta no actúe como órgano de contratación.</p>
+    <p class="parrafo">e) De aprobación de directrices de obligado cumplimiento y recomendaciones sobre contratación para los órganos del departamento.</p>
+    <p class="parrafo">f) De aprobación de modelos de documentos normalizados para la tramitación del procedimiento de contratación al objeto de la mejor realización del trabajo de la Junta y de la Mesa.</p>
+    <p class="parrafo">g) De evaluación anual de los resultados de la contratación administrativa en el Ministerio. A estos efectos, la Junta elevará un informe al titular del departamento, destacando los niveles de eficacia y economía alcanzados.</p>
+    <p class="articulo">Artículo 3. Funcionamiento de la Junta de Contratación de los Servicios Centrales del Ministerio de Hacienda.</p>
+    <p class="parrafo">1. La Junta se reunirá por convocatoria de orden de su presidente, siempre que así lo considere en función del número y la importancia de los asuntos a tratar y, con carácter general, al menos una vez al mes.</p>
+    <p class="parrafo">2. El funcionamiento de la Junta se regirá por lo dispuesto en esta orden, por las normas que pudiera aprobar para sí misma con carácter interno y acordes con la legislación general para el mejor ejercicio de sus funciones y, en lo no contemplado en estas disposiciones, por la Ley 9/2017, de 8 de noviembre y sus normas de desarrollo. Igualmente, serán de aplicación el Real Decreto 817/2009, de 8 de mayo, por el que se desarrolla parcialmente la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, y el Reglamento General de Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto 1098/2001, de 12 de octubre, en cuanto no se opongan a la Ley 9/2017, de 8 de noviembre, y los preceptos recogidos en el título preliminar, capítulo II de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.</p>
+    <p class="parrafo">3. La Junta podrá decidir la constitución de los grupos de trabajo que considere oportunos, tanto para la preparación de los documentos que deban ser estudiados y aprobados por ella, como para el análisis o valoración de los expedientes para los que así lo estime conveniente.</p>
+    <p class="parrafo">4. La Junta arbitrará los mecanismos que se estimen más adecuados para garantizar la coordinación con otros órganos colegiados del departamento, especialmente con la Comisión Ministerial de Administración Digital.</p>
+    <p class="articulo">Artículo 4. Creación y funciones de la Mesa de Contratación de los Servicios Centrales del Ministerio de Hacienda.</p>
+    <p class="parrafo">1. Se crea con carácter permanente la Mesa de Contratación de los Servicios Centrales del Ministerio de Hacienda (en adelante, la Mesa), adscrita a la Subsecretaría.</p>
+    <p class="parrafo">2. La Mesa actuará en los procedimientos y con las funciones y facultades previstos en el artículo 326 de la Ley 9/2017, de 8 de noviembre y en sus normas de desarrollo, y en las disposiciones reglamentarias previas que resulten de aplicación, circunscribiendo su actuación a la actividad contractual de los Servicios Centrales del departamento.</p>
+    <p class="parrafo">3. La Mesa se reunirá cuando la convoque su presidente, en atención a los expedientes de contratación que haya de conocer.</p>
+    <p class="parrafo">4. El funcionamiento de la Mesa se regirá por lo dispuesto en esta orden, por las normas que pudiera aprobar para sí misma con carácter interno y acordes con la legislación general para el mejor ejercicio de sus funciones y, en lo no contemplado en estas disposiciones, por la Ley 9/2017, de 8 de noviembre y sus normas de desarrollo. Igualmente, serán de aplicación el Real Decreto 817/2009, de 8 de mayo, por el que se desarrolla parcialmente la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, y el Reglamento General de Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto 1098/2001, de 12 de octubre, en cuanto no se opongan a la Ley 9/2017, de 8 de noviembre, y los preceptos recogidos en el título preliminar, capítulo II de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.</p>
+    <p class="articulo">Artículo 5. Composición de la Junta y de la Mesa de Contratación de los Servicios Centrales del Ministerio de Hacienda.</p>
+    <p class="parrafo">1. Tanto la Junta como la Mesa de Contratación de los Servicios Centrales del Ministerio de Hacienda estarán compuestas, de conformidad con lo previsto en los artículos 323.4 y 326.5 de la Ley 9/2017, de 8 de noviembre, por los siguientes miembros:</p>
+    <p class="parrafo_2">a) Presidente: se designará por el titular del Ministerio de Hacienda, a propuesta del titular de la Subsecretaría, entre uno de los titulares de las Subdirecciones Generales de la Dirección General de Racionalización y Centralización de la Contratación.</p>
+    <p class="parrafo">b) Vocales:</p>
+    <p class="parrafo_2">1.º Un representante de cada Secretaría de Estado y de la Subsecretaría, nombrados por el titular del Ministerio de Hacienda a propuesta del titular de la Secretaría de Estado correspondiente y del titular de la Subsecretaría, respectivamente.</p>
+    <p class="parrafo">2.º Un Abogado del Estado, de la Abogacía del Estado en el departamento.</p>
+    <p class="parrafo">3.º Un Interventor de la Intervención Delegada en el departamento.</p>
+    <p class="parrafo_2">c) Un Secretario nombrado por el titular del Ministerio de Hacienda a propuesta de la Subsecretaría entre funcionarios del grupo A1 destinados en la Dirección General de Racionalización y Centralización de la Contratación, y que actuará como vocal, con voz y voto en la Junta de Contratación y con voz, pero sin voto, en la Mesa de Contratación.</p>
+    <p class="parrafo_2">2. Sustitución de miembros:</p>
+    <p class="parrafo_2">a) El Presidente será sustituido, en caso de vacante, ausencia, enfermedad, u otra causa legal, por el vocal del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden. En ningún caso podrá ser sustituido por el representante de la Abogacía del Estado o de la Intervención Delegada.</p>
+    <p class="parrafo">b) Los vocales y el Secretario serán sustituidos en caso de vacante, ausencia o enfermedad y, en general, cuando concurra alguna causa justificada, por sus suplentes, que serán nombrados por el mismo procedimiento que aquellos. El suplente del Secretario podrá ser nombrado entre funcionarios pertenecientes al grupo A2.</p>
+    <p class="parrafo_2">3. En ningún caso podrán formar parte de la Junta o la Mesa ni emitir informes de valoración de las ofertas los cargos públicos representativos, los altos cargos, el personal de elección o designación política ni el personal eventual. Podrá formar parte de estos órganos personal funcionario interino únicamente cuando no existan funcionarios de carrera suficientemente cualificados y así se acredite en el expediente. Tampoco podrá formar parte de los mismos el personal que haya participado en la redacción de la documentación técnica del contrato de que se trate.</p>
+    <p class="parrafo">4. A las reuniones podrán incorporarse, por decisión del Presidente, los técnicos o expertos independientes con conocimientos acreditados en las materias relacionadas con el objeto del contrato a los que se hubiera solicitado asesoramiento, que actuarán con voz, pero sin voto.</p>
+    <p class="articulo">Artículo 6. Secretaría de la Junta y de la Mesa de Contratación de los Servicios Centrales del Ministerio de Hacienda.</p>
+    <p class="parrafo">1. La Secretaría de la Junta y de la Mesa de Contratación de los Servicios Centrales del Departamento prestará el apoyo administrativo necesario a las anteriores para el adecuado desarrollo de sus funciones</p>
+    <p class="parrafo">2. Las funciones de la Secretaría serán las siguientes:</p>
+    <p class="parrafo_2">a) Recibir, tramitar y preparar y llevar el seguimiento de todos los asuntos que hayan de ser tratados por cada órgano colegiado.</p>
+    <p class="parrafo">b) Realizar las actuaciones precisas para el cumplimiento de los acuerdos adoptados en las distintas sesiones.</p>
+    <p class="parrafo">c) En general, todas aquellas otras funciones que contribuyan a la consecución de los fines y objetivos de los órganos colegiados a los que asiste.</p>
+    <p class="articulo">Disposición adicional primera. Supresión de órganos.</p>
+    <p class="parrafo">Quedan suprimidos los siguientes órganos colegiados:</p>
+    <p class="parrafo_2">a) La Junta de Contratación de los Servicios Centrales del Ministerio de Hacienda y Función Pública.</p>
+    <p class="parrafo">b) La Mesa de Contratación de los Servicios Centrales del Ministerio de Hacienda y Función Pública.</p>
+    <p class="articulo">Disposición adicional segunda. Delegación de competencias.</p>
+    <p class="parrafo">Las delegaciones de competencias otorgadas por la Junta de Contratación de Hacienda y Función Pública continuarán vigentes para la nueva Junta hasta que sean expresamente revocadas o nuevamente otorgadas.</p>
+    <p class="articulo">Disposición transitoria única. Sucesión de órganos.</p>
+    <p class="parrafo">1. Los órganos creados por esta orden sucederán, respectivamente, a los órganos suprimidos en la tramitación de las solicitudes y los expedientes y procedimientos en curso en los que estos últimos fueran competentes.</p>
+    <p class="parrafo">2. La Junta sucederá a la Junta de Contratación de los Servicios Centrales del Ministerio de Hacienda y Función Pública como órgano de contratación en relación con los efectos, cumplimiento y extinción relativos a los contratos perfeccionados con anterioridad a la entrada en vigor de esta orden.</p>
+    <p class="articulo">Disposición derogatoria única. Derogación normativa.</p>
+    <p class="parrafo">A la entrada en vigor de esta orden quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en ella y, en particular, la Orden HFP/506/2018, de 21 de mayo, por la que se crean y regulan la Junta y la Mesa de Contratación de los Servicios Centrales en el Ministerio de Hacienda y Función Pública.</p>
+    <p class="articulo">Disposición final única. Entrada en vigor.</p>
+    <p class="parrafo">La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 17 de noviembre de 2020.–La Ministra de Hacienda, María Jesús Montero Cuadrado.</p>
+  </texto>
+</documento>
