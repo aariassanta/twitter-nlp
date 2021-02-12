@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210209105601">
+  <metadatos>
+    <identificador>BOE-A-2021-1858</identificador>
+    <titulo>Sentencia de 16 de diciembre de 2020, de la Sala Tercera del Tribunal Supremo, que declara estimar el recurso contencioso-administrativo número 382/2019 contra el Real Decreto 536/2019, de 20 de septiembre, por el que se modifica el Real Decreto 1338/2018, de 29 de octubre, por el que se regula el potencial de producción vitícola.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>34</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="1430">Tribunal Supremo</departamento>
+    <rango codigo="1240">Sentencia</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20201216</fecha_disposicion>
+    <fecha_publicacion>20210209</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>14390</pagina_inicial>
+    <pagina_final>14390</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-1858</url_epub>
+    <url_pdf>/boe/dias/2021/02/09/pdfs/BOE-A-2021-1858.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="397" orden="">Autorizaciones</materia>
+      <materia codigo="1320" orden="">Comunidades Autónomas</materia>
+      <materia codigo="2420" orden="">Denominaciones de origen</materia>
+      <materia codigo="4960" orden="">Ministerio de Agricultura Pesca y Alimentación</materia>
+      <materia codigo="6974" orden="">Tribunal Supremo</materia>
+      <materia codigo="7150" orden="">Vinos</materia>
+      <materia codigo="7158" orden="">Viticultura</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="101" orden="">Agricultura</alerta>
+      <alerta codigo="102" orden="">Alimentación</alerta>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2018-14803" orden="4010">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>la nulidad de los arts. 7.3,4 y 7 y 18.3,4 y 7 del Real Decreto 1338/2018, de 29 de octubre, en la redacción dada por los arts. 1 y 6 del Real Decreto 536/2019, de 20 de septiembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2019-13412" orden="4011">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">En el recurso contencioso-administrativo núm. 382/2019, interpuesto por la Junta de Extremadura contra el Real Decreto 536/2019, de 20 de septiembre, por el que se modifica el Real Decreto 1338/2018, de 29 de octubre, por el que se regula el potencial de producción vitícola, la Sala Tercera (Sección Quinta) del Tribunal Supremo ha dictado sentencia con fecha 16 de diciembre de 2020 cuya parte dispositiva es del tenor literal siguiente:</p>
+    <p class="centro_redonda">FALLO</p>
+    <p class="parrafo_2">Por todo lo expuesto, en nombre del Rey y por la autoridad que le confiere la Constitución, esta Sala ha decidido:</p>
+    <p class="parrafo_2">Estimar el recurso contencioso-administrativo interpuesto por la Junta de Extremadura contra el Real Decreto 536/2019, de 20 de septiembre, publicado en el «Boletín Oficial del Estado» número 227 de 21 de septiembre de ese mismo año de 2019, por el que se modifica el Real Decreto 1338/2018, de 29 de octubre, por el que se regula el potencial de producción vitícola; declarando la nulidad de los artículos 1 y 6 del mismo, por los que se dan nueva redacción a los párrafos 3.º, 4.º y 7.º de los artículos 7 y 18 del Real Decreto de 2018 mencionado. Con imposición de las costas del proceso a las partes comparecidas como demandadas, hasta el límite señalado en el último fundamento.</p>
+    <p class="parrafo_2">Notifíquese esta resolución a las partes haciéndoles saber que contra la misma no cabe recurso, e insértese en la colección legislativa.</p>
+    <p class="parrafo_2">Así se acuerda y firma.–César Tolosa Tribiño.–Rafael Fernández Valverde.–Octavio Juan Herrero Pina.–Wenceslao Francisco Olea Godoy.–Ángeles Huet de Sande.–Firmado.</p>
+  </texto>
+</documento>

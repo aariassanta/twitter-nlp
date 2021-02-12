@@ -1,0 +1,2004 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Parámetro indicando si se ha cambiado el mes desde el combo de meses -->
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es">
+	<head>
+		
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		
+		
+		<title>
+			DOCM. Diario Oficial Castilla - La Mancha
+		</title>
+		
+		
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+<!-- HTTP 1.1 -->
+<meta http-equiv="Cache-Control" content="no-store"/>
+<!-- HTTP 1.0 -->
+<meta http-equiv="Pragma" content="no-cache"/>
+<!-- Prevents caching at the Proxy Server -->
+<meta http-equiv="Expires" content="0"/>
+<!-- internet explorer effects -->		
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.4)" />
+      
+		 
+		
+        
+        <link rel="icon" href="/portaldocm/images/favicon.ico" />
+        
+        <meta name="AUTHOR" content="Junta de Castilla - La Mancha. Portal" />
+ 
+ 		<meta name="KEYWORDS" content="Base de Datos. Boletín Oficial. Legislación autonómica. DOCM. Diario Oficial Castilla - La Mancha. Regulación. Suscripción. Venta. Publicación de documentos. Diario Oficial. Comunidad de Castilla-La Mancha. Legislación de Castilla-La Mancha. Disposiciones de Castilla-La Mancha. Leyes de Castilla La-Mancha. Normas de Castilla La-Mancha. DOCM" />
+ 
+		<meta name="DESCRIPTION" content="Base de datos del DOCM (Diario Oficial Castilla - La Mancha) que contiene todos los documentos publicados en el boletín oficial. " />
+        
+        <meta name="LANGUAGE" content="Castellano" />
+        
+        
+		
+		<link rel="stylesheet" type="text/css" media="all" href="/portaldocm/css/css-common.css?version=1.4" />
+		<link rel="stylesheet" type="text/css" media="all" href="/portaldocm/css/jccm_pie.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="/portaldocm/css/portal.css?version=1.4" />
+		<!--[if IE]>
+			<link rel="stylesheet" type="text/css" media="all" href="/portaldocm/css/css-common.css" />
+		<![endif]-->
+		
+		<link rel="stylesheet" type="text/css" href="/portaldocm/css/calendarioBoletines.css?version=1.4" />
+		<link rel="stylesheet" type="text/css" media="print" href="/portaldocm/css/portalPrint.css" />
+		<link rel="stylesheet" type="text/css" media="print" href="/portaldocm/css/css-common.css?version=1.4" />
+		
+		<script type="text/javascript" src="/portaldocm/scripts/prototype.js"></script>
+		<script type="text/javascript" src="//accesible-docm.castillalamancha.es/i4tservice/jscm_loader.js"></script>
+
+		<script type="text/javascript">
+
+			    var cambioMes = 'no';
+				function init(){
+		
+					if($('calendario')){
+					
+						var browserName = navigator.appName; 
+						
+						if (browserName=="Microsoft Internet Explorer") {
+							$('calendario').style.display = "block";
+						}
+						else {
+							$('calendario').style.display = "table";
+						}
+					}
+					
+					if($('buscaFecha')){
+						$('buscaFecha').hide();
+					}
+					
+					$("botonImprimir").style.visibility = "visible";
+					
+					//Si se ha cambiado el mes desde el combo de meses, se le pone el foco a este para que
+					//pueda seguir seleccionando meses con las flechas del cursor
+					if (cambioMes == 'si'){
+						document.getElementById('mes').focus();
+					}
+					
+				}
+		
+				function resizeMenu(){
+					
+					if (navigator.appName.indexOf("Explorer") != -1) {	
+					
+						var alturaMenu = $("menu").clientHeight;
+						$("tablaMenu").style.height = alturaMenu - $("menu").offsetTop - $("filaCalendario").clientHeight;
+					}
+				}
+				
+				function tunearLinks() {
+	    			var links = document.getElementsByTagName('a');
+	    			
+	    			for (var i=0;i < links.length;i++) {
+	        			if (links[i].className.indexOf('new-window') != -1) {
+	            			links[i].onclick = function() {
+	                			window.open(this.href);
+	                			return false;
+	            			};
+	            			
+	            			links[i].onkeypress = function() {
+	                			window.open(this.href);
+	                			return false;
+	            			};
+	        			}
+	    			}
+	    			
+	    			links = document.getElementsByTagName('form');
+	    			
+	    			for (var i=0;i < links.length;i++) {
+	        			if (links[i].className == 'new-window') {
+	            			
+	            			links[i].target = "_blank";
+	            		}
+	    			}
+				};
+				
+				function limpiar() {
+					if($F("textoBusqueda") == "Buscar...") {
+						$("textoBusqueda").setValue("");
+					}				
+				}
+				
+		</script>
+		
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+	
+	</head>
+	<body onload="init(); resizeMenu(); tunearLinks()"  id="body">
+		<div id="container"> 
+			<div id="header">
+				<div id="header-content">
+					<div class="side-padder">
+						<h1><a title="Inicio">DIARIO OFICIAL</a></h1>
+						<h2>de Castilla-La Mancha</h2>
+						<form action="/portaldocm/buscarDisposiciones.do" method="post">
+							<div id="header-search-box">
+								<div>
+									<input type="hidden" name="paginaResultados" value="1"/>
+									<input type="hidden" name="campoOrdenacion" value="ordenFechaPublicacion"/>
+									<input type="hidden" name="tipoBusqueda" value="basica"/>
+									<input type="text" name="texto" id="textoBusqueda" class="custom-search-default-value" value="Buscar..." onclick="limpiar()" onkeypress="limpiar()"/>
+								</div>
+								<div>
+									<input type="image" src="/portaldocm/images/search-button.png" title="Buscar en la Web" class ="imagenLupa" alt="Buscar"/>
+								</div>
+							</div>
+							<div id="header-search-box-avanced">
+								<span class="textoBusquedaAvanzada"><a href="/portaldocm/busquedaAvanzada.do" title="Ir a la página de Busqueda Avanzada">&gt;&gt; Búsqueda Avanzada</a></span>
+							</div>
+						</form>
+					</div>
+				</div>
+				<div id="header-side">
+					<a href="http://www.castillalamancha.es"><img src="/portaldocm/images/logo.png" alt="Inicio" title="Inicio"></a>
+				</div>
+				<div id="header-info-band">
+					<div><div class="header-info-band-section">Consejer&iacute;a de Hacienda y Administraciones P&uacute;blicas</div></div>
+				</div>
+				<div id="header-menu">
+					<div>
+						<ul>
+							<li><a href="/portaldocm/revistaJuridica.do" title="Abrir la página de Revista Jurídica">Revista jur&iacute;dica</a></li>
+							<li><a href="/portaldocm/codigoLegislativo.do"  title="Abrir la página de Código Legislativo">C&oacute;digo legislativo</a></li>
+							<li><a href="https://empleopublico.castillalamancha.es/" title="Abrir la página de Empleo Público en una nueva ventana" class ="new-window" >Empleo p&uacute;blico</a></li>
+							<li><a href="http://www.castillalamancha.es/gobierno/haciendayaapp/cartasdeservicio/diario-oficial-de-castilla-la-mancha" title="Abrir la página de Carta de Servicio del Diario Oficial de Castilla la Mancha" class ="new-window">Carta de Servicios</a></li>
+ 							<li><a href="/portaldocm/eli" title="Abrir la página del Identificador Europeo de Legislación">ELI</a></li>
+						</ul>
+					</div>
+				</div>
+				<div id="header-menu-covid">
+					<div>
+                       <h3 class="titulo-covid-19">   
+	    					<span>Normativa sobre crisis sanitaria <a href="/portaldocm/listadoCOVID.do" class="link-covid-19">
+		   						COVID-19 <br/> <img src="/portaldocm/images/covid-19-news-2.png" alt="" class="menu-covid-19"/>                                    
+                            </a> </span>
+	                   </h3>  
+				    </div>
+				</div>
+			</div><!-- // Header -->
+			<div class = "filaBotonImprimir" style="padding-right: 20px">
+				<span id = "botonImprimir" class = "textoBotonImprimir" onclick="window.print();" onkeypress="window.print();">
+					<img src="/portaldocm/images/imprimir.gif" alt=""/>
+					Imprimir
+				</span>
+			</div>
+			<div id="content" style="display: inherit;">
+				<table width="100%">
+					<tr id = "cuerpo">
+						<td id = "menu" rowspan="2">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table class = "tablaMenu" id = "tablaMenu">
+	<tr>
+		<td><p style="margin-top: 11em;"><img src="/portaldocm/images/bg_calendario.png" alt="" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;<b>Calendario</b></p></td>
+	</tr>
+	<tr id = "filaDiariosOficiales">
+		<td>
+			<a href="sumario.do" title="Ir a la página de consulta de diarios oficiales">
+				&gt;&gt; &Uacute;ltimo diario oficial
+			</a>
+		</td>
+	</tr>
+	<tr><td>&nbsp;</td></tr>
+	
+	<tr id = "filaCalendario">
+		<td style="width: 93%">
+			<form id="idBean" method="post" action="/portaldocm/cambioFecha.do">
+				<div class="bordeCal" align="center">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[ 
+	function cambiaMesAnt(){
+		$('fechaNueva').setValue($('idBean').fechaMesAnterior.value);		
+		$('idBean').action="/portaldocm/cambioFecha.do";
+		$('idBean').submit();
+	}
+	
+	function cambiaMesSig(){
+		$('fechaNueva').setValue($('idBean').fechaMesSiguiente.value);	
+		$('idBean').action="/portaldocm/cambioFecha.do";
+		$('idBean').submit ();
+	}
+	
+	function cambiaAnioAnt(){
+		$('fechaNueva').setValue($('idBean').anioAnterior.value);		
+		$('idBean').action="/portaldocm/cambioFecha.do";
+		$('idBean').submit ();
+	}
+	
+	function cambiaAnioSig(){
+		$('idBean').fechaNueva.value = $('idBean').anioSiguiente.value;	
+		$('idBean').action="/portaldocm/cambioFecha.do";
+		$('idBean').submit ();
+	}
+	
+	function cambiaMesCombo(){
+		fecha = $('idBean').fechaNueva.value;
+		mesCombo = $('idBean').mes.value;
+		if(mesCombo<10){
+			mesCombo = "0"+mesCombo;
+		}
+		arrFecha = fecha.split("/");
+		fecha = arrFecha[0] + "/" + mesCombo + "/" + arrFecha[2];
+		$('idBean').fechaNueva.value=fecha;
+		$('idBean').action="/portaldocm/cambioFecha.do?cambioMes=si";
+		$('idBean').submit();
+	}
+	
+	function cambiaAnioInput(){
+		anio = $('idBean').anioInput.value;
+		
+		if (anio.length != 4) {
+			alert($('idBean').msjNumAnio.value);
+			return false;
+		}
+		
+		var string="1234567890";
+		
+		for(i=0;i<4;i++){
+			if (string.indexOf(anio.charAt(i))==-1){
+				alert($('idBean').msjNumAnio.value);
+				return false;
+			}
+		}
+		
+		fecha = $('idBean').fechaNueva.value;
+		arrFecha = fecha.split("/");
+		fecha = arrFecha[0] + "/" + arrFecha[1] + "/" + anio;
+		
+		$('idBean').fechaNueva.value=fecha;
+		$('idBean').action="/portaldocm/cambioFecha.do";
+		$('idBean').submit();
+		
+		return true;
+	}
+	
+	function tecla(e){
+		if(window.event) {
+			keyCode = window.event.keyCode;
+		}
+		else if(e) {
+			keyCode = e.which;
+		}
+		
+		if(keyCode == 13) {
+			cambiaAnioInput();
+		}
+	}
+	
+	// ]]> 
+
+</script>
+	
+			<table id='calendario' class='calendario tablaControlFecha'>
+<tr>
+<td colspan='10'>
+&nbsp;
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td onclick='cambiaMesAnt();' onkeypress='cambiaMesAnt();' class = 'botonMesAnt'><img alt='Cambiar a mes anterior' src='/portaldocm/images/bg_flecha_izq.png' /></td>
+<td class='etiquetaGris'><select class='controlesCalendario' name='mes' id='mes' onchange='cambiaMesCombo()'>
+<option value='1' >enero</option><option value='2'  selected='selected'>febrero</option><option value='3' >marzo</option><option value='4'>abril</option><option value='5'>mayo</option><option value='6'>junio</option><option value='7'>julio</option><option value='8'>agosto</option><option value='9'>septiembre</option><option value='10'>octubre</option><option value='11'>noviembre</option><option value='12'>diciembre</option></select></td><td onclick='cambiaMesSig()' onkeypress='cambiaMesSig()' class = 'botonMesSig'><img alt='Cambia a mes siguiente' src='/portaldocm/images/bg_flecha_der.png' /></td><td class='textoSubtit'></td><td>&nbsp;</td><td onclick='cambiaAnioAnt();' onkeypress='cambiaAnioAnt();' class = 'botonAnioAnt'><img alt='Cambia a año anterior' src='/portaldocm/images/bg_flecha_izq.png' /></td><td class='etiquetaGris'><label for = 'anioInput'></label> <input type='text' class='controlesCalendario' id='anioInput' name='anioInput' onblur='cambiaAnioInput();' onkeypress = 'tecla(event)' value='2021'/></td><td class = 'botonAnioSig' onclick='cambiaAnioSig()' onkeypress='cambiaAnioSig()'><img alt='Cambia a año siguiente' src='/portaldocm/images/bg_flecha_der.png' /></td><td>&nbsp;</td></tr><tr><td colspan='10'></td></tr><tr><td colspan='10'><table class='calendario'><tr class='calDays'><td class='primeraDiasCalendario'></td> <td class='diaCalendario' >L</td> <td class='diaCalendario' >M</td> <td class='diaCalendario' >X</td> <td class='diaCalendario' >J</td> <td class='diaCalendario' >V</td> <td class='diaCalendario' >S</td> <td class='diaCalendario' >D</td><td ></td></tr>
+<tr><td ></td><td class='siTieneDogv'>01<a class = 'diario_ordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210201" rel = 'external'><div>   <span>Ord.</span></div> </a></td> <td class='siTieneDogv'>02<a class = 'diario_ordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210202" rel = 'external'><div>   <span>Ord.</span></div> </a></td> <td class='siTieneDogv'>03<a class = 'diario_ordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210203" rel = 'external'><div>   <span>Ord.</span></div> </a></td> <td class='siTieneDogv'>04<a class = 'diario_ordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210204" rel = 'external'><div>   <span>Ord.</span></div> </a></td> <td class='siTieneDogv'>05<a class = 'diario_ordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210205" rel = 'external'><div>   <span>Ord.</span></div> </a></td> <td class='noTieneDogv'> 6</td> <td class='siTieneDogv'>07<a class = 'diario_extraordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210207-ext-2&numDogv=2" rel = 'external'><div>   <span>Ext.</span></div> </a></td><td ></td></tr><tr><td ></td> <td class='siTieneDogv'>08<a class = 'diario_ordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210208" rel = 'external'><div>   <span>Ord.</span></div> </a></td> <td class='siTieneDogv'>09<a class = 'diario_ordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210209" rel = 'external'><div>   <span>Ord.</span></div> </a></td> <td class='siTieneDogv'>10<a class = 'diario_ordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210210" rel = 'external'><div>   <span>Ord.</span></div> </a></td> <td class='siTieneDogv'>11<a class = 'diario_ordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210211" rel = 'external'><div>   <span>Ord.</span></div> </a></td> <td class='siTieneDogv'>12<a class = 'diario_ordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210212" rel = 'external'><div>   <span>Ord.</span></div> </a><a class = 'diario_extraordinario' href="/portaldocm/cambiarBoletin.do?fecha=20210212-ext-3&numDogv=3" rel = 'external'><div>   <span>Ext.</span></div> </a></td> <td class='noTieneDogv'> 13</td> <td class='noTieneDogv'> 14</td><td ></td></tr><tr><td ></td> <td class='noTieneDogv'> 15</td> <td class='noTieneDogv'> 16</td> <td class='noTieneDogv'> 17</td> <td class='noTieneDogv'> 18</td> <td class='noTieneDogv'> 19</td> <td class='noTieneDogv'> 20</td> <td class='noTieneDogv'> 21</td><td ></td></tr><tr><td ></td> <td class='noTieneDogv'> 22</td> <td class='noTieneDogv'> 23</td> <td class='noTieneDogv'> 24</td> <td class='noTieneDogv'> 25</td> <td class='noTieneDogv'> 26</td> <td class='noTieneDogv'> 27</td> <td class='noTieneDogv'> 28</td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr> </table></td></tr></table><input type="hidden" id="msjNumAnio" name="msjNumAnio" value="El año tiene que tener 4 dígitos" />
+<input type="hidden" id="fechaVista" name="fechaVista" value="12/02/2021" />
+<input type="hidden" id="fechaNueva" name="fechaNueva" value="12/02/2021" />
+<input type="hidden" id="fechaMesSiguiente" name="fechaMesSiguiente" value="12/03/2021" />
+<input type="hidden" id="fechaMesAnterior" name="fechaMesAnterior" value="12/01/2021" />
+<input type="hidden" id="anioSiguiente" name="anioSiguiente" value="12/02/2022" />
+<input type="hidden" id="anioAnterior" name="anioAnterior" value="12/02/2020" />
+
+		
+	<table id="buscaFecha">
+		<tr>
+			<td>
+				<span>
+					<label for="fechaInput"></label>
+					<input type="text" class="text" name="fechaInput" id="fechaInput" maxlength="10" value="dd/mm/yyyy"/>
+					&nbsp;&nbsp;
+					<input class="botonPortal" type="submit" value="Buscar"/>
+				</span>
+			</td>
+		</tr>
+	</table>
+ 	<br/>
+				</div>
+			</form>
+			<br/>
+		</td>
+	</tr>
+	
+	<tr>
+		<td><p><img src="/portaldocm/images/bg_enlaces_interes.png" alt="" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;<b>Enlaces de Interés</b></p></td>
+	</tr>
+	<tr class = "filaOpcionesMenu" id = "filaOpcionesMenu">
+		<td>
+			<table class = "tablaOpcionesMenu">
+				<tr>
+					<td>
+						<ul>
+							<li class = "ig">
+								<a href="/portaldocm/informacionGeneral.do" title="Abrir la página de Información general">Información general</a>
+							</li>
+							<li class = "sa">
+								<a href="/portaldocm/alertas.do" title="Abrir la página de Servicio de alertas">Servicio de alertas</a>
+							</li>
+							<li class = "au">
+								<a href="/portaldocm/comprobarAutenticidad.do" title="Abrir la página de Comprobar autenticidad de un boletín">Comprobar autenticidad</a>
+							</li>
+							<li class = "pf">
+								<a href="/portaldocm/preguntasFrecuentes.do" title="Abrir la página de Preguntas frecuentes">
+									Preguntas frecuentes
+								</a>
+							</li>
+							<li class = "en">
+								<a href="/portaldocm/enlaces.do" title="Abrir la página de enlaces">Enlaces</a>
+							</li>
+							<li>
+								<a href="/portaldocm/cargarAltaOrganismo.do" title="Abrir la página de Solicitud de alta de organismo emisor">Alta Organismo Emisor</a>
+							</li>
+							<li class = "ap">
+								<a href="/portaldocm/accederPublicador.do" title="Abrir la página de acceso al Publicador">Acceso al Publicador</a>
+							</li>
+							<li class = "es">
+								<a href="/portaldocm/envioSugerencias.do" title="Abrir la página de Envío de Sugerencias">Envío de Sugerencias</a>
+							</li>
+							
+							
+							
+							<li class = "ba">
+								<a href="/portaldocm/busquedaAvanzada.do" title="Abrir la página de búsqueda avanzada">Búsqueda Avanzada</a>
+							</li>
+						
+							<li>
+								<a href="/portaldocm/descargarArchivo.do?ruta=aviso_suscriptores.pdf&amp;tipo=rutaDescargables" title="Abrir el archivo PDF de aviso a suscriptores en una nueva página" class = "new-window">Aviso a suscriptores</a>
+							</li>
+							<li class = "vn">
+								<a href="/portaldocm/verificacionNID.do" title="Abrir la página de Verificación del NID">Verificación del NID</a>
+							</li>
+ 							<li class = "pe"> 
+ 								<a href="/portaldocm/goToEliHelp.do" title="Abrir la página de Proyecto Eli">Proyecto Eli</a> 
+ 							</li>							 
+						</ul>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+						</td>
+						<td id = "contenido">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+		
+
+
+
+							
+		<table class = "tablaDatosSumario">
+			<tr>
+				<td class = "anyoDiario">
+					A&Ntilde;O XL
+				</td>
+				<td class = "fechaDiario">
+					Viernes, 12 de febrero de 2021
+				</td>
+				<td>
+					<div class = "numeroDiario">
+						N&uacute;m. 29
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<img src="./images/linea.gif" alt="" />
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h2 class = "cabeceraDiario">
+						Sumario
+					</h2>
+				</td>
+				<td colspan="2" class = "descargaDiario">
+					<form action="descargarArchivo.do?ruta=2021/02/12/pdf/docm_29.pdf&amp;tipo=rutaDocm" method="post" class = "new-window">
+						<div>	
+							DOCM completo&nbsp;&nbsp;
+							<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							3355 KB
+						</div>
+					</form>
+				</td>
+			</tr>
+		</table>
+			<div class = "categoriaDiario">
+			<h3 class = "cabeceraCategoria">
+					I.- DISPOSICIONES GENERALES
+			</h3>
+	 		<ol class = "subcategoria">
+			  									<div class = "disposicion">
+					  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																									   		Tribunal Superior de Justicia de Castilla-La Mancha <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1372.pdf&amp;tipo=rutaDocm" class = "new-window">Sanidad. Procedimiento Ordinario 119/2021.</a> [NID 2021/1372]
+						</p>
+						<p class = "paginaDisposicion">
+							5362
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1372.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						224 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612960518482440526" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  					</div>
+				</li>
+			   			</ol>
+		</div>
+			<div class = "categoriaDiario">
+			<h3 class = "cabeceraCategoria">
+					II.- AUTORIDADES Y PERSONAL
+			</h3>
+	 		<ol class = "subcategoria">
+			  									<li>SITUACIONES E INCIDENCIAS
+			    					<div class = "disposicion">
+					  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																											Consejería de Hacienda y Administraciones Públicas <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1231.pdf&amp;tipo=rutaDocm" class = "new-window">Régimen Local. Resoluci&#243;n de 05/02/2021</a>, de la Viceconsejer&#237;a de Administraci&#243;n Local y Coordinaci&#243;n Administrativa, por la que se crea y clasifica un puesto de trabajo, denominado Tesorer&#237;a, reservado a funcionario de la administraci&#243;n local con habilitaci&#243;n de car&#225;cter nacional, en el Ayuntamiento de Mora (Toledo). [NID 2021/1231]
+						</p>
+						<p class = "paginaDisposicion">
+							5364
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1231.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						256 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612518874732530185" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1109.pdf&amp;tipo=rutaDocm" class = "new-window">Función Pública. Resoluci&#243;n de 02/02/2021</a>, de la Direcci&#243;n General de la Funci&#243;n P&#250;blica, por la que se da publicidad al Protocolo para la prevenci&#243;n, identificaci&#243;n y actuaci&#243;n frente al acoso sexual y por raz&#243;n de sexo en el lugar de trabajo en la Administraci&#243;n de la Junta de Comunidades de Castilla-La Mancha y sus organismos aut&#243;nomos. [NID 2021/1109]
+						</p>
+						<p class = "paginaDisposicion">
+							5365
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1109.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						523 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612341958594530748" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1248.pdf&amp;tipo=rutaDocm" class = "new-window">Formación. Resoluci&#243;n de 05/02/2021</a>, de la Direcci&#243;n General de la Funci&#243;n P&#250;blica, por la que se convocan acciones formativas incluidas en el Plan de Formaci&#243;n para el Personal de la Administraci&#243;n de la Junta de Comunidades de Castilla-La Mancha para 2021. [NID 2021/1248]
+						</p>
+						<p class = "paginaDisposicion">
+							5380
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1248.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						1714 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612523476381560299" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  					</div>
+				</li>
+			   			</ol>
+		</div>
+			<div class = "categoriaDiario">
+			<h3 class = "cabeceraCategoria">
+					III.- OTRAS DISPOSICIONES Y ACTOS
+			</h3>
+	 		<ol class = "subcategoria">
+			  									<div class = "disposicion">
+					  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																											Presidencia de la Junta <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1250.pdf&amp;tipo=rutaDocm" class = "new-window">Convenios. Resoluci&#243;n de 05/02/2021</a>, de la Secretar&#237;a General de la Presidencia, por la que se da publicidad a la pr&#243;rroga del convenio suscrito, con fecha de 28/11/2019, entre el Consejo de Transparencia y Buen Gobierno y la Vicepresidencia de la Junta de Comunidades de Castilla-La Mancha por el que se atribuye al consejo la competencia para la resoluci&#243;n de las reclamaciones previstas en el art&#237;culo 24 de la Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Informaci&#243;n P&#250;blica y Buen Gobierno. [NID 2021/1250]
+						</p>
+						<p class = "paginaDisposicion">
+							5504
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1250.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						239 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612530070131530308" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																											Consejería de Economía, Empresas y Empleo <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1194.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 05/02/2021</a>, de la Secretar&#237;a General, por la que se da publicidad a la Resoluci&#243;n de fecha 10/12/2020, por la que se resuelve el recurso de alzada n&#250;mero 333/2020-MGS. [NID 2021/1194]
+						</p>
+						<p class = "paginaDisposicion">
+							5507
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1194.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						211 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612513578320530145" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																											Consejería de Hacienda y Administraciones Públicas <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1236.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 14/01/2021</a>, de la Delegaci&#243;n Provincial de Hacienda y Administraciones P&#250;blicas de Guadalajara, por la que se acuerda publicar la resoluci&#243;n del procedimiento sancionador por infracci&#243;n en materia de festejos taurinos populares n&#250;mero 170/20. [NID 2021/1236]
+						</p>
+						<p class = "paginaDisposicion">
+							5508
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1236.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						212 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1610704366560560921" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1237.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 14/01/2021</a>, de la Delegaci&#243;n Provincial de Hacienda y Administraciones P&#250;blicas de Guadalajara, por la que se acuerda publicar la resoluci&#243;n del procedimiento sancionador por infracci&#243;n en materia de festejos taurinos populares n&#250;mero 321/20. [NID 2021/1237]
+						</p>
+						<p class = "paginaDisposicion">
+							5509
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1237.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						212 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1610704935400560931" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1238.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 14/01/2021</a>, de la Delegaci&#243;n Provincial de Hacienda y Administraciones P&#250;blicas de Guadalajara, por la que se acuerda publicar la resoluci&#243;n del procedimiento sancionador por infracci&#243;n en materia de festejos taurinos populares n&#250;mero 214/20. [NID 2021/1238]
+						</p>
+						<p class = "paginaDisposicion">
+							5510
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1238.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						212 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1610704538557560923" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1239.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 14/01/2021</a>, de la Delegaci&#243;n Provincial de Hacienda y Administraciones P&#250;blicas de Guadalajara, por la que se acuerda publicar la resoluci&#243;n del procedimiento sancionador por infracci&#243;n en materia de festejos taurinos populares n&#250;mero 302/20. [NID 2021/1239]
+						</p>
+						<p class = "paginaDisposicion">
+							5511
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1239.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						212 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1610704843824560929" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1240.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 14/01/2021</a>, de la Delegaci&#243;n Provincial de Hacienda y Administraciones P&#250;blicas de Guadalajara, por la que se acuerda publicar la resoluci&#243;n del procedimiento sancionador por infracci&#243;n en materia de festejos taurinos populares n&#250;mero 259/20. [NID 2021/1240]
+						</p>
+						<p class = "paginaDisposicion">
+							5512
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1240.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						212 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1610704728093560927" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1241.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 14/01/2021</a>, de la Delegaci&#243;n Provincial de Hacienda y Administraciones P&#250;blicas de Guadalajara, por la que se acuerda publicar la resoluci&#243;n del procedimiento sancionador por infracci&#243;n en materia de festejos taurinos populares n&#250;mero 253/20. [NID 2021/1241]
+						</p>
+						<p class = "paginaDisposicion">
+							5513
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1241.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						249 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1610704639705560925" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																											Consejería de Sanidad <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1215.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 02/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/747/2020 de fecha 28/12/2021. [NID 2021/1215]
+						</p>
+						<p class = "paginaDisposicion">
+							5514
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1215.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612254842965560448" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1221.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 02/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/731/2020 de fecha 05/01/2021. [NID 2021/1221]
+						</p>
+						<p class = "paginaDisposicion">
+							5515
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1221.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612255065482560456" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1226.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 03/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/981/2020 de fecha 20/01/2021. [NID 2021/1226]
+						</p>
+						<p class = "paginaDisposicion">
+							5516
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1226.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612350527501530816" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1207.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/829/2020 de fecha 18/01/2021. [NID 2021/1207]
+						</p>
+						<p class = "paginaDisposicion">
+							5517
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1207.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612438014986560029" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1208.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/900/2020 de fecha 18/01/2021. [NID 2021/1208]
+						</p>
+						<p class = "paginaDisposicion">
+							5518
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1208.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612431085426560958" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1209.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/725/2020 de fecha 23/12/2020. [NID 2021/1209]
+						</p>
+						<p class = "paginaDisposicion">
+							5519
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1209.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612430778408560952" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1210.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/824/2020 de fecha 18/01/2021. [NID 2021/1210]
+						</p>
+						<p class = "paginaDisposicion">
+							5520
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1210.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612438106940560032" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1211.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/813/2020 de fecha 12/01/2021. [NID 2021/1211]
+						</p>
+						<p class = "paginaDisposicion">
+							5521
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1211.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612438182925560035" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1212.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/805/2020 de fecha 12/01/2021. [NID 2021/1212]
+						</p>
+						<p class = "paginaDisposicion">
+							5522
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1212.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612430949878560956" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1213.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/1013/2020 de fecha 26/01/2021. [NID 2021/1213]
+						</p>
+						<p class = "paginaDisposicion">
+							5523
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1213.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612431151395560960" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1214.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/1281/2020 de fecha 18/01/2021. [NID 2021/1214]
+						</p>
+						<p class = "paginaDisposicion">
+							5524
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1214.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612431254396560962" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1219.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/1064/2020 de fecha 29/01/2021. [NID 2021/1219]
+						</p>
+						<p class = "paginaDisposicion">
+							5525
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1219.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						209 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612428437456560934" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1225.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/826/2020 de fecha 18/01/2021. [NID 2021/1225]
+						</p>
+						<p class = "paginaDisposicion">
+							5526
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1225.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612437927048560027" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1228.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/864/2020 de fecha 18/01/2021. [NID 2021/1228]
+						</p>
+						<p class = "paginaDisposicion">
+							5527
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1228.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						208 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612438265659560037" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1229.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/750/2020 de fecha 28/12/2020. [NID 2021/1229]
+						</p>
+						<p class = "paginaDisposicion">
+							5528
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1229.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						211 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612430887112560954" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1217.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 05/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/964/2020 de fecha 19/01/2021. [NID 2021/1217]
+						</p>
+						<p class = "paginaDisposicion">
+							5529
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1217.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612516047849560236" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1220.pdf&amp;tipo=rutaDocm" class = "new-window">Sanciones. Notificaci&#243;n de 05/02/2021</a>, de la Delegaci&#243;n Provincial de Sanidad de Guadalajara, por la que se da publicidad al acuerdo de iniciaci&#243;n de expediente sancionador por infracci&#243;n en materia de salud p&#250;blica n&#250;mero S19/1061/2020 de fecha 29/01/2021. [NID 2021/1220]
+						</p>
+						<p class = "paginaDisposicion">
+							5530
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1220.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612516505274560239" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																											Consejería de Agricultura, Agua y Desarrollo Rural <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1242.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 01/02/2021</a>, de la Secretar&#237;a General, por la que se procede a la publicaci&#243;n de la Resoluci&#243;n de la Consejer&#237;a de Agricultura, Agua y Desarrollo Rural, de 01/12/2020, reca&#237;da en el recurso de alzada 418/2020. [NID 2021/1242]
+						</p>
+						<p class = "paginaDisposicion">
+							5531
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1242.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						264 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612520569250530197" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1243.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 01/02/2021</a>, de la Secretar&#237;a General, por la que se procede a la publicaci&#243;n de la Resoluci&#243;n de la Consejer&#237;a de Agricultura, Agua y Desarrollo Rural, de 14/12/2020, reca&#237;da en el recurso de alzada 424/2020. [NID 2021/1243]
+						</p>
+						<p class = "paginaDisposicion">
+							5532
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1243.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						265 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612520829965530204" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1198.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 03/02/2021</a>, de la Secretar&#237;a General, por la que se publica el acto administrativo relativo al procedimiento de expropiaci&#243;n forzosa, tramitado en la Consejer&#237;a de Agricultura, Agua y Desarrollo Rural. [NID 2021/1198]
+						</p>
+						<p class = "paginaDisposicion">
+							5533
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1198.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612429476774530973" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1199.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 03/02/2021</a>, de la Secretar&#237;a General, por la que se publica el acto administrativo relativo al procedimiento de expropiaci&#243;n forzosa, tramitado en la Consejer&#237;a de Agricultura, Agua y Desarrollo Rural. [NID 2021/1199]
+						</p>
+						<p class = "paginaDisposicion">
+							5534
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1199.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612429313022530971" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1201.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 04/02/2021</a>, de la Secretar&#237;a General, por la que se publica el acto administrativo relativo al procedimiento de expropiaci&#243;n forzosa, tramitado en la Consejer&#237;a de Agricultura, Agua y Desarrollo Rural. [NID 2021/1201]
+						</p>
+						<p class = "paginaDisposicion">
+							5535
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1201.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						211 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612516422669530165" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1235.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 04/02/2021</a>, de la Secretar&#237;a General, por la que se publica el acto administrativo relativo al procedimiento de expropiaci&#243;n forzosa, tramitado en la Consejer&#237;a de Agricultura, Agua y Desarrollo Rural. [NID 2021/1235]
+						</p>
+						<p class = "paginaDisposicion">
+							5536
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1235.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						210 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612525855827530251" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1245.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 04/02/2021</a>, de la Secretar&#237;a General, por la que se publica el acto administrativo relativo al procedimiento de expropiaci&#243;n forzosa, tramitado en la Consejer&#237;a de Agricultura, Agua y Desarrollo Rural. [NID 2021/1245]
+						</p>
+						<p class = "paginaDisposicion">
+							5537
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1245.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						250 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612527629069530265" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1246.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 04/02/2021</a>, de la Secretar&#237;a General, por la que se publica el acto administrativo relativo al procedimiento de expropiaci&#243;n forzosa, tramitado en la Consejer&#237;a de Agricultura, Agua y Desarrollo Rural. [NID 2021/1246]
+						</p>
+						<p class = "paginaDisposicion">
+							5538
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1246.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						212 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612527846603530271" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1247.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 04/02/2021</a>, de la Secretar&#237;a General, por la que se publica el acto administrativo relativo al procedimiento de expropiaci&#243;n forzosa, tramitado en la Consejer&#237;a de Agricultura, Agua y Desarrollo Rural. [NID 2021/1247]
+						</p>
+						<p class = "paginaDisposicion">
+							5539
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1247.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						212 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612527915572530276" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1197.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Agricultura, Agua y Desarrollo Rural de Ciudad Real, por la que se acuerda dar publicidad a los procedimientos de conversi&#243;n de derechos de plantaci&#243;n de vi&#241;edo en autorizaci&#243;n de plantaci&#243;n, al no haberse podido practicar la notificaci&#243;n personal en el &#250;ltimo domicilio conocido. (Expedientes VC-2020-13-804-0654 y VC-2020-13-804-0719). [NID 2021/1197]
+						</p>
+						<p class = "paginaDisposicion">
+							5540
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1197.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						264 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612427494216560928" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1216.pdf&amp;tipo=rutaDocm" class = "new-window">Notificaciones. Notificaci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Agricultura, Agua y Desarrollo Rural de Cuenca, de la Resoluci&#243;n de fecha 06/11/2020 para comunicar la baja en el Registro de Explotaciones Ganaderas de Castilla-La Mancha. [NID 2021/1216]
+						</p>
+						<p class = "paginaDisposicion">
+							5541
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1216.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						250 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612432959616530008" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																											Consejería de Fomento <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1244.pdf&amp;tipo=rutaDocm" class = "new-window">Pruebas de Aptitud. Resoluci&#243;n de 04/02/2021</a>, de la Direcci&#243;n General de Transportes y Movilidad, por la que se determina la composici&#243;n del tribunal calificador de las pruebas de competencia profesional para el transporte interior e internacional de mercanc&#237;as y viajeros convocadas por Resoluci&#243;n de 18/01/2021 (DOCM n&#250;mero 16 de 26/01/2020). [NID 2021/1244]
+						</p>
+						<p class = "paginaDisposicion">
+							5542
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1244.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						254 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612524972282560307" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																											Consejería de Desarrollo Sostenible <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1188.pdf&amp;tipo=rutaDocm" class = "new-window">Convenios. Resoluci&#243;n de 02/02/2021</a>, de la Secretar&#237;a General, por la que se dispone la publicaci&#243;n del convenio de colaboraci&#243;n entre la Consejer&#237;a de Desarrollo Sostenible y la Diputaci&#243;n Provincial de Cuenca, para la mejora de la recogida y tratamiento de biorresiduos. [NID 2021/1188]
+						</p>
+						<p class = "paginaDisposicion">
+							5543
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1188.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						249 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612507256866560132" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1190.pdf&amp;tipo=rutaDocm" class = "new-window">Vías Pecuarias. Resoluci&#243;n de 02/02/2021</a>, de la Direcci&#243;n General de Medio Natural y Biodiversidad, por la que se aprueba la ocupaci&#243;n de terrenos en la v&#237;a pecuaria denominada Vereda del Camino de Yunquera o del Camino de Fontanar, en el t&#233;rmino municipal de Heras de Ayuso, provincia de Guadalajara, con destino a conducci&#243;n el&#233;ctrica subterr&#225;nea incluido armario auxiliar, cuyo beneficiario es F&#233;lix Marcos Mart&#237;nez. [NID 2021/1190]
+						</p>
+						<p class = "paginaDisposicion">
+							5548
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1190.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						293 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612355285146560809" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1191.pdf&amp;tipo=rutaDocm" class = "new-window">Vías Pecuarias. Resoluci&#243;n de 02/02/2021</a>, de la Direcci&#243;n General de Medio Natural y Biodiversidad, por la que se aprueba la ocupaci&#243;n de terrenos en la v&#237;a pecuaria denominada Ca&#241;ada Real Segoviana, en el t&#233;rmino municipal de Almod&#243;var del Campo, provincia de Ciudad Real, con destino a una cancela con paso canadiense y cerramiento m&#243;vil, cuya beneficiaria es &#193;ngeles Zamora Cendrero. [NID 2021/1191]
+						</p>
+						<p class = "paginaDisposicion">
+							5552
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1191.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						295 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612354534094560800" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1232.pdf&amp;tipo=rutaDocm" class = "new-window">Aguas. Resoluci&#243;n de 22/12/2020</a>, de la Direcci&#243;n General de Transici&#243;n Energ&#233;tica, por la que se otorga la concesi&#243;n de aprovechamiento de aguas minero-industriales Salinas de Im&#243;n, n&#250;mero 2608, de la provincia de Guadalajara. [NID 2021/1232]
+						</p>
+						<p class = "paginaDisposicion">
+							5556
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1232.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						232 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612442166453530068" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1331.pdf&amp;tipo=rutaDocm" class = "new-window">Ayudas y Subvenciones. Resoluci&#243;n de 05/02/2021</a>, de la Direcci&#243;n General de Agenda 2030 y Consumo, por la que se publica el cr&#233;dito disponible para atender las obligaciones de contenido econ&#243;mico derivadas del programa de concesi&#243;n directa de ayudas destinada a paliar la pobreza energ&#233;tica en consumidores vulnerables, en lo que respecta a energ&#237;a destinada a calefacci&#243;n, agua caliente sanitaria o cocina, denominado Bono Social T&#233;rmico. [NID 2021/1331]
+						</p>
+						<p class = "paginaDisposicion">
+							5559
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1331.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						231 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612887944499530642" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1192.pdf&amp;tipo=rutaDocm" class = "new-window">Medio Ambiente. Resoluci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Desarrollo Sostenible de Toledo, por la que se formula informe de impacto ambiental del proyecto: Planta solar fotovoltaica Villaca&#241;as 3 MW e infraestructura de evacuaci&#243;n (expediente PRO-TO-20-2548), situado en el t&#233;rmino municipal de Villaca&#241;as (Toledo), cuya promotora es Circle Energy Escudo, SL. [NID 2021/1192]
+						</p>
+						<p class = "paginaDisposicion">
+							5561
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1192.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						1018 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612511584888530129" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1193.pdf&amp;tipo=rutaDocm" class = "new-window">Instalaciones Eléctricas. Resoluci&#243;n de 04/02/2021</a>, de la Delegaci&#243;n Provincial de Desarrollo Sostenible de Toledo, de autorizaci&#243;n administrativa previa y autorizaci&#243;n administrativa de construcci&#243;n de instalaci&#243;n el&#233;ctrica de alta tensi&#243;n con n&#250;mero de expediente: E-14806 corresponde I. [NID 2021/1193]
+						</p>
+						<p class = "paginaDisposicion">
+							5578
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1193.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						232 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612447906559560106" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  					</div>
+				</li>
+			   			</ol>
+		</div>
+			<div class = "categoriaDiario">
+			<h3 class = "cabeceraCategoria">
+					IV.- ADMINISTRACIÓN DE JUSTICIA
+			</h3>
+	 		<ol class = "subcategoria">
+			  									<div class = "disposicion">
+					  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																									   		Juzgado de Primera Instancia e Instrucción Número Dos de Torrijos (Toledo) <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_916.pdf&amp;tipo=rutaDocm" class = "new-window"> Procedimiento Ordinario 3/2019.</a> [NID 2021/916]
+						</p>
+						<p class = "paginaDisposicion">
+							5580
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_916.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						213 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1611912958910530255" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  					</div>
+				</li>
+			   			</ol>
+		</div>
+			<div class = "categoriaDiario">
+			<h3 class = "cabeceraCategoria">
+					V.- ANUNCIOS
+			</h3>
+	 		<ol class = "subcategoria">
+			  									<li>CONTRATACIÓN Y LICITACIONES PÚBLICAS
+			    					<div class = "disposicion">
+					  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																											Consejería de Hacienda y Administraciones Públicas <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1252.pdf&amp;tipo=rutaDocm" class = "new-window"> Resoluci&#243;n de 05/02/2021</a>, de la Secretar&#237;a General de Hacienda y Administraciones P&#250;blicas, por la que se hace p&#250;blica la declaraci&#243;n de desierta del contrato que tiene por objeto el servicio de apoyo y asistencia psicosocial a v&#237;ctimas, familiares y grupos operativos en situaciones de urgencia, emergencia, crisis y cat&#225;strofes que se produzcan en Castilla-La Mancha. [NID 2021/1252]
+						</p>
+						<p class = "paginaDisposicion">
+							5581
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1252.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						221 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612528467632560360" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																											Servicio de Salud de Castilla-La Mancha (Sescam) <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1251.pdf&amp;tipo=rutaDocm" class = "new-window"> Resoluci&#243;n de 01/02/2021</a>, de la Gerencia de Atenci&#243;n Integrada de Almansa (Albacete), por la que se anuncia la formalizaci&#243;n del contrato de suministro de ropa de cama. Expediente 2020/015148. [NID 2021/1251]
+						</p>
+						<p class = "paginaDisposicion">
+							5582
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1251.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						219 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612531571150530317" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  					</div>
+				</li>
+			   									<li>OTROS ANUNCIOS OFICIALES
+			    					<div class = "disposicion">
+					  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																											Consejería de Desarrollo Sostenible <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2020_9739.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 17/11/2020</a>, de la Delegaci&#243;n Provincial de Desarrollo Sostenible de Albacete, por el que se ordena la publicaci&#243;n de solicitud de ocupaci&#243;n temporal de terrenos en el monte 99 del CUP de la provincia de Albacete, denominado Muelas de Carcel&#233;n, perteneciente al Ayuntamiento de Carcel&#233;n, para la regularizaci&#243;n de un emplazamiento de radiocomunicaciones ubicado en la parcela 77 del pol&#237;gono 9 de Carcel&#233;n, cuyo peticionario es Telxius Torres Espa&#241;a, SLU. [NID 2020/9739]
+						</p>
+						<p class = "paginaDisposicion">
+							5583
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2020_9739.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						214 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1605691089039220633" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_553.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 14/01/2021</a>, de la Delegaci&#243;n Provincial de Desarrollo Sostenible de Ciudad Real, por el que se somete a informaci&#243;n p&#250;blica la solicitud de autorizaci&#243;n administrativa previa, as&#237; como el proyecto y estudio de impacto ambiental de la planta de energ&#237;a solar fotovoltaica denominada La Solana 1 e infraestructura de evacuaci&#243;n, promovida por Ingenes Solar, SL (n&#250;mero de expediente 13270209211). [NID 2021/553]
+						</p>
+						<p class = "paginaDisposicion">
+							5584
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_553.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						173 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1611058474956560857" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_554.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 14/01/2021</a>, de la Delegaci&#243;n Provincial de Desarrollo Sostenible de Ciudad Real, por el que se somete a informaci&#243;n p&#250;blica la solicitud de autorizaci&#243;n administrativa previa, as&#237; como el proyecto y estudio de impacto ambiental de la planta de energ&#237;a solar fotovoltaica denominada La Solana 2 e infraestructura de evacuaci&#243;n, Dacio Solar, SL (n&#250;mero de expediente 13270209212). [NID 2021/554]
+						</p>
+						<p class = "paginaDisposicion">
+							5585
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_554.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						170 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1611058807755560867" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_555.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 15/01/2021</a>, de la Delegaci&#243;n Provincial de Desarrollo Sostenible de Ciudad Real, por el que se somete a informaci&#243;n p&#250;blica la solicitud de autorizaci&#243;n administrativa previa y autorizaci&#243;n administrativa de construcci&#243;n, as&#237; como del estudio de impacto ambiental, de la instalaci&#243;n de generaci&#243;n el&#233;ctrica fotovoltaica FV Brazoinves I e infraestructuras de evacuaci&#243;n asociadas, promovida por Campana Energy SL (expediente 13270209207). [NID 2021/555]
+						</p>
+						<p class = "paginaDisposicion">
+							5586
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_555.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						170 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1611051518834560754" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_556.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 15/01/2021</a>, de la Delegaci&#243;n Provincial de Desarrollo Sostenible de Ciudad Real, por el que se somete a informaci&#243;n p&#250;blica la solicitud de autorizaci&#243;n administrativa previa, as&#237; como el proyecto y estudio de impacto ambiental de la planta de energ&#237;a solar fotovoltaica denominada PSFV Bluesol 2, promovida por Blue Energy Sun SL (n&#250;mero de expediente 13270209205). [NID 2021/556]
+						</p>
+						<p class = "paginaDisposicion">
+							5587
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_556.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						227 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1611051285535560750" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_558.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 15/01/2021</a>, de la Delegaci&#243;n Provincial de Desarrollo Sostenible de Ciudad Real, por el que se somete a informaci&#243;n p&#250;blica la solicitud de autorizaci&#243;n administrativa previa, as&#237; como el proyecto y estudio de impacto ambiental de la planta de energ&#237;a solar fotovoltaica denominada PSFV Bluesol 1 promovida por Blue Energy Sun SL (n&#250;mero de expediente 13270209204). [NID 2021/558]
+						</p>
+						<p class = "paginaDisposicion">
+							5588
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_558.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						230 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1611050914424560745" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1085.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 01/02/2021</a>, de la Delegaci&#243;n Provincial de Desarrollo Sostenible de Toledo, sobre informaci&#243;n p&#250;blica para autorizaci&#243;n administrativa previa de instalaci&#243;n el&#233;ctrica. Referencia: E-45240222168. [NID 2021/1085]
+						</p>
+						<p class = "paginaDisposicion">
+							5589
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1085.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						169 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612255722301530589" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  					</div>
+				</li>
+			   									<li>ADMINISTRACIÓN LOCAL
+			    					<div class = "disposicion">
+					  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																									   		Ayuntamiento de Bargas (Toledo) <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_933.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 31/01/2021</a>, del Ayuntamiento de Bargas (Toledo), sobre informaci&#243;n p&#250;blica de la solicitud de calificaci&#243;n y de licencia urban&#237;stica para la ejecuci&#243;n de nave para separaci&#243;n de l&#237;neas de matanza y procesado en matadero de aves, emplazada en la CM-4003 - km 12. [NID 2021/933]
+						</p>
+						<p class = "paginaDisposicion">
+							5590
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_933.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						217 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612167055376560170" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																									   		Ayuntamiento de Bolaños de Calatrava (Ciudad Real) <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_782.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 22/01/2021</a>, del Ayuntamiento de Bola&#241;os de Calatrava (Ciudad Real), sobre informaci&#243;n p&#250;blica del Proyecto de Reparcelaci&#243;n del Programa de Actuaci&#243;n Urbanizadora del sector 5 Los Calares. [NID 2021/782]
+						</p>
+						<p class = "paginaDisposicion">
+							5591
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_782.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						223 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1611644986249530766" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																									   		Ayuntamiento de Corral de Calatrava (Ciudad Real) <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1120.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 03/02/2021</a>, del Ayuntamiento de Corral de Calatrava (Ciudad Real), sobre concesi&#243;n de licencia urban&#237;stica de obras para el vallado de la parcela 29 del pol&#237;gono 14. [NID 2021/1120]
+						</p>
+						<p class = "paginaDisposicion">
+							5592
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1120.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						162 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612354832009530847" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																									   		Ayuntamiento de La Gineta (Albacete) <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_984.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 29/01/2021</a>, del Ayuntamiento de La Gineta (Albacete), sobre informaci&#243;n p&#250;blica de solicitud de calificaci&#243;n y licencias urban&#237;sticas para instalaci&#243;n de planta solar de 590 KWp conectada a red, en terrenos ubicados en la parcela 10207, del pol&#237;gono 2. [NID 2021/984]
+						</p>
+						<p class = "paginaDisposicion">
+							5593
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_984.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						255 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612184533204530509" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																									   		Ayuntamiento de Pedro Muñoz (Ciudad Real) <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1111.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 03/02/2021</a>, del Ayuntamiento de Pedro Mu&#241;oz (Ciudad Real), sobre informaci&#243;n p&#250;blica de la aprobaci&#243;n inicial de la propuesta de convenio urban&#237;stico formulada para regular la Modificaci&#243;n Puntual del Plan de Ordenaci&#243;n Municipal vigente para posibilitar la eliminaci&#243;n de un viario previsto entre la calle Catalu&#241;a y la avenida Juan Carlos I. [NID 2021/1111]
+						</p>
+						<p class = "paginaDisposicion">
+							5594
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1111.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						258 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612350513397560766" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																									   		Ayuntamiento de Pozohondo (Albacete) <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1122.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 01/02/2021</a>, del Ayuntamiento de Pozohondo (Albacete), sobre exhumaci&#243;n y reinhumaci&#243;n de restos cadav&#233;ricos del cementerio municipal. [NID 2021/1122]
+						</p>
+						<p class = "paginaDisposicion">
+							5595
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1122.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						215 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612355200848560807" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																									   		Ayuntamiento de La Villa de Don Fadrique (Toledo) <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1154.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 29/01/2021</a>, del Ayuntamiento de La Villa de Don Fadrique (Toledo), sobre informaci&#243;n p&#250;blica de solicitud de calificaci&#243;n urban&#237;stica y licencia de obras en suelo r&#250;stico para centro de transformaci&#243;n a&#233;reo de 50 kVA en el pol&#237;gono 14, parcela 129. [NID 2021/1154]
+						</p>
+						<p class = "paginaDisposicion">
+							5596
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1154.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						214 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612434985232560990" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  					</div>
+				</li>
+			   									<li>ANUNCIOS PARTICULARES
+			    					<div class = "disposicion">
+					  						<div class = "organismo">
+							<h4 class = "tituloOrganismo">
+																									   		Empresa Pública Gestión Ambiental de Castilla-La Mancha, SA (Geacam) <br/>
+																								</h4>
+						</div>
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1202.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 05/02/2021</a>, de la Empresa P&#250;blica Gesti&#243;n Ambiental de Castilla-La Mancha, SA (Geacam), por el que se hace p&#250;blica la formalizaci&#243;n del contrato correspondiente a las: Obras de adecuaci&#243;n de base de ret&#233;n en Almorox (Toledo). Expediente n&#250;mero: 103-TT-0-038-20/OB09. [NID 2021/1202]
+						</p>
+						<p class = "paginaDisposicion">
+							5597
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1202.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						223 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612517034621560244" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1203.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 05/02/2021</a>, de la Empresa P&#250;blica Gesti&#243;n Ambiental de Castilla-La Mancha, SA (Geacam), por el que se hace p&#250;blica la formalizaci&#243;n del contrato correspondiente a las: Obras de adecuaci&#243;n de edificio para base del ret&#233;n de Ruidera, t&#233;rmino municipal de Ruidera (Ciudad Real). Expediente n&#250;mero: 103-TT-0-038-20/OB06. [NID 2021/1203]
+						</p>
+						<p class = "paginaDisposicion">
+							5598
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1203.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						264 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612517680766560247" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+													
+																					
+																																				<p class = "sumario">
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1205.pdf&amp;tipo=rutaDocm" class = "new-window"> Anuncio de 05/02/2021</a>, de la Empresa P&#250;blica Gesti&#243;n Ambiental de Castilla-La Mancha, SA (Geacam), por el que se hace p&#250;blica la formalizaci&#243;n del contrato correspondiente a las: Obras de adecuaci&#243;n de base de ret&#233;n en La Guardia (Toledo). Expediente n&#250;mero: 103-TT-0-038-20/OB08. [NID 2021/1205]
+						</p>
+						<p class = "paginaDisposicion">
+							5599
+						</p>
+						<div>
+							<a href="./descargarArchivo.do?ruta=2021/02/12/pdf/2021_1205.pdf&amp;tipo=rutaDocm" class = "new-window">	
+								<input type="image" src="./images/pdf-completo.gif" alt = "pdf &gt;"  />
+							</a>
+						221 KB
+						&nbsp;[<a href="./detalleDocumento.do?idDisposicion=1612518959212560253" title="Ver los datos detallados del documento">Ver detalle</a>]
+						</div>
+						
+							
+						
+											  					</div>
+				</li>
+			   			</ol>
+		</div>
+		
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom">
+							&nbsp;
+						</td>
+					</tr>
+					<tr id = "pie">
+						<td colspan="3">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="section-footer" class="section section-footer">
+	<div id="zone-pie" class="zone zone-pie clearfix container-16" align="center">
+		<div id="region-pie-primera" class="grid-12 suffix-1 region region-pie-segunda" align="center">
+			<ul class="menu">
+				<li class="">
+					<a href="https://www.castillalamancha.es/certificados" target="_blank" title="Ir a la página de certificaciones">
+						<img class="imgFooter1" src="/portaldocm/images/certificaciones.png" alt="Ir a la página de certificaciones"/>
+					</a>
+				</li>
+				<li class="">
+					<a href="http://pagina.jccm.es/fondosestructurales/inicio/" target="_blank" title="FEDER">
+						<img class="imgFooter2" src="/portaldocm/images/feder.gif" alt="FEDER"/>
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div id="region-pie-segunda" class="grid-12 suffix-1 region region-pie-segunda" align="center">
+			<ul class="menu">
+				<li class="first leaf">
+					<a href="http://www.w3.org/WAI/WCAG1AA-Conformance" title="W3C-WAII" target="_blank">W3C-WAII</a>
+				</li>
+				<li class="leaf">
+					<a href="https://www.castillalamancha.es/protecciondedatos" target="_blank" title="Protección de datos">Protección de datos</a>
+				</li>
+				<li class="first leaf">
+					<a href="https://www.castillalamancha.es/clm/instituciones" target="_blank" title="Abrir la página de Otras instituciones">Otras instituciones</a>
+				</li>
+				<li class="leaf">
+					<a href="https://www.castillalamancha.es/sitemap" target="_blank" title="Abrir la página de Mapa del sitio">Mapa del sitio</a>
+				</li>
+				<li class="first leaf">
+					<a href="https://webmail.jccm.es/" target="_blank" title="Abrir la página de Correo web">Correo web</a>
+				</li>
+				<li class="first leaf">
+					<a href="https://www.castillalamancha.es/avisolegal" target="_blank" title="Abrir la página de Aviso legal">Aviso Legal</a>
+				</li>
+				<li class="leaf">
+					<a href="https://www.castillalamancha.es/accesibilidad" target="_blank" title="Abrir la página de Accesibilidad">Accesibilidad</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+						</td>
+					</tr>
+				</table>
+			</div><!-- // Content -->
+		</div><!-- //Container -->
+		<!-- Piwik -->
+		<script type="text/javascript">
+		  var _paq = _paq || [];
+		  _paq.push(["trackPageView"]);
+		  _paq.push(["enableLinkTracking"]);
+		
+		  (function() {
+		    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.jccm.es/";
+		    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+		    _paq.push(["setSiteId", "22"]);
+		    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+		    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+		  })();
+		</script>
+		<!-- End Piwik Code -->
+	
+	</body>
+	
+				
+</html>
