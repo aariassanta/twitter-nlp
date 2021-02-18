@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210215085602">
+  <metadatos>
+    <identificador>BOE-A-2021-2170</identificador>
+    <titulo>Corrección de errores de la Ley 3/2020, de 30 de diciembre, de Presupuestos Generales para 2021.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>39</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="8150">Comunidad Autónoma del Principado de Asturias</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20201230</fecha_disposicion>
+    <fecha_publicacion>20210215</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>16868</pagina_inicial>
+    <pagina_final>16868</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="2">Autonómico</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-2170</url_epub>
+    <url_pdf>/boe/dias/2021/02/15/pdfs/BOE-A-2021-2170.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="379" orden="">Asturias</materia>
+      <materia codigo="4558" orden="">Juego</materia>
+      <materia codigo="5685" orden="">Presupuestos de las Comunidades Autónomas</materia>
+      <materia codigo="6836" orden="">Tasas</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="127" orden="">Sistema financiero</alerta>
+      <alerta codigo="128" orden="">Sistema tributario</alerta>
+    </alertas>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Advertido error en la publicación de la Ley del Principado de Asturias 3/2020, de 30 de diciembre, de Presupuestos Generales para 2021 (BOE número 19, de 22 de enero de 2021), se procede a su rectificación en el siguiente sentido:</p>
+    <p class="parrafo_2">En la disposición adicional undécima, párrafo primero,</p>
+    <p class="parrafo_2">Donde dice:</p>
+    <p class="parrafo_2">«Durante el ejercicio 2021, la liquidación y pago de la tasa fiscal sobre los juegos de suerte, envite o azar, en la modalidad de máquinas regulada en el artículo 42 de la Sección 1.ª “Tasa fiscal sobre los juegos de suerte, envite o azar” del capítulo V “Tributos sobre el juego”<em> </em>del texto refundido de las disposiciones legales del Principado de Asturias en materia de tributos propios, aprobado por Decreto Legislativo 1/2014, de 23 de julio, se efectuará en los siguientes términos:»</p>
+    <p class="parrafo_2">Debe decir:</p>
+    <p class="parrafo_2">«Durante el ejercicio 2021, la liquidación y pago de la tasa fiscal sobre los juegos de suerte, envite o azar, en la modalidad de máquinas regulada en el artículo 42 de la Sección 1.ª “Tasa fiscal sobre los juegos de suerte, envite o azar” del Capítulo V “Tributos sobre el Juego”, del Título I del Texto Refundido de las disposiciones legales del Principado de Asturias en materia de tributos cedidos por el Estado, aprobado por Decreto Legislativo 2/2014, de 22 de octubre, se efectuará en los siguientes términos:»</p>
+  </texto>
+</documento>

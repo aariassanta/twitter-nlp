@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210217082601">
+  <metadatos>
+    <identificador>BOE-A-2021-2393</identificador>
+    <titulo>Enmienda adoptada en Ginebra el 12 de marzo de 2019, al Anexo IV del Acuerdo relativo a la adopción de reglamentos técnicos armonizados de las Naciones Unidas aplicables a los vehículos de ruedas y los equipos y piezas que puedan montarse o utilizarse en estos, y sobre las condiciones de reconocimiento recíproco de las homologaciones concedidas conforme a dichos reglamentos de las Naciones Unidas, hecho en Ginebra el 20 de marzo de 1958.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>41</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="9562">Ministerio de Asuntos Exteriores, Unión Europea y Cooperación</departamento>
+    <rango codigo="1180">Acuerdo Internacional</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20190312</fecha_disposicion>
+    <fecha_publicacion>20210217</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>18153</pagina_inicial>
+    <pagina_final>18153</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-2393</url_epub>
+    <url_pdf>/boe/dias/2021/02/17/pdfs/BOE-A-2021-2393.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="71" orden="">Acuerdos internacionales</materia>
+      <materia codigo="5595" orden="">Comisión Económica para Europa de las Naciones Unidas CEPE</materia>
+      <materia codigo="388" orden="">Componentes de vehículos</materia>
+      <materia codigo="4020" orden="">Homologación</materia>
+      <materia codigo="7116" orden="">Vehículos de motor</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="123" orden="">Relaciones internacionales</alerta>
+      <alerta codigo="129" orden="">Tecnología e investigación</alerta>
+      <alerta codigo="132" orden="">Transportes y tráfico</alerta>
+    </alertas>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="centro_redonda">MODIFICACIÓN DEL ANEXO 4 DEL ACUERDO DE 1958</p>
+    <p class="parrafo_2">El apartado 3 del anexo 4 (Numeración de las homologaciones de tipo de las Naciones Unidas) se modifica como sigue:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«3. Se asignará un número de homologación … irá separada por el carácter "*".</p>
+      <p class="parrafo_2">3.1 Para todos los Reglamentos de las Naciones Unidas, excepto el Reglamento n.º 0 de las Naciones Unidas sobre disposiciones uniformes relativas a la homologación de tipo internacional de vehículo entero, las secciones se definirán como sigue:</p>
+      <p class="parrafo_2">Sección 1: Letra "E" mayúscula …</p>
+      <p class="parrafo">…</p>
+      <p class="parrafo_2">Sección 3: Una secuencia numérica de entre cuatro y seis dígitos (con ceros delante si es necesario). El número 0001 iniciará la secuencia.</p>
+      <p class="parrafo">…</p>
+      <p class="parrafo_2">Todos los dígitos serán dígitos arábigos.</p>
+      <p class="parrafo_2">3.2 Las secciones del número de homologación de tipo internacional de vehículo entero se definen en el Reglamento n.º 0 de las Naciones Unidas.»</p>
+    </blockquote>
+    <p class="centro_redonda">* * *</p>
+    <p class="parrafo_2">La presente Enmienda entró en vigor de forma general y para España el 6 de marzo de 2020.</p>
+    <p class="parrafo_2">Madrid, 4 de febrero de 2021.–El Secretario General Técnico, José María Muriel Palomino.</p>
+  </texto>
+</documento>

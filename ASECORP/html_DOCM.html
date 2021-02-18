@@ -1,156 +1,128 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Parámetro indicando si se ha cambiado el mes desde el combo de meses -->
-
-
-
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es">
+<!DOCTYPE html>
+<html lang="es" class="no-js" xml:lang="es">
 
 <head>
+    <meta charset="utf-8">
 
-
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
-
-    <title>
-        DOCM. Diario Oficial Castilla - La Mancha
-    </title>
-
-
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <!-- HTTP 1.1 -->
-    <meta http-equiv="Cache-Control" content="no-store" />
-    <!-- HTTP 1.0 -->
-    <meta http-equiv="Pragma" content="no-cache" />
-    <!-- Prevents caching at the Proxy Server -->
-    <meta http-equiv="Expires" content="0" />
-    <!-- internet explorer effects -->
-    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.4)" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 
 
 
-    <link rel="icon" href="/portaldocm/images/favicon.ico" />
 
-    <meta name="AUTHOR" content="Junta de Castilla - La Mancha. Portal" />
-
-    <meta name="KEYWORDS"
-        content="Base de Datos. Boletín Oficial. Legislación autonómica. DOCM. Diario Oficial Castilla - La Mancha. Regulación. Suscripción. Venta. Publicación de documentos. Diario Oficial. Comunidad de Castilla-La Mancha. Legislación de Castilla-La Mancha. Disposiciones de Castilla-La Mancha. Leyes de Castilla La-Mancha. Normas de Castilla La-Mancha. DOCM" />
-
-    <meta name="DESCRIPTION"
-        content="Base de datos del DOCM (Diario Oficial Castilla - La Mancha) que contiene todos los documentos publicados en el boletín oficial. " />
-
-    <meta name="LANGUAGE" content="Castellano" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 
-    <link rel="stylesheet" type="text/css" media="all" href="/portaldocm/css/css-common.css?version=1.4" />
-    <link rel="stylesheet" type="text/css" media="all" href="/portaldocm/css/jccm_pie.css" />
-    <link rel="stylesheet" type="text/css" media="all" href="/portaldocm/css/portal.css?version=1.4" />
-    <!--[if IE]>
-			<link rel="stylesheet" type="text/css" media="all" href="/portaldocm/css/css-common.css" />
-		<![endif]-->
+    <script src="https://ec.europa.eu/wel/cookie-consent/consent.js" type="text/javascript"></script>
 
-    <link rel="stylesheet" type="text/css" href="/portaldocm/css/calendarioBoletines.css?version=1.4" />
-    <link rel="stylesheet" type="text/css" media="print" href="/portaldocm/css/portalPrint.css" />
-    <link rel="stylesheet" type="text/css" media="print" href="/portaldocm/css/css-common.css?version=1.4" />
+    <script type="text/javascript" src="./../revamp/components/vendor/modernizr/modernizr.js?v=2.7.3"></script>
 
-    <script type="text/javascript" src="/portaldocm/scripts/prototype.js"></script>
-    <script type="text/javascript" src="//accesible-docm.castillalamancha.es/i4tservice/jscm_loader.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <title>Diario Oficial de la Unión Europea - EUR-Lex</title>
+    <meta name="DCSext.pagination" content="1" />
+    <meta name="WT.cg_n" content="Official Journal of the European Union" />
+    <meta name="WT.cg_s" content="Direct access to the Official Journal" />
+    <meta name="WT.z_usr_lan" content="es" />
+    <meta name="WT.seg_1" content="Unregistered" />
+    <script type="text/javascript">function sendDcsMultiTrack() { }</script>
+
+
+
+    <meta name="google-site-verification" content="hl-zFNRVYTzOJ4xGdc2Wl9h6Ezs9rbbdMgFYLFvx6cA" />
+    <meta name="msvalidate.01" content="6F74BA769F6140EC354DF6BE33F86005" />
+
+    <meta name="format-detection" content="telephone=no" />
+
+    <meta name="war-version" content="2.7.3" />
+    <meta name="fo-db-version" content="2.7.3" />
+    <meta name="sl-api-version" content="3.7.2" />
+
+
+    <link rel="stylesheet" media="all" href="./../revamp/components/vendor/bootstrap/dist/css/bootstrap.css?v=2.7.3">
+
+    <link rel="stylesheet" media="all"
+        href="./../revamp/components/vendor/font-awesome/css/font-awesome.min.css?v=2.7.3">
+    <link rel="stylesheet" media="all" href="./../revamp/components/vendor/roboto/roboto.css?v=2.7.3">
+    <link rel="stylesheet" media="all" href="./../revamp/css/eurlex.css?v=2.7.3">
+    <link rel="stylesheet" media="all" href="./../revamp/css/eurlex-dev.css?v=2.7.3">
+
+
+
+    <link rel="stylesheet" media="all" href="./../css/eurlex-xml-editorial-content.css?t=1608052445000">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="stylesheet" media="print" href="./../css/eurlex-print.css?t=1608052448000">
+
+
+
+
+    <script>(function (w, d, u) { w.readyQ = []; w.bindReadyQ = []; function p(x, y) { if (x == "ready") { w.bindReadyQ.push(y); } else { w.readyQ.push(x); } }; var a = { ready: p, bind: p }; w.$ = w.jQuery = function (f) { if (f === d || f === u) { return a } else { p(f) } } })(window, document)</script>
+
+    <script type="text/javascript" src="./../dynamic-js/labels_es.js?v=2.7.3"></script>
+
+    <script type="text/javascript" src="./../dynamic-js/WT_labels_es.js?v=2.7.3"></script>
+    <script type="text/javascript" src="./../dynamic-js/config.js?v=2.7.3"></script>
+    <script type="text/javascript" src="./../dynamic-js/const.js?v=2.7.3"></script>
+
+    <script type="text/javascript" src="./../dynamic-js/paths.js?requestURL=%2Foj%2Fdirect-access.html"></script>
+
 
     <script type="text/javascript">
-
-        var cambioMes = 'no';
-        function init() {
-
-            if ($('calendario')) {
-
-                var browserName = navigator.appName;
-
-                if (browserName == "Microsoft Internet Explorer") {
-                    $('calendario').style.display = "block";
-                }
-                else {
-                    $('calendario').style.display = "table";
-                }
-            }
-
-            if ($('buscaFecha')) {
-                $('buscaFecha').hide();
-            }
-
-            $("botonImprimir").style.visibility = "visible";
-
-            //Si se ha cambiado el mes desde el combo de meses, se le pone el foco a este para que
-            //pueda seguir seleccionando meses con las flechas del cursor
-            if (cambioMes == 'si') {
-                document.getElementById('mes').focus();
-            }
-
-        }
-
-        function resizeMenu() {
-
-            if (navigator.appName.indexOf("Explorer") != -1) {
-
-                var alturaMenu = $("menu").clientHeight;
-                $("tablaMenu").style.height = alturaMenu - $("menu").offsetTop - $("filaCalendario").clientHeight;
-            }
-        }
-
-        function tunearLinks() {
-            var links = document.getElementsByTagName('a');
-
-            for (var i = 0; i < links.length; i++) {
-                if (links[i].className.indexOf('new-window') != -1) {
-                    links[i].onclick = function () {
-                        window.open(this.href);
-                        return false;
-                    };
-
-                    links[i].onkeypress = function () {
-                        window.open(this.href);
-                        return false;
-                    };
-                }
-            }
-
-            links = document.getElementsByTagName('form');
-
-            for (var i = 0; i < links.length; i++) {
-                if (links[i].className == 'new-window') {
-
-                    links[i].target = "_blank";
-                }
-            }
-        };
-
-        function limpiar() {
-            if ($F("textoBusqueda") == "Buscar...") {
-                $("textoBusqueda").setValue("");
-            }
-        }
-
+        var legislativeUrl = 'http://old.eur-lex.europa.eu/es/techleg/index.htm';
+        var eurovocUrl = 'http://eurovoc.europa.eu/drupal/?q=es/node';
+        var interStyleGuideUrl = 'http://publications.europa.eu/code/es/es-000100.htm';
+        var sessionExpired = false;
+        var pageUrl = '/oj/direct-access.html';
+        var queryString = 'locale=es';
+        var sessionTimeout = '900000';
     </script>
 
+    <!-- [if lt IE 9]>
+        <script src="js/html5shiv.min.js"></script>
+        <script src="js/respond.min.js"></script>
+        <![endif] -->
+
+
+
+    <link rel="shortcut icon" href="./../images/eurlex.ico" />
+    <link rel="canonical" href="https://eur-lex.europa.eu/oj/direct-access.html?locale=es" />
 
 
 
@@ -159,84 +131,434 @@
 
 </head>
 
-<body onload="init(); resizeMenu(); tunearLinks()" id="body">
-    <div id="container">
-        <div id="header">
-            <div id="header-content">
-                <div class="side-padder">
-                    <h1><a title="Inicio">DIARIO OFICIAL</a></h1>
-                    <h2>de Castilla-La Mancha</h2>
-                    <form action="/portaldocm/buscarDisposiciones.do" method="post">
-                        <div id="header-search-box">
-                            <div>
-                                <input type="hidden" name="paginaResultados" value="1" />
-                                <input type="hidden" name="campoOrdenacion" value="ordenFechaPublicacion" />
-                                <input type="hidden" name="tipoBusqueda" value="basica" />
-                                <input type="text" name="texto" id="textoBusqueda" class="custom-search-default-value"
-                                    value="Buscar..." onclick="limpiar()" onkeypress="limpiar()" />
-                            </div>
-                            <div>
-                                <input type="image" src="/portaldocm/images/search-button.png" title="Buscar en la Web"
-                                    class="imagenLupa" alt="Buscar" />
-                            </div>
-                        </div>
-                        <div id="header-search-box-avanced">
-                            <span class="textoBusquedaAvanzada"><a href="/portaldocm/busquedaAvanzada.do"
-                                    title="Ir a la página de Busqueda Avanzada">&gt;&gt; Búsqueda Avanzada</a></span>
-                        </div>
-                    </form>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+    <input type="hidden" id="piwikProSiteID" value="0b5594a8-b9c8-4cd6-aa25-5c578dcf91df">
+    <input type="hidden" id="piwikProSummariesSiteID" value="46acaa7c-2394-428f-b054-103dec22b689">
+
+
+
+    <script type="text/javascript">
+        (function (window, document, dataLayerName, id) {
+            window[dataLayerName] = window[dataLayerName] || [], window[dataLayerName].push({ start: (new Date).getTime(), event: "stg.start" }); var scripts = document.getElementsByTagName('script')[0], tags = document.createElement('script');
+            function stgCreateCookie(a, b, c) { var d = ""; if (c) { var e = new Date; e.setTime(e.getTime() + 24 * c * 60 * 60 * 1e3), d = "; expires=" + e.toUTCString() } document.cookie = a + "=" + b + d + "; path=/" }
+            var isStgDebug = (window.location.href.match("stg_debug") || document.cookie.match("stg_debug")) && !window.location.href.match("stg_disable_debug"); stgCreateCookie("stg_debug", isStgDebug ? 1 : "", isStgDebug ? 14 : -1);
+            var qP = []; dataLayerName !== "dataLayer" && qP.push("data_layer_name=" + dataLayerName), isStgDebug && qP.push("stg_debug"); var qPString = qP.length > 0 ? ("?" + qP.join("&")) : "";
+            tags.async = !0, tags.src = "//opanalytics.containers.piwik.pro/" + id + ".js" + qPString, scripts.parentNode.insertBefore(tags, scripts);
+            !function (a, n, i) { a[n] = a[n] || {}; for (var c = 0; c < i.length; c++)!function (i) { a[n][i] = a[n][i] || {}, a[n][i].api = a[n][i].api || function () { var a = [].slice.call(arguments, 0); "string" == typeof a[0] && window[dataLayerName].push({ event: n + "." + i + ":" + a[0], parameters: [].slice.call(arguments, 1) }) } }(i[c]) }(window, "ppms", ["tm", "cm"]);
+        })(window, document, 'dataLayer', '0b5594a8-b9c8-4cd6-aa25-5c578dcf91df');
+    </script><noscript><iframe
+            src="//opanalytics.containers.piwik.pro/0b5594a8-b9c8-4cd6-aa25-5c578dcf91df/noscript.html" height="0"
+            width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+    <!-- // GENERAL Modal which is used by all the dynamic loading modal cases. -->
+
+
+
+
+
+    <div class="modal fade EurlexModal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="DemoModal02Title">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <div class="modal-title" role="heading" id="DemoModal02Title"></div>
+                </div><!-- modal-header -->
+                <div class="modal-body">
+                </div><!-- modal-body -->
+            </div><!-- modal-content -->
+        </div><!-- modal-dialog -->
+    </div><!-- modal -->
+
+
+
+
+
+
+
+
+    <div class="Wrapper clearfix">
+
+        <a class="sr-only sr-only-focusable SkipLink" href="#MainContent">Pasar al contenido principal</a>
+        <div class="container-fluid">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <header id="op-header" class="clearfix">
+
+
+                <div class="Eurlex">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <a href="./../homepage.html" title="Volver a la página principal de EUR-Lex">
+                        <img class="hidden-xs" src="./../revamp/images/eurlex.svg"
+                            onerror="this.onerror=null; this.src='images/eurlex.png'"
+                            alt="Volver a la página principal de EUR-Lex"
+                            title="Volver a la página principal de EUR-Lex" />
+                        <img class="visible-xs-block" src="./../revamp/images/eurlex_simple.svg"
+                            onerror="this.onerror=null; this.src='images/eurlex_simple.png'"
+                            alt="Volver a la página principal de EUR-Lex"
+                            title="Volver a la página principal de EUR-Lex" />
+                        <span class="hidden-xs">El acceso al Derecho de la Unión Europea</span> </a>
                 </div>
-            </div>
-            <div id="header-side">
-                <a href="http://www.castillalamancha.es"><img src="/portaldocm/images/logo.png" alt="Inicio"
-                        title="Inicio"></a>
-            </div>
-            <div id="header-info-band">
-                <div>
-                    <div class="header-info-band-section">Consejer&iacute;a de Hacienda y Administraciones
-                        P&uacute;blicas</div>
-                </div>
-            </div>
-            <div id="header-menu">
-                <div>
+                <h1 class="sr-only">EUR-Lex El acceso al Derecho de la Unión Europea</h1>
+                <nav class="SiteToolbar">
                     <ul>
-                        <li><a href="/portaldocm/revistaJuridica.do" title="Abrir la página de Revista Jurídica">Revista
-                                jur&iacute;dica</a></li>
-                        <li><a href="/portaldocm/codigoLegislativo.do"
-                                title="Abrir la página de Código Legislativo">C&oacute;digo legislativo</a></li>
-                        <li><a href="https://empleopublico.castillalamancha.es/"
-                                title="Abrir la página de Empleo Público en una nueva ventana" class="new-window">Empleo
-                                p&uacute;blico</a></li>
-                        <li><a href="http://www.castillalamancha.es/gobierno/haciendayaapp/cartasdeservicio/diario-oficial-de-castilla-la-mancha"
-                                title="Abrir la página de Carta de Servicio del Diario Oficial de Castilla la Mancha"
-                                class="new-window">Carta de Servicios</a></li>
-                        <li><a href="/portaldocm/eli"
-                                title="Abrir la página del Identificador Europeo de Legislación">ELI</a></li>
+
+                        <li role="presentation" class="onlyJs">
+
+                            <a id="languageSelect" href="#" class="SiteLanguage" title="Elegir idioma"
+                                data-toggle="modal" data-target="#LanguageSelection">
+
+
+
+
+                                <span class="hidden-xs">Español</span>
+                                <span class="SiteLanguageCode" aria-hidden="true">ES</span>
+                                <span class="sr-only">(current language)</span>
+                            </a>
+                        </li>
+                        <li role="presentation" class="hideInJs">
+
+
+
+
+
+                            <form id="languageFormNoJs" method="get" name="languageFormNoJs">
+                                <fieldset>
+
+
+
+
+                                    <label class="sr-only" for="languageSelectNoJs">Idioma</label>
+                                    <select id="languageSelectNoJs" class="form-control" name="locale"
+                                        onchange="$('#languageFormNoJs').submit()">
+
+
+
+
+
+                                        <option lang="bg" value="bg" title="Búlgaro">български (bg)</option>
+
+
+
+
+                                        <option lang="es" value="es" selected="selected" title="Español">Español (es)
+                                        </option>
+
+
+
+
+                                        <option lang="cs" value="cs" title="Checo">Čeština (cs)</option>
+
+
+
+
+                                        <option lang="da" value="da" title="Danés">Dansk (da)</option>
+
+
+
+
+                                        <option lang="de" value="de" title="Alemán">Deutsch (de)</option>
+
+
+
+
+                                        <option lang="et" value="et" title="Estonio">Eesti keel (et)</option>
+
+
+
+
+                                        <option lang="el" value="el" title="Griego">ελληνικά (el)</option>
+
+
+
+
+                                        <option lang="en" value="en" title="Inglés">English (en)</option>
+
+
+
+
+                                        <option lang="fr" value="fr" title="Francés">Français (fr)</option>
+
+
+
+
+                                        <option lang="ga" value="ga" title="Irlandés">Gaeilge (ga)</option>
+
+
+
+
+                                        <option lang="hr" value="hr" title="Croata">Hrvatski (hr)</option>
+
+
+
+
+                                        <option lang="it" value="it" title="Italiano">Italiano (it)</option>
+
+
+
+
+                                        <option lang="lv" value="lv" title="Letón">Latviešu valoda (lv)</option>
+
+
+
+
+                                        <option lang="lt" value="lt" title="Lituano">Lietuvių kalba (lt)</option>
+
+
+
+
+                                        <option lang="hu" value="hu" title="Húngaro">Magyar (hu)</option>
+
+
+
+
+                                        <option lang="mt" value="mt" title="Maltés">Malti (mt)</option>
+
+
+
+
+                                        <option lang="nl" value="nl" title="Neerlandés">Nederlands (nl)</option>
+
+
+
+
+                                        <option lang="pl" value="pl" title="Polaco">Polski (pl)</option>
+
+
+
+
+                                        <option lang="pt" value="pt" title="Portugués">Português (pt)</option>
+
+
+
+
+                                        <option lang="ro" value="ro" title="Rumano">Română (ro)</option>
+
+
+
+
+                                        <option lang="sk" value="sk" title="Eslovaco">Slovenčina (sk)</option>
+
+
+
+
+                                        <option lang="sl" value="sl" title="Esloveno">Slovenščina (sl)</option>
+
+
+
+
+                                        <option lang="fi" value="fi" title="Finés">Suomi (fi)</option>
+
+
+
+
+                                        <option lang="sv" value="sv" title="Sueco">Svenska (sv)</option>
+
+                                    </select>
+                                    <input type="submit" class="btn btn-primary languageSelectNoJs hideInJsInline"
+                                        value="Actualizar" />
+                                </fieldset>
+                            </form>
+                        </li>
+
+                        <li role="presentation" class="dropdown pull-right">
+
+                            <a href="#" id="MyEurlex" class="dropdown-toggle MyEurlex headerLinkInline"
+                                data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+
+
+
+
+                                <span class="hidden-xs">Invitado</span>
+                                <i class="fa fa-user-o" aria-hidden="true"></i>
+
+                            </a>
+                            <ul class="dropdown-menu MyAccount" aria-labelledby="MyEurlex">
+
+
+
+
+
+
+
+
+                                <li class="dropdown-header visible-xs-block">Invitado</li>
+                                <li class="OptSignIn">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    <a href="./../protected/homepage.html?url=%2Foj%2Fdirect-access.html%3Flocale%3Des">Iniciar
+                                        sesión</a>
+                                </li>
+                                <li class="OptRegister"><a
+                                        href="https://ecas.ec.europa.eu/cas/eim/external/register.cgi">Registrarse</a>
+                                </li>
+                                <li role="separator" class="divider"></li>
+
+
+
+
+
+
+                                <li class="OptRecentSearches">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    <a href="./../my-eurlex/my-queries.html#recentQueries"
+                                        title="Mis búsquedas recientes (0)" id="myRecentQueriesLink">Mis búsquedas
+                                        recientes (0)</a>
+                                </li>
+
+                            </ul>
+                        </li>
                     </ul>
-                </div>
-            </div>
-            <div id="header-menu-covid">
-                <div>
-                    <h3 class="titulo-covid-19">
-                        <span>Normativa sobre crisis sanitaria <a href="/portaldocm/listadoCOVID.do"
-                                class="link-covid-19">
-                                COVID-19 <br /> <img src="/portaldocm/images/covid-19-news-2.png" alt=""
-                                    class="menu-covid-19" />
-                            </a> </span>
-                    </h3>
-                </div>
-            </div>
-        </div><!-- // Header -->
-        <div class="filaBotonImprimir" style="padding-right: 20px">
-            <span id="botonImprimir" class="textoBotonImprimir" onclick="window.print();" onkeypress="window.print();">
-                <img src="/portaldocm/images/imprimir.gif" alt="" />
-                Imprimir
-            </span>
-        </div>
-        <div id="content" style="display: inherit;">
-            <table width="100%">
-                <tr id="cuerpo">
-                    <td id="menu" rowspan="2">
+                </nav>
+
+
+
+
+
+
+
+                <div class="modal fade" id="LanguageSelection" tabindex="-1" role="dialog"
+                    aria-labelledby="LanguageSelectionTitle">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="btn close" data-dismiss="modal" title="Cerrar">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                                <div class="modal-title" id="LanguageSelectionTitle">Select
+                                    site language</div>
+                            </div>
+                            <!-- modal-header -->
+
+                            <div class="modal-body">
+                                <div class="row">
+                                    <form id="languageForm" method="get" name="languageForm">
 
 
 
@@ -251,784 +573,3254 @@
 
 
 
+                                        <div class="col-sm-6">
+                                            <ul>
 
 
 
 
 
-                        <table class="tablaMenu" id="tablaMenu">
-                            <tr>
-                                <td>
-                                    <p style="margin-top: 11em;"><img src="/portaldocm/images/bg_calendario.png" alt=""
-                                            style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;<b>Calendario</b></p>
-                                </td>
-                            </tr>
-                            <tr id="filaDiariosOficiales">
-                                <td>
-                                    <a href="sumario.do" title="Ir a la página de consulta de diarios oficiales">
-                                        &gt;&gt; &Uacute;ltimo diario oficial
-                                    </a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;</td>
-                            </tr>
-
-                            <tr id="filaCalendario">
-                                <td style="width: 93%">
-                                    <form id="idBean" method="post" action="/portaldocm/cambioFecha.do">
-                                        <div class="bordeCal" align="center">
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('bg'); ; $(this).closest('form').submit();"
+                                                        lang="bg" hreflang="bg" rel="alternate" class="btn "> български
+                                                        (bg)
+                                                    </a></li>
 
 
 
 
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('es'); ; $(this).closest('form').submit();"
+                                                        lang="es" hreflang="es" rel="alternate" class="btn Active">
+                                                        Español
+                                                        (es)
+                                                    </a></li>
 
 
 
 
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('cs'); ; $(this).closest('form').submit();"
+                                                        lang="cs" hreflang="cs" rel="alternate" class="btn "> Čeština
+                                                        (cs)
+                                                    </a></li>
 
 
 
 
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('da'); ; $(this).closest('form').submit();"
+                                                        lang="da" hreflang="da" rel="alternate" class="btn "> Dansk
+                                                        (da)
+                                                    </a></li>
 
 
 
 
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('de'); ; $(this).closest('form').submit();"
+                                                        lang="de" hreflang="de" rel="alternate" class="btn "> Deutsch
+                                                        (de)
+                                                    </a></li>
 
 
 
-                                            <script type="text/javascript">
-                                                // <![CDATA[ 
-                                                function cambiaMesAnt() {
-                                                    $('fechaNueva').setValue($('idBean').fechaMesAnterior.value);
-                                                    $('idBean').action = "/portaldocm/cambioFecha.do";
-                                                    $('idBean').submit();
-                                                }
 
-                                                function cambiaMesSig() {
-                                                    $('fechaNueva').setValue($('idBean').fechaMesSiguiente.value);
-                                                    $('idBean').action = "/portaldocm/cambioFecha.do";
-                                                    $('idBean').submit();
-                                                }
-
-                                                function cambiaAnioAnt() {
-                                                    $('fechaNueva').setValue($('idBean').anioAnterior.value);
-                                                    $('idBean').action = "/portaldocm/cambioFecha.do";
-                                                    $('idBean').submit();
-                                                }
-
-                                                function cambiaAnioSig() {
-                                                    $('idBean').fechaNueva.value = $('idBean').anioSiguiente.value;
-                                                    $('idBean').action = "/portaldocm/cambioFecha.do";
-                                                    $('idBean').submit();
-                                                }
-
-                                                function cambiaMesCombo() {
-                                                    fecha = $('idBean').fechaNueva.value;
-                                                    mesCombo = $('idBean').mes.value;
-                                                    if (mesCombo < 10) {
-                                                        mesCombo = "0" + mesCombo;
-                                                    }
-                                                    arrFecha = fecha.split("/");
-                                                    fecha = arrFecha[0] + "/" + mesCombo + "/" + arrFecha[2];
-                                                    $('idBean').fechaNueva.value = fecha;
-                                                    $('idBean').action = "/portaldocm/cambioFecha.do?cambioMes=si";
-                                                    $('idBean').submit();
-                                                }
-
-                                                function cambiaAnioInput() {
-                                                    anio = $('idBean').anioInput.value;
-
-                                                    if (anio.length != 4) {
-                                                        alert($('idBean').msjNumAnio.value);
-                                                        return false;
-                                                    }
-
-                                                    var string = "1234567890";
-
-                                                    for (i = 0; i < 4; i++) {
-                                                        if (string.indexOf(anio.charAt(i)) == -1) {
-                                                            alert($('idBean').msjNumAnio.value);
-                                                            return false;
-                                                        }
-                                                    }
-
-                                                    fecha = $('idBean').fechaNueva.value;
-                                                    arrFecha = fecha.split("/");
-                                                    fecha = arrFecha[0] + "/" + arrFecha[1] + "/" + anio;
-
-                                                    $('idBean').fechaNueva.value = fecha;
-                                                    $('idBean').action = "/portaldocm/cambioFecha.do";
-                                                    $('idBean').submit();
-
-                                                    return true;
-                                                }
-
-                                                function tecla(e) {
-                                                    if (window.event) {
-                                                        keyCode = window.event.keyCode;
-                                                    }
-                                                    else if (e) {
-                                                        keyCode = e.which;
-                                                    }
-
-                                                    if (keyCode == 13) {
-                                                        cambiaAnioInput();
-                                                    }
-                                                }
-
-	// ]]> 
-
-                                            </script>
-
-                                            <table id='calendario' class='calendario tablaControlFecha'>
-                                                <tr>
-                                                    <td colspan='10'>
-                                                        &nbsp;
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td onclick='cambiaMesAnt();' onkeypress='cambiaMesAnt();'
-                                                        class='botonMesAnt'><img alt='Cambiar a mes anterior'
-                                                            src='/portaldocm/images/bg_flecha_izq.png' /></td>
-                                                    <td class='etiquetaGris'><select class='controlesCalendario'
-                                                            name='mes' id='mes' onchange='cambiaMesCombo()'>
-                                                            <option value='1'>enero</option>
-                                                            <option value='2' selected='selected'>febrero</option>
-                                                            <option value='3'>marzo</option>
-                                                            <option value='4'>abril</option>
-                                                            <option value='5'>mayo</option>
-                                                            <option value='6'>junio</option>
-                                                            <option value='7'>julio</option>
-                                                            <option value='8'>agosto</option>
-                                                            <option value='9'>septiembre</option>
-                                                            <option value='10'>octubre</option>
-                                                            <option value='11'>noviembre</option>
-                                                            <option value='12'>diciembre</option>
-                                                        </select></td>
-                                                    <td onclick='cambiaMesSig()' onkeypress='cambiaMesSig()'
-                                                        class='botonMesSig'><img alt='Cambia a mes siguiente'
-                                                            src='/portaldocm/images/bg_flecha_der.png' /></td>
-                                                    <td class='textoSubtit'></td>
-                                                    <td>&nbsp;</td>
-                                                    <td onclick='cambiaAnioAnt();' onkeypress='cambiaAnioAnt();'
-                                                        class='botonAnioAnt'><img alt='Cambia a año anterior'
-                                                            src='/portaldocm/images/bg_flecha_izq.png' /></td>
-                                                    <td class='etiquetaGris'><label for='anioInput'></label> <input
-                                                            type='text' class='controlesCalendario' id='anioInput'
-                                                            name='anioInput' onblur='cambiaAnioInput();'
-                                                            onkeypress='tecla(event)' value='2021' /></td>
-                                                    <td class='botonAnioSig' onclick='cambiaAnioSig()'
-                                                        onkeypress='cambiaAnioSig()'><img alt='Cambia a año siguiente'
-                                                            src='/portaldocm/images/bg_flecha_der.png' /></td>
-                                                    <td>&nbsp;</td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan='10'></td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan='10'>
-                                                        <table class='calendario'>
-                                                            <tr class='calDays'>
-                                                                <td class='primeraDiasCalendario'></td>
-                                                                <td class='diaCalendario'>L</td>
-                                                                <td class='diaCalendario'>M</td>
-                                                                <td class='diaCalendario'>X</td>
-                                                                <td class='diaCalendario'>J</td>
-                                                                <td class='diaCalendario'>V</td>
-                                                                <td class='diaCalendario'>S</td>
-                                                                <td class='diaCalendario'>D</td>
-                                                                <td></td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td></td>
-                                                                <td class='siTieneDogv'>01<a class='diario_ordinario'
-                                                                        href="/portaldocm/cambiarBoletin.do?fecha=20210201"
-                                                                        rel='external'>
-                                                                        <div> <span>Ord.</span></div>
-                                                                    </a></td>
-                                                                <td class='siTieneDogv'>02<a class='diario_ordinario'
-                                                                        href="/portaldocm/cambiarBoletin.do?fecha=20210202"
-                                                                        rel='external'>
-                                                                        <div> <span>Ord.</span></div>
-                                                                    </a></td>
-                                                                <td class='siTieneDogv'>03<a class='diario_ordinario'
-                                                                        href="/portaldocm/cambiarBoletin.do?fecha=20210203"
-                                                                        rel='external'>
-                                                                        <div> <span>Ord.</span></div>
-                                                                    </a></td>
-                                                                <td class='siTieneDogv'>04<a class='diario_ordinario'
-                                                                        href="/portaldocm/cambiarBoletin.do?fecha=20210204"
-                                                                        rel='external'>
-                                                                        <div> <span>Ord.</span></div>
-                                                                    </a></td>
-                                                                <td class='siTieneDogv'>05<a class='diario_ordinario'
-                                                                        href="/portaldocm/cambiarBoletin.do?fecha=20210205"
-                                                                        rel='external'>
-                                                                        <div> <span>Ord.</span></div>
-                                                                    </a></td>
-                                                                <td class='noTieneDogv'> 6</td>
-                                                                <td class='siTieneDogv'>07<a
-                                                                        class='diario_extraordinario'
-                                                                        href="/portaldocm/cambiarBoletin.do?fecha=20210207-ext-2&numDogv=2"
-                                                                        rel='external'>
-                                                                        <div> <span>Ext.</span></div>
-                                                                    </a></td>
-                                                                <td></td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td></td>
-                                                                <td class='siTieneDogv'>08<a class='diario_ordinario'
-                                                                        href="/portaldocm/cambiarBoletin.do?fecha=20210208"
-                                                                        rel='external'>
-                                                                        <div> <span>Ord.</span></div>
-                                                                    </a></td>
-                                                                <td class='siTieneDogv'>09<a
-                                                                        class='diario_ordinario_visitado'
-                                                                        href="/portaldocm/cambiarBoletin.do?fecha=20210209"
-                                                                        rel='external'>
-                                                                        <div> <span>Ord.</span></div>
-                                                                    </a></td>
-                                                                <td class='siTieneDogv'>10<a
-                                                                        class='diario_ordinario_visitado'
-                                                                        href="/portaldocm/cambiarBoletin.do?fecha=20210210"
-                                                                        rel='external'>
-                                                                        <div> <span>Ord.</span></div>
-                                                                    </a></td>
-                                                                <td class='siTieneDogv'>11<a
-                                                                        class='diario_ordinario_visitado'
-                                                                        href="/portaldocm/cambiarBoletin.do?fecha=20210211"
-                                                                        rel='external'>
-                                                                        <div> <span>Ord.</span></div>
-                                                                    </a></td>
-                                                                <td class='noTieneDogv'> 12</td>
-                                                                <td class='noTieneDogv'> 13</td>
-                                                                <td class='noTieneDogv'> 14</td>
-                                                                <td></td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td></td>
-                                                                <td class='noTieneDogv'> 15</td>
-                                                                <td class='noTieneDogv'> 16</td>
-                                                                <td class='noTieneDogv'> 17</td>
-                                                                <td class='noTieneDogv'> 18</td>
-                                                                <td class='noTieneDogv'> 19</td>
-                                                                <td class='noTieneDogv'> 20</td>
-                                                                <td class='noTieneDogv'> 21</td>
-                                                                <td></td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td></td>
-                                                                <td class='noTieneDogv'> 22</td>
-                                                                <td class='noTieneDogv'> 23</td>
-                                                                <td class='noTieneDogv'> 24</td>
-                                                                <td class='noTieneDogv'> 25</td>
-                                                                <td class='noTieneDogv'> 26</td>
-                                                                <td class='noTieneDogv'> 27</td>
-                                                                <td class='noTieneDogv'> 28</td>
-                                                                <td></td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
-                                                            </tr>
-                                                        </table>
-                                                    </td>
-                                                </tr>
-                                            </table><input type="hidden" id="msjNumAnio" name="msjNumAnio"
-                                                value="El año tiene que tener 4 dígitos" />
-                                            <input type="hidden" id="fechaVista" name="fechaVista" value="11/02/2021" />
-                                            <input type="hidden" id="fechaNueva" name="fechaNueva" value="11/02/2021" />
-                                            <input type="hidden" id="fechaMesSiguiente" name="fechaMesSiguiente"
-                                                value="11/03/2021" />
-                                            <input type="hidden" id="fechaMesAnterior" name="fechaMesAnterior"
-                                                value="11/01/2021" />
-                                            <input type="hidden" id="anioSiguiente" name="anioSiguiente"
-                                                value="11/02/2022" />
-                                            <input type="hidden" id="anioAnterior" name="anioAnterior"
-                                                value="11/02/2020" />
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('et'); ; $(this).closest('form').submit();"
+                                                        lang="et" hreflang="et" rel="alternate" class="btn "> Eesti keel
+                                                        (et)
+                                                    </a></li>
 
 
-                                            <table id="buscaFecha">
-                                                <tr>
-                                                    <td>
-                                                        <span>
-                                                            <label for="fechaInput"></label>
-                                                            <input type="text" class="text" name="fechaInput"
-                                                                id="fechaInput" maxlength="10" value="dd/mm/yyyy" />
-                                                            &nbsp;&nbsp;
-                                                            <input class="botonPortal" type="submit" value="Buscar" />
-                                                        </span>
-                                                    </td>
-                                                </tr>
-                                            </table>
-                                            <br />
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('el'); ; $(this).closest('form').submit();"
+                                                        lang="el" hreflang="el" rel="alternate" class="btn "> ελληνικά
+                                                        (el)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('en'); ; $(this).closest('form').submit();"
+                                                        lang="en" hreflang="en" rel="alternate" class="btn "> English
+                                                        (en)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('fr'); ; $(this).closest('form').submit();"
+                                                        lang="fr" hreflang="fr" rel="alternate" class="btn "> Français
+                                                        (fr)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('ga'); ; $(this).closest('form').submit();"
+                                                        lang="ga" hreflang="ga" rel="alternate" class="btn "> Gaeilge
+                                                        (ga)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('hr'); ; $(this).closest('form').submit();"
+                                                        lang="hr" hreflang="hr" rel="alternate" class="btn "> Hrvatski
+                                                        (hr)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('it'); ; $(this).closest('form').submit();"
+                                                        lang="it" hreflang="it" rel="alternate" class="btn "> Italiano
+                                                        (it)
+                                                    </a></li>
+                                            </ul>
                                         </div>
+                                        <div class="col-sm-6">
+                                            <ul>
+
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('lv'); ; $(this).closest('form').submit();"
+                                                        lang="lv" hreflang="lv" rel="alternate" class="btn "> Latviešu
+                                                        valoda
+                                                        (lv)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('lt'); ; $(this).closest('form').submit();"
+                                                        lang="lt" hreflang="lt" rel="alternate" class="btn "> Lietuvių
+                                                        kalba
+                                                        (lt)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('hu'); ; $(this).closest('form').submit();"
+                                                        lang="hu" hreflang="hu" rel="alternate" class="btn "> Magyar
+                                                        (hu)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('mt'); ; $(this).closest('form').submit();"
+                                                        lang="mt" hreflang="mt" rel="alternate" class="btn "> Malti
+                                                        (mt)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('nl'); ; $(this).closest('form').submit();"
+                                                        lang="nl" hreflang="nl" rel="alternate" class="btn "> Nederlands
+                                                        (nl)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('pl'); ; $(this).closest('form').submit();"
+                                                        lang="pl" hreflang="pl" rel="alternate" class="btn "> Polski
+                                                        (pl)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('pt'); ; $(this).closest('form').submit();"
+                                                        lang="pt" hreflang="pt" rel="alternate" class="btn "> Português
+                                                        (pt)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('ro'); ; $(this).closest('form').submit();"
+                                                        lang="ro" hreflang="ro" rel="alternate" class="btn "> Română
+                                                        (ro)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('sk'); ; $(this).closest('form').submit();"
+                                                        lang="sk" hreflang="sk" rel="alternate" class="btn "> Slovenčina
+                                                        (sk)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('sl'); ; $(this).closest('form').submit();"
+                                                        lang="sl" hreflang="sl" rel="alternate" class="btn ">
+                                                        Slovenščina
+                                                        (sl)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('fi'); ; $(this).closest('form').submit();"
+                                                        lang="fi" hreflang="fi" rel="alternate" class="btn "> Suomi
+                                                        (fi)
+                                                    </a></li>
+
+
+
+
+                                                <li role="presentation"><a href="#"
+                                                        onclick="$('#langToSubmit').val('sv'); ; $(this).closest('form').submit();"
+                                                        lang="sv" hreflang="sv" rel="alternate" class="btn "> Svenska
+                                                        (sv)
+                                                    </a></li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="col-sm-6">
+                                            <ul>
+
+                                            </ul>
+                                        </div>
+                                        <input type="hidden" name="locale" id="langToSubmit" value="" />
                                     </form>
-                                    <br />
-                                </td>
-                            </tr>
+                                </div>
 
-                            <tr>
-                                <td>
-                                    <p><img src="/portaldocm/images/bg_enlaces_interes.png" alt=""
-                                            style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;<b>Enlaces de
-                                            Interés</b></p>
-                                </td>
-                            </tr>
-                            <tr class="filaOpcionesMenu" id="filaOpcionesMenu">
-                                <td>
-                                    <table class="tablaOpcionesMenu">
-                                        <tr>
-                                            <td>
-                                                <ul>
-                                                    <li class="ig">
-                                                        <a href="/portaldocm/informacionGeneral.do"
-                                                            title="Abrir la página de Información general">Información
-                                                            general</a>
-                                                    </li>
-                                                    <li class="sa">
-                                                        <a href="/portaldocm/alertas.do"
-                                                            title="Abrir la página de Servicio de alertas">Servicio de
-                                                            alertas</a>
-                                                    </li>
-                                                    <li class="au">
-                                                        <a href="/portaldocm/comprobarAutenticidad.do"
-                                                            title="Abrir la página de Comprobar autenticidad de un boletín">Comprobar
-                                                            autenticidad</a>
-                                                    </li>
-                                                    <li class="pf">
-                                                        <a href="/portaldocm/preguntasFrecuentes.do"
-                                                            title="Abrir la página de Preguntas frecuentes">
-                                                            Preguntas frecuentes
-                                                        </a>
-                                                    </li>
-                                                    <li class="en">
-                                                        <a href="/portaldocm/enlaces.do"
-                                                            title="Abrir la página de enlaces">Enlaces</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="/portaldocm/cargarAltaOrganismo.do"
-                                                            title="Abrir la página de Solicitud de alta de organismo emisor">Alta
-                                                            Organismo Emisor</a>
-                                                    </li>
-                                                    <li class="ap">
-                                                        <a href="/portaldocm/accederPublicador.do"
-                                                            title="Abrir la página de acceso al Publicador">Acceso al
-                                                            Publicador</a>
-                                                    </li>
-                                                    <li class="es">
-                                                        <a href="/portaldocm/envioSugerencias.do"
-                                                            title="Abrir la página de Envío de Sugerencias">Envío de
-                                                            Sugerencias</a>
-                                                    </li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </header>
+
+            <div id="op-header-pdf" class="visible-print-block">
+                <div class="pdf-logo-img-container">
+                    <img class="pdf-logo-img" src="./../images/n/eurlex-logo.jpg"
+                        alt="Volver a la página principal de EUR-Lex" />
+                </div>
+                <div class="op-site-subtitle-pdf">
+                    <p class="subtitle-extraction-info-pdf">
+                        Este documento es un extracto de la web EUR-Lex
+                    </p>
+                    <div class="subtitle-url-info-pdf">
 
 
 
-                                                    <li class="ba">
-                                                        <a href="/portaldocm/busquedaAvanzada.do"
-                                                            title="Abrir la página de búsqueda avanzada">Búsqueda
-                                                            Avanzada</a>
-                                                    </li>
+                    </div>
+                </div>
+            </div>
 
-                                                    <li>
-                                                        <a href="/portaldocm/descargarArchivo.do?ruta=aviso_suscriptores.pdf&amp;tipo=rutaDescargables"
-                                                            title="Abrir el archivo PDF de aviso a suscriptores en una nueva página"
-                                                            class="new-window">Aviso a suscriptores</a>
+
+            <div class="NavSearch">
+                <div class="row">
+
+                    <div class="col-xs-2 dropdown EurlexNav">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <button type="button" class="btn btn-primary btn-block" id="EurlexNavBtn"
+                            title="Menú de EUR-Lex" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i
+                                class="fa fa-bars" aria-hidden="true"></i><span class="hidden-xs">Menú</span></button>
+                        <div class="dropdown-menu MegaMenu" aria-labelledby="EurlexNavBtn">
+                            <div class="row">
+                                <div class="col-sm-6 col-md-4">
+                                    <nav class="MenuBlock ">
+                                        <h3 class="BlockTitle" role="heading">Derecho de la UE</h3>
+                                        <ul class="MenuList TreeMenu">
+                                            <li><a href="#" class="has-arrow" aria-expanded="false" id="treaties"
+                                                    title="Tratados">Tratados</a>
+                                                <ul class="collapse">
+                                                    <li class=""><a
+                                                            href="./../collection/eu-law/treaties/treaties-force.html"
+                                                            id="treaties-force" title="Tratados vigentes">Tratados
+                                                            vigentes</a></li>
+                                                    <li class=""><a
+                                                            href="./../collection/eu-law/treaties/treaties-founding.html"
+                                                            id="treaties-founding"
+                                                            title="Tratados constitutivos">Tratados constitutivos</a>
                                                     </li>
-                                                    <li class="vn">
-                                                        <a href="/portaldocm/verificacionNID.do"
-                                                            title="Abrir la página de Verificación del NID">Verificación
-                                                            del NID</a>
+                                                    <li class=""><a
+                                                            href="./../collection/eu-law/treaties/treaties-accession.html"
+                                                            id="treaties-accession"
+                                                            title="Tratados de adhesión">Tratados de adhesión</a></li>
+                                                    <li class=""><a
+                                                            href="./../collection/eu-law/treaties/treaties-other.html"
+                                                            id="treaties-other"
+                                                            title="Otros tratados y protocolos">Otros tratados y
+                                                            protocolos</a></li>
+                                                    <li class=""><a
+                                                            href="./../collection/eu-law/treaties/treaties-overview.html"
+                                                            id="treaties-overview"
+                                                            title="Presentación cronológica">Presentación
+                                                            cronológica</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class=""><a href="./../collection/eu-law/legislation/recent.html"
+                                                    class="no-arrow" id="recent" title="Actos jurídicos">Actos
+                                                    jurídicos</a></li>
+                                            <li class=""><a href="./../collection/eu-law/consleg.html" class="no-arrow"
+                                                    id="consolidated-texts" title="Textos consolidados">Textos
+                                                    consolidados</a></li>
+                                            <li class=""><a href="./../collection/eu-law/inter-agree.html"
+                                                    class="no-arrow" id="inter-agree"
+                                                    title="Acuerdos internacionales">Acuerdos internacionales</a></li>
+                                            <li class=""><a href="./../collection/eu-law/pre-acts.html" class="no-arrow"
+                                                    id="working-documents" title="Documentos preparatorios">Documentos
+                                                    preparatorios</a></li>
+                                            <li class=""><a href="./../collection/eu-law/efta.html" class="no-arrow"
+                                                    id="efta"
+                                                    title="Documentos de la AELC (Asociación Europea de Libre Comercio)">Documentos
+                                                    de la AELC</a></li>
+                                            <li class=""><a href="./../collection/legislative-procedures.html"
+                                                    class="no-arrow" id="procedures"
+                                                    title="Procedimientos de adopción normativa">Procedimientos de
+                                                    adopción normativa</a></li>
+                                            <li class=""><a href="./../browse/summaries.html" class="no-arrow"
+                                                    id="summary" title="Síntesis de la legislación de la UE">Síntesis de
+                                                    la legislación de la UE</a></li>
+                                            <li><a href="#" class="has-arrow" aria-expanded="false" id="browse"
+                                                    title="Explorar">Explorar</a>
+                                                <ul class="collapse">
+                                                    <li class=""><a
+                                                            href="./../browse/institutions/institutions-intro.html"
+                                                            id="institutions-intro"
+                                                            title="Instituciones de la UE">Instituciones de la UE</a>
                                                     </li>
-                                                    <li class="pe">
-                                                        <a href="/portaldocm/goToEliHelp.do"
-                                                            title="Abrir la página de Proyecto Eli">Proyecto Eli</a>
+                                                    <li class=""><a href="./../browse/eurovoc.html" id="eurovoc"
+                                                            title="Consulta mediante EuroVoc (tesauro multilingüe y multidisciplinario de la UE)">EuroVoc</a>
                                                     </li>
                                                 </ul>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                    <td id="contenido">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        <h2 class="titulo_arriba">
-                            Detalle de la disposición
-                        </h2>
-                        <div>
-                            <img src="/portaldocm/images/linea.gif" alt="" />
-                        </div>
-
-
-
-
-
-
-
-
-                        <table class="tablaDetalle">
-
-                            <!-- Número Diario, Fecha Publicacion -->
-                            <tr>
-                                <td class="tituloDetalleIzq">
-                                    Número de diario:
-                                </td>
-                                <td class="textoDetalle ancho45">
-
-
-                                    28/2021
-
-
-                                </td>
-
-                                <td class="tituloDetalleIzq">
-                                    Fecha de publicación:
-                                </td>
-                                <td class="textoDetalle ancho10">
-
-
-                                    11/02/2021
-
-                                </td>
-                            </tr>
-
-                            <!-- NID, Fecha Documento -->
-                            <tr>
-                                <td class="tituloDetalleIzq">
-                                    NID:
-                                </td>
-                                <td class="textoDetalle">
-                                    2021/1186
-                                </td>
-
-                                <td class="tituloDetalleIzq">
-                                    Fecha de documento:
-                                </td>
-                                <td class="textoDetalle">
-
-                                    04/02/2021
-                                </td>
-                            </tr>
-
-                            <!-- Número de disposicion, Número de pagina -->
-                            <tr>
-
-
-
-                                <td class="tituloDetalleIzq">
-                                    Número disposición:
-                                </td>
-                                <td class="textoDetalle">
-                                    &nbsp;
-                                </td>
-
-
-                                <td class="tituloDetalleIzq">
-                                    Número de página:
-                                </td>
-                                <td class="textoDetalle">
-                                    5311
-                                </td>
-                            </tr>
-
-
-
-                            <tr>
-                                <td>&nbsp;</td>
-                            </tr>
-
-                            <!-- Rango, Consegeria, Organo emisor, Organo o Autoridad -->
-                            <tr>
-                                <td class="tituloDetalleIzq">
-                                    Rango:
-                                </td>
-                                <td class="textoDetalle" colspan="3">
-
-                                    Notificación
-
-                                </td>
-                            </tr>
-
-
-                            <tr>
-                                <td class="tituloDetalleIzq">
-                                    Consejería:
-                                </td>
-                                <td class="textoDetalle" colspan="3">
-
-                                    Consejería de Sanidad
-
-
-                                </td>
-                            </tr>
-
-
-                            <tr>
-                                <td class="tituloDetalleIzq">
-                                    Órgano emisor:
-                                </td>
-                                <td class="textoDetalle" colspan="3">
-
-                                    Delegación Provincial de Sanidad de Guadalajara
-
-
-                                </td>
-                            </tr>
-
-
-                            <tr>
-                                <td class="tituloDetalleIzq">
-                                    Órgano o autoridad:
-                                </td>
-                                <td class="textoDetalle" colspan="3">
-                                    La Delegada Provincial
-                                </td>
-                            </tr>
-
-
-                            <!-- Lista de correccion de errores, lista deroga , Lista es derogada por, Sumario -->
-
-
-
-
-
-
-
-                            <tr>
-                                <td class="tituloDetalleIzq">
-                                    Sumario:
-                                </td>
-                                <td class="textoDetalle" colspan="3">
-                                    Notificación de 04/02/2021, de la Delegación Provincial de Sanidad de Guadalajara,
-                                    por la que se da publicidad al acuerdo de iniciación de expediente sancionador por
-                                    infracción en materia de salud pública número S19/1066/2020 de fecha 29/01/2021.
-                                </td>
-                            </tr>
-
-
-
-                            <!-- Lista descriptores, lista ref anteriores , lista ref posteriores , Inf suplementaria -->
-                            <tr>
-                                <td class="tituloDetalleIzq">
-                                    Lista de descriptores:
-                                </td>
-                                <td class="textoDetalle" colspan="3">
-
-
-                                    Notificaciones;
-
-                                    Salud;
-
-                                    Sanciones;
-
-
-                                </td>
-                            </tr>
-
-
-
-
-
-
-
-
-
-
-
-                            <tr>
-                                <td class="tituloDetalleIzq">
-                                    Inf. suplementaria:
-                                </td>
-                                <td class="textoDetalle" colspan="3">
-                                    Instruido a: Ronaldo Antonio Amores Martínez (Guadalajara).
-                                </td>
-                            </tr>
-
-
-
-
-
-
-
-                            <tr>
-                                <td colspan="4" class="enlacePDFIndividual">
-
-
-
-
-                                    <a href="/portaldocm/descargarArchivo.do?ruta=2021/02/11/pdf/2021_1186.pdf&tipo=rutaDocm"
-                                        class="new-window"
-                                        title="Abre el enlace al pdf individual de la disposición en una nueva página">
-                                        Enlace al pdf individual
-                                    </a>
-
-
-
-
-
-                                </td>
-                            </tr>
-
-                        </table>
-
-
-                    </td>
-                </tr>
-                <tr>
-                    <td valign="bottom">
-                        &nbsp;
-                    </td>
-                </tr>
-                <tr id="pie">
-                    <td colspan="3">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        <div id="section-footer" class="section section-footer">
-                            <div id="zone-pie" class="zone zone-pie clearfix container-16" align="center">
-                                <div id="region-pie-primera" class="grid-12 suffix-1 region region-pie-segunda"
-                                    align="center">
-                                    <ul class="menu">
-                                        <li class="">
-                                            <a href="https://www.castillalamancha.es/certificados" target="_blank"
-                                                title="Ir a la página de certificaciones">
-                                                <img class="imgFooter1" src="/portaldocm/images/certificaciones.png"
-                                                    alt="Ir a la página de certificaciones" />
-                                            </a>
-                                        </li>
-                                        <li class="">
-                                            <a href="http://pagina.jccm.es/fondosestructurales/inicio/" target="_blank"
-                                                title="FEDER">
-                                                <img class="imgFooter2" src="/portaldocm/images/feder.gif"
-                                                    alt="FEDER" />
-                                            </a>
-                                        </li>
-                                    </ul>
+                                            </li>
+                                        </ul>
+                                    </nav>
                                 </div>
-                                <div id="region-pie-segunda" class="grid-12 suffix-1 region region-pie-segunda"
-                                    align="center">
-                                    <ul class="menu">
-                                        <li class="first leaf">
-                                            <a href="http://www.w3.org/WAI/WCAG1AA-Conformance" title="W3C-WAII"
-                                                target="_blank">W3C-WAII</a>
-                                        </li>
-                                        <li class="leaf">
-                                            <a href="https://www.castillalamancha.es/protecciondedatos" target="_blank"
-                                                title="Protección de datos">Protección de datos</a>
-                                        </li>
-                                        <li class="first leaf">
-                                            <a href="https://www.castillalamancha.es/clm/instituciones" target="_blank"
-                                                title="Abrir la página de Otras instituciones">Otras instituciones</a>
-                                        </li>
-                                        <li class="leaf">
-                                            <a href="https://www.castillalamancha.es/sitemap" target="_blank"
-                                                title="Abrir la página de Mapa del sitio">Mapa del sitio</a>
-                                        </li>
-                                        <li class="first leaf">
-                                            <a href="https://webmail.jccm.es/" target="_blank"
-                                                title="Abrir la página de Correo web">Correo web</a>
-                                        </li>
-                                        <li class="first leaf">
-                                            <a href="https://www.castillalamancha.es/avisolegal" target="_blank"
-                                                title="Abrir la página de Aviso legal">Aviso Legal</a>
-                                        </li>
-                                        <li class="leaf">
-                                            <a href="https://www.castillalamancha.es/accesibilidad" target="_blank"
-                                                title="Abrir la página de Accesibilidad">Accesibilidad</a>
-                                        </li>
-                                    </ul>
+                                <div class="col-sm-6 col-md-4">
+                                    <nav class="MenuBlock ">
+                                        <h3 class="BlockTitle" role="heading">Jurisprudencia de la Unión</h3>
+                                        <ul class="MenuList">
+                                            <li class=""><a href="./../collection/eu-law/eu-case-law.html"
+                                                    class="no-arrow" id="case-law"
+                                                    title="Jurisprudencia">Jurisprudencia</a></li>
+                                            <li class=""><a href="./../collection/eu-law/eu-case-law/reports.html"
+                                                    class="no-arrow" id="electronic-report"
+                                                    title="Recopilación electrónica">Recopilación electrónica</a></li>
+                                            <li class=""><a href="./../browse/directories/new-case-law.html"
+                                                    class="no-arrow" id="directory-eu-case-law"
+                                                    title="Repertorio de jurisprudencia">Repertorio de
+                                                    jurisprudencia</a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <div class="col-sm-6 col-md-4">
+                                    <nav class="MenuBlock ">
+                                        <h3 class="BlockTitle" role="heading">Diario Oficial</h3>
+                                        <ul class="MenuList">
+                                            <li class="Selected"><a href="./../oj/direct-access.html" class="no-arrow"
+                                                    id="direct-access" title="Acceso al Diario Oficial">Acceso al Diario
+                                                    Oficial</a></li>
+                                            <li class=""><a href="./../oj/all/auth-direct-access.html" class="no-arrow"
+                                                    id="auth-direct-access"
+                                                    title="Versiones impresas con efecto jurídico">Versiones impresas
+                                                    con efecto jurídico</a></li>
+                                            <li class=""><a href="./../eu-enlargement/special.html" class="no-arrow"
+                                                    id="se" title="Edición especial">Edición especial</a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <div class="col-sm-6 col-md-4 col-break-sm">
+                                    <nav class="MenuBlock ">
+                                        <h3 class="BlockTitle" role="heading">Derecho y jurisprudencia nacionales</h3>
+                                        <ul class="MenuList">
+                                            <li class=""><a href="./../collection/n-law/mne.html" class="no-arrow"
+                                                    id="mne" title="Transposición nacional">Transposición nacional</a>
+                                            </li>
+                                            <li class=""><a href="./../collection/n-law/n-case-law.html"
+                                                    class="no-arrow" id="n-case-law"
+                                                    title="Jurisprudencia nacional">Jurisprudencia nacional</a></li>
+                                            <li class=""><a href="./../collection/n-law/jure.html" class="no-arrow"
+                                                    id="JURE"
+                                                    title="Colección de jurisprudencia JURE (competencia judicial, reconocimiento y ejecución de resoluciones judiciales en materia civil y mercantil) ">JURE
+                                                    (colección de jurisprudencia)</a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <div class="col-sm-6 col-md-4">
+                                    <nav class="MenuBlock ">
+                                        <h3 class="BlockTitle" role="heading">Información</h3>
+                                        <ul class="MenuList TreeMenu">
+                                            <li class=""><a href="./../content/news/index.html" class="no-arrow"
+                                                    id="news" title="Actualidad">Actualidad</a></li>
+                                            <li class=""><a href="./../content/development/developmentLatest.html"
+                                                    class="no-arrow" id="developmentLatest"
+                                                    title="Cambios recientes en EUR-Lex">Cambios recientes en
+                                                    EUR-Lex</a></li>
+                                            <li class=""><a href="./../statistics/statistics.html" class="no-arrow"
+                                                    id="statistic" title="Estadísticas">Estadísticas</a></li>
+                                            <li><a href="#" class="has-arrow" aria-expanded="false"
+                                                    id="eli-register-nav"
+                                                    title="Registro del ELI (Identificador Europeo de Legislación)">Registro
+                                                    del ELI</a>
+                                                <ul class="collapse">
+                                                    <li class=""><a href="./../eli-register/about.html" id="about"
+                                                            title="El ELI">El ELI</a></li>
+                                                    <li class=""><a href="./../eli-register/technical_information.html"
+                                                            id="technical_information"
+                                                            title="Información técnica">Información técnica</a></li>
+                                                    <li class=""><a href="./../eli-register/implementation.html"
+                                                            id="implementation"
+                                                            title="Panorama de la aplicación del ELI">Panorama de la
+                                                            aplicación del ELI</a></li>
+                                                    <li class=""><a href="./../eli-register/resources.html"
+                                                            id="resources"
+                                                            title="Recursos para la aplicación del ELI">Recursos para la
+                                                            aplicación del ELI</a></li>
+                                                    <li class=""><a href="./../eli-register/index.html" id="index"
+                                                            title="Noticias del ELI">Noticias del ELI</a></li>
+                                                    <li class=""><a href="./../eli-register/testimonials.html"
+                                                            id="testimonials" title="Testimonios del ELI">Testimonios
+                                                            del ELI</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class=""><a href="./../budget/www/index-es.htm" class="no-arrow"
+                                                    id="EU_budget" title="Presupuesto en línea">Presupuesto en línea</a>
+                                            </li>
+                                        </ul>
+                                    </nav>
                                 </div>
                             </div>
                         </div>
-                    </td>
-                </tr>
-            </table>
-        </div><!-- // Content -->
-    </div><!-- //Container -->
-    <!-- Piwik -->
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <div class="col-xs-10">
+                        <div class="EurlexSearch">
+
+                            <form id="quick-search" name="quick-search" class="DistinctiveForm QSF"
+                                action="./../quick-search-form.html" method="post" autocomplete="off">
+                                <input id="editscope" type="hidden" name="scope" value="PUBLISHED_IN_OJ" />
+                                <div class="QuickSearch">
+
+
+
+
+
+
+
+
+                                    <label for="QuickSearchField"><i class="fa fa-search hidden-xs"
+                                            aria-hidden="true"></i><span class="sr-only">Búsqueda rápida</span></label>
+
+
+
+
+
+                                    <textarea id="QuickSearchField" name="text"
+                                        class="form-control NoBorders AutoGrow typeahead autocompleteField"
+                                        data-provide="typeahead" placeholder="BÚSQUEDA RÁPIDA"
+                                        aria-describedby="QuickSearchHelp" rows="1" autocomplete="off"></textarea>
+                                    <button class="btn btn-primary QuickSearchBtn" type="submit" title="Buscar">
+
+
+
+                                        <i class="fa fa-search"></i>
+
+
+                                    </button>
+                                </div>
+
+                                <div class="DistinctiveFormMessage EurlexTooltip" tabindex="0" data-toggle="tooltip"
+                                    title="Retire las otras opciones de búsqueda rápida antes de utilizar esta"></div>
+                                <div>
+                                    <input type="hidden" name="_csrf" value="12ba3428-8305-4ea1-afcb-9923469bbe54" />
+                                </div>
+                            </form>
+
+                            <div class="QuickSearchOptions fade sr-only">
+                                <div id="QuickSearchHelp">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Utilice comillas para buscar una &quot;expresión exacta&quot;. Trunque con un
+                                    asterisco (<abbr title='Asterisco'>*</abbr>) el término de búsqueda para encontrar
+                                    variantes del mismo (transp<abbr title='Asterisco'>*</abbr>, 32019R<abbr
+                                        title='Asterisco'>*</abbr>). Sustituya alguno de los caracteres por un signo de
+                                    interrogación para encontrar variantes (ca<abbr
+                                        title='Signo de interrogación'>?</abbr>a da como resultado casa, caja, cada).
+                                </div>
+                                <button id="QuickSearchClose" type="button" class="close" aria-label="Close"
+                                    onclick="closeQSHelp()">
+                                    <i class="fa fa-times" aria-hidden="true">&nbsp;</i>
+                                </button>
+                            </div>
+
+                            <div class="QSMore">
+                                <div class="col-xs-4 text-left">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    <a href="#" onclick="showQSHelpAlt()" title="Consejos de búsqueda">
+                                        <i class="fa fa-info-circle" aria-hidden="true">&nbsp;</i>
+                                        Consejos de búsqueda
+                                    </a>
+                                </div>
+                                <div class="col-xs-8 text-right">
+                                    <span class=" ">¿Necesita más opciones de búsqueda? Utilice la</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    <a href="./../advanced-search-form.html" title="Búsqueda avanzada">Búsqueda
+                                        avanzada</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/javascript">
+                        $(document).ready(function () {
+                            var quickSearchFld = $('#QuickSearchField.autocompleteField');
+                            typeaheadFld(quickSearchFld, "./../autocomplete.html", true, 'QuickSearch');
+                        });
+                        var quickSearchHelpAlt = "Utilice comillas para buscar una &quot;expresión exacta&quot;. Trunque con un asterisco (<abbr title='Asterisco'>*</abbr>) el término de búsqueda para encontrar variantes del mismo (transp<abbr title='Asterisco'>*</abbr>, 32019R<abbr title='Asterisco'>*</abbr>). Sustituya alguno de los caracteres por un signo de interrogación para encontrar variantes (ca<abbr title='Signo de interrogación'>?</abbr>a da como resultado casa, caja, cada).";
+                        var quickSearchHelp = "Utilice comillas para buscar una &quot;expresión exacta&quot;. Trunque con un asterisco (<abbr title='Asterisco'>*</abbr>) el término de búsqueda para encontrar variantes del mismo (transp<abbr title='Asterisco'>*</abbr>, 32019R<abbr title='Asterisco'>*</abbr>). Sustituya alguno de los caracteres por un signo de interrogación para encontrar variantes (ca<abbr title='Signo de interrogación'>?</abbr>a da como resultado casa, caja, cada).";
+                    </script>
+
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="SiteBreadcrumb">
+                <span class="sr-only">Está usted aquí</span>
+                <ol class="breadcrumb hidden-xs hidden-sm">
+                    <li><a target="_blank" href="https://europa.eu/european-union/index_es">EUROPA</a></li>
+
+                    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <a href="./../homepage.html" title="EUR-Lex Inicio">EUR-Lex Inicio</a>
+                    </li>
+
+                    <li class="active">Diario Oficial de la Unión Europea
+                    </li>
+                </ol>
+            </div><!-- SiteBreadcrumb -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div id="MainContent">
+
+                <div class="PageTitle">
+
+                    <div class="row">
+
+                        <div class="col-xs-2 col-sm-1 visible-xs-block visible-sm-block">
+                            <button type="button"
+                                class="btn btn-default btn-sm btn-block visible-xs-inline visible-sm-inline"
+                                data-toggle="offcanvas">
+                                <i class="fa fa-ellipsis-v" aria-hidden="true"></i>
+                            </button>
+                        </div><!-- col -->
+
+                        <div class="col-xs-8 col-sm-10 visible-xs-block visible-sm-block"></div><!-- col -->
+
+                        <div class="col-xs-2 col-sm-1 col-md-12">
+                            <div class="PageShare">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                <ul>
+                                    <li class="hidden-xs hidden-sm">
+
+
+
+
+
+                                        <a href="./../content/help/oj/intro.html#help1" class="PSHelp EurlexTooltip"
+                                            data-toggle="tooltip" title="Ayuda" data-original-title="Help"><i
+                                                class="fa fa-question" aria-hidden="true"></i><span
+                                                class="sr-only">Ayuda</span></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    </li>
+
+
+
+
+                                    <li class="hidden-xs hidden-sm">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <a href="./../print-pdf.html?pageTitle=Diario+Oficial+de+la+Uni%C3%B3n+Europea&amp;currentUrl=%2Foj%2Fdirect-access.html%3Flocale%3Des"
+                                            class="PSPDF EurlexTooltip" title="Exportar a PDF" data-toggle="tooltip"
+                                            data-original-title="Export PDF">
+                                            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                                            <span class="sr-only">Exportar a PDF</span> </a>
+                                    </li>
+
+
+
+
+                                    <li class="hidden-xs hidden-sm">
+                                        <a href="./../oj/direct-access.html?locale=es&amp;print=true"
+                                            onclick="window.open('./../oj/direct-access.html?locale=es&amp;print=true','','scrollbars=yes,menubar=no, status=no, directories=no, location=no, resizable=no, width=1024, height=600');return false;"
+                                            target="_blank" class="PSPrint EurlexTooltip" data-toggle="tooltip"
+                                            title="Imprimir esta página" data-original-title="Print this page">
+                                            <i class="fa fa-print" aria-hidden="true"></i>
+                                            <span class="sr-only">Imprimir esta página</span> </a>
+                                    </li>
+
+
+
+
+                                    <li>
+                                        <script type="application/json">{
+                    "service": "share",
+                    "counter": false,
+                    "css": {
+                        "button": "myButton"
+                    },
+                    "link": "https://eur-lex.europa.eu/oj/direct-access.html?locale=es"
+                }</script>
+                                    </li>
+
+                                </ul>
+
+                            </div>
+                        </div><!-- col -->
+                    </div> <!-- row -->
+
+                </div>
+
+                <div class="row row-offcanvas">
+
+
+
+
+
+
+
+                    <div class="col-md-3 sidebar-offcanvas">
+
+
+
+
+
+                        <nav class="Sidebar">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <ul class="MenuList">
+                                <li class="Selected"><a href="./../oj/direct-access.html" title=""
+                                        id="direct-access_menu">Acceso al Diario Oficial</a></li>
+                                <li><a href="./../oj/all/auth-direct-access.html" title=""
+                                        id="auth-direct-access_menu">Versiones impresas con efecto jurídico</a></li>
+                                <li><a href="./../eu-enlargement/special.html" title="" id="se_menu">Edición
+                                        especial</a></li>
+                            </ul>
+
+
+
+
+                        </nav>
+
+                    </div>
+
+
+                    <div class="col-md-9">
+                        <div class="EurlexContent">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <h1 class="SectionTitle">
+
+
+                                Diario Oficial de la Unión Europea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            </h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <div class="panel-group mutuallyExclusivePanels" id="WDGPanels" role="tablist"
+                                aria-multiselectable="true">
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                <div class="panel panel-default PanelA hidden-print">
+                                    <div class="panel-heading" role="tab" id="dAojDailyPanelTitle">
+                                        <div class="panel-title panel-title-widget">
+                                            <a role="button" class="collapsed" data-toggle="collapse"
+                                                data-parent="#WDGPanels" href="#dAojDailyPanel" aria-expanded="false"
+                                                aria-controls="dAojDailyPanel"
+                                                onclick="createDocPartCookieWidgets(this); return false;">
+                                                Acceso directo al Diario Oficial
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div id="dAojDailyPanel" class="panel-collapse collapse" role="tabpanel"
+                                        aria-labelledby="dAojDailyPanelTitle">
+                                        <div class="panel-body">
+                                            <div id="ojDailyEditionFormContainer">
+
+
+                                                <form id="daily-oj-search" name="daily-oj-search"
+                                                    action="./../oj/direct-access.html" method="post">
+                                                    <div class="row">
+
+                                                        <div class="col-sm-2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            <div class="form-group ">
+                                                                <label for="daily-ojYear" class="">Año</label>
+                                                                <select id="daily-ojYear"
+                                                                    class="input-sm form-control NoBorders"
+                                                                    onchange="refreshFacetValues('./../', this, false);"
+                                                                    name="ojYear">
+                                                                    <option selected=selected value="2021">2021</option>
+                                                                    <option value="2020">2020</option>
+                                                                    <option value="2019">2019</option>
+                                                                    <option value="2018">2018</option>
+                                                                    <option value="2017">2017</option>
+                                                                    <option value="2016">2016</option>
+                                                                    <option value="2015">2015</option>
+                                                                    <option value="2014">2014</option>
+                                                                    <option value="2013">2013</option>
+                                                                    <option value="2012">2012</option>
+                                                                    <option value="2011">2011</option>
+                                                                    <option value="2010">2010</option>
+                                                                    <option value="2009">2009</option>
+                                                                    <option value="2008">2008</option>
+                                                                    <option value="2007">2007</option>
+                                                                    <option value="2006">2006</option>
+                                                                    <option value="2005">2005</option>
+                                                                    <option value="2004">2004</option>
+                                                                    <option value="2003">2003</option>
+                                                                    <option value="2002">2002</option>
+                                                                    <option value="2001">2001</option>
+                                                                    <option value="2000">2000</option>
+                                                                    <option value="1999">1999</option>
+                                                                    <option value="1998">1998</option>
+                                                                    <option value="1997">1997</option>
+                                                                    <option value="1996">1996</option>
+                                                                    <option value="1995">1995</option>
+                                                                    <option value="1994">1994</option>
+                                                                    <option value="1993">1993</option>
+                                                                    <option value="1992">1992</option>
+                                                                    <option value="1991">1991</option>
+                                                                    <option value="1990">1990</option>
+                                                                    <option value="1989">1989</option>
+                                                                    <option value="1988">1988</option>
+                                                                    <option value="1987">1987</option>
+                                                                    <option value="1986">1986</option>
+                                                                    <option value="1985">1985</option>
+                                                                    <option value="1984">1984</option>
+                                                                    <option value="1983">1983</option>
+                                                                    <option value="1982">1982</option>
+                                                                    <option value="1981">1981</option>
+                                                                    <option value="1980">1980</option>
+                                                                    <option value="1979">1979</option>
+                                                                    <option value="1978">1978</option>
+                                                                    <option value="1977">1977</option>
+                                                                    <option value="1976">1976</option>
+                                                                    <option value="1975">1975</option>
+                                                                    <option value="1974">1974</option>
+                                                                    <option value="1973">1973</option>
+                                                                    <option value="1972">1972</option>
+                                                                    <option value="1971">1971</option>
+                                                                    <option value="1970">1970</option>
+                                                                    <option value="1969">1969</option>
+                                                                    <option value="1968">1968</option>
+                                                                    <option value="1967">1967</option>
+                                                                    <option value="1966">1966</option>
+                                                                    <option value="1965">1965</option>
+                                                                    <option value="1964">1964</option>
+                                                                    <option value="1963">1963</option>
+                                                                    <option value="1962">1962</option>
+                                                                    <option value="1961">1961</option>
+                                                                    <option value="1960">1960</option>
+                                                                    <option value="1959">1959</option>
+                                                                    <option value="1958">1958</option>
+                                                                    <option value="1957">1957</option>
+                                                                    <option value="1956">1956</option>
+                                                                    <option value="1955">1955</option>
+                                                                    <option value="1954">1954</option>
+                                                                    <option value="1953">1953</option>
+                                                                    <option value="1952">1952</option>
+                                                                </select>
+
+
+                                                                <!-- Show the field binded error -->
+                                                            </div><!-- form-group -->
+
+                                                            <input type="submit"
+                                                                class="btn btn-primary daFormNoJs hideInJsInline"
+                                                                value="Actualizar" />
+                                                        </div>
+                                                        <div class="col-sm-4">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            <div class="form-group ">
+                                                                <label for="daily-ojSeries" class="">Serie del
+                                                                    DO</label>
+                                                                <select id="daily-ojSeries"
+                                                                    class="input-sm form-control NoBorders"
+                                                                    onchange="refreshFacetValues('./../', this, false);"
+                                                                    name="ojSeries">
+                                                                    <option value="ALL">Todo</option>
+                                                                    <option value="OJ-C">C (Comunicaciones e
+                                                                        informaciones)</option>
+                                                                    <option value="OJ-L">L (Legislación)</option>
+                                                                </select>
+
+
+                                                                <!-- Show the field binded error -->
+                                                            </div><!-- form-group -->
+
+                                                            <input type="submit"
+                                                                class="btn btn-primary daFormNoJs hideInJsInline"
+                                                                value="Actualizar" />
+                                                        </div>
+
+                                                        <div class="col-sm-3">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            <div class="form-group ">
+                                                                <label for="ojSubSeries" class="">Clase del DO</label>
+                                                                <select id="ojSubSeries"
+                                                                    class="input-sm form-control NoBorders" onchange=""
+                                                                    name="ojSubSeries">
+                                                                    <option selected=selected value="ALL">Todo</option>
+                                                                    <option value="A">CA (suplemento A)</option>
+                                                                    <option value="I">I - suplemento I</option>
+                                                                </select>
+
+
+                                                                <!-- Show the field binded error -->
+                                                            </div><!-- form-group -->
+                                                        </div>
+                                                        <div class="col-sm-2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            <div class="form-group ">
+                                                                <label for="ojNumber" class="">Número del DO</label>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                <input id="ojNumber" name="ojNumber"
+                                                                    class="text ojForm input-sm form-control NoBorders"
+                                                                    value="" size="4" maxlength="3" />
+
+
+
+
+
+                                                                <!-- Show the field binded error -->
+                                                            </div><!-- form-group -->
+                                                        </div>
+
+
+                                                        <div class="col-sm-1">
+                                                            <button class="btn btn-info WidgetSearchBtn" type="submit"
+                                                                title="Buscar" alt="Buscar"><i
+                                                                    class="fa fa-search"></i></button>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <input type="hidden" name="_csrf"
+                                                            value="12ba3428-8305-4ea1-afcb-9923469bbe54" />
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                <div class="panel panel-default PanelA hidden-print">
+                                    <div class="panel-heading" role="tab" id="dAojByYearTitle">
+                                        <div class="panel-title panel-title-widget">
+                                            <a role="button" class="collapsed" data-toggle="collapse"
+                                                data-parent="#WDGPanels" href="#dAojByYear" aria-expanded="false"
+                                                aria-controls="dAojByYear"
+                                                onclick="createDocPartCookieWidgets(this); return false;">
+                                                Acceso por año
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div id="dAojByYear" class="panel-collapse collapse" role="tabpanel"
+                                        aria-labelledby="dAojByYearTitle">
+                                        <div class="panel-body">
+                                            <form id="form" name="form"
+                                                action="./../oj/all/direct-access-by-year.html?ojYear=2021"
+                                                method="post">
+                                                <div class="row">
+                                                    <div class="col-xs-4 col-sm-2">
+                                                        <div class="form-group">
+                                                            <fieldset>
+                                                                <label for="yearOJSelect" class="sr-only">Año</label>
+                                                                <select id="yearOJSelect" name="year"
+                                                                    class="input-sm form-control NoBorders"
+                                                                    onchange="$(&#39;#form&#39;).submit(); showHourglass(); return false;">
+
+
+
+                                                                    <option value="2021" selected="selected">2021
+                                                                    </option>
+
+
+                                                                    <option value="2020">2020</option>
+
+
+                                                                    <option value="2019">2019</option>
+
+
+                                                                    <option value="2018">2018</option>
+
+
+                                                                    <option value="2017">2017</option>
+
+
+                                                                    <option value="2016">2016</option>
+
+
+                                                                    <option value="2015">2015</option>
+
+
+                                                                    <option value="2014">2014</option>
+
+
+                                                                    <option value="2013">2013</option>
+
+
+                                                                    <option value="2012">2012</option>
+
+
+                                                                    <option value="2011">2011</option>
+
+
+                                                                    <option value="2010">2010</option>
+
+
+                                                                    <option value="2009">2009</option>
+
+
+                                                                    <option value="2008">2008</option>
+
+
+                                                                    <option value="2007">2007</option>
+
+
+                                                                    <option value="2006">2006</option>
+
+
+                                                                    <option value="2005">2005</option>
+
+
+                                                                    <option value="2004">2004</option>
+
+
+                                                                    <option value="2003">2003</option>
+
+
+                                                                    <option value="2002">2002</option>
+
+
+                                                                    <option value="2001">2001</option>
+
+
+                                                                    <option value="2000">2000</option>
+
+
+                                                                    <option value="1999">1999</option>
+
+
+                                                                    <option value="1998">1998</option>
+
+
+                                                                    <option value="1997">1997</option>
+
+
+                                                                    <option value="1996">1996</option>
+
+
+                                                                    <option value="1995">1995</option>
+
+
+                                                                    <option value="1994">1994</option>
+
+
+                                                                    <option value="1993">1993</option>
+
+
+                                                                    <option value="1992">1992</option>
+
+
+                                                                    <option value="1991">1991</option>
+
+
+                                                                    <option value="1990">1990</option>
+
+
+                                                                    <option value="1989">1989</option>
+
+
+                                                                    <option value="1988">1988</option>
+
+
+                                                                    <option value="1987">1987</option>
+
+
+                                                                    <option value="1986">1986</option>
+
+
+                                                                    <option value="1985">1985</option>
+
+
+                                                                    <option value="1984">1984</option>
+
+
+                                                                    <option value="1983">1983</option>
+
+
+                                                                    <option value="1982">1982</option>
+
+
+                                                                    <option value="1981">1981</option>
+
+
+                                                                    <option value="1980">1980</option>
+
+
+                                                                    <option value="1979">1979</option>
+
+
+                                                                    <option value="1978">1978</option>
+
+
+                                                                    <option value="1977">1977</option>
+
+
+                                                                    <option value="1976">1976</option>
+
+
+                                                                    <option value="1975">1975</option>
+
+
+                                                                    <option value="1974">1974</option>
+
+
+                                                                    <option value="1973">1973</option>
+
+
+                                                                    <option value="1972">1972</option>
+
+
+                                                                    <option value="1971">1971</option>
+
+
+                                                                    <option value="1970">1970</option>
+
+
+                                                                    <option value="1969">1969</option>
+
+
+                                                                    <option value="1968">1968</option>
+
+
+                                                                    <option value="1967">1967</option>
+
+
+                                                                    <option value="1966">1966</option>
+
+
+                                                                    <option value="1965">1965</option>
+
+
+                                                                    <option value="1964">1964</option>
+
+
+                                                                    <option value="1963">1963</option>
+
+
+                                                                    <option value="1962">1962</option>
+
+
+                                                                    <option value="1961">1961</option>
+
+
+                                                                    <option value="1960">1960</option>
+
+
+                                                                    <option value="1959">1959</option>
+
+
+                                                                    <option value="1958">1958</option>
+
+
+                                                                    <option value="1957">1957</option>
+
+
+                                                                    <option value="1956">1956</option>
+
+
+                                                                    <option value="1955">1955</option>
+
+
+                                                                    <option value="1954">1954</option>
+
+
+                                                                    <option value="1953">1953</option>
+
+
+                                                                    <option value="1952">1952</option>
+
+                                                                </select>
+                                                                <input style="" id="button.ok" name="button.ok"
+                                                                    type="submit"
+                                                                    class="btn btn-primary daByYear hideInJsInline"
+                                                                    value="Ok" title="" />
+
+                                                            </fieldset>
+                                                        </div><!-- form-group -->
+                                                    </div><!-- col -->
+                                                    <div class="col-xs-8 col-sm-10">
+                                                        <div class="dropdown MonthSelection">
+                                                            <button class="btn btn-sm btn-default" id="OJMonth"
+                                                                type="button" data-toggle="dropdown"
+                                                                aria-haspopup="true" aria-expanded="false">
+
+
+
+                                                                Todos
+
+
+                                                                <i class="fa fa-caret-down" aria-hidden="true"></i>
+                                                            </button>
+                                                            <ul class="dropdown-menu" aria-labelledby="OJMonth">
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/direct-access.html?ojYear=2021"
+                                                                        id="month.all">Todos</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/01/direct-access.html?ojYear=2021"
+                                                                        id="month.01">Ene</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/02/direct-access.html?ojYear=2021"
+                                                                        id="month.02">Feb</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/03/direct-access.html?ojYear=2021"
+                                                                        id="month.03">Mar</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/04/direct-access.html?ojYear=2021"
+                                                                        id="month.04">Abr</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/05/direct-access.html?ojYear=2021"
+                                                                        id="month.05">May</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/06/direct-access.html?ojYear=2021"
+                                                                        id="month.06">Jun</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/07/direct-access.html?ojYear=2021"
+                                                                        id="month.07">Jul</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/08/direct-access.html?ojYear=2021"
+                                                                        id="month.08">Ago</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/09/direct-access.html?ojYear=2021"
+                                                                        id="month.09">Sep</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/10/direct-access.html?ojYear=2021"
+                                                                        id="month.10">Oct</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/11/direct-access.html?ojYear=2021"
+                                                                        id="month.11">Nov</a>
+                                                                </li>
+
+
+
+
+
+
+
+
+                                                                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    <a href="./../oj/2021/12/direct-access.html?ojYear=2021"
+                                                                        id="month.12">Dic</a>
+                                                                </li>
+
+
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                                <div>
+                                                    <input type="hidden" name="_csrf"
+                                                        value="12ba3428-8305-4ea1-afcb-9923469bbe54" />
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                            <h2 class="titleHeader" class="hidden-print">Ediciones recientes</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <!-- display search results -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <div class="TableToolsWrapper clearfix">
+                                <div class="TableTools">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    <p>
+
+
+
+                                        <span>Resultados</span>&nbsp;<strong>1</strong>&nbsp;-&nbsp;
+
+
+                                        <strong>23</strong>
+                                        &nbsp;<span>de</span>&nbsp;<strong>23</strong>
+
+
+
+                                    </p>
+
+
+                                    <div class="PaginationGroup" role="group" aria-label="Results pagination">
+
+                                        <form id="pagingForm" action="" method="get" name="pagingForm" onsubmit="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            <input class="form-control input-sm NoBorders fewPages hidden-xs"
+                                                type="text" name="page" size="3" title="Página actual" value="1"
+                                                disabled="disabled" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            <input type="hidden" name="locale" value="es"></input>
+                                        </form>
+                                    </div>
+
+
+
+
+
+
+
+
+                                </div>
+                            </div>
+                            <table class="table table-striped table-hover table-condensed OJTable AllBordersTable"
+                                cellspacing="0">
+                                <thead>
+                                    <tr>
+                                        <th>Fecha</th>
+                                        <th>L (Legislación)</th>
+                                        <th>C (Comunicaciones e informaciones)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="highlight">
+                                        <td>15/02/2021</td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:L:2021:050:TOC">L050</a> <a
+                                                href="./../legal-content/ES/TXT/?uri=OJ:L:2021:051:TOC">L051</a> <a
+                                                href="./../legal-content/ES/TXT/?uri=OJ:L:2021:052:TOC">L052</a></td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:C:2021:052:TOC">C052</a> <a
+                                                href="./../legal-content/ES/TXT/?uri=OJ:C:2021:052I:TOC">C052I</a> <a
+                                                href="./../legal-content/ES/TXT/?uri=OJ:C:2021:053:TOC">C053</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>12/02/2021</td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:L:2021:049:TOC">L049</a></td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:C:2021:049:TOC">C049</a> <a
+                                                href="./../legal-content/ES/TXT/?uri=OJ:C:2021:050:TOC">C050</a> <a
+                                                href="./../legal-content/ES/TXT/?uri=OJ:C:2021:051:TOC">C051</a></td>
+                                    </tr>
+                                    <tr class="odd">
+                                        <td>11/02/2021</td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:L:2021:048:TOC">L048</a></td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:C:2021:048:TOC">C048</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>10/02/2021</td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:L:2021:046:TOC">L046</a> <a
+                                                href="./../legal-content/ES/TXT/?uri=OJ:L:2021:047:TOC">L047</a></td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:C:2021:047:TOC">C047</a> <a
+                                                href="./../legal-content/ES/TXT/?uri=OJ:C:2021:047I:TOC">C047I</a></td>
+                                    </tr>
+                                    <tr class="odd">
+                                        <td>09/02/2021</td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:L:2021:044:TOC">L044</a> <a
+                                                href="./../legal-content/ES/TXT/?uri=OJ:L:2021:045:TOC">L045</a></td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:C:2021:046:TOC">C046</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>08/02/2021</td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:L:2021:043:TOC">L043</a></td>
+                                        <td><a href="./../legal-content/ES/TXT/?uri=OJ:C:2021:043:TOC">C043</a> <a
+                                                href="./../legal-content/ES/TXT/?uri=OJ:C:2021:044:TOC">C044</a> <a
+                                                href="./../legal-content/ES/TXT/?uri=OJ:C:2021:045:TOC">C045</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <div class="TableToolsWrapper clearfix">
+                                <div class="TableTools">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    <p>
+
+
+
+                                        <span>Resultados</span>&nbsp;<strong>1</strong>&nbsp;-&nbsp;
+
+
+                                        <strong>23</strong>
+                                        &nbsp;<span>de</span>&nbsp;<strong>23</strong>
+
+
+
+                                    </p>
+
+
+                                    <div class="PaginationGroup" role="group" aria-label="Results pagination">
+
+                                        <form id="pagingForm" action="" method="get" name="pagingForm" onsubmit="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            <input class="form-control input-sm NoBorders fewPages hidden-xs"
+                                                type="text" name="page" size="3" title="Página actual" value="1"
+                                                disabled="disabled" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            <input type="hidden" name="locale" value="es"></input>
+                                        </form>
+                                    </div>
+
+
+
+
+
+
+
+
+                                </div>
+                            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <!-- Editorial content start -->
+                            <div class="EurlexEditorial">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                <!-- Allow to rewrite the links thanks to the included xsl link-replacement.xsl -->
+                                <p>
+                                    El Diario Oficial de la Unión Europea (DO) es la fuente principal de EUR-Lex. Se
+                                    publica todos los días (de lunes a viernes;
+                                    los sábados, domingos y festivos, solo en casos urgentes) en los
+                                    <a href="https://europa.eu/european-union/topics/multilingualism_en" rel="noopener"
+                                        target="new">idiomas oficiales de la UE<i class="fa fa-external-link"
+                                            aria-hidden="true">​</i>​
+                                    </a>
+                                    .
+
+                                </p>
+                                <a class="btn btn-link ViewMoreInfo collapsed" role="button" data-toggle="collapse"
+                                    href="#AdditionalEditorial" aria-expanded="false"
+                                    aria-controls="AdditionalEditorial">
+                                    <span class="VMIMore">Más información</span>
+                                    <span class="VMILess">Menos información</span>
+                                </a>
+
+                                <div class="collapse" id="AdditionalEditorial" aria-expanded="false">
+
+                                    <p>Tiene dos series:</p>
+
+                                    <ul>
+
+                                        <li>
+                                            <strong>L (legislación)</strong>
+
+                                        </li>
+
+                                        <li>
+                                            <strong>C (comunicaciones e informaciones)</strong>
+                                            .
+
+                                        </li>
+
+                                    </ul>
+
+                                    <ul>
+
+                                        <p>
+                                            La
+                                            <strong>subserie A de la serie C</strong>
+                                            (por ejemplo, C019A) lleva el mismo número que el de la serie C publicado el
+                                            mismo día y contiene convocatorias de manifestaciones
+                                            de interés, anuncios de vacantes, etc. Los números de esta subserie pueden
+                                            publicarse en uno, en varios o en todos los idiomas
+                                            oficiales.
+
+                                        </p>
+
+                                        <p>
+                                            El 1 de enero de 2016 se introdujo la
+                                            <strong>nueva subserie LI y CI</strong>
+                                            , que permite una mayor flexibilidad en caso de cambios en el contenido
+                                            planificado del Diario Oficial. Se utilizó por primera
+                                            vez el 16 de enero de 2016 (L011I, C015I).
+
+                                        </p>
+
+                                    </ul>
+
+                                    <p>
+                                        Desde el 1 de enero de 2015, la numeración de los actos jurídicos de la UE ha
+                                        cambiado. Infórmese sobre el
+                                        <a href="./../content/tools/elaw/OA0614022END.pdf" target="_blank">nuevo método
+                                            de numeración</a>
+                                        .
+
+                                    </p>
+
+                                    <p>
+                                        <strong>Formatos</strong>
+
+                                    </p>
+
+                                    <p>
+                                        Esta web contiene ejemplares
+                                        <strong>electrónicos</strong>
+                                        de todos los Diarios Oficiales desde la primera edición.
+
+                                    </p>
+
+                                    <p>
+                                        Desde el 1 de julio de 2013, la versión electrónica del DO es auténtica y surte
+                                        efecto jurídico. Más sobre el
+                                        <a href="./../content/oj/e-oj.html">DO electrónico</a>
+                                        .
+
+                                    </p>
+
+                                    <p>
+                                        Aún tiene la posibilidad de adquirir una versión impresa no auténtica del Diario
+                                        Oficial en la web de
+                                        <a href="mailto:OP-CUSTOMER-SUPPORT@publications.europa.eu?Subject=Buy printed single copies of the Official Journal (priced)&amp;body=I would like to buy the following issue of the Official Journal:%0D%0ASeries (L or C):%0D%0ANr:%0D%0AYear:%0D%0ALanguage:%0D%0AKind regards."
+                                            rel="noopener" target="_blank">publicaciones de la UE<i
+                                                class="fa fa-external-link" aria-hidden="true">​</i>​
+                                        </a>
+                                        .
+
+                                    </p>
+
+                                    <p>
+                                        Estructura del Diario Oficial:
+                                        <a href="./../content/oj/Structure_eOJ_EU_es.pdf" target="_blank">pdf</a>.
+
+                                    </p>
+
+                                </div>
+
+
+                                <!-- Editorial content end -->
+                            </div>
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    loadDocWidgets("dA");
+                });
+            </script>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- New EUR-Lex footer -->
+        <footer class="clearfix">
+            <nav class="container-fluid">
+                <ul class="SiteTools">
+
+                    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <a href="./../content/welcome/about.html">Acerca de</a>
+                    </li>
+                    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <a href="./../content/site-map/site-map.html">Mapa del sitio</a>
+                    </li>
+                    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <a href="./../content/help/pages/help-default.html#top">Ayuda</a>
+                    </li>
+                    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <a href="./../content/links/links.html">Enlaces</a>
+                    </li>
+                    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <a href="./../content/legal-notice/legal-notice.html">Aviso jurídico</a>
+                    </li>
+                    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <a href="./../newsletter/newsletterLatest.html">Boletín</a>
+                    </li>
+                    <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <a href="./../contact.html">Contacto</a>
+                    </li>
+                </ul>
+                <div class="FooterTitle">Otras webs gestionadas por la Oficina de Publicaciones</div>
+                <ul class="OPOtherLinks">
+                    <li>
+
+                        <a title="Publicaciones de la UE"
+                            href="https://op.europa.eu/es/web/general-publications/publications" class="OP-Bookshop"
+                            target="_blank">Publicaciones de la UE</a>
+                    </li>
+                    <li>
+                        <a title="EU Open Data Portal" href="https://data.europa.eu/euodp/es/data/" class="OP-Opendata"
+                            target="_blank">EU Open Data Portal</a>
+                    </li>
+                    <li>
+                        <a title="Ted" href="https://ted.europa.eu/TED/main/HomePage.do" class="OP-Ted"
+                            target="_blank">Ted</a>
+                    </li>
+                    <li>
+                        <a title="Whoiswho" href="https://op.europa.eu/es/web/who-is-who" class="OP-Whoiswho"
+                            target="_blank">Whoiswho</a>
+                    </li>
+                    <li>
+                        <a title="CORDIS" href="https://cordis.europa.eu/es" class="OP-Cordis"
+                            target="_blank">CORDIS</a>
+                    </li>
+                    <li>
+                        <a title="Portal de la Oficina de Publicaciones de la UE" href="https://op.europa.eu/es/home"
+                            class="OP-Portal" target="_blank">Portal de la Oficina de Publicaciones de la UE</a>
+                    </li>
+                    <li>
+                        <a title="N-Lex" href="https://n-lex.europa.eu/n-lex/index?lang=es" class="OP-Nlex"
+                            target="_blank">N-Lex</a>
+                    </li>
+                </ul>
+            </nav><!-- container -->
+            <a href="#" class="btn btn-xs btn-primary EurlexTop"><i class="fa fa-arrow-up"></i></a>
+
+
+            <div class="panel-footer text-center switchToDesktop">
+                <ul class="list-unstyled">
+                    <li class="hide" id="switchToMobile">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <a href="#" class="OP-Nlex"
+                            onclick="createCookie(&#039;desktopModeOn&#039;,&#039;false&#039;,&#039;30&#039;);window.location.reload(true);">
+                            Cambiar a móvil&nbsp;<i class="fa fa-mobile"></i>
+                        </a>
+                    </li>
+                    <li class="hide" id="switchToDesktop">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <a href="#" class="OP-Nlex"
+                            onclick="createCookie(&#039;desktopModeOn&#039;,&#039;true&#039;,&#039;30&#039;);window.location.reload(true);">
+                            Cambiar a escritorio&nbsp;<i class="fa fa-desktop"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                var switchToDesktop = "notSelected";
+                var deviceDetected = "desktop";
+                //enable switch to desktop view for mobile devices
+                if (deviceDetected == 'mobile') {
+                    if ((switchToDesktop == 'false' || switchToDesktop == 'notSelected') && window.innerWidth < 992) {
+                        $("#switchToDesktop").removeClass("hide");
+                    } else if (switchToDesktop == 'true') {
+                        $("#switchToMobile").removeClass("hide");
+                    }
+                }
+            });
+        </script>
+    </div>
+
+    <script type="text/javascript" src="./../js/jquery.js?v=2.7.3"></script>
+
+
+    <script>(function ($, d) { $.each(readyQ, function (i, f) { $(f) }); $.each(bindReadyQ, function (i, f) { $(d).bind("ready", f) }) })(jQuery, document)</script>
+
+    <script type="text/javascript" src="./../js/eur-lex.js?v=2.7.3"></script>
+
+
+
+
+    <script type="text/javascript" src="./../js/WT_functionality.js?v=2.7.3"></script>
+    <script type="text/javascript" src="./../js/machineTranslation.js?v=2.7.3"></script>
+    <script type="text/javascript" src="./../js/loadOjDirectAccessValues.js?v=2.7.3"></script>
+
+
+
+
+    <script type="text/javascript"
+        src="./../revamp/components/vendor/moment/min/moment-with-locales.min.js?v=2.7.3"></script>
+
+    <script type="text/javascript"
+        src="./../revamp/components/vendor/bootstrap/dist/js/bootstrap.min.js?v=2.7.3"></script>
+
+
+
+    <script type="text/javascript"
+        src="./../revamp/components/vendor/bootstrap-3-typeahead/js/bootstrap3-typeahead_customized.min.js?v=2.7.3"></script>
+
+    <script type="text/javascript" src="./../revamp/js/ie10-viewport-bug-workaround.js?v=2.7.3"></script>
+    <script type="text/javascript" src="./../revamp/js/metisMenu.min.js?v=2.7.3"></script>
+
+    <script type="text/javascript" src="./../revamp/js/timeline.main.js?v=2.7.3"></script>
+
+    <script type="text/javascript" src="./../revamp/js/jquery.autoresize.min.js?v=2.7.3"></script>
+
+    <script type="text/javascript" src="./../revamp/js/eurlex.js?v=2.7.3"></script>
+
+
+    <script type="text/javascript" src="./../revamp/components/vendor/bootstrap/js/transition.js?v=2.7.3"></script>
+
+    <script type="text/javascript" src="./../revamp/components/vendor/bootstrap/js/collapse.js?v=2.7.3"></script>
+
+    <script type="text/javascript"
+        src="./../revamp/components/vendor/gasparesganga-jquery-loading-overlay/src/loadingoverlay.min.js?v=2.7.3"></script>
+
+    <script type="text/javascript" src="./../js/popupWidgetTitle.js?v=2.7.3"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript" src="./../js/webtrends.js?v=2.7.3"></script>
     <script type="text/javascript">
-        var _paq = _paq || [];
-        _paq.push(["trackPageView"]);
-        _paq.push(["enableLinkTracking"]);
-
-        (function () {
-            var u = (("https:" == document.location.protocol) ? "https" : "http") + "://piwik.jccm.es/";
-            _paq.push(["setTrackerUrl", u + "piwik.php"]);
-            _paq.push(["setSiteId", "22"]);
-            var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0]; g.type = "text/javascript";
-            g.defer = true; g.async = true; g.src = u + "piwik.js"; s.parentNode.insertBefore(g, s);
-        })();
+        //<![CDATA[
+        var _tag = new WebTrends();
+        _tag.dcsGetId();
+        _tag.dcsCustom = function () {
+            // Add custom parameters here.
+            //_tag.DCSext.param_name=param_value;
+        }
+      //]]>
     </script>
-    <!-- End Piwik Code -->
+    <noscript>
+        <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1"
+                src="http://sdc-op.mainstrat.com/dcszgmkqs100008qxd83quum3_9q5x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.eur-lex.europa.eu" />
+        </div>
+    </noscript>
 
+    <!-- END OF SmartSource Data Collector TAG -->
+
+    <script defer src="https://europa.eu/webtools/load.js" type="text/javascript"></script>
+
+
+
+
+
+    <script
+        type="application/json">{"utility":"piwik","siteID":"61","siteSection":"Official Journal of the European Union\/Direct access to the Official Journal","sitePath":["eur-lex.europa.eu"],"lang":"es","instance":"europa.eu"}</script>
+
+
+    <script type="text/javascript" src="./../js/cookieConsentKitUtils.js?v=2.7.3"></script>
 </body>
-
 
 </html>

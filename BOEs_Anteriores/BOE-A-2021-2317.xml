@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210216135601">
+  <metadatos>
+    <identificador>BOE-A-2021-2317</identificador>
+    <titulo>Orden APA/127/2021, de 8 de febrero, por la que se modifica la Orden AAA/1745/2012, de 26 de julio, por la que se crea la Comisión Ministerial de Seguimiento y Coordinación de Ayudas del Ministerio de Agricultura, Alimentación y Medio Ambiente y de sus organismos públicos y entidades vinculadas o dependientes.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>40</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="3120">Ministerio de Agricultura, Pesca y Alimentación</departamento>
+    <rango codigo="1350">Orden</rango>
+    <numero_oficial>APA/127/2021</numero_oficial>
+    <fecha_disposicion>20210208</fecha_disposicion>
+    <fecha_publicacion>20210216</fecha_publicacion>
+    <fecha_vigencia>20210301</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>17743</pagina_inicial>
+    <pagina_final>17745</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-2317</url_epub>
+    <url_pdf>/boe/dias/2021/02/16/pdfs/BOE-A-2021-2317.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/o/2021/02/08/apa127</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2021/02/08/apa127">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2317</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-08</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">apa127</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2021/02/08/apa127/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2317</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-08</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">apa127</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/apa127"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2021/02/08/apa127/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden APA/127/2021, de 8 de febrero, por la que se modifica la Orden AAA/1745/2012, de 26 de julio, por la que se crea la Comisión Ministerial de Seguimiento y Coordinación de Ayudas del Ministerio de Agricultura, Alimentación y Medio Ambiente y de sus organismos públicos y entidades vinculadas o dependientes.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-16</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/apa127/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/02/08/apa127/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/apa127/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/02/08/apa127/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/apa127/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/02/08/apa127/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/apa127/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/02/08/apa127/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/apa127/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="420" orden="">Ayudas</materia>
+      <materia codigo="1232" orden="">Comisiones de Control y Seguimiento</materia>
+      <materia codigo="4960" orden="">Ministerio de Agricultura Pesca y Alimentación</materia>
+      <materia codigo="5278" orden="">Organización de la Administración del Estado</materia>
+      <materia codigo="6800" orden="">Subvenciones</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2012-10552" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 4 de la Orden AAA/1745/2012, de 26 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2015-10566" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>la Ley 40/2015, de 1 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">La creación de la Comisión Ministerial de Seguimiento y Coordinación de Ayudas del entonces Ministerio de Agricultura, Alimentación y Medio Ambiente y de sus organismos públicos y entidades vinculadas o dependientes por la Orden AAA/1745/2012, de 26 de julio, tenía su base en el artículo 31.2 de la Constitución Española, que señala que el gasto público realizará una asignación equitativa de los recursos públicos y su programación y ejecución responderán a los criterios de eficiencia y economía, y el artículo 135 de la Constitución dispone que todas las Administraciones Públicas adecuarán sus actuaciones al principio de estabilidad presupuestaria.</p>
+    <p class="parrafo">Este elemento constitucional, junto con el regulado en el artículo 135, se concretó posteriormente en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, que establece umbrales máximos de déficit estructural y deuda pública, así como un techo de gasto, que suponen un límite a la actividad de gasto de todo el sector público.</p>
+    <p class="parrafo">Según el artículo 8.2 del Real Decreto 689/2020, de 21 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Hacienda, corresponde a la Secretaría de Estado de Presupuestos y Gastos la formulación de la propuesta de los objetivos de estabilidad presupuestaria y el límite de gasto no financiero del Estado, siendo esta Secretaría de Estado la que realizará el seguimiento del cumplimiento de los objetivos de estabilidad presupuestaria, deuda pública y regla de gasto respecto de la totalidad del sector público y propondrá la adopción de las medidas tendentes a corregir las desviaciones que pudieran producirse.</p>
+    <p class="parrafo">Por ende, un Departamento como el hoy Ministerio de Agricultura, Pesca y Alimentación, que dispone para sus políticas públicas de un presupuesto previamente determinado por el legislador, ejecuta un gasto público que ya ha sido analizado y limitado con anterioridad y que ha tenido cumplido encaje en la citada Ley Orgánica. Además, conforme a lo dispuesto en el artículo 8.2 del ya mencionado Real Decreto 689/2020, de 21 de julio, tiene superada su capacidad real de control de la estabilidad presupuestaria al estar ínsito en una estructura de supervisión de tales parámetros de carácter general y uniforme para todo el Estado ejercida por el Ministerio de Hacienda.</p>
+    <p class="parrafo">Así, la única incidencia posible sobre la estabilidad y sostenibilidad de las finanzas públicas derivaría del impacto de tales ayudas en los destinatarios, caso de las comunidades autónomas o sus organismos dependientes, en cuyo caso también se debe solicitar informe de la Secretaría de Estado de Presupuestos y Gastos.</p>
+    <p class="parrafo">De lo anterior cabe deducir que con el fin de ganar en eficiencia y evitar duplicidades, no procede atribuir la labor de seguimiento del principio de estabilidad presupuestara a una comisión ministerial, puesto que ya recae con carácter horizontal y centralizado en la Secretaría de Estado mencionada.</p>
+    <p class="parrafo">Por otro lado, el ánimo del legislador de introducir la programación y la planificación estratégica de la actividad subvencional de las Administraciones, dado su importante repercusión presupuestaria, ha quedado plasmado en la Ley 38/2003, de 17 de noviembre, General de Subvenciones. Asimismo, dicha planificación es posteriormente concretada y desarrollada en el Real Decreto 887/2006, de 21 julio, por el que se aprueba el Reglamento de la Ley General de Subvenciones, lo que hace que su control y seguimiento en el Ministerio de Agricultura, Pesca y Alimentación deba subsistir, cuestión que se ha reforzado con la Guía general para la elaboración, seguimiento, control, evaluación y publicidad de los planes estratégicos de subvenciones, de la Intervención General del Estado. Procede, por lo tanto, recoger en la norma la competencia para aprobar el seguimiento y actualización de dicho plan.</p>
+    <p class="parrafo">Asimismo, se clarifican algunas de las funciones que la redacción actual del artículo 4 atribuía a la Comisión, con el fin de concretar sus atribuciones y facilitar su funcionamiento, fruto de la experiencia acumulada durante esta casi década de actividad.</p>
+    <p class="parrafo">Por todo lo anterior, resulta procedente modificar las atribuciones de la Comisión Ministerial de Seguimiento y Coordinación de Ayudas del Ministerio de Agricultura, Alimentación y Medio Ambiente y de sus Organismos Públicos y Entidades Vinculadas o Dependientes, así como clarificar las referencias normativas, ajustando las competencias de esta Comisión para lograr una mayor eficiencia y para asegurar la concordancia con la normativa vigente en relación con la nueva realidad competencial.</p>
+    <p class="parrafo">Esta modificación normativa tiene su fundamento, al igual que el referido a la orden objeto de modificación, en lo dispuesto por el capítulo II, sección 3.ª, relativa a órganos colegiados de las distintas administraciones públicas, de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.</p>
+    <p class="parrafo">En la elaboración de esta norma se han observado los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Así, de acuerdo con los principios de necesidad y eficacia, se justifica el proyecto en la necesidad de la modificación de las competencia de la citada Comisión de seguimiento de ayudas, en concordancia con la normativa vigente en relación con la nueva realidad competencial, al ser necesario que la regulación se contemple en una norma. Se cumple el principio de proporcionalidad y la regulación se limita al mínimo imprescindible para cumplir con dicha normativa. El principio de seguridad jurídica se garantiza al establecerse en una disposición general las nuevas previsiones en coherencia con el resto del ordenamiento jurídico. Asimismo, en aplicación del principio de transparencia han sido consultadas las unidades del Departamento, en el ejercicio de la potestad reglamentaria en las materias propias del mismo, de acuerdo con lo señalado por artículo 4 de la Ley 50/1997, de 27 de noviembre, del Gobierno, e igualmente ha sido consultado el Ministerio de Hacienda. Finalmente, el principio de eficiencia se considera cumplido toda vez que no se imponen nuevas cargas administrativas frente a la regulación actual.</p>
+    <p class="parrafo">En su virtud, con la aprobación previa de la Ministra de Política Territorial y Función Pública, dispongo:</p>
+    <p class="articulo">Artículo único. Modificación de la Orden AAA/1745/2012, de 26 de julio, por la que se crea la Comisión Ministerial de Seguimiento y Coordinación de Ayudas del Ministerio de Agricultura, Alimentación y Medio Ambiente y de sus organismos públicos y entidades vinculadas o dependientes.</p>
+    <p class="parrafo">El artículo 4 de la Orden AAA/1745/2012, de 26 de julio, por la que se crea la Comisión Ministerial de Seguimiento y Coordinación de Ayudas del Ministerio de Agricultura, Alimentación y Medio Ambiente y de sus organismos públicos y entidades vinculadas o dependientes, queda redactado como sigue:</p>
+    <blockquote class="sangrado">
+      <p class="articulo">«Artículo 4. Funciones.</p>
+      <p class="parrafo">Son funciones de la Comisión:</p>
+      <p class="parrafo_2">a) Informar, con carácter previo, el Plan Estratégico de Subvenciones del Departamento o sus organismos públicos previsto en el artículo 8.1 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y aprobar su seguimiento y actualización.</p>
+      <p class="parrafo">b) Realizar el seguimiento sobre la justificación, reintegro y sanción, en su caso, de las subvenciones en sentido amplio, concedidas, sin perjuicio de las competencias de los órganos concedentes y de la Intervención Delegada en el Departamento, y emitir, en su caso, recomendaciones a las mismas.</p>
+      <p class="parrafo">c) Informar con carácter previo sobre la propuesta de acuerdo de Conferencia Sectorial de créditos que hayan de distribuirse territorialmente a favor de las comunidades autónomas, previa comprobación llevada a cabo por los centros gestores de la justificación que las comunidades autónomas presenten de la ejecución realizada de los créditos transferidos y el estado de las líneas suprimidas.</p>
+      <p class="parrafo">d) Conocer y en su caso valorar las ayudas de Estado, en especial las ayudas de «minimis» que se adoptan en el Departamento.</p>
+      <p class="parrafo">e) Proponer la reordenación general de las ayudas de cualquier clase concedidas con fondos del Departamento.</p>
+      <p class="parrafo">f) Informar a los centros directivos proponentes sobre la documentación que deba acompañar a todo proyecto de subvención nominativa, de base reguladora o convocatoria de subvenciones en concurrencia competitiva o de beca, referente a la idoneidad de la ayuda para cumplir con los fines pretendidos, en particular con respecto a los resultados obtenidos en anteriores ocasiones, sin perjuicio de lo determinado en su legislación reguladora.</p>
+      <p class="parrafo">g) Determinar la información que los centros directivos hayan de suministrar a la Comisión, compendiando la ejecución y diseño de dichas ayudas.</p>
+      <p class="parrafo">h) Informar sobre cuantas cuestiones en materia de ayudas públicas le sean sometidas por el presidente.»</p>
+    </blockquote>
+    <p class="articulo">Disposición adicional única. Referencias normativas.</p>
+    <p class="parrafo">Las referencias hechas al Ministerio de Agricultura, Alimentación y Medio Ambiente deben entenderse referidas al Ministerio de Agricultura, Pesca y Alimentación.</p>
+    <p class="articulo">Disposición final única. Entrada en vigor.</p>
+    <p class="parrafo">La presente orden entrará en vigor el 1 de marzo de 2021.</p>
+    <p class="parrafo_2">Madrid, 8 de febrero de 2021.–El Ministro de Agricultura, Pesca y Alimentación, Luis Planas Puchades.</p>
+  </texto>
+</documento>
