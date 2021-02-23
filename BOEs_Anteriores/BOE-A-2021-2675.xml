@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210222085601">
+  <metadatos>
+    <identificador>BOE-A-2021-2675</identificador>
+    <titulo>Corrección de errores de la Orden CUD/122/2021, de 9 de febrero, por la que se determina la composición y funciones de la Comisión Administradora del Fondo de Ayuda a las Bellas Artes.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>45</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="9570">Ministerio de Cultura y Deporte</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <numero_oficial/>
+    <fecha_disposicion/>
+    <fecha_publicacion>20210222</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>20295</pagina_inicial>
+    <pagina_final>20295</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-2675</url_epub>
+    <url_pdf>/boe/dias/2021/02/22/pdfs/BOE-A-2021-2675.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="1232" orden="">Comisiones de Control y Seguimiento</materia>
+      <materia codigo="4575" orden="">Ministerio de Cultura y Deporte</materia>
+      <materia codigo="5278" orden="">Organización de la Administración del Estado</materia>
+      <materia codigo="5331" orden="">Órganos colegiados</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+    </alertas>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Advertido error en la Orden CUD/122/2021, de 9 de febrero, por la que se determina la composición y funciones de la Comisión Administradora del Fondo de Ayuda a las Bellas Artes, publicada en el «Boletín Oficial del Estado» núm. 39, de 15 de febrero de 2021, se procede a efectuar la oportuna rectificación:</p>
+    <p class="parrafo_2">En la página 16861, artículo 6, en la quinta línea, donde dice: «… de la Ley 43/2003, de 26 de noviembre…», debe decir: «… de la Ley 47/2003, de 26 de noviembre…».</p>
+  </texto>
+</documento>

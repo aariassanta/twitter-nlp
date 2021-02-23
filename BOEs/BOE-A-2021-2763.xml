@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210223112601">
+  <metadatos>
+    <identificador>BOE-A-2021-2763</identificador>
+    <titulo>Cuestión de inconstitucionalidad n.º 6283-2020, en relación con el artículo 10.8 de la Ley reguladora de la Jurisdicción Contencioso-administrativa, introducido por la disposición final segunda de la Ley 3/2020, de 18 de septiembre, de medidas procesales y organizativas para hacer frente al COVID-19 en el ámbito de la Administración de Justicia.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>46</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="63">Providencia</rango>
+    <numero_oficial>6283/2020</numero_oficial>
+    <fecha_disposicion>20210216</fecha_disposicion>
+    <fecha_publicacion>20210223</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>20523</pagina_inicial>
+    <pagina_final>20523</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-2763</url_epub>
+    <url_pdf>/boe/dias/2021/02/23/pdfs/BOE-A-2021-2763.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="78" orden="">Administración de Justicia</materia>
+      <materia codigo="397" orden="">Autorizaciones</materia>
+      <materia codigo="2253" orden="">Cuestiones de inconstitucionalidad</materia>
+      <materia codigo="4701" orden="">Jurisdicción Contencioso Administrativa</materia>
+      <materia codigo="6278" orden="">Sanidad</materia>
+      <materia codigo="6980" orden="">Tribunales Superiores de Justicia</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="138" orden="">Administración de Justicia</alerta>
+      <alerta codigo="111" orden="">Derecho Constitucional</alerta>
+      <alerta codigo="124" orden="">Sanidad</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1998-16718" orden="4040">
+          <palabra codigo="530">Cuestion promovida por supuesta inconstitucionalidad</palabra>
+          <texto>del art. 10.8 de la Ley 29/1998, de 13 de julio, en la redacción dada por la disposición final 2.2 de la Ley 3/2020, de 18 de septiembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2020-10923" orden="4041">
+          <palabra codigo="530">Cuestion promovida por supuesta inconstitucionalidad</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Pleno del Tribunal Constitucional, por providencia de 16 de febrero de 2021, ha acordado admitir a trámite la cuestión de inconstitucionalidad número 6283-2020, planteada por la Sección 1.ª de la Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia de Aragón, con sede en Zaragoza, en el procedimiento 332-2020, en relación con el artículo 10.8 de la Ley reguladora de la Jurisdicción Contencioso-administrativa, introducido por la disposición final segunda de la Ley 3/2020, de 18 de septiembre, de medidas procesales y organizativas para hacer frente al COVID-19 en el ámbito de la Administración de Justicia, y, de conformidad con lo dispuesto en el artículo 10.1.c) LOTC, reservar para sí el conocimiento de la presente cuestión.</p>
+    <p class="parrafo">De conformidad con lo establecido en el artículo 37.2 LOTC, quienes sean parte en el procedimiento 332-2020, podrán personarse ante este Tribunal dentro de los quince días siguientes a la publicación del presente edicto en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 16 de febrero de 2021.–El Secretario de Justicia del Pleno del Tribunal Constitucional, Alfonso Pérez Camino.</p>
+  </texto>
+</documento>

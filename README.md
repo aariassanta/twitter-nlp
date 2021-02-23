@@ -10,6 +10,7 @@ Commits:
 ## BOE
 ---
 * Sólo considera Seción I. Disposiciones generales
+* Sólo considera ámbito de BBDD_ASECORP España
 * Intentar incluír también Sección Anuncios, con código similar a :
 
     ```el = doc.xpath("//div[contains(@class, 'channel') and not(contains(@class, 'disabled'))]")```
@@ -21,6 +22,7 @@ Commits:
 ## DOUE
 ---
 * De momento sólo incorpora sección L
+* Revisar que ámbito de BBDD_ASECORP incluya Europa
 
 ## DOCM (Diario Oficial de Castilla la Mancha)
 ---

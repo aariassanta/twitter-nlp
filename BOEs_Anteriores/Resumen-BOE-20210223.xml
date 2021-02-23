@@ -1,0 +1,2397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sumario>
+  <meta>
+    <pub>BOE</pub>
+    <anno>2021</anno>
+    <fecha>23/02/2021</fecha>
+    <fechaInv>2021/02/23</fechaInv>
+    <fechaAnt>22/02/2021</fechaAnt>
+    <fechaAntAnt>20/02/2021</fechaAntAnt>
+    <fechaSig></fechaSig>
+    <fechaPub>martes 23 de febrero de 2021</fechaPub>
+    <pubDate>Tue, 23 Feb 2021 00:00:00 +0100</pubDate>
+  </meta>
+  <diario nbo="46">
+    <sumario_nbo id="BOE-S-2021-46">
+      <urlPdf szBytes="532325" szKBytes="520">/boe/dias/2021/02/23/pdfs/BOE-S-2021-46.pdf</urlPdf>
+    </sumario_nbo>
+    <seccion num="1" nombre="I. Disposiciones generales">
+      <departamento nombre="JEFATURA DEL ESTADO" etq="7723">
+        <epigrafe nombre="Educación">
+          <item id="BOE-A-2021-2761" control="2021/2697">
+            <titulo>Corrección de errores de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.</titulo>
+            <urlPdf szBytes="148279" szKBytes="145" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2761.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2761</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2761</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="TRIBUNAL CONSTITUCIONAL" etq="1410">
+        <epigrafe nombre="Recursos de inconstitucionalidad">
+          <item id="BOE-A-2021-2762" control="2021/2447">
+            <titulo>Recurso de inconstitucionalidad n.º 231-2021, contra la Ley 1/2020, de 8 de octubre, por la que se modifica la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid, para el impulso y reactivación de la actividad urbanística.</titulo>
+            <urlPdf szBytes="211910" szKBytes="207" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2762.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2762</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2762</urlXml>
+          </item>
+        </epigrafe>
+        <epigrafe nombre="Cuestión de inconstitucionalidad">
+          <item id="BOE-A-2021-2763" control="2021/2446">
+            <titulo>Cuestión de inconstitucionalidad n.º 6283-2020, en relación con el artículo 10.8 de la Ley reguladora de la Jurisdicción Contencioso-administrativa, introducido por la disposición final segunda de la Ley 3/2020, de 18 de septiembre, de medidas procesales y organizativas para hacer frente al COVID-19 en el ámbito de la Administración de Justicia.</titulo>
+            <urlPdf szBytes="214076" szKBytes="209" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2763.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2763</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2763</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN" etq="9562">
+        <epigrafe nombre="Acuerdos internacionales administrativos">
+          <item id="BOE-A-2021-2764" control="2021/2605">
+            <titulo>Acuerdo internacional administrativo para la adhesión al Acuerdo multilateral sobre el intercambio de microdatos en el contexto de las estadísticas de comercio de bienes dentro de la Unión Europea.</titulo>
+            <urlPdf szBytes="489122" szKBytes="478" numPag="25">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2764.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2764</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2764</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="COMUNIDAD AUTÓNOMA DE LA RIOJA" etq="8110">
+        <epigrafe nombre="Presupuestos">
+          <item id="BOE-A-2021-2765" control="2021/1769">
+            <titulo>Ley 1/2021, de 29 de enero, de Presupuestos Generales de la Comunidad Autónoma de La Rioja para el año 2021.</titulo>
+            <urlPdf szBytes="6855517" szKBytes="6695" numPag="225">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2765.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2765</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2765</urlXml>
+          </item>
+        </epigrafe>
+        <epigrafe nombre="Medidas fiscales y administrativas">
+          <item id="BOE-A-2021-2766" control="2021/1770">
+            <titulo>Ley 2/2021, de 29 de enero, de Medidas Fiscales y Administrativas para el año 2021.</titulo>
+            <urlPdf szBytes="373854" szKBytes="365" numPag="24">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2766.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2766</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2766</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="COMUNIDAD AUTÓNOMA DE ARAGÓN" etq="8020">
+        <epigrafe nombre="Sanidad">
+          <item id="BOE-A-2021-2767" control="2021/2542">
+            <titulo>Ley 3/2020, de 3 de diciembre, por la que se establece el régimen jurídico de alerta sanitaria para el control de la pandemia COVID-19 en Aragón.</titulo>
+            <urlPdf szBytes="490362" szKBytes="479" numPag="42">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2767.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2767</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2767</urlXml>
+          </item>
+        </epigrafe>
+        <epigrafe nombre="Presupuestos">
+          <item id="BOE-A-2021-2768" control="2021/2543">
+            <titulo>Ley 4/2020, de 30 de diciembre, de Presupuestos de la Comunidad Autónoma de Aragón para el ejercicio 2021.</titulo>
+            <urlPdf szBytes="688167" szKBytes="672" numPag="68">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2768.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2768</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2768</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="COMUNIDAD AUTÓNOMA DE CANARIAS" etq="8030">
+        <epigrafe nombre="Impuestos">
+          <item id="BOE-A-2021-2769" control="2021/2374">
+            <titulo>Decreto-ley 2/2020, de 31 de enero, por el que se establecen los límites para la aplicación del régimen simplificado y el régimen especial de la agricultura, ganadería y pesca del Impuesto General Indirecto Canario.</titulo>
+            <urlPdf szBytes="235058" szKBytes="230" numPag="4">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2769.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2769</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2769</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+    </seccion>
+    <seccion num="2A" nombre="II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias">
+      <departamento nombre="MINISTERIO DE JUSTICIA" etq="4810">
+        <epigrafe nombre="Situaciones">
+          <item id="BOE-A-2021-2770" control="2021/2544">
+            <titulo>Resolución de 16 de febrero de 2021, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se declara la jubilación del notario de Jerez de la Frontera, don Óscar Alberto Fernández Ayala.</titulo>
+            <urlPdf szBytes="214463" szKBytes="209" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2770.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2770</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2770</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA" etq="9561">
+        <epigrafe nombre="Nombramientos">
+          <item id="BOE-A-2021-2771" control="2021/2547">
+            <titulo>Resolución de 17 de febrero de 2021, de la Secretaría de Estado de Política Territorial y Función Pública, por la que se nombran funcionarios de carrera, por el sistema general de acceso libre, de la Escala de Médicos Inspectores del Cuerpo de Inspección Sanitaria de la Administración de la Seguridad Social.</titulo>
+            <urlPdf szBytes="370747" szKBytes="362" numPag="7">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2771.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2771</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2771</urlXml>
+          </item>
+          <item id="BOE-A-2021-2772" control="2021/2548">
+            <titulo>Resolución de 17 de febrero de 2021, de la Secretaría de Estado de Política Territorial y Función Pública, por la que se nombran funcionarios de carrera, por el sistema general de acceso libre y promoción interna, del Cuerpo Superior de Técnicos de la Administración de la Seguridad Social.</titulo>
+            <urlPdf szBytes="484272" szKBytes="473" numPag="10">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2772.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2772</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2772</urlXml>
+          </item>
+          <item id="BOE-A-2021-2773" control="2021/2549">
+            <titulo>Resolución de 17 de febrero de 2021, de la Secretaría de Estado de Política Territorial y Función Pública, por la que se nombran funcionarios de carrera, por el sistema general de acceso libre, del Cuerpo de Subinspectores Laborales, Escala de Seguridad y Salud Laboral.</titulo>
+            <urlPdf szBytes="577312" szKBytes="564" numPag="15">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2773.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2773</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2773</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="MINISTERIO DE CIENCIA E INNOVACIÓN" etq="4245">
+        <epigrafe nombre="Destinos">
+          <item id="BOE-A-2021-2774" control="2021/2550">
+            <titulo>Resolución de 17 de febrero de 2021, de la Subsecretaría, por la que, en estimación de recurso de reposición, se modifica la adjudicación de puesto de trabajo del concurso general, convocado por Resolución de 2 de julio de 2018.</titulo>
+            <urlPdf szBytes="216260" szKBytes="211" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2774.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2774</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2774</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES" etq="9579">
+        <epigrafe nombre="Destinos">
+          <item id="BOE-A-2021-2775" control="2021/2552">
+            <titulo>Resolución de 17 de febrero de 2021, de la Subsecretaría, por la que se corrigen errores en la de 19 de enero de 2021, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 11 de diciembre de 2020.</titulo>
+            <urlPdf szBytes="214199" szKBytes="209" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2775.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2775</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2775</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="UNIVERSIDADES" etq="310">
+        <epigrafe nombre="Nombramientos">
+          <item id="BOE-A-2021-2776" control="2021/2554">
+            <titulo>Resolución de 28 de enero de 2021, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesora Titular de Universidad a doña Lidia Ruth Montes Burgos.</titulo>
+            <urlPdf szBytes="216360" szKBytes="211" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2776.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2776</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2776</urlXml>
+          </item>
+          <item id="BOE-A-2021-2777" control="2021/2555">
+            <titulo>Resolución de 28 de enero de 2021, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Catedrático de Universidad a don Mikel Xabier Aizpuru Murua.</titulo>
+            <urlPdf szBytes="216947" szKBytes="212" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2777.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2777</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2777</urlXml>
+          </item>
+          <item id="BOE-A-2021-2778" control="2021/2469">
+            <titulo>Resolución de 9 de febrero de 2021, de la Universidad de Granada, por la que se corrigen errores en la de 22 de enero de 2021, por la que se nombran Profesores y Profesoras Titulares de Universidad.</titulo>
+            <urlPdf szBytes="210907" szKBytes="206" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2778.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2778</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2778</urlXml>
+          </item>
+          <item id="BOE-A-2021-2779" control="2021/2470">
+            <titulo>Resolución de 10 de febrero de 2021, de la Universidad de Granada, por la que se corrigen errores en la de 29 de enero de 2021, por la que se nombran Profesores y Profesoras Titulares de Universidad.</titulo>
+            <urlPdf szBytes="210646" szKBytes="206" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2779.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2779</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2779</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+    </seccion>
+    <seccion num="2B" nombre="II. Autoridades y personal. - B. Oposiciones y concursos">
+      <departamento nombre="ADMINISTRACIÓN LOCAL" etq="9525">
+        <epigrafe nombre="Personal funcionario y laboral">
+          <item id="BOE-A-2021-2780" control="2021/2557">
+            <titulo>Resolución de 22 de enero de 2021, del Ayuntamiento de Valladolid, referente a la convocatoria para proveer varias plazas.</titulo>
+            <urlPdf szBytes="212169" szKBytes="207" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2780.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2780</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2780</urlXml>
+          </item>
+          <item id="BOE-A-2021-2781" control="2021/2481">
+            <titulo>Resolución de 2 de febrero de 2021, del Ayuntamiento de Eibar (Gipuzkoa), referente a la convocatoria para proveer una plaza.</titulo>
+            <urlPdf szBytes="212170" szKBytes="207" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2781.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2781</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2781</urlXml>
+          </item>
+          <item id="BOE-A-2021-2782" control="2021/2559">
+            <titulo>Resolución de 3 de febrero de 2021, del Ayuntamiento de L'Alcúdia (Valencia), referente a la convocatoria para proveer una plaza.</titulo>
+            <urlPdf szBytes="212771" szKBytes="208" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2782.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2782</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2782</urlXml>
+          </item>
+          <item id="BOE-A-2021-2783" control="2021/2561">
+            <titulo>Resolución de 11 de febrero de 2021, del Ayuntamiento de Ossa de Montiel (Albacete), referente a la convocatoria para proveer varias plazas.</titulo>
+            <urlPdf szBytes="212351" szKBytes="207" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2783.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2783</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2783</urlXml>
+          </item>
+          <item id="BOE-A-2021-2784" control="2021/2562">
+            <titulo>Resolución de 15 de febrero de 2021, del Ayuntamiento de Matadepera (Barcelona), referente a la convocatoria para proveer varias plazas.</titulo>
+            <urlPdf szBytes="212908" szKBytes="208" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2784.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2784</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2784</urlXml>
+          </item>
+          <item id="BOE-A-2021-2785" control="2021/2563">
+            <titulo>Resolución de 15 de febrero de 2021, del Ayuntamiento de Santa Elena (Jaén), referente a la convocatoria para proveer una plaza.</titulo>
+            <urlPdf szBytes="213503" szKBytes="208" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2785.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2785</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2785</urlXml>
+          </item>
+          <item id="BOE-A-2021-2786" control="2021/2492">
+            <titulo>Resolución de 16 de febrero de 2021, del Ayuntamiento de Guardamar del Segura (Alicante), referente a la convocatoria para proveer una plaza.</titulo>
+            <urlPdf szBytes="213217" szKBytes="208" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2786.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2786</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2786</urlXml>
+          </item>
+          <item id="BOE-A-2021-2787" control="2021/2493">
+            <titulo>Resolución de 16 de febrero de 2021, del Ayuntamiento de Montoro (Córdoba), referente a la convocatoria para proveer una plaza.</titulo>
+            <urlPdf szBytes="212214" szKBytes="207" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2787.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2787</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2787</urlXml>
+          </item>
+          <item id="BOE-A-2021-2788" control="2021/2494">
+            <titulo>Resolución de 16 de febrero de 2021, del Ayuntamiento de Sant Antoni de Portmany (Illes Balears), referente a la convocatoria para proveer varias plazas.</titulo>
+            <urlPdf szBytes="212343" szKBytes="207" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2788.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2788</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2788</urlXml>
+          </item>
+          <item id="BOE-A-2021-2789" control="2021/2495">
+            <titulo>Resolución de 16 de febrero de 2021, del Ayuntamiento de Siruela (Badajoz), referente a la convocatoria para proveer varias plazas.</titulo>
+            <urlPdf szBytes="213570" szKBytes="209" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2789.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2789</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2789</urlXml>
+          </item>
+          <item id="BOE-A-2021-2790" control="2021/2564">
+            <titulo>Resolución de 16 de febrero de 2021, del Ayuntamiento de El Campello (Alicante), referente a la convocatoria para proveer varias plazas.</titulo>
+            <urlPdf szBytes="213756" szKBytes="209" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2790.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2790</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2790</urlXml>
+          </item>
+          <item id="BOE-A-2021-2791" control="2021/2565">
+            <titulo>Resolución de 16 de febrero de 2021, del Ayuntamiento de San Javier (Murcia), referente a la convocatoria para proveer varias plazas.</titulo>
+            <urlPdf szBytes="213679" szKBytes="209" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2791.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2791</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2791</urlXml>
+          </item>
+          <item id="BOE-A-2021-2792" control="2021/2566">
+            <titulo>Resolución de 16 de febrero de 2021, del Ayuntamiento de Son Servera (Illes Balears), referente a la convocatoria para proveer una plaza.</titulo>
+            <urlPdf szBytes="212043" szKBytes="207" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2792.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2792</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2792</urlXml>
+          </item>
+          <item id="BOE-A-2021-2793" control="2021/2567">
+            <titulo>Resolución de 17 de febrero de 2021, del Ayuntamiento de Archena (Murcia), referente a la convocatoria para proveer una plaza.</titulo>
+            <urlPdf szBytes="212363" szKBytes="207" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2793.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2793</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2793</urlXml>
+          </item>
+          <item id="BOE-A-2021-2794" control="2021/2568">
+            <titulo>Resolución de 17 de febrero de 2021, del Ayuntamiento de Carlet (Valencia), referente a la convocatoria para proveer varias plazas.</titulo>
+            <urlPdf szBytes="211590" szKBytes="207" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2794.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2794</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2794</urlXml>
+          </item>
+          <item id="BOE-A-2021-2795" control="2021/2569">
+            <titulo>Resolución de 17 de febrero de 2021, del Ayuntamiento de Figueruelas (Zaragoza), referente a la convocatoria para proveer una plaza.</titulo>
+            <urlPdf szBytes="212553" szKBytes="208" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2795.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2795</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2795</urlXml>
+          </item>
+          <item id="BOE-A-2021-2796" control="2021/2570">
+            <titulo>Resolución de 17 de febrero de 2021, del Ayuntamiento de Macotera (Salamanca), referente a la convocatoria para proveer una plaza.</titulo>
+            <urlPdf szBytes="212115" szKBytes="207" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2796.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2796</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2796</urlXml>
+          </item>
+          <item id="BOE-A-2021-2797" control="2021/2571">
+            <titulo>Resolución de 17 de febrero de 2021, del Ayuntamiento de San Esteban de Gormaz (Soria), referente a la convocatoria para proveer varias plazas.</titulo>
+            <urlPdf szBytes="211608" szKBytes="207" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2797.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2797</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2797</urlXml>
+          </item>
+          <item id="BOE-A-2021-2798" control="2021/2573">
+            <titulo>Resolución de 18 de febrero de 2021, del Ayuntamiento de Benidorm (Alicante), referente a la convocatoria para proveer varias plazas.</titulo>
+            <urlPdf szBytes="212727" szKBytes="208" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2798.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2798</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2798</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="UNIVERSIDADES" etq="310">
+        <epigrafe nombre="Cuerpos docentes universitarios">
+          <item id="BOE-A-2021-2799" control="2021/2650">
+            <titulo>Resolución de 19 de enero de 2021, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.</titulo>
+            <urlPdf szBytes="246426" szKBytes="241" numPag="11">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2799.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2799</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2799</urlXml>
+          </item>
+          <item id="BOE-A-2021-2800" control="2021/2651">
+            <titulo>Resolución de 4 de febrero de 2021, de la Universidad de Córdoba, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.</titulo>
+            <urlPdf szBytes="311435" szKBytes="304" numPag="14">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2800.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2800</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2800</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+    </seccion>
+    <seccion num="3" nombre="III. Otras disposiciones">
+      <departamento nombre="CORTES GENERALES" etq="1220">
+        <epigrafe nombre="Fiscalizaciones">
+          <item id="BOE-A-2021-2801" control="2021/2574">
+            <titulo>Resolución de 10 de diciembre de 2020, aprobada por la Comisión Mixta para las Relaciones con el Tribunal de Cuentas, en relación con el Informe de fiscalización de la actividad económico-financiera de Mercasa, ejercicios 2017 y 2018.</titulo>
+            <urlPdf szBytes="860774" szKBytes="841" numPag="67">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2801.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2801</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2801</urlXml>
+          </item>
+          <item id="BOE-A-2021-2802" control="2021/2575">
+            <titulo>Resolución de 10 de diciembre de 2020, aprobada por la Comisión Mixta para las Relaciones con el Tribunal de Cuentas, en relación con el Informe de fiscalización de la Agencia Española de Protección de Datos, ejercicios 2016 y 2017.</titulo>
+            <urlPdf szBytes="994940" szKBytes="972" numPag="76">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2802.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2802</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2802</urlXml>
+          </item>
+          <item id="BOE-A-2021-2803" control="2021/2576">
+            <titulo>Resolución de 10 de diciembre de 2020, aprobada por la Comisión Mixta para las Relaciones con el Tribunal de Cuentas, en relación con el Informe de fiscalización de la ejecución de los gastos con financiación afectada en el Consejo Superior de Investigaciones Científicas, ejercicios 2016 y 2017.</titulo>
+            <urlPdf szBytes="973445" szKBytes="951" numPag="45">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2803.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2803</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2803</urlXml>
+          </item>
+          <item id="BOE-A-2021-2804" control="2021/2577">
+            <titulo>Resolución de 10 de diciembre de 2020, aprobada por la Comisión Mixta para las Relaciones con el Tribunal de Cuentas, en relación con el Informe de fiscalización del Consejo de Transparencia y Buen Gobierno, ejercicios 2016 y 2017.</titulo>
+            <urlPdf szBytes="1031307" szKBytes="1007" numPag="73">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2804.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2804</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2804</urlXml>
+          </item>
+          <item id="BOE-A-2021-2805" control="2021/2578">
+            <titulo>Resolución de 10 de diciembre de 2020, aprobada por la Comisión Mixta para las Relaciones con el Tribunal de Cuentas, en relación con el Informe de fiscalización del Instituto del Patrimonio Cultural de España, ejercicio 2016.</titulo>
+            <urlPdf szBytes="1488387" szKBytes="1454" numPag="80">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2805.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2805</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2805</urlXml>
+          </item>
+          <item id="BOE-A-2021-2806" control="2021/2579">
+            <titulo>Resolución de 10 de diciembre de 2020, aprobada por la Comisión Mixta para las Relaciones con el Tribunal de Cuentas, en relación con el Informe de fiscalización del Museo Nacional del Prado, ejercicio 2018.</titulo>
+            <urlPdf szBytes="923952" szKBytes="902" numPag="89">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2806.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2806</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2806</urlXml>
+          </item>
+          <item id="BOE-A-2021-2807" control="2021/2580">
+            <titulo>Resolución de 10 de diciembre de 2020, aprobada por la Comisión Mixta para las Relaciones con el Tribunal de Cuentas, en relación con el Informe de fiscalización del organismo autónomo Centro de Investigaciones Sociológicas, ejercicio 2016.</titulo>
+            <urlPdf szBytes="853244" szKBytes="833" numPag="71">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2807.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2807</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2807</urlXml>
+          </item>
+          <item id="BOE-A-2021-2808" control="2021/2581">
+            <titulo>Resolución de 17 de diciembre de 2020, aprobada por la Comisión Mixta para las Relaciones con el Tribunal de Cuentas, en relación con el Informe global del sector público autonómico, ejercicio 2017.</titulo>
+            <urlPdf szBytes="3750578" szKBytes="3663" numPag="227">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2808.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2808</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2808</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA" etq="9572">
+        <epigrafe nombre="Convenios">
+          <item id="BOE-A-2021-2809" control="2021/2662">
+            <titulo>Resolución de 15 de febrero de 2021, de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias, por la que se publica el Convenio con AENA, S.M.E., SA, la Entidad Pública Empresarial ENAIRE, Puertos del Estado y la Entidad Pública Empresarial RENFE-Operadora, para su participación conjunta en la 41.ª edición de la Feria Internacional de Turismo FITUR 2021.</titulo>
+            <urlPdf szBytes="270207" szKBytes="264" numPag="7">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2809.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2809</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2809</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN" etq="3120">
+        <epigrafe nombre="Pesca marítima">
+          <item id="BOE-A-2021-2810" control="2021/2504">
+            <titulo>Resolución de 15 de febrero de 2021, de la Secretaría General de Pesca, por la que se establecen disposiciones para la campaña del atún rojo 2021 para la flota de la lista h), de buques artesanales en el Estrecho de captura limitada, del censo específico de la flota autorizada para el ejercicio de la pesca del atún rojo.</titulo>
+            <urlPdf szBytes="229239" szKBytes="224" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2810.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2810</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2810</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="MINISTERIO DE CULTURA Y DEPORTE" etq="9570">
+        <epigrafe nombre="Federación Española de Rugby. Estatutos">
+          <item id="BOE-A-2021-2811" control="2021/2434">
+            <titulo>Resolución de 2 de febrero de 2021, de la Presidencia del Consejo Superior de Deportes, por la que se publica la modificación de los Estatutos de la Federación Española de Rugby.</titulo>
+            <urlPdf szBytes="226814" szKBytes="221" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2811.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2811</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2811</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="MINISTERIO DE CIENCIA E INNOVACIÓN" etq="4245">
+        <epigrafe nombre="Comunidad Autónoma de la Región de Murcia. Convenio">
+          <item id="BOE-A-2021-2812" control="2021/2441">
+            <titulo>Resolución de 11 de febrero de 2021, de la Secretaría General de Innovación, por la que se corrigen errores en la Resolución de 18 de noviembre de 2019, de la Dirección General de Investigación, Desarrollo e Innovación, por la que se publica la Adenda al Convenio con la Universidad de Murcia, para el proyecto "Hércules-Semántica de Datos de Investigación de Universidades" cofinanciado con FEDER.</titulo>
+            <urlPdf szBytes="241607" szKBytes="236" numPag="5">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2812.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2812</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2812</urlXml>
+          </item>
+        </epigrafe>
+        <epigrafe nombre="Convenios">
+          <item id="BOE-A-2021-2813" control="2021/2600">
+            <titulo>Resolución de 16 de febrero de 2021, del Consorcio Centro de Investigación Biomédica en Red, M.P., por la que se publica el Convenio con la Asociación Instituto de Investigación Sanitaria Biocruces Bizkaia, para la vinculación con entidades del Sistema Sanitario de Salud, para el desarrollo de actividades de investigación y formación biomédica en el área de enfermedades raras.</titulo>
+            <urlPdf szBytes="266690" szKBytes="260" numPag="7">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2813.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2813</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2813</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="BANCO DE ESPAÑA" etq="1020">
+        <epigrafe nombre="Mercado de divisas">
+          <item id="BOE-A-2021-2814" control="2021/2679">
+            <titulo>Resolución de 22 de febrero de 2021, del Banco de España, por la que se publican los cambios del euro correspondientes al día 22 de febrero de 2021, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.</titulo>
+            <urlPdf szBytes="303938" szKBytes="297" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2814.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2814</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2814</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA" etq="9534">
+        <epigrafe nombre="Sistema gasista">
+          <item id="BOE-A-2021-2815" control="2021/2355">
+            <titulo>Resolución de 11 de febrero de 2021, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la retribución para el año de gas 2021 (de 1 de enero a 30 de septiembre de 2021) de las empresas que realizan las actividades reguladas de plantas de gas natural licuado, de transporte y de distribución.</titulo>
+            <urlPdf szBytes="656810" szKBytes="641" numPag="15">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2815.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2815</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2815</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="UNIVERSIDADES" etq="310">
+        <epigrafe nombre="Planes de estudios">
+          <item id="BOE-A-2021-2816" control="2021/2049">
+            <titulo>Resolución de 3 de febrero de 2021, de la Universidad de Valladolid, por la que se publica el plan de estudios de Máster Universitario en Ingeniería Informática.</titulo>
+            <urlPdf szBytes="237264" szKBytes="232" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2816.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2816</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2816</urlXml>
+          </item>
+          <item id="BOE-A-2021-2817" control="2021/2050">
+            <titulo>Resolución de 3 de febrero de 2021, de la Universidad de Valladolid, por la que se publica el plan de estudios de Máster Universitario en Investigación e Innovación Educativa.</titulo>
+            <urlPdf szBytes="224918" szKBytes="220" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2817.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2817</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2817</urlXml>
+          </item>
+          <item id="BOE-A-2021-2818" control="2021/2052">
+            <titulo>Resolución de 3 de febrero de 2021, de la Universidad de Valladolid, por la que se publica el plan de estudios de Máster Universitario en Traducción en Entornos Digitales Multilingües.</titulo>
+            <urlPdf szBytes="230854" szKBytes="225" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2818.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2818</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2818</urlXml>
+          </item>
+          <item id="BOE-A-2021-2819" control="2021/2057">
+            <titulo>Resolución de 3 de febrero de 2021, de la Universidad de Valladolid, por la que se publica la modificación del Plan de Estudios de Máster Universitario en Administración de Empresas.</titulo>
+            <urlPdf szBytes="237533" szKBytes="232" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2819.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2819</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2819</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+    </seccion>
+    <seccion num="4" nombre="IV. Administración de Justicia">
+      <departamento nombre="TRIBUNAL SUPREMO" etq="1430">
+        <item id="BOE-B-2021-8513">
+          <titulo>SALA DE LO CONTENCIOSO-ADMINISTRATIVO</titulo>
+          <urlPdf szBytes="165506" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8513.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8513</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8513</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN" etq="9546">
+        <item id="BOE-B-2021-8514">
+          <titulo>ALBACETE</titulo>
+          <urlPdf szBytes="161415" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8514.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8514</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8514</urlXml>
+        </item>
+        <item id="BOE-B-2021-8515">
+          <titulo>ALCAÑIZ</titulo>
+          <urlPdf szBytes="162927" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8515.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8515</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8515</urlXml>
+        </item>
+        <item id="BOE-B-2021-8516">
+          <titulo>ALICANTE/ALACANT</titulo>
+          <urlPdf szBytes="162022" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8516.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8516</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8516</urlXml>
+        </item>
+        <item id="BOE-B-2021-8517">
+          <titulo>ALMENDRALEJO</titulo>
+          <urlPdf szBytes="163300" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8517.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8517</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8517</urlXml>
+        </item>
+        <item id="BOE-B-2021-8518">
+          <titulo>ALMERIA</titulo>
+          <urlPdf szBytes="161979" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8518.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8518</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8518</urlXml>
+        </item>
+        <item id="BOE-B-2021-8519">
+          <titulo>ALMERIA</titulo>
+          <urlPdf szBytes="161987" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8519.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8519</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8519</urlXml>
+        </item>
+        <item id="BOE-B-2021-8520">
+          <titulo>ALMERIA</titulo>
+          <urlPdf szBytes="161989" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8520.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8520</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8520</urlXml>
+        </item>
+        <item id="BOE-B-2021-8521">
+          <titulo>ARENYS MAR</titulo>
+          <urlPdf szBytes="163523" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8521.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8521</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8521</urlXml>
+        </item>
+        <item id="BOE-B-2021-8522">
+          <titulo>AYAMONTE</titulo>
+          <urlPdf szBytes="163197" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8522.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8522</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8522</urlXml>
+        </item>
+        <item id="BOE-B-2021-8523">
+          <titulo>AYAMONTE</titulo>
+          <urlPdf szBytes="163197" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8523.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8523</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8523</urlXml>
+        </item>
+        <item id="BOE-B-2021-8524">
+          <titulo>BADALONA</titulo>
+          <urlPdf szBytes="161935" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8524.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8524</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8524</urlXml>
+        </item>
+        <item id="BOE-B-2021-8525">
+          <titulo>BADALONA</titulo>
+          <urlPdf szBytes="161932" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8525.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8525</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8525</urlXml>
+        </item>
+        <item id="BOE-B-2021-8526">
+          <titulo>BARAKALDO</titulo>
+          <urlPdf szBytes="162566" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8526.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8526</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8526</urlXml>
+        </item>
+        <item id="BOE-B-2021-8527">
+          <titulo>BARAKALDO</titulo>
+          <urlPdf szBytes="162702" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8527.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8527</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8527</urlXml>
+        </item>
+        <item id="BOE-B-2021-8528">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="162105" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8528.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8528</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8528</urlXml>
+        </item>
+        <item id="BOE-B-2021-8529">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="168168" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8529.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8529</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8529</urlXml>
+        </item>
+        <item id="BOE-B-2021-8530">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="168916" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8530.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8530</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8530</urlXml>
+        </item>
+        <item id="BOE-B-2021-8531">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="168994" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8531.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8531</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8531</urlXml>
+        </item>
+        <item id="BOE-B-2021-8532">
+          <titulo>BEJAR</titulo>
+          <urlPdf szBytes="162079" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8532.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8532</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8532</urlXml>
+        </item>
+        <item id="BOE-B-2021-8533">
+          <titulo>BENIDORM</titulo>
+          <urlPdf szBytes="162568" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8533.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8533</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8533</urlXml>
+        </item>
+        <item id="BOE-B-2021-8534">
+          <titulo>BILBAO</titulo>
+          <urlPdf szBytes="161660" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8534.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8534</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8534</urlXml>
+        </item>
+        <item id="BOE-B-2021-8535">
+          <titulo>BILBAO</titulo>
+          <urlPdf szBytes="161502" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8535.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8535</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8535</urlXml>
+        </item>
+        <item id="BOE-B-2021-8536">
+          <titulo>BILBAO</titulo>
+          <urlPdf szBytes="161507" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8536.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8536</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8536</urlXml>
+        </item>
+        <item id="BOE-B-2021-8537">
+          <titulo>BILBAO</titulo>
+          <urlPdf szBytes="161659" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8537.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8537</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8537</urlXml>
+        </item>
+        <item id="BOE-B-2021-8538">
+          <titulo>CALAHORRA</titulo>
+          <urlPdf szBytes="162218" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8538.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8538</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8538</urlXml>
+        </item>
+        <item id="BOE-B-2021-8539">
+          <titulo>CASTELLON DE LA PLANA</titulo>
+          <urlPdf szBytes="162997" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8539.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8539</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8539</urlXml>
+        </item>
+        <item id="BOE-B-2021-8540">
+          <titulo>CERDANYOLA DEL VALLÈS</titulo>
+          <urlPdf szBytes="169678" szKBytes="166" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8540.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8540</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8540</urlXml>
+        </item>
+        <item id="BOE-B-2021-8541">
+          <titulo>CHICLANA DE LA FRONTERA</titulo>
+          <urlPdf szBytes="163540" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8541.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8541</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8541</urlXml>
+        </item>
+        <item id="BOE-B-2021-8542">
+          <titulo>CISTIERNA</titulo>
+          <urlPdf szBytes="162654" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8542.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8542</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8542</urlXml>
+        </item>
+        <item id="BOE-B-2021-8543">
+          <titulo>CORUÑA (A)</titulo>
+          <urlPdf szBytes="162993" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8543.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8543</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8543</urlXml>
+        </item>
+        <item id="BOE-B-2021-8544">
+          <titulo>CORUÑA (A)</titulo>
+          <urlPdf szBytes="162746" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8544.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8544</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8544</urlXml>
+        </item>
+        <item id="BOE-B-2021-8545">
+          <titulo>DENIA</titulo>
+          <urlPdf szBytes="161614" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8545.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8545</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8545</urlXml>
+        </item>
+        <item id="BOE-B-2021-8546">
+          <titulo>DENIA</titulo>
+          <urlPdf szBytes="161458" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8546.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8546</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8546</urlXml>
+        </item>
+        <item id="BOE-B-2021-8547">
+          <titulo>EJEA CABALLEROS</titulo>
+          <urlPdf szBytes="163221" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8547.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8547</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8547</urlXml>
+        </item>
+        <item id="BOE-B-2021-8548">
+          <titulo>EJIDO(EL)</titulo>
+          <urlPdf szBytes="162489" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8548.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8548</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8548</urlXml>
+        </item>
+        <item id="BOE-B-2021-8549">
+          <titulo>EL VENDRELL</titulo>
+          <urlPdf szBytes="162546" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8549.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8549</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8549</urlXml>
+        </item>
+        <item id="BOE-B-2021-8550">
+          <titulo>EL VENDRELL</titulo>
+          <urlPdf szBytes="167403" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8550.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8550</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8550</urlXml>
+        </item>
+        <item id="BOE-B-2021-8551">
+          <titulo>FERROL</titulo>
+          <urlPdf szBytes="161679" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8551.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8551</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8551</urlXml>
+        </item>
+        <item id="BOE-B-2021-8552">
+          <titulo>FIGUERES</titulo>
+          <urlPdf szBytes="162877" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8552.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8552</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8552</urlXml>
+        </item>
+        <item id="BOE-B-2021-8553">
+          <titulo>FUENGIROLA</titulo>
+          <urlPdf szBytes="167790" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8553.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8553</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8553</urlXml>
+        </item>
+        <item id="BOE-B-2021-8554">
+          <titulo>FUENLABRADA</titulo>
+          <urlPdf szBytes="162257" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8554.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8554</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8554</urlXml>
+        </item>
+        <item id="BOE-B-2021-8555">
+          <titulo>GAVA</titulo>
+          <urlPdf szBytes="161253" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8555.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8555</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8555</urlXml>
+        </item>
+        <item id="BOE-B-2021-8556">
+          <titulo>GIJÓN</titulo>
+          <urlPdf szBytes="167078" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8556.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8556</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8556</urlXml>
+        </item>
+        <item id="BOE-B-2021-8557">
+          <titulo>GRANADA</titulo>
+          <urlPdf szBytes="161676" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8557.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8557</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8557</urlXml>
+        </item>
+        <item id="BOE-B-2021-8558">
+          <titulo>GRANOLLERS</titulo>
+          <urlPdf szBytes="162672" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8558.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8558</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8558</urlXml>
+        </item>
+        <item id="BOE-B-2021-8559">
+          <titulo>GUADALAJARA</titulo>
+          <urlPdf szBytes="162174" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8559.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8559</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8559</urlXml>
+        </item>
+        <item id="BOE-B-2021-8560">
+          <titulo>HOSPITALET DE LLOBREGAT (L')</titulo>
+          <urlPdf szBytes="164514" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8560.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8560</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8560</urlXml>
+        </item>
+        <item id="BOE-B-2021-8561">
+          <titulo>HUELVA</titulo>
+          <urlPdf szBytes="161727" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8561.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8561</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8561</urlXml>
+        </item>
+        <item id="BOE-B-2021-8562">
+          <titulo>ILLESCAS</titulo>
+          <urlPdf szBytes="162117" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8562.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8562</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8562</urlXml>
+        </item>
+        <item id="BOE-B-2021-8563">
+          <titulo>LINEA CONCEPCION</titulo>
+          <urlPdf szBytes="162627" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8563.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8563</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8563</urlXml>
+        </item>
+        <item id="BOE-B-2021-8564">
+          <titulo>LLANES</titulo>
+          <urlPdf szBytes="161811" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8564.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8564</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8564</urlXml>
+        </item>
+        <item id="BOE-B-2021-8565">
+          <titulo>LLEIDA</titulo>
+          <urlPdf szBytes="161363" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8565.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8565</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8565</urlXml>
+        </item>
+        <item id="BOE-B-2021-8566">
+          <titulo>LORA RIO</titulo>
+          <urlPdf szBytes="161801" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8566.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8566</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8566</urlXml>
+        </item>
+        <item id="BOE-B-2021-8567">
+          <titulo>LUGO</titulo>
+          <urlPdf szBytes="164909" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8567.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8567</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8567</urlXml>
+        </item>
+        <item id="BOE-B-2021-8568">
+          <titulo>LUGO</titulo>
+          <urlPdf szBytes="166162" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8568.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8568</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8568</urlXml>
+        </item>
+        <item id="BOE-B-2021-8569">
+          <titulo>MADRID</titulo>
+          <urlPdf szBytes="167028" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8569.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8569</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8569</urlXml>
+        </item>
+        <item id="BOE-B-2021-8570">
+          <titulo>MADRID</titulo>
+          <urlPdf szBytes="162234" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8570.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8570</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8570</urlXml>
+        </item>
+        <item id="BOE-B-2021-8571">
+          <titulo>MADRID</titulo>
+          <urlPdf szBytes="166852" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8571.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8571</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8571</urlXml>
+        </item>
+        <item id="BOE-B-2021-8572">
+          <titulo>MADRID</titulo>
+          <urlPdf szBytes="168653" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8572.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8572</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8572</urlXml>
+        </item>
+        <item id="BOE-B-2021-8573">
+          <titulo>MALAGA</titulo>
+          <urlPdf szBytes="162203" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8573.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8573</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8573</urlXml>
+        </item>
+        <item id="BOE-B-2021-8574">
+          <titulo>MANACOR</titulo>
+          <urlPdf szBytes="168408" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8574.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8574</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8574</urlXml>
+        </item>
+        <item id="BOE-B-2021-8575">
+          <titulo>MARBELLA</titulo>
+          <urlPdf szBytes="162291" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8575.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8575</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8575</urlXml>
+        </item>
+        <item id="BOE-B-2021-8576">
+          <titulo>MATARO</titulo>
+          <urlPdf szBytes="162155" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8576.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8576</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8576</urlXml>
+        </item>
+        <item id="BOE-B-2021-8577">
+          <titulo>MATARO</titulo>
+          <urlPdf szBytes="162153" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8577.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8577</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8577</urlXml>
+        </item>
+        <item id="BOE-B-2021-8578">
+          <titulo>MATARÓ</titulo>
+          <urlPdf szBytes="166116" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8578.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8578</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8578</urlXml>
+        </item>
+        <item id="BOE-B-2021-8579">
+          <titulo>MISLATA</titulo>
+          <urlPdf szBytes="162612" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8579.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8579</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8579</urlXml>
+        </item>
+        <item id="BOE-B-2021-8580">
+          <titulo>MÓSTOLES</titulo>
+          <urlPdf szBytes="167070" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8580.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8580</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8580</urlXml>
+        </item>
+        <item id="BOE-B-2021-8581">
+          <titulo>NAVALCARNERO</titulo>
+          <urlPdf szBytes="162633" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8581.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8581</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8581</urlXml>
+        </item>
+        <item id="BOE-B-2021-8582">
+          <titulo>NULES</titulo>
+          <urlPdf szBytes="161854" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8582.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8582</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8582</urlXml>
+        </item>
+        <item id="BOE-B-2021-8583">
+          <titulo>OLOT</titulo>
+          <urlPdf szBytes="161313" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8583.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8583</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8583</urlXml>
+        </item>
+        <item id="BOE-B-2021-8584">
+          <titulo>ORIHUELA</titulo>
+          <urlPdf szBytes="161958" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8584.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8584</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8584</urlXml>
+        </item>
+        <item id="BOE-B-2021-8585">
+          <titulo>ORIHUELA</titulo>
+          <urlPdf szBytes="162083" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8585.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8585</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8585</urlXml>
+        </item>
+        <item id="BOE-B-2021-8586">
+          <titulo>ORIHUELA</titulo>
+          <urlPdf szBytes="162081" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8586.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8586</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8586</urlXml>
+        </item>
+        <item id="BOE-B-2021-8587">
+          <titulo>PALMA CONDADO</titulo>
+          <urlPdf szBytes="163372" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8587.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8587</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8587</urlXml>
+        </item>
+        <item id="BOE-B-2021-8588">
+          <titulo>PALMA DE MALLORCA</titulo>
+          <urlPdf szBytes="162998" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8588.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8588</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8588</urlXml>
+        </item>
+        <item id="BOE-B-2021-8589">
+          <titulo>PALMA DE MALLORCA</titulo>
+          <urlPdf szBytes="162988" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8589.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8589</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8589</urlXml>
+        </item>
+        <item id="BOE-B-2021-8590">
+          <titulo>PATERNA</titulo>
+          <urlPdf szBytes="168356" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8590.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8590</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8590</urlXml>
+        </item>
+        <item id="BOE-B-2021-8591">
+          <titulo>PICASSENT</titulo>
+          <urlPdf szBytes="162863" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8591.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8591</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8591</urlXml>
+        </item>
+        <item id="BOE-B-2021-8592">
+          <titulo>PRAT LLOBREGAT</titulo>
+          <urlPdf szBytes="163141" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8592.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8592</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8592</urlXml>
+        </item>
+        <item id="BOE-B-2021-8593">
+          <titulo>REUS</titulo>
+          <urlPdf szBytes="162109" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8593.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8593</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8593</urlXml>
+        </item>
+        <item id="BOE-B-2021-8594">
+          <titulo>RUBI</titulo>
+          <urlPdf szBytes="161852" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8594.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8594</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8594</urlXml>
+        </item>
+        <item id="BOE-B-2021-8595">
+          <titulo>SAN CRISTÓBAL DE LA LAGUNA</titulo>
+          <urlPdf szBytes="169652" szKBytes="166" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8595.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8595</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8595</urlXml>
+        </item>
+        <item id="BOE-B-2021-8596">
+          <titulo>SANLÚCAR LA MAYOR</titulo>
+          <urlPdf szBytes="169437" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8596.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8596</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8596</urlXml>
+        </item>
+        <item id="BOE-B-2021-8597">
+          <titulo>SANLÚCAR LA MAYOR</titulo>
+          <urlPdf szBytes="169830" szKBytes="166" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8597.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8597</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8597</urlXml>
+        </item>
+        <item id="BOE-B-2021-8598">
+          <titulo>SANLUCAR MAYOR</titulo>
+          <urlPdf szBytes="163875" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8598.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8598</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8598</urlXml>
+        </item>
+        <item id="BOE-B-2021-8599">
+          <titulo>SANTANDER</titulo>
+          <urlPdf szBytes="162007" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8599.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8599</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8599</urlXml>
+        </item>
+        <item id="BOE-B-2021-8600">
+          <titulo>SEGOVIA</titulo>
+          <urlPdf szBytes="162584" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8600.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8600</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8600</urlXml>
+        </item>
+        <item id="BOE-B-2021-8601">
+          <titulo>SEVILLA</titulo>
+          <urlPdf szBytes="161427" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8601.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8601</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8601</urlXml>
+        </item>
+        <item id="BOE-B-2021-8602">
+          <titulo>SEVILLA</titulo>
+          <urlPdf szBytes="161430" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8602.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8602</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8602</urlXml>
+        </item>
+        <item id="BOE-B-2021-8603">
+          <titulo>TELDE</titulo>
+          <urlPdf szBytes="165228" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8603.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8603</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8603</urlXml>
+        </item>
+        <item id="BOE-B-2021-8604">
+          <titulo>TERRASSA</titulo>
+          <urlPdf szBytes="161660" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8604.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8604</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8604</urlXml>
+        </item>
+        <item id="BOE-B-2021-8605">
+          <titulo>TERRASSA</titulo>
+          <urlPdf szBytes="161748" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8605.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8605</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8605</urlXml>
+        </item>
+        <item id="BOE-B-2021-8606">
+          <titulo>TERRASSA</titulo>
+          <urlPdf szBytes="161392" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8606.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8606</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8606</urlXml>
+        </item>
+        <item id="BOE-B-2021-8607">
+          <titulo>TOLEDO</titulo>
+          <urlPdf szBytes="167169" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8607.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8607</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8607</urlXml>
+        </item>
+        <item id="BOE-B-2021-8608">
+          <titulo>TORO</titulo>
+          <urlPdf szBytes="161615" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8608.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8608</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8608</urlXml>
+        </item>
+        <item id="BOE-B-2021-8609">
+          <titulo>TORRELAVEGA</titulo>
+          <urlPdf szBytes="162603" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8609.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8609</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8609</urlXml>
+        </item>
+        <item id="BOE-B-2021-8610">
+          <titulo>TORTOSA</titulo>
+          <urlPdf szBytes="161581" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8610.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8610</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8610</urlXml>
+        </item>
+        <item id="BOE-B-2021-8611">
+          <titulo>VALLADOLID</titulo>
+          <urlPdf szBytes="161735" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8611.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8611</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8611</urlXml>
+        </item>
+        <item id="BOE-B-2021-8612">
+          <titulo>VALLS</titulo>
+          <urlPdf szBytes="161381" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8612.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8612</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8612</urlXml>
+        </item>
+        <item id="BOE-B-2021-8613">
+          <titulo>VIGO</titulo>
+          <urlPdf szBytes="161377" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8613.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8613</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8613</urlXml>
+        </item>
+        <item id="BOE-B-2021-8614">
+          <titulo>VILANOVA I LA GELTRU</titulo>
+          <urlPdf szBytes="163255" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8614.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8614</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8614</urlXml>
+        </item>
+        <item id="BOE-B-2021-8615">
+          <titulo>VILA-REAL</titulo>
+          <urlPdf szBytes="167502" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8615.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8615</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8615</urlXml>
+        </item>
+        <item id="BOE-B-2021-8616">
+          <titulo>VILLAJOYOSA/VILA JOIOSA (LA)</titulo>
+          <urlPdf szBytes="163215" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8616.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8616</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8616</urlXml>
+        </item>
+        <item id="BOE-B-2021-8617">
+          <titulo>VILLAVICIOSA</titulo>
+          <urlPdf szBytes="162035" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8617.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8617</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8617</urlXml>
+        </item>
+        <item id="BOE-B-2021-8618">
+          <titulo>VINAROS</titulo>
+          <urlPdf szBytes="162568" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8618.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8618</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8618</urlXml>
+        </item>
+        <item id="BOE-B-2021-8619">
+          <titulo>ZARAGOZA</titulo>
+          <urlPdf szBytes="165193" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8619.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8619</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8619</urlXml>
+        </item>
+        <item id="BOE-B-2021-8620">
+          <titulo>ZARAGOZA</titulo>
+          <urlPdf szBytes="166106" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8620.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8620</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8620</urlXml>
+        </item>
+        <item id="BOE-B-2021-8621">
+          <titulo>ZARAGOZA</titulo>
+          <urlPdf szBytes="166604" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8621.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8621</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8621</urlXml>
+        </item>
+        <item id="BOE-B-2021-8622">
+          <titulo>ZARAGOZA</titulo>
+          <urlPdf szBytes="167127" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8622.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8622</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8622</urlXml>
+        </item>
+        <item id="BOE-B-2021-8623">
+          <titulo>ZARAGOZA</titulo>
+          <urlPdf szBytes="162144" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8623.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8623</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8623</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="JUZGADOS DE LO MERCANTIL" etq="9547">
+        <item id="BOE-B-2021-8624">
+          <titulo>A CORUÑA</titulo>
+          <urlPdf szBytes="167583" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8624.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8624</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8624</urlXml>
+        </item>
+        <item id="BOE-B-2021-8625">
+          <titulo>A CORUÑA</titulo>
+          <urlPdf szBytes="166239" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8625.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8625</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8625</urlXml>
+        </item>
+        <item id="BOE-B-2021-8626">
+          <titulo>ALMERÍA</titulo>
+          <urlPdf szBytes="163369" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8626.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8626</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8626</urlXml>
+        </item>
+        <item id="BOE-B-2021-8627">
+          <titulo>ALMERÍA</titulo>
+          <urlPdf szBytes="168466" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8627.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8627</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8627</urlXml>
+        </item>
+        <item id="BOE-B-2021-8628">
+          <titulo>BADAJOZ</titulo>
+          <urlPdf szBytes="167417" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8628.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8628</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8628</urlXml>
+        </item>
+        <item id="BOE-B-2021-8629">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="164056" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8629.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8629</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8629</urlXml>
+        </item>
+        <item id="BOE-B-2021-8630">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="169632" szKBytes="166" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8630.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8630</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8630</urlXml>
+        </item>
+        <item id="BOE-B-2021-8631">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="169182" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8631.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8631</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8631</urlXml>
+        </item>
+        <item id="BOE-B-2021-8632">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="168913" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8632.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8632</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8632</urlXml>
+        </item>
+        <item id="BOE-B-2021-8633">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="163490" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8633.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8633</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8633</urlXml>
+        </item>
+        <item id="BOE-B-2021-8634">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="163521" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8634.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8634</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8634</urlXml>
+        </item>
+        <item id="BOE-B-2021-8635">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="168614" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8635.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8635</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8635</urlXml>
+        </item>
+        <item id="BOE-B-2021-8636">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="163839" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8636.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8636</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8636</urlXml>
+        </item>
+        <item id="BOE-B-2021-8637">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="168549" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8637.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8637</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8637</urlXml>
+        </item>
+        <item id="BOE-B-2021-8638">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="164615" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8638.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8638</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8638</urlXml>
+        </item>
+        <item id="BOE-B-2021-8639">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="164118" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8639.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8639</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8639</urlXml>
+        </item>
+        <item id="BOE-B-2021-8640">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="168533" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8640.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8640</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8640</urlXml>
+        </item>
+        <item id="BOE-B-2021-8641">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="163985" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8641.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8641</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8641</urlXml>
+        </item>
+        <item id="BOE-B-2021-8642">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="167490" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8642.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8642</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8642</urlXml>
+        </item>
+        <item id="BOE-B-2021-8643">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="164796" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8643.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8643</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8643</urlXml>
+        </item>
+        <item id="BOE-B-2021-8644">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="168001" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8644.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8644</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8644</urlXml>
+        </item>
+        <item id="BOE-B-2021-8645">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="165238" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8645.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8645</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8645</urlXml>
+        </item>
+        <item id="BOE-B-2021-8646">
+          <titulo>BILBAO</titulo>
+          <urlPdf szBytes="162971" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8646.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8646</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8646</urlXml>
+        </item>
+        <item id="BOE-B-2021-8647">
+          <titulo>BILBAO</titulo>
+          <urlPdf szBytes="167646" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8647.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8647</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8647</urlXml>
+        </item>
+        <item id="BOE-B-2021-8648">
+          <titulo>BURGOS</titulo>
+          <urlPdf szBytes="164928" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8648.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8648</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8648</urlXml>
+        </item>
+        <item id="BOE-B-2021-8649">
+          <titulo>BURGOS</titulo>
+          <urlPdf szBytes="165808" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8649.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8649</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8649</urlXml>
+        </item>
+        <item id="BOE-B-2021-8650">
+          <titulo>GIRONA</titulo>
+          <urlPdf szBytes="166021" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8650.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8650</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8650</urlXml>
+        </item>
+        <item id="BOE-B-2021-8651">
+          <titulo>GIRONA</titulo>
+          <urlPdf szBytes="165209" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8651.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8651</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8651</urlXml>
+        </item>
+        <item id="BOE-B-2021-8652">
+          <titulo>GIRONA</titulo>
+          <urlPdf szBytes="166981" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8652.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8652</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8652</urlXml>
+        </item>
+        <item id="BOE-B-2021-8653">
+          <titulo>JAÉN</titulo>
+          <urlPdf szBytes="166695" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8653.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8653</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8653</urlXml>
+        </item>
+        <item id="BOE-B-2021-8654">
+          <titulo>LOGROÑO</titulo>
+          <urlPdf szBytes="166761" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8654.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8654</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8654</urlXml>
+        </item>
+        <item id="BOE-B-2021-8655">
+          <titulo>MADRID</titulo>
+          <urlPdf szBytes="166995" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8655.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8655</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8655</urlXml>
+        </item>
+        <item id="BOE-B-2021-8656">
+          <titulo>MADRID</titulo>
+          <urlPdf szBytes="167183" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8656.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8656</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8656</urlXml>
+        </item>
+        <item id="BOE-B-2021-8657">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="168218" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8657.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8657</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8657</urlXml>
+        </item>
+        <item id="BOE-B-2021-8658">
+          <titulo>OVIEDO</titulo>
+          <urlPdf szBytes="165870" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8658.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8658</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8658</urlXml>
+        </item>
+        <item id="BOE-B-2021-8659">
+          <titulo>OVIEDO</titulo>
+          <urlPdf szBytes="161441" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8659.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8659</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8659</urlXml>
+        </item>
+        <item id="BOE-B-2021-8660">
+          <titulo>PALMA DE MALLORCA</titulo>
+          <urlPdf szBytes="165032" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8660.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8660</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8660</urlXml>
+        </item>
+        <item id="BOE-B-2021-8661">
+          <titulo>PALMA DE MALLORCA</titulo>
+          <urlPdf szBytes="163108" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8661.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8661</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8661</urlXml>
+        </item>
+        <item id="BOE-B-2021-8662">
+          <titulo>PALMA DE MALLORCA</titulo>
+          <urlPdf szBytes="163866" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8662.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8662</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8662</urlXml>
+        </item>
+        <item id="BOE-B-2021-8663">
+          <titulo>SALAMANCA</titulo>
+          <urlPdf szBytes="167809" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8663.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8663</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8663</urlXml>
+        </item>
+        <item id="BOE-B-2021-8664">
+          <titulo>SAN SEBASTIÁN</titulo>
+          <urlPdf szBytes="165370" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8664.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8664</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8664</urlXml>
+        </item>
+        <item id="BOE-B-2021-8665">
+          <titulo>SAN SEBASTIÁN</titulo>
+          <urlPdf szBytes="166088" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8665.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8665</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8665</urlXml>
+        </item>
+        <item id="BOE-B-2021-8666">
+          <titulo>SANTA CRUZ DE TENERIFE</titulo>
+          <urlPdf szBytes="174328" szKBytes="170" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8666.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8666</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8666</urlXml>
+        </item>
+        <item id="BOE-B-2021-8667">
+          <titulo>SANTANDER</titulo>
+          <urlPdf szBytes="165315" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8667.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8667</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8667</urlXml>
+        </item>
+        <item id="BOE-B-2021-8668">
+          <titulo>SEVILLA</titulo>
+          <urlPdf szBytes="165593" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8668.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8668</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8668</urlXml>
+        </item>
+        <item id="BOE-B-2021-8669">
+          <titulo>TARRAGONA</titulo>
+          <urlPdf szBytes="163777" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8669.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8669</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8669</urlXml>
+        </item>
+        <item id="BOE-B-2021-8670">
+          <titulo>TARRAGONA</titulo>
+          <urlPdf szBytes="163210" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8670.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8670</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8670</urlXml>
+        </item>
+        <item id="BOE-B-2021-8671">
+          <titulo>TARRAGONA</titulo>
+          <urlPdf szBytes="162911" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8671.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8671</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8671</urlXml>
+        </item>
+        <item id="BOE-B-2021-8672">
+          <titulo>TARRAGONA</titulo>
+          <urlPdf szBytes="168489" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8672.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8672</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8672</urlXml>
+        </item>
+        <item id="BOE-B-2021-8673">
+          <titulo>TARRAGONA</titulo>
+          <urlPdf szBytes="168354" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8673.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8673</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8673</urlXml>
+        </item>
+        <item id="BOE-B-2021-8674">
+          <titulo>VALENCIA</titulo>
+          <urlPdf szBytes="164849" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8674.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8674</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8674</urlXml>
+        </item>
+        <item id="BOE-B-2021-8675">
+          <titulo>VALENCIA</titulo>
+          <urlPdf szBytes="166852" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8675.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8675</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8675</urlXml>
+        </item>
+        <item id="BOE-B-2021-8676">
+          <titulo>VALENCIA</titulo>
+          <urlPdf szBytes="170643" szKBytes="167" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8676.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8676</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8676</urlXml>
+        </item>
+        <item id="BOE-B-2021-8677">
+          <titulo>VALENCIA</titulo>
+          <urlPdf szBytes="166809" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8677.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8677</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8677</urlXml>
+        </item>
+        <item id="BOE-B-2021-8678">
+          <titulo>VALENCIA</titulo>
+          <urlPdf szBytes="167137" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8678.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8678</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8678</urlXml>
+        </item>
+        <item id="BOE-B-2021-8679">
+          <titulo>VALENCIA</titulo>
+          <urlPdf szBytes="164063" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8679.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8679</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8679</urlXml>
+        </item>
+        <item id="BOE-B-2021-8680">
+          <titulo>VALENCIA</titulo>
+          <urlPdf szBytes="166946" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8680.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8680</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8680</urlXml>
+        </item>
+        <item id="BOE-B-2021-8681">
+          <titulo>ZARAGOZA</titulo>
+          <urlPdf szBytes="163997" szKBytes="160" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8681.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8681</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8681</urlXml>
+        </item>
+        <item id="BOE-B-2021-8682">
+          <titulo>ZARAGOZA</titulo>
+          <urlPdf szBytes="164477" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8682.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8682</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8682</urlXml>
+        </item>
+        <item id="BOE-B-2021-8683">
+          <titulo>ZARAGOZA</titulo>
+          <urlPdf szBytes="164967" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8683.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8683</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8683</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="JUZGADOS DE LO SOCIAL" etq="9548">
+        <item id="BOE-B-2021-8684">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="161204" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8684.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8684</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8684</urlXml>
+        </item>
+        <item id="BOE-B-2021-8685">
+          <titulo>SANTA CRUZ DE TENERIFE</titulo>
+          <urlPdf szBytes="162897" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8685.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8685</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8685</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="SERVICIOS COMUNES PROCESALES" etq="9571">
+        <item id="BOE-B-2021-8686">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="160767" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8686.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8686</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8686</urlXml>
+        </item>
+        <item id="BOE-B-2021-8687">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="160749" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8687.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8687</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8687</urlXml>
+        </item>
+        <item id="BOE-B-2021-8688">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="160362" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8688.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8688</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8688</urlXml>
+        </item>
+        <item id="BOE-B-2021-8689">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="160870" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8689.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8689</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8689</urlXml>
+        </item>
+        <item id="BOE-B-2021-8690">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="160880" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8690.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8690</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8690</urlXml>
+        </item>
+        <item id="BOE-B-2021-8691">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="160875" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8691.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8691</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8691</urlXml>
+        </item>
+        <item id="BOE-B-2021-8692">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="161144" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8692.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8692</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8692</urlXml>
+        </item>
+        <item id="BOE-B-2021-8693">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="161141" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8693.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8693</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8693</urlXml>
+        </item>
+        <item id="BOE-B-2021-8694">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="160867" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8694.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8694</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8694</urlXml>
+        </item>
+        <item id="BOE-B-2021-8695">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="161287" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8695.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8695</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8695</urlXml>
+        </item>
+        <item id="BOE-B-2021-8696">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="161622" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8696.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8696</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8696</urlXml>
+        </item>
+        <item id="BOE-B-2021-8697">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="161016" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8697.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8697</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8697</urlXml>
+        </item>
+        <item id="BOE-B-2021-8698">
+          <titulo>VALENCIA</titulo>
+          <urlPdf szBytes="161088" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8698.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8698</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8698</urlXml>
+        </item>
+        <item id="BOE-B-2021-8699">
+          <titulo>VALENCIA</titulo>
+          <urlPdf szBytes="160966" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8699.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8699</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8699</urlXml>
+        </item>
+        <item id="BOE-B-2021-8700">
+          <titulo>VALENCIA</titulo>
+          <urlPdf szBytes="161190" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8700.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8700</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8700</urlXml>
+        </item>
+      </departamento>
+    </seccion>
+    <seccion num="5A" nombre="V. Anuncios. - A. Contratación del Sector Público">
+      <departamento nombre="MINISTERIO DE JUSTICIA" etq="4810">
+        <item id="BOE-B-2021-8701">
+          <titulo>Anuncio de licitación de: Junta de Contratación del Ministerio de Justicia. Objeto: Suministro por lotes (2) de material consumible informático en el ámbito de diversas Gerencias Territoriales del Ministerio de Justicia. Expediente: ASU/2020/221.</titulo>
+          <urlPdf szBytes="197274" szKBytes="193" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8701.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8701</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8701</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE DEFENSA" etq="6110">
+        <item id="BOE-B-2021-8702">
+          <titulo>Anuncio de formalización de contratos de: Intendente de Ferrol. Objeto: Mantenimiento de limpieza y desinfección de tanques y circuitos de agua dulce en buques apoyados por el Arsenal Militar de Ferrol. Expediente: 2020AR42U00001257.</titulo>
+          <urlPdf szBytes="184924" szKBytes="181" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8702.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8702</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8702</urlXml>
+        </item>
+        <item id="BOE-B-2021-8703">
+          <titulo>Anuncio de formalización de contratos de: Intendente de Rota. Objeto: Servicio de limpieza química de tuberías que contengan cualquier tipo de fluidos, instaladas en buques de la armada española apoyador por el arsenal de Cádiz y aquellos en tránsito de otros arsenales. Expediente: 20202/AR46U/00001418.</titulo>
+          <urlPdf szBytes="186180" szKBytes="182" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8703.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8703</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8703</urlXml>
+        </item>
+        <item id="BOE-B-2021-8704">
+          <titulo>Anuncio de formalización de contratos de: Intendente de Ferrol. Objeto: Servicio abierto para la realización de las actividades de mantenimiento y reparación de los equipos de cocina y lavandería de las unidades dependientes del Arsenal de Ferrol. Expediente: 2020AR42U00002128.</titulo>
+          <urlPdf szBytes="183665" szKBytes="179" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8704.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8704</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8704</urlXml>
+        </item>
+        <item id="BOE-B-2021-8705">
+          <titulo>Anuncio de formalización de contratos de: Intendente de Ferrol. Objeto: Varias dependencias. Servicio abierto de mantenimiento de redes de agua potable, acs y fontanería. Expediente: 2020AR42U00001810.</titulo>
+          <urlPdf szBytes="183899" szKBytes="180" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8705.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8705</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8705</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DEL INTERIOR" etq="7320">
+        <item id="BOE-B-2021-8706">
+          <titulo>Anuncio de corrección de errores de: Jefatura de Asuntos Económicos de la Guardia Civil. Objeto: Contratación del suministro de dos (2) patrulleras medias todo tiempo y dos (2) patrulleras de alta velocidad. Expediente: D/0078/A/20/6.</titulo>
+          <urlPdf szBytes="168834" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8706.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8706</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8706</urlXml>
+        </item>
+        <item id="BOE-B-2021-8707">
+          <titulo>Anuncio de formalización de contratos de: Subdirección General de Servicios Penitenciarios. Objeto: Mantenimiento integral del Centro Penitenciario Madrid VI y del UAR del Hospital 12 de Octubre de Madrid. Expediente: 020120200136.</titulo>
+          <urlPdf szBytes="187652" szKBytes="183" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8707.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8707</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8707</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA" etq="9572">
+        <item id="BOE-B-2021-8708">
+          <titulo>Anuncio de la Entidad Pública Empresarial Adif-Alta Velocidad por el que se comunica la nueva fecha de apertura de ofertas económicas del procedimiento de contratación de "obras de ejecución del proyecto de construcción de plataforma de la Línea de Alta Velocidad Palencia-Aguilar de Campoo. Tramo: Amusco-Osorno". (Expediente: 3.19/20830.0321 -ON 033/19).</titulo>
+          <urlPdf szBytes="170593" szKBytes="167" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8708.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8708</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8708</urlXml>
+        </item>
+        <item id="BOE-B-2021-8709">
+          <titulo>Anuncio de licitación de: Presidencia de la Autoridad Portuaria de Baleares. Objeto: Mantenimiento de arbolado y palmeras, jardinería y acantilados en el puerto de Maó. Expediente: E20-0113.</titulo>
+          <urlPdf szBytes="203971" szKBytes="199" numPag="4">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8709.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8709</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8709</urlXml>
+        </item>
+        <item id="BOE-B-2021-8710">
+          <titulo>Anuncio de licitación de: Presidencia de la Autoridad Portuaria de Baleares. Objeto: Unidad móvil de gestión de cables para la alimentación eléctrica de buques en Baja Tensión en el Muelle de Paraires del puerto de Palma. Expediente: P.O. 75.20.</titulo>
+          <urlPdf szBytes="196599" szKBytes="192" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8710.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8710</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8710</urlXml>
+        </item>
+        <item id="BOE-B-2021-8711">
+          <titulo>Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Renovación del sistema de iluminación de los túneles del contorno de barcelona, barcelona y girona. Expediente: 3.19/28507.0188.</titulo>
+          <urlPdf szBytes="181751" szKBytes="177" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8711.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8711</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8711</urlXml>
+        </item>
+        <item id="BOE-B-2021-8712">
+          <titulo>Anuncio de licitación de: Presidencia del Consejo de Administración de la Autoridad Portuaria de Barcelona (PORT DE BARCELONA). Objeto: Adquisición de licencias y servicio de implantación y mantenimiento de software para la gestión comercial, de marketing, incidencias y comunicaciones con los clientes (CRM) con modelo cloud publico multitenant (SaaS). Clave del expediente: 2020R340080. REF. SERVICIO DE CONTRATACIÓN: 2020-00342. Expediente: 2020-00342.</titulo>
+          <urlPdf szBytes="199229" szKBytes="195" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8712.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8712</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8712</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL" etq="9573">
+        <item id="BOE-B-2021-8713">
+          <titulo>Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Servicio de limpieza del edificio de Servicios Múltiples a ocupar por la Dirección Territorial de la IPTSS La Rioja, la Dirección Territorial de Comercio de La Rioja, el SEPE y el FOGASA. Expediente: 202000000706 .</titulo>
+          <urlPdf szBytes="189754" szKBytes="185" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8713.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8713</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8713</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN" etq="3120">
+        <item id="BOE-B-2021-8714">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de una unidad de almacenamiento (Silo) de su propiedad en la provincia de Granada.</titulo>
+          <urlPdf szBytes="178367" szKBytes="174" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8714.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8714</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8714</urlXml>
+        </item>
+        <item id="BOE-B-2021-8715">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de unidades de almacenamiento (Silos) de su propiedad en la provincia de Huesca.</titulo>
+          <urlPdf szBytes="197991" szKBytes="193" numPag="5">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8715.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8715</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8715</urlXml>
+        </item>
+        <item id="BOE-B-2021-8716">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de unidades de almacenamiento (Silos) de su propiedad en la provincia de Teruel.</titulo>
+          <urlPdf szBytes="180448" szKBytes="176" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8716.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8716</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8716</urlXml>
+        </item>
+        <item id="BOE-B-2021-8717">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de unidades de almacenamiento (Silos) de su propiedad en la provincia de Zaragoza.</titulo>
+          <urlPdf szBytes="204892" szKBytes="200" numPag="6">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8717.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8717</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8717</urlXml>
+        </item>
+        <item id="BOE-B-2021-8718">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de una unidad de almacenamiento (Silo) de su propiedad en la provincia de León.</titulo>
+          <urlPdf szBytes="177857" szKBytes="174" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8718.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8718</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8718</urlXml>
+        </item>
+        <item id="BOE-B-2021-8719">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de unidades de almacenamiento (Silos) de su propiedad en la provincia de Salamanca.</titulo>
+          <urlPdf szBytes="191071" szKBytes="187" numPag="4">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8719.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8719</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8719</urlXml>
+        </item>
+        <item id="BOE-B-2021-8720">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de una unidad de almacenamiento (Silo) de su propiedad en la provincia de Soria.</titulo>
+          <urlPdf szBytes="178226" szKBytes="174" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8720.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8720</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8720</urlXml>
+        </item>
+        <item id="BOE-B-2021-8721">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de una unidad de almacenamiento (Silo) de su propiedad en la provincia de Segovia.</titulo>
+          <urlPdf szBytes="178669" szKBytes="174" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8721.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8721</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8721</urlXml>
+        </item>
+        <item id="BOE-B-2021-8722">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de unidades de almacenamiento (Silos) de su propiedad en la provincia de Valladolid.</titulo>
+          <urlPdf szBytes="180924" szKBytes="177" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8722.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8722</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8722</urlXml>
+        </item>
+        <item id="BOE-B-2021-8723">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de unidades de almacenamiento (Silos) de su propiedad en la provincia de Zamora.</titulo>
+          <urlPdf szBytes="187760" szKBytes="183" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8723.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8723</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8723</urlXml>
+        </item>
+        <item id="BOE-B-2021-8724">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de unidades de almacenamiento (Silos) de su propiedad en la provincia de Badajoz.</titulo>
+          <urlPdf szBytes="194261" szKBytes="190" numPag="4">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8724.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8724</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8724</urlXml>
+        </item>
+        <item id="BOE-B-2021-8725">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de unidades de almacenamiento (Silos) de su propiedad en la provincia de Cáceres.</titulo>
+          <urlPdf szBytes="181650" szKBytes="177" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8725.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8725</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8725</urlXml>
+        </item>
+        <item id="BOE-B-2021-8726">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de una unidad de almacenamiento (Silo) de su propiedad en la provincia de Madrid.</titulo>
+          <urlPdf szBytes="179626" szKBytes="175" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8726.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8726</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8726</urlXml>
+        </item>
+        <item id="BOE-B-2021-8727">
+          <titulo>Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de unidades de almacenamiento (Silos) de su propiedad en la provincia de La Rioja.</titulo>
+          <urlPdf szBytes="184805" szKBytes="180" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8727.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8727</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8727</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA" etq="9561">
+        <item id="BOE-B-2021-8728">
+          <titulo>Anuncio de formalización de contratos de: Instituto Nacional de Administración Pública (INAP). Objeto: El presente contrato tiene por objeto el suministro de repuestos de tóner para las impresoras instaladas en el INAP,. Expediente: 202000000071.</titulo>
+          <urlPdf szBytes="183916" szKBytes="180" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8728.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8728</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8728</urlXml>
+        </item>
+        <item id="BOE-B-2021-8729">
+          <titulo>Anuncio de formalización de contratos de: Instituto Nacional de Administración Pública (INAP). Objeto: El servicio a contratar tiene por objeto el mantenimiento y conservación de los equiposmultifuncionales instalados en las distintas unidades del INAP. Expediente: 202000000072.</titulo>
+          <urlPdf szBytes="188596" szKBytes="184" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8729.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8729</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8729</urlXml>
+        </item>
+        <item id="BOE-B-2021-8730">
+          <titulo>Anuncio de formalización de contratos de: Instituto Nacional de Administración Pública (INAP). Objeto: Servicios complementarios para la selección de personal correspondientes a procesos selectivos en cuya gestión participa el INAP. Expediente: 202000000052.</titulo>
+          <urlPdf szBytes="195436" szKBytes="191" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8730.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8730</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8730</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO" etq="9575">
+        <item id="BOE-B-2021-8731">
+          <titulo>Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Guadiana. Objeto: Contrato transitorio de servicios esenciales de explotación, mantenimiento y conservación de las Presas de la zona 3ª en la cuenca media del rio Guadiana. Expediente: 202000000060.</titulo>
+          <urlPdf szBytes="189107" szKBytes="185" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8731.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8731</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8731</urlXml>
+        </item>
+        <item id="BOE-B-2021-8732">
+          <titulo>Anuncio de licitación de: Oficialía Mayor del Ministerio para la Transición Ecológica y el Reto Demográfico. Objeto: Contratación del servicio de cuentas corrientes en entidad financiera privada. Expediente: 20210000030R.</titulo>
+          <urlPdf szBytes="191083" szKBytes="187" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8732.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8732</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8732</urlXml>
+        </item>
+        <item id="BOE-B-2021-8733">
+          <titulo>Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Guadiana. Objeto: Proyecto de reparación de la carretera CM-4157 tramo poblado de Cíjara p.k. 15+153 (Cáceres, Toledo y Ciudad Real). Expediente: 202000000127.</titulo>
+          <urlPdf szBytes="190910" szKBytes="186" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8733.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8733</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8733</urlXml>
+        </item>
+        <item id="BOE-B-2021-8734">
+          <titulo>Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Guadiana. Objeto: Asistencia para el control y vigilancia y coordinación de seguridad y salud de las obras de reparación de la carretera CM-4157. Tramo: poblado del Cijara AL P.K. 13+153. Expediente: 202000000164.</titulo>
+          <urlPdf szBytes="193125" szKBytes="189" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8734.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8734</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8734</urlXml>
+        </item>
+        <item id="BOE-B-2021-8735">
+          <titulo>Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Guadiana. Objeto: Consultoría y asistencia para la creación de un modelo hidráulico dinámico de apoyo a la explotación del Canal de Orellana integrado en el telemando del canal y de un sistema de información geográfica de la infraestructura . Expediente: 202000000217.</titulo>
+          <urlPdf szBytes="185193" szKBytes="181" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8735.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8735</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8735</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL" etq="9576">
+        <item id="BOE-B-2021-8736">
+          <titulo>Anuncio de formalización de contratos de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Suministro para el desarrollo de la iniciativa connecta Valencia. territorio turístico inteligente y sostenible. Expediente: 094/19-SP.</titulo>
+          <urlPdf szBytes="192460" szKBytes="188" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8736.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8736</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8736</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE CIENCIA E INNOVACIÓN" etq="4245">
+        <item id="BOE-B-2021-8737">
+          <titulo>Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Servicio de mantenimiento de un equipo de análisis cromatográfico con destino al Instituto de Ciencias de la Vid y del Vino. Expediente: 47/21.</titulo>
+          <urlPdf szBytes="185094" szKBytes="181" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8737.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8737</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8737</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES" etq="9579">
+        <item id="BOE-B-2021-8738">
+          <titulo>Anuncio de licitación de: INSS-Dirección Provincial de Lugo. Objeto: Servicios de mantenimiento integral de las oficinas o dependencias administrativas del Instituto Nacional de la Seguridad Social, distribuidas por Lugo capital y provincia, del 01-05-2021 al 30-04-2022. Expediente: 27VC2/21X.</titulo>
+          <urlPdf szBytes="195002" szKBytes="190" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8738.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8738</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8738</urlXml>
+        </item>
+        <item id="BOE-B-2021-8739">
+          <titulo>Anuncio de licitación de: TGSS-Dirección provincial de Tarragona. Objeto: Servicio de limpieza diaria en unidades administrativas dependientes de la DP de la TGSS de Tarragona para un periodo de 12 meses desde 01-07-2021 o fecha de la firma del contrato si fuera posterior. Expediente: 43/PA/001/2021.</titulo>
+          <urlPdf szBytes="196636" szKBytes="192" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8739.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8739</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8739</urlXml>
+        </item>
+        <item id="BOE-B-2021-8740">
+          <titulo>Anuncio de formalización de contratos de: TGSS-Dirección provincial de Ávila. Objeto: Prórroga del Servicio de vigilancia de la Dirección Provincial conjunta TGSS/INSS de Ávila (Expediente inicial T-05/VC-01/20). Expediente: T-05/PR-01/21_VC-01/2O.</titulo>
+          <urlPdf szBytes="181618" szKBytes="177" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8740.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8740</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8740</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="CONSEJO DE ESTADO" etq="1810">
+        <item id="BOE-B-2021-8741">
+          <titulo>Anuncio de formalización de contratos de: Presidencia del Consejo de Estado. Objeto: Servicio de mantenimiento de diversas instalaciones del Consejo de Estado. Expediente: 202005200034.</titulo>
+          <urlPdf szBytes="187128" szKBytes="183" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8741.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8741</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8741</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="OTROS PODERES ADJUDICADORES" etq="9207">
+        <item id="BOE-B-2021-8742">
+          <titulo>Anuncio de corrección de errores de: Consorcio de la Zona Franca de Barcelona. Objeto: Servicio de vigilancia y seguridad privada del Polígono Industrial, Edificios y Recintos del Consorcio de la Zona Franca de Barcelona. Expediente: 15/2020.</titulo>
+          <urlPdf szBytes="169122" szKBytes="165" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8742.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8742</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8742</urlXml>
+        </item>
+        <item id="BOE-B-2021-8743">
+          <titulo>Anuncio de licitación de: Subdirección de Compras de la Sociedad Estatal Correos y Telégrafos S.A. Objeto: Contratación de recursos y servicios de Seguridad de la Información, para el Grupo Correos: (Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. y Correos Express Paquetería Urgente, S.A. S.M.E. y Nexea Gestión Documental S.A. S.M.E.) (3 lotes). Expediente: MT210002.</titulo>
+          <urlPdf szBytes="194569" szKBytes="190" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8743.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8743</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8743</urlXml>
+        </item>
+      </departamento>
+    </seccion>
+    <seccion num="5B" nombre="V. Anuncios. - B. Otros anuncios oficiales">
+      <departamento nombre="MINISTERIO DE DEFENSA" etq="6110">
+        <item id="BOE-B-2021-8744">
+          <titulo>Resolución de la Dirección General de Infraestructura del Ministerio de Defensa, por la que se abre un periodo de información pública del Proyecto para la adecuación de los accesos a las instalaciones de combustible en el Destacamento Aéreo de "La Losilla" en Albacete y de la relación de bienes y derechos que pudieren verse afectados a efectos expropiatorios.</titulo>
+          <urlPdf szBytes="180486" szKBytes="176" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8744.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8744</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8744</urlXml>
+        </item>
+        <item id="BOE-B-2021-8745">
+          <titulo>Resolución de la Dirección General de Infraestructura del Ministerio de Defensa por la que se convoca para el levantamiento de las Actas Previas a la Ocupación de los bienes y/o derechos afectados por el procedimiento de expropiación forzosa para la obtención de los terrenos necesarios para adecuar el sistema de drenaje de la Base Aérea Virgen del Camino (León).</titulo>
+          <urlPdf szBytes="189053" szKBytes="185" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8745.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8745</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8745</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE HACIENDA" etq="5140">
+        <item id="BOE-B-2021-8746">
+          <titulo>Extracto de la Resolución de 17 de febrero de 2021 de la Presidencia de la Autoridad Independiente de Responsabilidad Fiscal, por la que se convocan ayudas a universidades y otros centros académicos para el fomento de la formación y la investigación en el ámbito del análisis económico y presupuestario para la estabilidad y sostenibilidad fiscal en el año 2021.</titulo>
+          <urlPdf szBytes="176122" szKBytes="172" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8746.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8746</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8746</urlXml>
+        </item>
+        <item id="BOE-B-2021-8747">
+          <titulo>Extracto de la Resolución de 16 de diciembre de 2020 del Consejo de Administración del Consorcio de la Ciudad de Toledo, por la que se aprueban las bases reguladoras de concesión de subvención directa en especie para las obras de rehabilitación de fachada, cubierta y excavación arqueológica en semisótano de calle Navarro Ledesma, número 2</titulo>
+          <urlPdf szBytes="175718" szKBytes="172" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8747.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8747</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8747</urlXml>
+        </item>
+        <item id="BOE-B-2021-8748">
+          <titulo>Extracto de la Resolución de 16 de diciembre de 2020 del Consejo de Administración del Consorcio de la Ciudad de Toledo, por la que se aprueban las bases reguladoras de concesión de subvención directa en especie para la restauración de fachada en calle Tendillas número 15</titulo>
+          <urlPdf szBytes="173089" szKBytes="169" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8748.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8748</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8748</urlXml>
+        </item>
+        <item id="BOE-B-2021-8749">
+          <titulo>Extracto de la Resolución de 16 de diciembre de 2020 del Consejo de Administración del Consorcio de la Ciudad de Toledo, por la que se aprueban las bases reguladoras de concesión de subvención directa en especie para las obras de restauración de fachada y elementos comunes en calle Plata, número 22.</titulo>
+          <urlPdf szBytes="173150" szKBytes="169" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8749.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8749</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8749</urlXml>
+        </item>
+        <item id="BOE-B-2021-8750">
+          <titulo>U.R. SUBASTAS CASTILLA Y LEON</titulo>
+          <urlPdf szBytes="163029" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8750.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8750</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8750</urlXml>
+        </item>
+        <item id="BOE-B-2021-8751">
+          <titulo>U.R. SUBASTAS VALENCIA</titulo>
+          <urlPdf szBytes="162743" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8751.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8751</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8751</urlXml>
+        </item>
+        <item id="BOE-B-2021-8752">
+          <titulo>U.R. SUBASTAS VALENCIA</titulo>
+          <urlPdf szBytes="162836" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8752.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8752</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8752</urlXml>
+        </item>
+        <item id="BOE-B-2021-8753">
+          <titulo>U.R. SUBASTAS VALENCIA</titulo>
+          <urlPdf szBytes="162609" szKBytes="159" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8753.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8753</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8753</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA" etq="9572">
+        <item id="BOE-B-2021-8754">
+          <titulo>Anuncio de la Autoridad Portuaria de Castellón por el que se inicia el trámite de competencia de proyectos en relación a la solicitud de IBERDROLA GENERACIÓN TÉRMICA, S.L., de una concesión administrativa en el Puerto de Castellón.</titulo>
+          <urlPdf szBytes="171444" szKBytes="167" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8754.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8754</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8754</urlXml>
+        </item>
+        <item id="BOE-B-2021-8755">
+          <titulo>Anuncio de la Autoridad Portuaria de Vigo, por el que se inicia el Trámite de Competencia de proyectos correspondiente a la solicitud de concesión administrativa formulada por la entidad MONTAJES CANCELAS S.L.</titulo>
+          <urlPdf szBytes="171989" szKBytes="168" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8755.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8755</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8755</urlXml>
+        </item>
+        <item id="BOE-B-2021-8756">
+          <titulo>Anuncio del ADIF por el que se somete a información pública a efectos de declaración de la necesidad de ocupación del "Proyecto de Construcción de Supresión del Paso a nivel del P.K. 35/706 de la línea Ujo-Collanzo. Término Municipal de Aller (Asturias)".</titulo>
+          <urlPdf szBytes="190415" szKBytes="186" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8756.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8756</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8756</urlXml>
+        </item>
+        <item id="BOE-B-2021-8757">
+          <titulo>Anuncio del ADIF, por el que se somete a información pública a efectos de declaración de la necesidad de ocupación el "Proyecto de Construcción de estabilización de taludes en las trincheras del PK 270+065 al PK 270+470 y del PK 272+404 al PK 272+997 en la línea 762 Trubia-San Esteban, de la red de ancho métrico, en Asturias".</titulo>
+          <urlPdf szBytes="216085" szKBytes="211" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8757.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8757</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8757</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN" etq="3120">
+        <item id="BOE-B-2021-8758">
+          <titulo>Resolución de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria del Ministerio de Agricultura, Pesca y Alimentación, por la que se acuerda someter a información pública el Estudio de impacto ambiental y Proyecto de Modernización y mejora del regadío en la zona centro sur de Fuerteventura TM. de Tuineje y Pájara.</titulo>
+          <urlPdf szBytes="173333" szKBytes="169" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8758.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8758</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8758</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA" etq="9561">
+        <item id="BOE-B-2021-8759">
+          <titulo>Anuncio de la Dependencia del Área de Industria y Energía de la Subdelegación del Gobierno en Alicante por el que se somete a información pública la solicitud de Autorización Administrativa Previa y Declaración de Impacto Ambiental del anteproyecto de la instalación solar fotovoltaica "FV Castalla" de 99,996 MW y sus infraestructuras de evacuación (Subestación Transformadora 30/220 kV; Línea Eléctrica 220 kV y Subestación Colectora 220 kV), en el término municipal de Castalla, en la provincia de Alicante. Expediente 2020/22 (PFot-294).</titulo>
+          <urlPdf szBytes="196909" szKBytes="192" numPag="4">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8759.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8759</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8759</urlXml>
+        </item>
+        <item id="BOE-B-2021-8760">
+          <titulo>Resolución de la Delegación del Gobierno en Castilla-La Mancha por la que se convoca el levantamiento de actas previas a la ocupación de las fincas afectadas por la "subestación 132/400 kV y la línea eléctrica a 400 kV", infraestructura de evacuación de energía eléctrica del parque eólico Campillo de Altobuey Fase I de 75 MW, ubicado en la provincia de Cuenca. PEol-188-DUP1.</titulo>
+          <urlPdf szBytes="211322" szKBytes="206" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8760.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8760</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8760</urlXml>
+        </item>
+        <item id="BOE-B-2021-8761">
+          <titulo>Anuncio de la Dependencia de Industria y Energía de la Subdelegación del Gobierno en Málaga por el que se somete a información pública la solicitud de Autorización Administrativa Previa y Declaración de Impacto Ambiental de las plantas fotovoltaicas FV Reclamo Solar de 150 MWp, FV Rehala Solar de 170 MWp y FV Stopper Solar de 130 Mwp, y de Autorización Administrativa Previa, Declaración de Impacto Ambiental y Autorización Administrativa de Construcción de la planta fotovoltaica FV Volateo Solar de 150 MWp así como la infraestructura de evacuación común: Subestación Eléctrica Transformadora Antequera 30/400 kV y Línea de alta tensión a 400 kV Antequera – Tajo de la Encantada SE 400 kV.</titulo>
+          <urlPdf szBytes="204446" szKBytes="200" numPag="5">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8761.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8761</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8761</urlXml>
+        </item>
+        <item id="BOE-B-2021-8762">
+          <titulo>Anuncio del Área de Industria y Energía de la Delegación del Gobierno en Extremadura, por el que se somete a información pública la solicitud de la autorización administrativa previa, autorización administrativa de construcción, declaración, en concreto, de declaración de utilidad pública y declaración de impacto ambiental del proyecto de ejecución de una planta solar fotovoltaica denominada "CAMPO DE ARAÑUELO" y su infraestructura de evacuación, en los términos municipales de Torrecillas de la Tiesa y Aldeacentenera, provincia de Cáceres.</titulo>
+          <urlPdf szBytes="230268" szKBytes="225" numPag="4">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8762.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8762</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8762</urlXml>
+        </item>
+        <item id="BOE-B-2021-8763">
+          <titulo>Anuncio del Área de Industria y Energía de la Subdelegación del Gobierno en Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa, autorización administrativa de construcción, declaración de impacto ambiental y reconocimiento, en concreto, de utilidad pública, del proyecto "Planta Solar Fotovoltaica FV Aldea San Miguel 69 MWp" e Infraestructuras de evacuación: "Subestación FV Aldea San Miguel 66/30 kV", "Línea eléctrica de 66 kV SE 2 Aldea San Miguel - SE FV Aldea San Miguel", "Subestación 2 Aldea San Miguel 220/66 kV", "Centro de Seccionamiento 220 kV", y "Línea eléctrica de 220 kV Centro de Seccionamiento/SE 2 Aldea San Miguel - SE Las Arroyadas REE", en los términos municipales de Aldea de San Miguel, La Pedraja de Portillo, Aldeamayor de San Martín y Boecillo (Valladolid), promovido por NEW UNIVERSELINE SYSTEMS, S.L.</titulo>
+          <urlPdf szBytes="409249" szKBytes="400" numPag="7">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8763.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8763</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8763</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="COMUNIDAD AUTÓNOMA DE CATALUÑA" etq="8070">
+        <item id="BOE-B-2021-8764">
+          <titulo>Resolución del Departamento de Empresa y Conocimiento, Dirección General de Energía, Seguridad Industrial y Seguridad Minera EMC / / 2021, de 16 de febrero, por la que se hace pública la convocatoria para la redacción de las actas previas a la ocupación de las fincas afectadas por el proyecto de ejecución de construcción de la red de gas natural para la conexión a la planta de tratamientos de purines, en el término municipal de L'Esquirol (Exp. DICT17-00016951-2018).</titulo>
+          <urlPdf szBytes="186947" szKBytes="183" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8764.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8764</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8764</urlXml>
+        </item>
+        <item id="BOE-B-2021-8765">
+          <titulo>ANUNCIO del Departamento de Agricultura, Ganadería, Pesca y Alimentación de la Generalitat de Catalunya por el que se da publicidad a la Resolución por la que se adopta la decisión favorable sobre la solicitud de modificación menor de la Denominación de Origen Protegida Avellana de Reus.</titulo>
+          <urlPdf szBytes="169933" szKBytes="166" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8765.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8765</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8765</urlXml>
+        </item>
+        <item id="BOE-B-2021-8766">
+          <titulo>ANUNCIO del Departamento de Agricultura, Ganadería, Pesca y Alimentación de la Generalidad de Cataluña por el que se da publicidad a la solicitud de modificación de la Indicación Geográfica Protegida "Pan de Payés Catalán", y su documento único actualizado.</titulo>
+          <urlPdf szBytes="171089" szKBytes="167" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8766.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8766</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8766</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="COMUNIDAD AUTÓNOMA DE ANDALUCÍA" etq="8010">
+        <item id="BOE-B-2021-8767">
+          <titulo>Anuncio de la delegación del gobierno en Sevilla por la que se somete a trámite de audiencia a los interesados e información pública el procedimiento de autorización administrativa previa y de construcción y declaración en concreto de utilidad pública del proyecto de modificación de líneas aéreas de media tensión de salida de la subestación el pintado en el tm. del Real de la Jara. Expte.: 286698 - R.A.T.: 114135.</titulo>
+          <urlPdf szBytes="187365" szKBytes="183" numPag="2">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8767.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8767</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8767</urlXml>
+        </item>
+        <item id="BOE-B-2021-8768">
+          <titulo>Resolución de la Delegación del Gobierno de Almería por la que se concede Autorización, Administrativa, Aprobación del proyecto y Declaración, en concreto, de Utilidad Pública del proyecto de nueva l.a.m.t. 25 kV para cierre entre l.a.m.t. Albanchez y l.a.m.t. zurgena, sita en ermita virgen de la cabeza y los perales en el t.m. de benizalón (Almería) expte. NI: 4958-9412.</titulo>
+          <urlPdf szBytes="256955" szKBytes="251" numPag="4">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8768.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8768</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8768</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="UNIVERSIDADES" etq="310">
+        <item id="BOE-B-2021-8769">
+          <titulo>Corrección de errores sobre anuncio de extravío de Título de la Facultad de Filosofía y Letras de la Universidad de Navarra.</titulo>
+          <urlPdf szBytes="166912" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8769.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8769</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8769</urlXml>
+        </item>
+        <item id="BOE-B-2021-8770">
+          <titulo>Anuncio de la Escuela Técnica Superior de Arquitectura y Edificación de la Universidad Politécnica de Cartagena sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="168144" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8770.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8770</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8770</urlXml>
+        </item>
+        <item id="BOE-B-2021-8771">
+          <titulo>Anuncio de la Facultad de Economía, Empresa y Turismo de la Universidad de La Laguna sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="166558" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8771.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8771</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8771</urlXml>
+        </item>
+        <item id="BOE-B-2021-8772">
+          <titulo>Anuncio de la Escuela de Ingeniería de Bilbao de la Universidad del País Vasco/Euskal Herriko Unibertsitatea sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="167119" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8772.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8772</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8772</urlXml>
+        </item>
+        <item id="BOE-B-2021-8773">
+          <titulo>Anuncio de la Facultad de Geografía e Historia de la Universidad Complutense de Madrid sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="168101" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8773.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8773</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8773</urlXml>
+        </item>
+        <item id="BOE-B-2021-8774">
+          <titulo>Anuncio de la Escuela Técnica Superior de Ingeniería y Sistemas de Telecomunicación de la Universidad Politécnica de Madrid sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="167778" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8774.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8774</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8774</urlXml>
+        </item>
+        <item id="BOE-B-2021-8775">
+          <titulo>Anuncio de la Facultad de Educación de la Universidad de Barcelona sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="164430" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8775.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8775</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8775</urlXml>
+        </item>
+        <item id="BOE-B-2021-8776">
+          <titulo>Anuncio de la Facultad de Psicología de la Universidad Complutense de Madrid sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="167379" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8776.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8776</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8776</urlXml>
+        </item>
+        <item id="BOE-B-2021-8777">
+          <titulo>Anuncio de la Facultad de Filosofía y Ciencias de la Educación de la Universidad de Valencia sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="165940" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8777.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8777</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8777</urlXml>
+        </item>
+        <item id="BOE-B-2021-8778">
+          <titulo>Anuncio de Facultad de Filología de la Universidad de Salamanca sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="166867" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8778.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8778</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8778</urlXml>
+        </item>
+        <item id="BOE-B-2021-8779">
+          <titulo>Anuncio de la Facultat d'Economia i Empresa de la Universitat Rovira i Virgili sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="167137" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8779.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8779</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8779</urlXml>
+        </item>
+        <item id="BOE-B-2021-8780">
+          <titulo>Anuncio de la Universidad de Santiago de Compostela sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="165829" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8780.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8780</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8780</urlXml>
+        </item>
+        <item id="BOE-B-2021-8781">
+          <titulo>Anuncio de la Universidad Carlos III de Madrid sobre extravío de Título Universitario.</titulo>
+          <urlPdf szBytes="166907" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8781.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8781</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8781</urlXml>
+        </item>
+        <item id="BOE-B-2021-8782">
+          <titulo>Anuncio de la Facultad de Odontología de la Universidad Complutense de Madrid sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="167553" szKBytes="164" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8782.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8782</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8782</urlXml>
+        </item>
+        <item id="BOE-B-2021-8783">
+          <titulo>Anuncio de la Escuela Técnica Superior de Ingenieros Industriales de la Universidad Politécnica de Madrid sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="167416" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8783.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8783</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8783</urlXml>
+        </item>
+        <item id="BOE-B-2021-8784">
+          <titulo>Anuncio de la Facultad de Medicina de la Universidad Autónoma de Barcelona sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="167087" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8784.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8784</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8784</urlXml>
+        </item>
+        <item id="BOE-B-2021-8785">
+          <titulo>Anuncio de la Facultad de Derecho de la Universidad Complutense de Madrid sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="165126" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8785.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8785</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8785</urlXml>
+        </item>
+        <item id="BOE-B-2021-8786">
+          <titulo>Anuncio de la Facultad de Filología de la Universidad Complutense de Madrid sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="166226" szKBytes="162" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8786.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8786</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8786</urlXml>
+        </item>
+        <item id="BOE-B-2021-8787">
+          <titulo>Anuncio de la Facultad de Bellas Artes de la Universidad Complutense de Madrid sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="165292" szKBytes="161" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8787.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8787</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8787</urlXml>
+        </item>
+        <item id="BOE-B-2021-8788">
+          <titulo>Anuncio de Facultad de Odontología de la Universidad Complutense de Madrid sobre extravío de título universitario.</titulo>
+          <urlPdf szBytes="167413" szKBytes="163" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8788.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8788</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8788</urlXml>
+        </item>
+      </departamento>
+    </seccion>
+    <seccion num="5C" nombre="V. Anuncios. - C. Anuncios particulares">
+      <departamento nombre="ANUNCIOS PARTICULARES" etq="9202">
+        <item id="BOE-B-2021-8789">
+          <titulo>NOTARÍA DE FRANCISCO BAÑEGIL ESPINOSA</titulo>
+          <urlPdf szBytes="161283" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8789.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8789</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8789</urlXml>
+        </item>
+        <item id="BOE-B-2021-8790">
+          <titulo>NOTARÍA DE FRANCISCO BAÑEGIL ESPINOSA</titulo>
+          <urlPdf szBytes="161279" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8790.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8790</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8790</urlXml>
+        </item>
+        <item id="BOE-B-2021-8791">
+          <titulo>NOTARÍA DE FRANCISCO BAÑEGIL ESPINOSA</titulo>
+          <urlPdf szBytes="161280" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8791.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8791</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8791</urlXml>
+        </item>
+        <item id="BOE-B-2021-8792">
+          <titulo>NOTARÍA DE FRANCISCO BAÑEGIL ESPINOSA</titulo>
+          <urlPdf szBytes="161283" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8792.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8792</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8792</urlXml>
+        </item>
+        <item id="BOE-B-2021-8793">
+          <titulo>NOTARÍA DE JEZABEL RODRÍGUEZ JATO</titulo>
+          <urlPdf szBytes="161503" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8793.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8793</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8793</urlXml>
+        </item>
+        <item id="BOE-B-2021-8794">
+          <titulo>NOTARÍA DE JEZABEL RODRÍGUEZ JATO</titulo>
+          <urlPdf szBytes="161780" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8794.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8794</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8794</urlXml>
+        </item>
+        <item id="BOE-B-2021-8795">
+          <titulo>NOTARÍA DE JEZABEL RODRÍGUEZ JATO</titulo>
+          <urlPdf szBytes="161779" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8795.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8795</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8795</urlXml>
+        </item>
+        <item id="BOE-B-2021-8796">
+          <titulo>NOTARÍA DE JEZABEL RODRÍGUEZ JATO</titulo>
+          <urlPdf szBytes="161501" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8796.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8796</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8796</urlXml>
+        </item>
+        <item id="BOE-B-2021-8797">
+          <titulo>NOTARÍA DE JEZABEL RODRÍGUEZ JATO</titulo>
+          <urlPdf szBytes="161503" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8797.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8797</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8797</urlXml>
+        </item>
+        <item id="BOE-B-2021-8798">
+          <titulo>NOTARÍA DE JEZABEL RODRÍGUEZ JATO</titulo>
+          <urlPdf szBytes="161766" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8798.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8798</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8798</urlXml>
+        </item>
+        <item id="BOE-B-2021-8799">
+          <titulo>NOTARÍA DE JEZABEL RODRÍGUEZ JATO</titulo>
+          <urlPdf szBytes="161766" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8799.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8799</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8799</urlXml>
+        </item>
+        <item id="BOE-B-2021-8800">
+          <titulo>NOTARÍA DE JEZABEL RODRÍGUEZ JATO</titulo>
+          <urlPdf szBytes="161617" szKBytes="158" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8800.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8800</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8800</urlXml>
+        </item>
+        <item id="BOE-B-2021-8801">
+          <titulo>NOTARÍA DE JUAN AZNAR DE LA HAZA</titulo>
+          <urlPdf szBytes="160508" szKBytes="157" numPag="1">/boe/dias/2021/02/23/pdfs/BOE-B-2021-8801.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2021-8801</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2021-8801</urlXml>
+        </item>
+      </departamento>
+    </seccion>
+    <seccion num="T" nombre="T.C. Sección del Tribunal Constitucional">
+      <departamento nombre="TRIBUNAL CONSTITUCIONAL" etq="1410">
+        <epigrafe nombre="Sentencias">
+          <item id="BOE-A-2021-2820" control="2021/2520">
+            <titulo>Sala Segunda. Sentencia 1/2021, de 25 de enero de 2021. Recurso de amparo 1343-2018. Promovido por doña Joaquina Cortés Cortés en relación con la sentencia de la Sala de lo Social del Tribunal Supremo que desestimó su demanda de reconocimiento de pensión de viudedad. Supuesta discriminación por razón de raza: denegación de la pensión de viudedad consecuencia de la inexistencia de unión matrimonial reconocida por el ordenamiento español (STEDH de 8 de diciembre de 2009, asunto Muñoz Díaz c. España). Voto particular.</titulo>
+            <urlPdf szBytes="373980" szKBytes="365" numPag="25">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2820.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2820</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2820</urlXml>
+          </item>
+          <item id="BOE-A-2021-2821" control="2021/2523">
+            <titulo>Sala Segunda. Sentencia 2/2021, de 25 de enero de 2021. Recurso de amparo 6379-2018. Promovido por la Universidad Católica de Valencia San Vicente Mártir en relación con la Orden de la Consellería de Educación, Investigación, Cultura y Deporte 23/2016, de 10 de junio, por la que se establecen las bases reguladoras para la concesión de las becas para la promoción de la excelencia académica destinadas a quienes hayan concluido estudios de educación universitaria en las universidades públicas de la Comunitat Valenciana y estudios superiores en centros de titularidad pública adscritos al Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana (ISEACV), y las resoluciones dictadas por las salas de lo contencioso-administrativo del Tribunal Supremo y del Tribunal Superior de Justicia de la Comunidad Valenciana desestimando la impugnación de dicha orden. Vulneración del derecho a la igualdad en relación con el derecho a la creación de centros docentes: nulidad de los preceptos reglamentarios que limitan el disfrute de becas a los alumnos matriculados en universidades públicas integrantes del sistema universitario valenciano (STC 191/2020). Voto particular.</titulo>
+            <urlPdf szBytes="338016" szKBytes="330" numPag="21">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2821.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2821</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2821</urlXml>
+          </item>
+          <item id="BOE-A-2021-2822" control="2021/2524">
+            <titulo>Sala Segunda. Sentencia 3/2021, de 25 de enero de 2021. Recurso de amparo 469-2019. Promovido por don Radostin Mitkov Mitev respecto de las resoluciones de la Sala de lo Civil y de lo Penal del Tribunal Superior de Justicia de las Illes Balears que inadmitieron el recurso de apelación presentado frente a la sentencia condenatoria dictada por la Audiencia Provincial. Vulneración del derecho a un proceso con todas las garantías: resoluciones judiciales que, al anular la revisión de la incorrecta indicación de recursos y declarar la firmeza de la sentencia condenatoria, impiden el ejercicio del derecho a la segunda instancia penal.</titulo>
+            <urlPdf szBytes="249443" szKBytes="244" numPag="6">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2822.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2822</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2822</urlXml>
+          </item>
+          <item id="BOE-A-2021-2823" control="2021/2525">
+            <titulo>Sala Segunda. Sentencia 4/2021, de 25 de enero de 2021. Recurso de amparo 514-2019. Promovido por don Rusi Ventsislavov Ivanov respecto de las resoluciones de la Sala de lo Civil y de lo Penal del Tribunal Superior de Justicia de las Illes Balears que inadmitieron el recurso de apelación presentado frente a la sentencia condenatoria dictada por la Audiencia Provincial. Vulneración del derecho a un proceso con todas las garantías: resoluciones judiciales que, al anular la revisión de la incorrecta indicación de recursos y declarar la firmeza de la sentencia condenatoria, impiden el ejercicio del derecho a la segunda instancia penal.</titulo>
+            <urlPdf szBytes="248283" szKBytes="242" numPag="6">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2823.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2823</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2823</urlXml>
+          </item>
+          <item id="BOE-A-2021-2824" control="2021/2526">
+            <titulo>Sala Segunda. Sentencia 5/2021, de 25 de enero de 2021. Recurso de amparo 1331-2019. Promovido por don Maximino Antonio Martínez Suárez y otras quince personas más respecto de la resolución del Tribunal Administrativo del Deporte que declaró que aquellos habían vulnerado el deber de neutralidad que deben observar, en tanto que presidentes de federaciones territoriales, en el proceso electoral a la presidencia de la Real Federación Española de Fútbol. Supuesta vulneración de las libertades de expresión e información y de los derechos a la igualdad y de defensa: improcedencia de la invocación de derechos fundamentales de quienes actúan en el desempeño de funciones públicas.</titulo>
+            <urlPdf szBytes="381309" szKBytes="372" numPag="28">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2824.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2824</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2824</urlXml>
+          </item>
+          <item id="BOE-A-2021-2825" control="2021/2527">
+            <titulo>Sala Primera. Sentencia 6/2021, de 25 de enero de 2021. Recurso de amparo 2578-2019. Promovido por la Universidad Católica de Valencia San Vicente Mártir en relación con la Orden de la Consellería de Educación, Investigación, Cultura y Deporte 23/2015, de 1 de diciembre, por la que se convoca y establecen las bases reguladoras para la concesión de las becas para la realización de estudios universitarios en las universidades de la Comunitat Valenciana, y las resoluciones dictadas por las salas de lo contencioso-administrativo del Tribunal Supremo y del Tribunal Superior de Justicia de la Comunidad Valenciana desestimando la impugnación de dicha orden. Vulneración del derecho a la igualdad en relación con el derecho a la creación de centros docentes: nulidad de los preceptos reglamentarios que limitan el disfrute de becas a los alumnos matriculados en universidad públicas integrantes del sistema universitario valenciano (STC 191/2020). Voto particular.</titulo>
+            <urlPdf szBytes="305804" szKBytes="299" numPag="16">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2825.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2825</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2825</urlXml>
+          </item>
+          <item id="BOE-A-2021-2826" control="2021/2528">
+            <titulo>Sala Segunda. Sentencia 7/2021, de 25 de enero de 2021. Recurso de amparo 4217-2019. Promovido por don Alfonso Mesa Puga y otras dos personas más respecto de las resoluciones dictadas por un juzgado de primera instancia de Almería en procedimiento de ejecución hipotecaria. Vulneración del derecho a la tutela judicial efectiva (motivación): STC 31/2019 (ausencia de control judicial de las cláusulas abusivas que desconoce la primacía del Derecho de la Unión Europea y la jurisprudencia del Tribunal de Justicia). Voto particular.</titulo>
+            <urlPdf szBytes="248465" szKBytes="243" numPag="5">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2826.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2826</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2826</urlXml>
+          </item>
+          <item id="BOE-A-2021-2827" control="2021/2529">
+            <titulo>Sala Primera. Sentencia 8/2021, de 25 de enero de 2021. Recurso de amparo núm. 4319-2019. Promovido por doña María Pilar Moreno Monroy respecto de las resoluciones dictadas por un juzgado de primera instancia de Zaragoza en procedimiento de ejecución hipotecaria. Vulneración del derecho a la tutela judicial efectiva (motivación): STC 31/2019 (ausencia de control judicial de las cláusulas abusivas que desconoce la primacía del Derecho de la Unión Europea y la jurisprudencia del Tribunal de Justicia).</titulo>
+            <urlPdf szBytes="276307" szKBytes="270" numPag="10">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2827.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2827</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2827</urlXml>
+          </item>
+          <item id="BOE-A-2021-2828" control="2021/2530">
+            <titulo>Sala Primera. Sentencia 9/2021, de 25 de enero de 2021. Recurso de amparo 6090-2019. Promovido por Euroinversiones Inmobiliarias Costa Sur, S.L., respecto de las resoluciones dictadas por un juzgado de primera instancia e instrucción de Lorca en procedimiento de ejecución hipotecaria. Vulneración del derecho a la tutela judicial efectiva: STC 40/2020 [inadecuada utilización de la dirección electrónica habilitada como cauce de comunicación del primer emplazamiento procesal (SSTC 6/2019 y 47/2019) e inadmisión de la oposición a la ejecución resultante de la confusión del deber de las personas jurídicas de relacionarse con la administración de justicia por medio de comunicaciones electrónicas con la regulación del primer emplazamiento en los procesos civiles].</titulo>
+            <urlPdf szBytes="237483" szKBytes="232" numPag="4">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2828.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2828</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2828</urlXml>
+          </item>
+          <item id="BOE-A-2021-2829" control="2021/2521">
+            <titulo>Sala Primera. Sentencia 10/2021, de 25 de enero de 2021. Recurso de amparo 6091-2019. Promovido por Penrei Inversiones, S.L., respecto de las resoluciones dictadas por un juzgado de primera instancia e instrucción de Lorca en procedimiento de ejecución hipotecaria. Vulneración del derecho a la tutela judicial efectiva: STC 40/2020 [inadecuada utilización de la dirección electrónica habilitada como cauce de comunicación del primer emplazamiento procesal (SSTC 6/2019 y 47/2019) e inadmisión de la oposición a la ejecución resultante de la confusión del deber de las personas jurídicas de relacionarse con la administración de justicia por medio de comunicaciones electrónicas con la regulación del primer emplazamiento en los procesos civiles].</titulo>
+            <urlPdf szBytes="239821" szKBytes="234" numPag="5">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2829.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2829</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2829</urlXml>
+          </item>
+          <item id="BOE-A-2021-2830" control="2021/2522">
+            <titulo>Sala Segunda. Sentencia 11/2021, de 25 de enero de 2021. Recurso de amparo 248-2020. Promovido por la Generalitat de Cataluña respecto de las resoluciones de la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Cataluña que inadmitieron su recurso de casación por infracción de la normativa autonómica. Vulneración del derecho a la tutela judicial efectiva (acceso al recurso): resoluciones judiciales que inadmiten, sin causa legal para ello, un recurso de casación basado en infracción de normas autonómicas (SSTC 128/2018 y 98/2020). Votos particulares.</titulo>
+            <urlPdf szBytes="252609" szKBytes="247" numPag="6">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2830.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2830</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2830</urlXml>
+          </item>
+          <item id="BOE-A-2021-2831" control="2021/2519">
+            <titulo>Sala Primera. Sentencia 12/2021, de 25 de enero de 2021. Recurso de amparo 1588-2020. Promovido por doña Ana Isabel Pérez Cordido respecto del auto dictado por un juzgado de primera instancia de A Coruña en procedimiento de ejecución de títulos judiciales. Vulneración del derecho a la tutela judicial efectiva (motivación): ausencia de control judicial de las cláusulas abusivas que desconoce la primacía del Derecho de la Unión Europea y la jurisprudencia del Tribunal de Justicia (STC 31/2019).</titulo>
+            <urlPdf szBytes="272357" szKBytes="266" numPag="9">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2831.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2831</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2831</urlXml>
+          </item>
+          <item id="BOE-A-2021-2832" control="2021/2531">
+            <titulo>Pleno. Sentencia 13/2021, de 28 de enero de 2021. Recurso de inconstitucionalidad 3848-2015. Interpuesto por el Parlamento de Cataluña en relación con diversos preceptos de la Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana. Dignidad de la persona y principios de seguridad jurídica y de sometimiento de la acción de la administración al control judicial; derechos a la integridad física, intimidad, libertad de expresión e información, reunión, tutela judicial: interpretación conforme con la Constitución de los preceptos que tipifican, como infracción grave el uso de imágenes o datos personales o profesionales de autoridades o miembros de las fuerzas y cuerpos de seguridad, como infracción leve la ocupación de inmuebles contra la voluntad de su titular y de vías públicas, y del régimen especial de rechazo en frontera para Ceuta y Melilla. Votos particulares.</titulo>
+            <urlPdf szBytes="415597" szKBytes="406" numPag="34">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2832.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2832</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2832</urlXml>
+          </item>
+          <item id="BOE-A-2021-2833" control="2021/2532">
+            <titulo>Pleno. Sentencia 14/2021, de 28 de enero de 2021. Cuestión de inconstitucionalidad 1478-2020. Planteada por la Sección Cuarta de la Sala de lo Contencioso-Administrativo del Tribunal Supremo, respecto del artículo 153.1 de la Ley Orgánica 5/1985, de 19 de junio, del régimen electoral general, en relación con los artículos 53 y 50.4 LOREG. Principios de legalidad penal (taxatividad) y seguridad jurídica: constitucionalidad del precepto legal que tipifica como infracción el incumplimiento de todas las normas obligatorias de la ley que no sea constitutiva de delito. Votos particulares.</titulo>
+            <urlPdf szBytes="458124" szKBytes="447" numPag="42">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2833.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2833</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2833</urlXml>
+          </item>
+          <item id="BOE-A-2021-2834" control="2021/2533">
+            <titulo>Pleno. Sentencia 15/2021, de 28 de enero de 2021. Cuestión de inconstitucionalidad 1772-2020. Planteada por la Sección Segunda de la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia del País Vasco en relación con el artículo 3.4 de la Ley del Parlamento Vasco 3/1998, de 27 de febrero, general de protección del medio ambiente del País Vasco. Competencias sobre legislación procesal: nulidad del precepto legal autonómico que establece la acción pública en vía jurisdiccional.</titulo>
+            <urlPdf szBytes="307450" szKBytes="300" numPag="15">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2834.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2834</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2834</urlXml>
+          </item>
+          <item id="BOE-A-2021-2835" control="2021/2534">
+            <titulo>Pleno. Sentencia 16/2021, de 28 de enero de 2021. Recurso de inconstitucionalidad 2577-2020. Interpuesto por más de cincuenta diputados del Grupo Parlamentario Popular del Congreso respecto de los Decretos-leyes del Gobierno de la Generalitat de Cataluña 17/2019, de 23 de diciembre, de medidas urgentes para mejorar el acceso a la vivienda, y 1/2020, de 21 de enero, por el que se modifica el anterior, y el acuerdo del Parlamento Cataluña de convalidación del Decreto-ley 1/2020. Límites de los decretos-leyes: nulidad parcial de los preceptos que tipifican como supuesto de incumplimiento de la función social de la propiedad de la vivienda su desocupación permanente y establecen medidas coactivas para su cumplimiento (STC 93/2015).</titulo>
+            <urlPdf szBytes="461747" szKBytes="451" numPag="42">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2835.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2835</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2835</urlXml>
+          </item>
+        </epigrafe>
+        <epigrafe nombre="Autos">
+          <item id="BOE-A-2021-2836" control="2021/2535">
+            <titulo>Pleno. Auto 5/2021, de 27 de enero de 2021. Cuestión de inconstitucionalidad 4836-2020. Inadmite a trámite la cuestión de inconstitucionalidad 4836-2020, planteada por el Juzgado de lo Contencioso-Administrativo núm. 1 de Santander en relación con la disposición adicional undécima de la Ley del Parlamento de Cantabria 9/2010, de 23 de diciembre, de personal estatutario de instituciones sanitarias de la Comunidad Autónoma de Cantabria.</titulo>
+            <urlPdf szBytes="234494" szKBytes="229" numPag="4">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2836.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2836</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2836</urlXml>
+          </item>
+          <item id="BOE-A-2021-2837" control="2021/2536">
+            <titulo>Pleno. Auto 6/2021, de 27 de enero de 2021. Cuestión de inconstitucionalidad 4837-2020. Inadmite a trámite la cuestión de inconstitucionalidad 4837-2020, planteada por el Juzgado de lo Contencioso-Administrativo núm. 1 de Santander, en relación con la disposición adicional undécima de la Ley del Parlamento de Cantabria 9/2010, de 23 de diciembre, de personal estatutario de instituciones sanitarias de la Comunidad Autónoma de Cantabria.</titulo>
+            <urlPdf szBytes="233165" szKBytes="228" numPag="4">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2837.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2837</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2837</urlXml>
+          </item>
+          <item id="BOE-A-2021-2838" control="2021/2537">
+            <titulo>Pleno. Auto 7/2021, de 27 de enero de 2021. Recurso de inconstitucionalidad 5739-2020. Inadmite a trámite el recurso de inconstitucionalidad 5739-2020, interpuesto por más de cincuenta diputados del Grupo Parlamentario Popular en relación con la disposición transitoria de la Ley 2/2020, de 27 de julio, por la que se modifica el art. 324 de la Ley de enjuiciamiento criminal.</titulo>
+            <urlPdf szBytes="231852" szKBytes="226" numPag="4">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2838.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2838</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2838</urlXml>
+          </item>
+          <item id="BOE-A-2021-2839" control="2021/2538">
+            <titulo>Pleno. Auto 8/2021, de 28 de enero de 2021. Conflicto negativo de competencia 5646-2020. Inadmite a trámite el conflicto negativo de competencia 5646-2020, planteado por Salto del Edo, S.L., en relación con un expediente de evaluación simplificada de impacto ambiental de obras.</titulo>
+            <urlPdf szBytes="228933" szKBytes="224" numPag="3">/boe/dias/2021/02/23/pdfs/BOE-A-2021-2839.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2021-2839</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2021-2839</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+    </seccion>
+  </diario>
+</sumario>
