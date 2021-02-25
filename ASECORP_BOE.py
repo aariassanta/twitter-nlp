@@ -91,8 +91,9 @@ for seccion in secciones:
 tabla_resumen = pd.DataFrame()
 
 
-for seccion in raiz.xpath('//seccion[contains(@nombre, "I. Disposiciones generales")]'):
-    # el = doc.xpath("//div[contains(@class, 'channel') and not(contains(@class, 'disabled'))]")
+# Busca en Secciones I y III
+for seccion in raiz.xpath('//seccion[contains(@nombre, "I. Disposiciones generales") or contains(@nombre, "III. Otras disposiciones")]'):
+
     nombre_seccion = seccion.xpath('@nombre')
 
     for departamento in seccion:

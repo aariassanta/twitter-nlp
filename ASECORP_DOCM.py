@@ -301,7 +301,7 @@ DOCM_sumarios_final = DOCM_sumarios_final.apply(lambda x: [list2Str(i) for i in 
 
 DOCM_sumarios_final_CSV = DOCM_sumarios_final
 
-DOCM_sumarios_final_CSV['Item_id'] = '=HIPERVINCULO(' + '"' + DOCM_sumarios_final_CSV['PDF_Link'] + '";'                                                         + '"' + DOCM_sumarios_final_CSV['Item_id'] + '")'                                                        
+DOCM_sumarios_final_CSV['Item_id'] = '=HIPERVINCULO(' + '"' + DOCM_sumarios_final_CSV['PDF_Link'] + '";' + '"' + DOCM_sumarios_final_CSV['Item_id'] + '")'                                                        
 
 # Elimina columna PDF_Link
 DOCM_sumarios_final_CSV = DOCM_sumarios_final_CSV[['Item_id','Item_Title','Fecha_publicacion','Tags','Match_ASECORP_BBDD']]

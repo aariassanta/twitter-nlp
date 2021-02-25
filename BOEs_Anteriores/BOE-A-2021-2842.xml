@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210224085601">
+  <metadatos>
+    <identificador>BOE-A-2021-2842</identificador>
+    <titulo>Resolución de 18 de febrero de 2021, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 3/2021, de 2 de febrero, por el que se adoptan medidas para la reducción de la brecha de género y otras materias en los ámbitos de la Seguridad Social y económico.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>47</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="1220">Cortes Generales</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210218</fecha_disposicion>
+    <fecha_publicacion>20210224</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>22605</pagina_inicial>
+    <pagina_final>22605</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-2842</url_epub>
+    <url_pdf>/boe/dias/2021/02/24/pdfs/BOE-A-2021-2842.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="40" orden="">Accidentes de trabajo y enfermedades profesionales</materia>
+      <materia codigo="329" orden="">Asistencia social</materia>
+      <materia codigo="420" orden="">Ayudas</materia>
+      <materia codigo="862" orden="">Clases Pasivas</materia>
+      <materia codigo="1754" orden="">Cotización a la Seguridad Social</materia>
+      <materia codigo="3599" orden="">Familia</materia>
+      <materia codigo="4012" orden="">Hipoteca</materia>
+      <materia codigo="4662" orden="">Igualdad de género</materia>
+      <materia codigo="4323" orden="">Instituto de Crédito Oficial</materia>
+      <materia codigo="4555" orden="">Jubilación</materia>
+      <materia codigo="5066" orden="">Mujer</materia>
+      <materia codigo="5328" orden="">Organizaciones No Gubernamentales</materia>
+      <materia codigo="5541" orden="">Pensiones</materia>
+      <materia codigo="5562" orden="">Personal Sanitario de la Seguridad Social</materia>
+      <materia codigo="5680" orden="">Préstamos</materia>
+      <materia codigo="5703" orden="">Procedimiento administrativo</materia>
+      <materia codigo="6015" orden="">Registros administrativos</materia>
+      <materia codigo="8126" orden="">Renta Mínima de Inserción</materia>
+      <materia codigo="1996" orden="">Secretaría General de Objetivos y Políticas de Inclusión y Previsión Social</materia>
+      <materia codigo="6499" orden="">Seguridad Social</materia>
+      <materia codigo="6909" orden="">Trabajadores</materia>
+      <materia codigo="6832" orden="">Trabajadores autónomos</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="104" orden="">Asuntos sociales</alerta>
+      <alerta codigo="109" orden="">Derecho Administrativo</alerta>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+      <alerta codigo="124" orden="">Sanidad</alerta>
+      <alerta codigo="125" orden="">Seguridad Social</alerta>
+      <alerta codigo="127" orden="">Sistema financiero</alerta>
+      <alerta codigo="131" orden="">Trabajo y empleo</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-1529" orden="4120">
+          <palabra codigo="301">PUBLICA  Acuerdo de convalidación</palabra>
+          <texto>del Real Decreto-ley 3/2021, de 2 de febrero</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 86.2 de la Constitución, el Congreso de los Diputados, en su sesión del día de hoy, acordó convalidar el Real Decreto-ley 3/2021, de 2 de febrero, por el que se adoptan medidas para la reducción de la brecha de género y otras materias en los ámbitos de la Seguridad Social y económico, publicado en el «Boletín Oficial del Estado» número 29, de 3 de febrero de 2021, y corrección de errores publicada en el «Boletín Oficial del Estado» número 42, de 18 de febrero de 2021.</p>
+    <p class="parrafo">Se ordena la publicación para general conocimiento.</p>
+    <p class="parrafo_2">Palacio del Congreso de los Diputados, 18 de febrero de 2021.–La Presidenta del Congreso de los Diputados, Meritxell Batet Lamaña.</p>
+  </texto>
+</documento>

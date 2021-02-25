@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210224085601">
+  <metadatos>
+    <identificador>BOE-A-2021-2881</identificador>
+    <titulo>Acuerdo de 18 de febrero de 2021, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se aprueba prórroga, en el funcionamiento del segundo Juzgado de Instrucción de guardia, para enjuiciamiento de delitos leves inmediatos, en el partido judicial de Barcelona.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>47</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="1820">Consejo General del Poder Judicial</departamento>
+    <rango codigo="1020">Acuerdo</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210218</fecha_disposicion>
+    <fecha_publicacion>20210224</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>22769</pagina_inicial>
+    <pagina_final>22769</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/24/pdfs/BOE-A-2021-2881.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="78" orden="">Administración de Justicia</materia>
+      <materia codigo="467" orden="">Barcelona</materia>
+      <materia codigo="2414" orden="">Demarcación judicial</materia>
+      <materia codigo="4715" orden="">Juzgados de Instrucción</materia>
+      <materia codigo="6058" orden="">Reparto de asuntos</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="138" orden="">Administración de Justicia</alerta>
+      <alerta codigo="113" orden="">Derecho Penal</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2019-2160" orden="2100">
+          <palabra codigo="401">PRORROGA</palabra>
+          <texto>lo indicado del Acuerdo de 14 de febrero de 2019</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Aprobar la propuesta de la Sala de Gobierno del Tribunal Superior de Justicia de Cataluña, Acuerdo n.º 28, de su sesión de 19 de enero de 2021, por el que se propone la prórroga, para el período del 18 de febrero de 2021 al 30 de septiembre de 2021, en el funcionamiento del segundo Juzgado de Instrucción de guardia, para enjuiciamiento de delitos leves inmediatos, en el partido judicial de Barcelona a desarrollar por los 33 juzgados de instrucción de dicho partido judicial, en los mismos términos que se viene haciendo, durante todos los días hábiles en horario de 9 a 21 horas, sin perjuicio de su ulterior prórroga, la cual deberá de ser solicitada con al menos treinta días antes de la fecha de vencimiento.</p>
+    <p class="parrafo">En caso de coincidencia entre el juzgado de guardia de delitos leves inmediatos y el turno de sustituciones internas obligatorias, debe priorizarse la atención del servicio de guardia.</p>
+    <p class="parrafo_2">Madrid, 18 de febrero de 2021.–El Presidente del Consejo General del Poder Judicial, Carlos Lesmes Serrano.</p>
+  </texto>
+</documento>
