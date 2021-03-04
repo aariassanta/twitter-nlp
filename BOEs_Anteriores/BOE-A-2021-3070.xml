@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210226092601">
+  <metadatos>
+    <identificador>BOE-A-2021-3070</identificador>
+    <titulo>Resolución de 15 de diciembre de 2020, de la Universidad Rey Juan Carlos, por la que se publica el plan de estudios de Graduado o Graduada en Recursos Hídricos.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>49</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20201215</fecha_disposicion>
+    <fecha_publicacion>20210226</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>23852</pagina_inicial>
+    <pagina_final>23854</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/26/pdfs/BOE-A-2021-3070.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="173" orden="">Aguas</materia>
+      <materia codigo="3909" orden="">Geología</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7086" orden="">Universidad Rey Juan Carlos</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>los arts. 26 y 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2001-24515" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 35 de la Ley Orgánica 6/2001, de 21 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2021-903" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Fundación madrid+d y declarado el carácter oficial del Título por Acuerdo del Consejo de Ministros de 12 de enero de 2021 (publicado en el BOE de 22 de enero de 2021, por Resolución de la Secretaría General de Universidades de 14 de enero de 2021), este Rectorado, de conformidad en lo dispuesto en el artículo 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, reformada por la Ley Orgánica 4/2007, de 12 de abril, ha resuelto publicar el plan de estudios conducente a la obtención del Título de Grado en Recursos Hídricos.</p>
+    <p class="parrafo">El plan de estudios (5.1 Estructura de las enseñanzas, según con lo dispuesto en los artículos 26 y 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio) quedará estructurado conforme al anexo de la presente Resolución.</p>
+    <p class="parrafo_2">Móstoles, 15 de diciembre de 2020.–El Rector, Francisco Javier Ramos López.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">5.1 Estructura de las Enseñanzas</p>
+    <p class="centro_cursiva">Tabla 1.1 Resumen de las materias y distribución en créditos ECTS</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_der">63</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorios.</td>
+          <td class="cuerpo_tabla_der">147</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativos.</td>
+          <td class="cuerpo_tabla_der"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_der">18</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Grado.</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos totales.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Itinerario formativo de la enseñanza</p>
+    <p class="centro_redonda">Curso 1.º</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="12%"/>
+        <col width="25%"/>
+        <col width="43%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">GEOLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">GEOLOGÍA.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">INFORMÁTICA.</td>
+          <td class="cuerpo_tabla_izq">INFORMÁTICA APLICADA.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">MATEMÁTICAS.</td>
+          <td class="cuerpo_tabla_izq">MATEMÁTICAS.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">7,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">QUÍMICA.</td>
+          <td class="cuerpo_tabla_izq">QUÍMICA.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">7,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">BIOLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">BIOLOGÍA.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">7,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">ESTADÍSTICA.</td>
+          <td class="cuerpo_tabla_izq">ESTADÍSTICA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">FÍSICA.</td>
+          <td class="cuerpo_tabla_izq">FÍSICA.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">7,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">HISTORIA.</td>
+          <td class="cuerpo_tabla_izq">LOS RECURSOS HÍDRICOS A LO LARGO DE LA HISTORIA.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">DERECHO.</td>
+          <td class="cuerpo_tabla_izq">PRINCIPIOS JURÍDICOS Y DEONTOLOGÍA.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Curso 2.º</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="12%"/>
+        <col width="38%"/>
+        <col width="30%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">BASES DE LA HIDROLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">FÍSICA DE LA ATMÓSFERA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">BASES DE LA HIDROLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">FLUJO DE FLUIDOS.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">BASES DE LA HIDROLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">HIDROMETEOROLOGÍA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">BASES DE LA HIDROLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">MICROBIOLOGÍA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">BASES DE LA HIDROLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">QUÍMICA DEL AGUA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">BASES DE LA HIDROLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">HIDROGEOLOGÍA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">BASES DE LA HIDROLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">HIDROLOGÍA SUPERFICIAL.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">BASES DE LA HIDROLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">INDICES DE CALIDAD DEL AGUA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">BASES PARA LA CONSERVACIÓN DE MASAS DE AGUA Y ECOSISTEMAS ACUÁTICOS.</td>
+          <td class="cuerpo_tabla_izq">LIMNOLOGÍA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">MATERIAS INSTRUMENTALES APLICADAS A LA HIDROLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">TÉCNICAS INSTRUMENTALES Y ANALÍTICAS.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">ANUAL</td>
+          <td class="cuerpo_tabla_izq">IDIOMA MODERNO.</td>
+          <td class="cuerpo_tabla_izq">IDIOMA MODERNO.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Curso 3.º</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="12%"/>
+        <col width="35%"/>
+        <col width="33%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">BASES PARA LA CONSERVACIÓN DE MASAS DE AGUA Y ECOSISTEMAS ACUÁTICOS.</td>
+          <td class="cuerpo_tabla_izq">CONTAMINANTES QUÍMICOS DEL AGUA Y SU TOXICOLOGÍA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">BASES PARA LA CONSERVACIÓN DE MASAS DE AGUA Y ECOSISTEMAS ACUÁTICOS.</td>
+          <td class="cuerpo_tabla_izq">DEGRADACIÓN DE LAS MASAS DE AGUAS.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">TECNOLOGÍAS DE TRATAMIENTO Y DEPURACIÓN.</td>
+          <td class="cuerpo_tabla_izq">FUNDAMENTOS DE LAS TECNOLOGÍAS DE TRATAMIENTO DE AGUAS.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">MATERIAS INSTRUMENTALES APLICADAS A LA HIDROLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">SISTEMAS DE INFORMACIÓN GEOGRÁFICA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">TECNOLOGIAS DE CAPTACIÓN.</td>
+          <td class="cuerpo_tabla_izq">TECNOLOGÍAS DE CAPTACIÓN.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">7,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">BASES PARA LA CONSERVACIÓN DE MASAS DE AGUA Y ECOSISTEMAS ACUÁTICOS.</td>
+          <td class="cuerpo_tabla_izq">BIODIVERSIDAD Y CONSERVACIÓN DE ECOSISTEMAS ACUÁTICOS.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">7,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">MATERIAS INSTRUMENTALES APLICADAS A LA HIDROLOGÍA.</td>
+          <td class="cuerpo_tabla_izq">MODELIZACIÓN HIDROLÓGICA E HIDROGEOLÓGICA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">7,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">TECNOLOGÍAS DE TRATAMIENTO Y DEPURACIÓN.</td>
+          <td class="cuerpo_tabla_izq">TECNOLOGÍAS DE DEPURACIÓN DE AGUAS RESIDUALES.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">TECNOLOGÍAS DE TRATAMIENTO Y DEPURACIÓN.</td>
+          <td class="cuerpo_tabla_izq">TECNOLOGÍAS DE POTABILIZACIÓN DE AGUA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">BASES PARA LA CONSERVACIÓN DE MASAS DE AGUA Y ECOSISTEMAS ACUÁTICOS.</td>
+          <td class="cuerpo_tabla_izq">TECNOLOGÍAS DE PROTECCIÓN Y RECUPERACIÓN DE LAS MASAS DE AGUA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Curso 4.º</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="12%"/>
+        <col width="33%"/>
+        <col width="35%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">BASES PARA LA GESTIÓN.</td>
+          <td class="cuerpo_tabla_izq">LEGISLACIÓN Y NORMATIVA DE LOS RECURSOS HÍDRICOS.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">RECONOCIMIENTO ACADÉMICO DE CRÉDITOS.</td>
+          <td class="cuerpo_tabla_izq">RECONOCIMIENTO ACADÉMICO DE CRÉDITOS.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">BASES PARA LA GESTIÓN.</td>
+          <td class="cuerpo_tabla_izq">AGUA Y ENERGÍA.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">BASES PARA LA GESTIÓN.</td>
+          <td class="cuerpo_tabla_izq">PLANIFICACIÓN Y GESTIÓN INTEGRADA DE LOS RECURSOS HÍDRICOS.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">7,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">BASES PARA LA GESTIÓN.</td>
+          <td class="cuerpo_tabla_izq">PROYECTOS AMBIENTALES.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">BASES PARA LA CONSERVACIÓN DE MASAS DE AGUA Y ECOSISTEMAS ACUÁTICOS.</td>
+          <td class="cuerpo_tabla_izq">RECUPERACIÓN DE ECOSISTEMAS ACUÁTICOS DEGRADADOS.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">ANUAL</td>
+          <td class="cuerpo_tabla_izq">PRACTICAS EXTERNAS.</td>
+          <td class="cuerpo_tabla_izq">PRACTICAS EXTERNAS.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">18</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">ANUAL</td>
+          <td class="cuerpo_tabla_izq">TRABAJO FIN DE GRADO.</td>
+          <td class="cuerpo_tabla_izq">TRABAJO FIN DE GRADO.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Más información sobre el plan de estudios en la web de la Universidad Rey Juan Carlos www.urjc.es</p>
+  </texto>
+</documento>

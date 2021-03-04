@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210301085601">
+  <metadatos>
+    <identificador>BOE-A-2021-3225</identificador>
+    <titulo>Resolución de 1 de febrero de 2021, de la Universidad Católica de Valencia San Vicente Mártir, por la que se publica la modificación del plan de estudios de Máster Universitario en Cirugía e Implantología Oral.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>51</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210201</fecha_disposicion>
+    <fecha_publicacion>20210301</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>24521</pagina_inicial>
+    <pagina_final>24523</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/01/pdfs/BOE-A-2021-3225.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5199" orden="">Odontología</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="8201" orden="">Universidad Católica de Valencia San Vicente Mártir</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, por el que se establece el procedimiento para la modificación de planes de estudios ya verificados, previo informe positivo de la Agencia Nacional de Evaluación de la Calidad y Acreditación, de fecha 7 de julio de 2020, a las modificaciones del plan de estudios correspondiente a las enseñanzas del título de Máster Universitario en Cirugía e Implantología Oral por la Universidad Católica de Valencia San Vicente Mártir, cuyo título fue aprobado por Acuerdo de Consejo de Ministros de 26 de diciembre de 2014 (publicado en el BOE de 29 de enero de 2015, por Resolución de la Secretaría de Estado de Universidades de 9 de enero de 2015), y cuyo plan de estudios fue publicado, mediante Resolución de la Universidad de 30 de noviembre de 2020 en el «Boletín Oficial del Estado» de 17 de noviembre del 2020. </p>
+    <p class="parrafo">Este Rectorado ha resuelto ordenar la publicación de la modificación del plan de estudios conducente a la obtención del título de Máster Universitario en Cirugía e Implantología Oral por la Universidad Católica de Valencia San Vicente Mártir, según consta en el anexo de esta resolución.</p>
+    <p class="parrafo_2">Valencia, 1 de febrero de 2021.–El Rector, José Manuel Pagán Agulló.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de Estudio del Máster Universitario en Cirugía e Implantología Oral</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de Materia Créditos </th>
+          <th class="cabeza_tabla">Créditos </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+          <td class="cuerpo_tabla_centro">–</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias.</td>
+          <td class="cuerpo_tabla_centro">84 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_centro"> –</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">24</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_centro"> 120</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia </th>
+          <th class="cabeza_tabla">Asignatura </th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Cirugía Oral.</td>
+          <td class="cuerpo_tabla_izq">Anatomía Quirúrgica y Radiológica de la Región Bucofacial.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Complicaciones en Cirugía Oral I.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dientes Incluidos.</td>
+          <td class="cuerpo_tabla_centro">6 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Identificación y Manejo del Paciente de Riesgo.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Principios Generales de Cirugía Oral.</td>
+          <td class="cuerpo_tabla_centro">6 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas Diagnósticas y Planificación del Tratamiento Quirúrgico.</td>
+          <td class="cuerpo_tabla_centro">6 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Implantología Oral.</td>
+          <td class="cuerpo_tabla_izq">Alternativas Prostodóncicas en Implantología.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de la Implantología y Terminología.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Planificación y Alternativas Terapéuticas en Implantología.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Protocolos Quirúrgicos en Implantología.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Metodología Investigación.</td>
+          <td class="cuerpo_tabla_izq">Búsqueda de Documentación y Fuentes Bibliográficas.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Metodología y Diseño de Trabajos de Investigación.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tratamiento y Análisis de Resultados.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Clínicas I.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Clínicas I.</td>
+          <td class="cuerpo_tabla_centro">9 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Hospitalarias I.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Hospitalarias I.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Cirugía Oral Avanzada.</td>
+          <td class="cuerpo_tabla_izq">Cirugía Preprotésica.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Quistes y Tumores de la Cavidad Oral.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas Avanzadas en Cirugía Oral.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Implantología Oral Avanzada.</td>
+          <td class="cuerpo_tabla_izq">Cirugía Regenerativa II: Biomateriales de Aplicación en Implantología.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Complicaciones en Implantología.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pacientes especiales: el Paciente con Patología Sistémica.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Principios de Implantoprótesis. Biomecánica. Oclusión.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sedación Intravenosa y Sedación-Analgesia con Óxido Nitroso. Reacciones Tóxicas a Anestésicos Locales.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas Quirúrgicas Avanzadas: Carga Inmediata en Implantología.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tratamiento con Implantes en Localización Estética.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cirugía Regenerativa I: Técnicas de Preservación Alveolar y Aumento Óseo en Maxilares Atróficos.</td>
+          <td class="cuerpo_tabla_centro">6 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Clínicas II.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Clínicas II.</td>
+          <td class="cuerpo_tabla_centro">9 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Hospitalarias II.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Hospitalarias II.</td>
+          <td class="cuerpo_tabla_centro">3 </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Final de Máster.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">12 </td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura </th>
+          <th class="cabeza_tabla">Curso </th>
+          <th class="cabeza_tabla">Semestre </th>
+          <th class="cabeza_tabla">Tipo de formación<sup>1</sup> </th>
+          <th class="cabeza_tabla">ECTS </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Anatomía Quirúrgica y Radiológica de la Región Bucofacial.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Complicaciones en Cirugía Oral I.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2.º Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dientes Incluidos.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2.º Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Identificación y Manejo del Paciente de Riesgo.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2.º Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Principios Generales de Cirugía Oral.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas Diagnósticas y Planificación del Tratamiento Quirúrgico.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er </sup>Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Alternativas Prostodóncicas en Implantología.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2.º Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de la Implantología y Terminología.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2.º Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Planificación y Alternativas Terapéuticas en Implantología.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2.º Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Protocolos Quirúrgicos en Implantología.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2.º Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Búsqueda de Documentación y Fuentes Bibliográficas.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Metodología y Diseño de Trabajos de Investigación.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tratamiento y Análisis de Resultados.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Clínicas I.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2.º Semestre</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Hospitalarias I.</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1.º Semestre</td>
+          <td class="cuerpo_tabla_centro"> PE</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cirugía Preprotésica.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">3.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Quistes y Tumores de la Cavidad Oral.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">3.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas Avanzadas en Cirugía Oral.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">3.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cirugía Regenerativa II: Biomateriales de Aplicación en Implantología.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">3.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Complicaciones en Implantología.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">4.º Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pacientes especiales: el Paciente con Patología Sistémica.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">3.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Principios de Implantoprótesis. Biomecánica. Oclusión.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">3.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sedación Intravenosa y Sedación-Analgesia con Óxido Nitroso. Reacciones Tóxicas a Anestésicos Locales.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">3.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas Quirúrgicas Avanzadas: Carga Inmediata en Implantología.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">4.º Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tratamiento con Implantes en Localización Estética.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">3.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cirugía Regenerativa I: Técnicas de Preservación Alveolar y Aumento Óseo en Maxilares Atróficos.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">3.<sup>er</sup> Semestre</td>
+          <td class="cuerpo_tabla_centro"> OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Clínicas II.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">4.º Semestre</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Hospitalarias II.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">4.º Semestre</td>
+          <td class="cuerpo_tabla_centro"> PE</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Final de Máster.</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">4.º Semestre</td>
+          <td class="cuerpo_tabla_centro"> TFM</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="5"><sup>1</sup> OB (Obligatoria), PE (Prácticas Externas), TFM (Trabajo Fin de Máster).</td>
+        </tr>
+      </tfoot>
+    </table>
+  </texto>
+</documento>

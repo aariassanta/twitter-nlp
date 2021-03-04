@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210302142601">
+  <metadatos>
+    <identificador>BOE-A-2021-3286</identificador>
+    <titulo>Resolución de 18 de febrero de 2021, de la Dirección General de Trabajo, por la que se registran y publican los Acuerdos de revisión salarial para el año 2021 y las tablas salariales del Convenio colectivo del Grupo Santander Consumer Finance.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>52</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9573">Ministerio de Trabajo y Economía Social</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210218</fecha_disposicion>
+    <fecha_publicacion>20210302</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>24935</pagina_inicial>
+    <pagina_final>24940</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/02/pdfs/BOE-A-2021-3286.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/02/18/(8)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(8)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-3286</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-18</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(8)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(8)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-3286</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-18</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(8)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/02/18/(8)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(8)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 18 de febrero de 2021, de la Dirección General de Trabajo, por la que se registran y publican los Acuerdos de revisión salarial para el año 2021 y las tablas salariales del Convenio colectivo del Grupo Santander Consumer Finance.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-03-02</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/02/18/(8)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(8)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/18/(8)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(8)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/18/(8)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(8)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/18/(8)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="1684" orden="">Convenios colectivos</materia>
+      <materia codigo="3239" orden="">Entidades financieras</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2015-11430" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 90.2 y 3, de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto Legislativo 2/2015, de 23  de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2010-9274" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto 713/2010, de 28 de mayo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2019-17413" orden="3070">
+          <palabra codigo="331">EN RELACIÓN con</palabra>
+          <texto>el Convenio publicado por Resolución de 22 de noviembre de 2019</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Visto el texto de los acuerdos de revisión salarial para el año 2021 y las correspondientes tablas salariales del Convenio colectivo de las empresas del Grupo Santander Consumer Finance (Santander Consumer E.F.C., S.A.; Hispamer Renting, S.A.; Santander consumer Renting, S.L. y Transolver Finance, E.F.C., S.A.) –código de convenio n.º 90015023012004–, publicado en el BOE de 3 de diciembre de 2019, acuerdos que fueron suscritos, con fecha 22 de enero de 2021, de una parte por los designados por la Dirección de dicho grupo de empresas, en representación de las mismas, y de otra por la sección sindical de CC.OO., en representación de los trabajadores afectados, y de conformidad con lo dispuesto en el artículo 90, apartado 2 y 3, de la Ley del Estatuto de los Trabajadores, Texto refundido aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre (BOE de 24 de octubre), y en el Real Decreto 713/2010, de 28 de mayo, sobre registro y depósito de convenios y acuerdos colectivos de trabajo,</p>
+    <p class="parrafo">Esta Dirección General de Trabajo resuelve:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo_2">Ordenar la inscripción de los citados acuerdos de revisión y tablas salariales, en el correspondiente Registro de convenios y acuerdos colectivos de trabajo con funcionamiento a través de medios electrónicos de este Centro Directivo, con notificación a la Comisión Negociadora.</p>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">Disponer su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 18 de febrero de 2021.–La Directora General de Trabajo, Verónica Martínez Barbero.</p>
+    <p class="anexo">ACTA DE ACUERDO DE LA COMISIÓN NEGOCIADORA DEL CONVENIO COLECTIVO DE LAS EMPRESAS DE GRUPO SANTANDER QUE ACTÚAN BAJO LA DENOMINACIÓN DE SANTANDER CONSUMER, E.F.C., S.A., HISPAMER RENTING, S.A., SANTANDER CONSUMER RENTING S.L. Y TRANSOLVER FINANCE, E.F.C., S.A. (CONVENIO COLECTIVO 90015023012004) Y LA REPRESENTACIÓN SINDICAL DE CC.OO., PARA LOS AÑOS 2019, 2020, 2021 y 2022 SOBRE ACTUALIZACIÓN DE TABLAS SALARIALES, DE ACUERDO CON LO PREVISTO EN EL ARTÍCULO 8.2 DEL CONVENIO COLECTIVO</p>
+    <p class="parrafo_2">En Boadilla del Monte (Madrid), a 22 de enero de 2021.</p>
+    <p class="parrafo_2">Asistentes:</p>
+    <p class="parrafo_2">Representación sindical:</p>
+    <p class="parrafo_2">M.ª Angeles Balué Martín - CC.OO.</p>
+    <p class="parrafo">M.ª Mar Fernández García - CC.OO.</p>
+    <p class="parrafo">Alicia Vidal Murillo - CC.OO.</p>
+    <p class="parrafo">Jesús M.ª Heras Martínez - CC.OO.</p>
+    <p class="parrafo_2">Representación empresarial:</p>
+    <p class="parrafo_2">Carmen Golvano de Miguel.</p>
+    <p class="parrafo">Cristina Ariza Alós.</p>
+    <p class="parrafo">Juan Gorostidi Pulgar.</p>
+    <p class="parrafo">Rosa María Sánchez Repiso.</p>
+    <p class="parrafo_2">En Madrid, en el día y hora señalados, reunidos, de una parte, la representación de la Empresa y, de otra, la de los trabajadores, ostentada por la representación sindical de CC.OO., que representa el 100% de los miembros de Comité de Empresa y Delegados de Personal, y en cumplimiento de lo estipulado en el artículo 8.2 del Convenio Colectivo de las empresas del Grupo Santander, recogidas en el art. 1.1 del mismo.</p>
+    <p class="centro_redonda">ACUERDAN</p>
+    <p class="parrafo_2">1.º En cumplimiento de lo estipulado en el artículo 8.2 del Convenio Colectivo, ambas Partes han negociado los términos y condiciones de las actualizaciones salariales para el ejercicio 2021, sin perjuicio de las revisiones que de común acuerdo proceda en su caso llevar a cabo para el año 2022, negociación que se llevará al efecto en el último trimestre de 2021, habiendo alcanzando los siguientes consensos:</p>
+    <p class="parrafo_2">– Incrementar en 2021, en un porcentaje del 0,50%, las tablas salariales establecidas para 2020 en el art. 8.1 del Convenio Colectivo para sus distintos Grupos Profesionales, quedando los importes correspondientes a cada Grupo y Nivel retributivo conforme a las cuantías que se detallan en la tabla que sigue:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Grupo</th>
+          <th class="cabeza_tabla">Nivel retributivo</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Importe 2021</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros</p>
+          </th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="15%"/>
+        <col width="15%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 1.</td>
+          <td class="cuerpo_tabla_centro">17.305,46</td>
+        </tr>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 2.</td>
+          <td class="cuerpo_tabla_centro">20.255,26</td>
+        </tr>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 3.</td>
+          <td class="cuerpo_tabla_centro">21.526,34</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 4.</td>
+          <td class="cuerpo_tabla_centro">22.797,42</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 5.</td>
+          <td class="cuerpo_tabla_centro">24.284,04</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 6.</td>
+          <td class="cuerpo_tabla_centro">25.770,70</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 7.</td>
+          <td class="cuerpo_tabla_centro">29.036,49</td>
+        </tr>
+        <tr>
+          <td>Grupo I.</td>
+          <td class="cuerpo_tabla_izq">Nivel 8.</td>
+          <td class="cuerpo_tabla_centro">29.036,49</td>
+        </tr>
+        <tr>
+          <td>Grupo I.</td>
+          <td class="cuerpo_tabla_izq">Nivel 9.</td>
+          <td class="cuerpo_tabla_centro">32.239,88</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">– Incrementar igualmente para 2021, en el mismo porcentaje del 0.50%, el importe de los trienios por antigüedad establecidos para 2020, y para los distintos Grupos Profesionales y Niveles Retributivos, el art. 9.1 del mismo Convenio Colectivo, quedando sus importes conforme se expresa en la siguiente tabla:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Grupo</th>
+          <th class="cabeza_tabla">Nivel retributivo</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Importe 2021</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros</p>
+          </th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="15%"/>
+        <col width="15%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 1.</td>
+          <td class="cuerpo_tabla_centro">  683,85</td>
+        </tr>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 2.</td>
+          <td class="cuerpo_tabla_centro">  801,85</td>
+        </tr>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 3.</td>
+          <td class="cuerpo_tabla_centro">  852,71</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 4.</td>
+          <td class="cuerpo_tabla_centro">  903,53</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 5.</td>
+          <td class="cuerpo_tabla_centro">  963,03</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 6.</td>
+          <td class="cuerpo_tabla_centro">1.022,48</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 7.</td>
+          <td class="cuerpo_tabla_centro">1.153,11</td>
+        </tr>
+        <tr>
+          <td>Grupo I.</td>
+          <td class="cuerpo_tabla_izq">Nivel 8.</td>
+          <td class="cuerpo_tabla_centro">1.153,11</td>
+        </tr>
+        <tr>
+          <td>Grupo I.</td>
+          <td class="cuerpo_tabla_izq">Nivel 9.</td>
+          <td class="cuerpo_tabla_centro">1.281,22</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">De igual forma, para 2021 se incrementará en un 0,50% la cuantía que cada empleado haya percibido en 2020 por el concepto «complemento Antigüedad 96» previsto en el artículo 9.3.</p>
+    <p class="parrafo">– Se incrementarán igualmente en 2021, en el mismo porcentaje del 0,50%, las cuantías establecidas en los arts. 21 y 23.1 del Convenio Colectivo para los conceptos «Plus de Transporte» y «Compensación Económica de determinados Beneficios sociales», quedando sus cuantías en los siguientes importes:</p>
+    <p class="parrafo_2">• Plus Transporte 2,34 € por día de trabajo en 2021, en los términos establecidos en el texto del Convenio Colectivo.</p>
+    <p class="parrafo">• Compensación 697,33 € por empleado, 327,44 € por hijo, en los términos establecidos en el texto del Convenio Colectivo.</p>
+    <p class="parrafo_2">2.º De conformidad al punto anterior, se da una nueva redacción de los artículos 8, 9, 21 y 23.1 del Convenio Colectivo, que se adjuntan como Anexo.</p>
+    <p class="parrafo">3.º Se designa a doña Rosa María Sánchez Repiso como encargada de dar el texto firmado el trámite preceptivo para su válida vigencia.</p>
+    <p class="parrafo">4.º La representación empresarial compromete la difusión del contenido del presente acuerdo en la intranet corporativa, para conocimiento de los empleados de las sociedades que se detallan en el art. 1 del Convenio Colectivo.</p>
+    <p class="parrafo_2">Y sin otros asuntos que tratar y para así cumplirlo de buena fe firman el presente Acuerdo en el lugar y fecha indicados en el encabezamiento.–Representación sindical: M.ª Angeles Balué Martín - CC.OO., M.ª Mar Fernández García - CC.OO., Alicia Vidal Murillo - CC.OO., Jesús M.ª Heras Martínez - CC.OO.–Representación empresarial: Carmen Golvano de Miguel, Cristina Ariza Alós, Juan Gorostidi Pulgar, Rosa María Sánchez Repiso.</p>
+    <p class="anexo">ANEXO AL ACTA DE ACUERDO DE LA COMISIÓN NEGOCIADORA DEL CONVENIO COLECTIVO DE LAS EMPRESAS DE GRUPO SANTANDER QUE ACTÚAN BAJO LA DENOMINACIÓN DE SANTANDER CONSUMER, E.F.C., S.A., HISPAMER RENTING, S.A., SANTANDER CONSUMER RENTING S.L. Y TRANSOLVER FINANCE, E.F.C., S.A. (CONVENIO COLECTIVO 90015023012004) Y LA REPRESENTACIÓN SINDICAL DE CC.OO., PARA LOS AÑOS 2019, 2020, 2021 y 2022 SOBRE ACTUALIZACIÓN DE TABLAS SALARIALES, DE ACUERDO CON LO PREVISTO EN EL ARTÍCULO 8.2 DEL CONVENIO COLECTIVO, DE FECHA xx DE DICIEMBRE DE 2020, SOBRE ACTUALIZACIÓN DE TABLAS SALARIALES PARA 2021</p>
+    <p class="parrafo_2">Los artículos y/o apartados reflejados a continuación quedarán redactados en los siguientes términos, siendo aplicables al año 2021. El resto del Convenio Colectivo 2019-2022 permanece en sus mismos términos actuales, de acuerdo al texto publicado en el BOE en fecha 3 de diciembre de 2019.</p>
+    <p class="articulo">Artículo 8. Tablas salariales.</p>
+    <p class="parrafo">1. Los sueldos a percibir con carácter anual, es decir, valorados en las catorce pagas que se establecen en el presente Convenio Colectivo, son los siguientes:</p>
+    <p class="parrafo_2">Para 2021:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Grupo</th>
+          <th class="cabeza_tabla">Nivel retributivo</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Importe 2021</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros</p>
+          </th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="15%"/>
+        <col width="15%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 1.</td>
+          <td class="cuerpo_tabla_centro">17.305,46</td>
+        </tr>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 2.</td>
+          <td class="cuerpo_tabla_centro">20.255,26</td>
+        </tr>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 3.</td>
+          <td class="cuerpo_tabla_centro">21.526,34</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 4.</td>
+          <td class="cuerpo_tabla_centro">22.797,42</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 5.</td>
+          <td class="cuerpo_tabla_centro">24.284,04</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 6.</td>
+          <td class="cuerpo_tabla_centro">25.770,70</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 7.</td>
+          <td class="cuerpo_tabla_centro">29.036,49</td>
+        </tr>
+        <tr>
+          <td>Grupo I.</td>
+          <td class="cuerpo_tabla_izq">Nivel 8.</td>
+          <td class="cuerpo_tabla_centro">29.036,49</td>
+        </tr>
+        <tr>
+          <td>Grupo I.</td>
+          <td class="cuerpo_tabla_izq">Nivel 9.</td>
+          <td class="cuerpo_tabla_centro">32.239,88</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Los sueldos especificados en este artículo podrán, a petición del empleado, percibirse en doce mensualidades iguales, que comprenderán la prorrata de las pagas extraordinarias correspondientes al primer o segundo semestre natural al que correspondan los meses de percepción del salario (artículo 10 de este Convenio Colectivo).</p>
+    <p class="parrafo">2. En el último trimestre de 2021 se abrirá un periodo de negociación entre las partes firmantes del presente Convenio para el establecimiento de los términos y condiciones en los que, en su caso, se llevará a cabo la actualización de las tablas salariales para el año 2022.</p>
+    <p class="parrafo">3. Asimismo, las partes firmantes del presente Convenio coinciden en la necesidad de fomentar el incremento de la productividad, lo que redundará en una mejora de la competitividad y eficiencia de las empresas afectadas por el presente convenio colectivo.</p>
+    <p class="parrafo">Por lo expuesto, las retribuciones previstas en el presente Convenio Colectivo para los años 2021 y 2022 podrán ser mejoradas según lo dispuesto en la siguiente cláusula, en la que se tendrá en cuenta la consecución de beneficios y el incremento de un porcentaje en relación con el resultado del año anterior de la cifra consolidada bajo la rúbrica «Profit Before Taxes» de las referidas empresas («PBT»), definida por Control de Gestión y comunicada al Banco de España:</p>
+    <p class="parrafo_2">a) Año 2021: En el caso de que el resultado del PBT del año 2021 presentase la generación de beneficios y tuviese un incremento acumulado respecto al del año 2020 igual o superior a los siguientes porcentajes, se abonará, en una sola paga, durante el primer cuatrimestre del año siguiente, las siguientes cantidades calculadas sobre las cuantías salariales de 2021:</p>
+    <p class="parrafo_2">– Si el incremento del PBT es igual o superior al 1 % respecto al resultado del año anterior, se abonaría una sola paga, sin consolidación en tablas, del 0,5% de las cuantías salariales.</p>
+    <p class="parrafo">– Si el incremento anterior fuera igual o superior al 5 %, el importe de dicha paga sería del 0,75 %.</p>
+    <p class="parrafo">– Si el incremento fuera igual o superior al 8 %, el importe de dicha paga sería del 1 %.</p>
+    <p class="parrafo_2">Los anteriores porcentajes no son acumulativos, solo se aplicará uno de ellos en función del correspondiente beneficio e incremento del PBT en relación con el del año anterior y no conllevarán incremento ni consolidación en las tablas salariales establecidas en este convenio colectivo.</p>
+    <p class="parrafo">b) Año 2022: En el caso de que el PBT reflejase la consecución beneficios y el resultado del PBT del año 2022 sufriese un incremento acumulado respecto al del año 2021 igual o superior a los porcentajes detallados anteriormente, se procederá de forma análoga a lo establecido en el apartado a) anterior, tomando como referencia las cuantías salariales de 2022.</p>
+    <p class="articulo">Artículo 9. Antigüedad.</p>
+    <p class="parrafo">1. El Complemento de Antigüedad para todos los trabajadores afectados por el presente Convenio Colectivo consistirá en trienios. Cada uno de los trienios a percibir, en cómputo anual, se abonarán según las siguientes tablas:</p>
+    <p class="parrafo_2">Para el año 2021:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Grupo</th>
+          <th class="cabeza_tabla">Nivel retributivo</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Importe 2021</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros</p>
+          </th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="15%"/>
+        <col width="15%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 1.</td>
+          <td class="cuerpo_tabla_centro">  683,85</td>
+        </tr>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 2.</td>
+          <td class="cuerpo_tabla_centro">  801,85</td>
+        </tr>
+        <tr>
+          <td>Grupo III.</td>
+          <td class="cuerpo_tabla_izq">Nivel 3.</td>
+          <td class="cuerpo_tabla_centro">  852,71</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 4.</td>
+          <td class="cuerpo_tabla_centro">  903,53</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 5.</td>
+          <td class="cuerpo_tabla_centro">  963,03</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 6.</td>
+          <td class="cuerpo_tabla_centro">1.022,48</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_izq">Nivel 7.</td>
+          <td class="cuerpo_tabla_centro">1.153,11</td>
+        </tr>
+        <tr>
+          <td>Grupo I.</td>
+          <td class="cuerpo_tabla_izq">Nivel 8.</td>
+          <td class="cuerpo_tabla_centro">1.153,11</td>
+        </tr>
+        <tr>
+          <td>Grupo I.</td>
+          <td class="cuerpo_tabla_izq">Nivel 9.</td>
+          <td class="cuerpo_tabla_centro">1.281,22</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Los empleados que por aplicación del anterior Convenio Colectivo 2015-2018 fueran adscritos a un nivel retributivo, dentro de su Grupo correspondiente, cuyo valor sea inferior al que venía percibiendo con anterioridad, se le respetará a título personal el valor anterior incrementado en el porcentaje de un 0,5 % en 2021.</p>
+    <p class="parrafo">3. Los empleados que vinieran percibiendo el Complemento de Antigüedad 96, lo seguirán devengando en las mismas condiciones, actualizándose su valor con el incremento del porcentaje de un 0,5 % en 2021.</p>
+    <p class="parrafo">4. A partir de enero de 2001 sólo los nuevos trienios que se generen se abonarán al valor establecido para el Grupo y Nivel en la fecha en que se cumplen, los anteriores se abonarán actualizando su valor en los mismos porcentajes que los establecidos en la tabla salarial para el Nivel que tuviera el empleado a 31/12/2000.</p>
+    <p class="parrafo">5. Para el año 2022 se estará a lo establecido en artículo 8.2.</p>
+    <p class="articulo">Artículo 21. Plus de transporte.</p>
+    <p class="parrafo">A fin de coadyuvar a los gastos de transporte de personal, se establece un plus de transporte de 2,34 euros por día de trabajo en 2021. Dicho plus se dejará de percibir por el empleado los domingos, festivos, días de vacaciones y los días de inasistencia al trabajo por cualquier motivo justificado o injustificado.</p>
+    <p class="parrafo">El importe diario será actualizado con arreglo a los criterios indicados en el artículo 8, apartado 2.</p>
+    <p class="articulo">Artículo 23. Compensación económica de determinados beneficios sociales.</p>
+    <p class="parrafo">1. Se establecen, en sustitución de determinados beneficios sociales recogidos en anteriores convenios y acuerdos extraconvenio, a saber: Becas o Ayudas, Bolsa de Navidad/Reyes, los siguientes importes, para el año 2021:</p>
+    <p class="parrafo_2">– 697,33 euros por empleado.</p>
+    <p class="parrafo">– 327,44 euros por hijo menor de 26 años al 30 de septiembre de cada año, siempre que conviva con el empleado, esté soltero y no trabaje ni perciba rentas por trabajo. El límite de edad no operará si el hijo presenta discapacidad debidamente acreditada.</p>
+    <p class="parrafo_2">Se abonará en la nómina del mes de septiembre de cada año bajo el concepto «Compensación Beneficios Sociales».</p>
+    <p class="parrafo">Estos importes serán actualizados con arreglo a los criterios indicados en el artículo 8, apartado 2.</p>
+    <p class="parrafo_2">2. Ayudas especiales para situaciones de discapacidad.</p>
+    <p class="parrafo_2">Con efectos 1.1.2019 se establece para el personal en activo una ayuda directa y única ante situaciones de discapacidad reconocidas, que importará las siguientes cuantías:</p>
+    <p class="parrafo_2">– 1.500 € anuales a percibir en 12 mensualidades por hijo a cargo con discapacidad mayor o igual al 33 %.</p>
+    <p class="parrafo">– 2.500 € anuales a percibir en 12 mensualidades por hijo a cargo con discapacidad mayor o igual al 65 %.</p>
+    <p class="parrafo">– 2.900 € anuales a percibir en 12 mensualidades por hijo a cargo con discapacidad mayor o igual al 86 %.</p>
+    <p class="parrafo">– 1.000 € anuales a percibir en 12 mensualidades, por empleado o cónyuge o pareja de hecho legalmente constituida, con discapacidad igual o superior al 33 %.</p>
+  </texto>
+</documento>

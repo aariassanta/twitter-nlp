@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210303105601">
+  <metadatos>
+    <identificador>BOE-A-2021-3356</identificador>
+    <titulo>Resolución de 26 de febrero de 2021, de la Universidad de León, por la que se corrigen errores en la de 15 de enero de 2021, por la que se publica el plan de estudios de Graduado o Graduada en Podología.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>53</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210226</fecha_disposicion>
+    <fecha_publicacion>20210303</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>25307</pagina_inicial>
+    <pagina_final>25307</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/03/pdfs/BOE-A-2021-3356.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="5633" orden="">Podología</materia>
+      <materia codigo="7043" orden="">Universidad de León</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-2642" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>en la Resolución de 15 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Advertido error por omisión en la Resolución de 15 de enero de 2021, de la Universidad de León, por la que se publica el plan de estudios del Grado de Podología (publicado en el BOE número 43, de 19 de febrero de 2021), se procede a realizar la oportuna inclusión:</p>
+    <p class="parrafo_2">Dentro del anexo del plan de estudios, en el curso 4.º hay que incluir:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Curso 4.º</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Obligatoria (O)</p>
+            <p class="cabeza_tabla">Optativa (Op)</p>
+            <p class="cabeza_tabla">Prácticas externas (PE)</p>
+            <p class="cabeza_tabla">Trabajo Fin de Grado (TFG)</p>
+          </th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cirugía podológica I</td>
+          <td class="cuerpo_tabla_centro">O</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">6,0</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">León, 26 de febrero de 2021.–El Rector, Juan Francisco García Marín.</p>
+  </texto>
+</documento>

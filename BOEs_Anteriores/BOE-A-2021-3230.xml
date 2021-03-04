@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210301085601">
+  <metadatos>
+    <identificador>BOE-A-2021-3230</identificador>
+    <titulo>Resolución de 10 de febrero de 2021, de la Universidad Europea del Atlántico, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Administración y Dirección de Empresas.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>51</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210210</fecha_disposicion>
+    <fecha_publicacion>20210301</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>24533</pagina_inicial>
+    <pagina_final>24536</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/01/pdfs/BOE-A-2021-3230.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="90" orden="">Administración y Dirección de Empresas</materia>
+      <materia codigo="603" orden="">Cantabria</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7090" orden="">Universidades</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, por el que se establece el procedimiento para la modificación de planes de estudios ya verificados y una vez recibido el informe favorable de la Agencia Nacional de Evaluación de la Calidad y Acreditación a las modificaciones presentadas del plan de estudios de Graduado o Graduada en Administración y Dirección de Empresas por la Universidad de Europea del Atlántico, publicado mediante Resolución de 14 de mayo de 2015 de la Universidad de Europea del Atlántico en el «Boletín Oficial del Estado» de fecha 22 de junio de 2015,</p>
+    <p class="parrafo">Este Rectorado ha resuelto publicar la modificación plan de estudios conducente a la obtención del título de Graduado en Administración y Dirección de Empresas por la Universidad Europea del Atlántico.</p>
+    <p class="parrafo">El plan de estudios a que se refiere la presente resolución quedará estructurado conforme figura en el Anexo de la misma.</p>
+    <p class="parrafo_2">Santander, 10 de febrero de 2021.–El Rector, Rubén Calderón Iglesias.</p>
+    <p class="anexo_num">ANEXO I</p>
+    <p class="anexo_tit">Plan de estudios del Grado en Administración y Dirección de Empresas</p>
+    <p class="centro_cursiva">Distribución del plan de estudios en créditos ECTS, por tipo de materia</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica (BA).</td>
+          <td class="cuerpo_tabla_centro"> 60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_centro">138</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_centro"> 24</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas (PR).</td>
+          <td class="cuerpo_tabla_centro"> 12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado (TFG).</td>
+          <td class="cuerpo_tabla_centro">  6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total créditos.</td>
+          <td class="cuerpo_tabla_centro">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Distribución de los créditos del plan de estudios por materias</p>
+    <p class="centro_redonda"> Primer curso</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Tipo</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="40%"/>
+        <col width="10%"/>
+        <col width="40%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro" colspan="4">Primer semestre</td>
+        </tr>
+        <tr>
+          <td>Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Métodos cuantitativos para la empresa.</td>
+          <td class="cuerpo_tabla_centro">BA</td>
+        </tr>
+        <tr>
+          <td>Microeconomía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Análisis económico.</td>
+          <td class="cuerpo_tabla_centro">BA</td>
+        </tr>
+        <tr>
+          <td>Organización de empresas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Organización de empresas.</td>
+          <td class="cuerpo_tabla_centro">BA</td>
+        </tr>
+        <tr>
+          <td>Contabilidad I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Contabilidad.</td>
+          <td class="cuerpo_tabla_centro">BA</td>
+        </tr>
+        <tr>
+          <td>Tecnologías de la información y comunicación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Tecnologías de la información y comunicación.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro" colspan="4">Segundo semestre</td>
+        </tr>
+        <tr>
+          <td>Introducción al derecho.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Entorno económico y marco jurídico.</td>
+          <td class="cuerpo_tabla_centro">BA</td>
+        </tr>
+        <tr>
+          <td>Macroeconomía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Análisis económico.</td>
+          <td class="cuerpo_tabla_centro">BA</td>
+        </tr>
+        <tr>
+          <td>Estructura económica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Entorno económico y marco jurídico.</td>
+          <td class="cuerpo_tabla_centro">BA</td>
+        </tr>
+        <tr>
+          <td>Contabilidad II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Contabilidad.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td>Marketing Estratégico y Operativo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Comercialización e investigación de mercados.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Segundo curso</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Tipo</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="40%"/>
+        <col width="10%"/>
+        <col width="40%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro" colspan="4">Tercer semestre</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección comercial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Comercialización e investigación de mercados.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estadística I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Métodos cuantitativos para la empresa.</td>
+          <td class="cuerpo_tabla_centro">BA</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho laboral.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Entorno económico y marco jurídico.</td>
+          <td class="cuerpo_tabla_centro">BA</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Matemáticas financieras.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Finanzas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Idioma moderno.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro" colspan="4">Cuarto semestre</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Administración de la producción y logística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Organización de empresas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estadística II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Métodos cuantitativos para la empresa.</td>
+          <td class="cuerpo_tabla_centro">BA</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de estados financieros.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Contabilidad.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho mercantil.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Entorno económico y marco jurídico.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Idioma moderno.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Tercer curso</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Tipo</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="40%"/>
+        <col width="10%"/>
+        <col width="40%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro" colspan="4">Quinto semestre</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia económica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Análisis económico.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Finanzas empresariales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Finanzas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Investigación de mercados.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Comercialización e investigación de mercados.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de riesgos laborales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Calidad y prevención de riesgos laborales.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés III.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Idioma moderno.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de las relaciones públicas.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Creación publicitaria y relaciones públicas.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de programación.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Programación.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Investigación de operaciones.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Métodos cuantitativos para la empresa.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro" colspan="4">Sexto semestre</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección financiera.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Finanzas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos humanos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Organización de empresas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Contabilidad de gestión.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Contabilidad.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección de sistemas de información.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Organización de empresas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés IV.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Idioma moderno.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño y planificación de campañas.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Creación publicitaria y relaciones públicas.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Programación.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comportamiento del consumidor.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Comercialización e Investigación de Mercados.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología medioambiental.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Calidad y Prevención de Riesgos Laborales.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Contabilidad internacional.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Contabilidad.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociedad de la información y el Conocimiento.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Sociología.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Relaciones internacionales.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Política y relaciones internacionales.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Integración económica y comercio internacional.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Política y relaciones internacionales.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Cuarto curso</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Tipo</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="40%"/>
+        <col width="10%"/>
+        <col width="40%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro" colspan="4">Séptimo semestre</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Practicum I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Prácticas en empresa</td>
+          <td class="cuerpo_tabla_centro">PR</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Proyectos.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección estratégica y competencias directivas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Organización de empresas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión financiera.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Finanzas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa III.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la calidad.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Calidad y prevención de riesgos laborales.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing digital y medios interactivos.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Creación publicitaria y relaciones públicas.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Resolución de conflictos y mediación.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Habilidades directivas y responsabilidad social corporativa.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro" colspan="4">Octavo semestre</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Practicum II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Prácticas en empresa.</td>
+          <td class="cuerpo_tabla_centro">PR</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Economía de la empresa y emprendedores.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Análisis económico.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho fiscal.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Entorno económico y marco jurídico.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa IV.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Responsabilidad social corporativa.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Habilidades directivas y responsabilidad social corporativa.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comunicación corporativa e institucional.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Creación publicitaria y relaciones públicas.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Coaching.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Habilidades directivas y responsabilidad social corporativa.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Globalización, geopolítica y geoestrategia.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Política y relaciones internacionales.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Finanzas internacionales.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Finanzas.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

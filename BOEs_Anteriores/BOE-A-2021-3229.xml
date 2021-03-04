@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210301092601">
+  <metadatos>
+    <identificador>BOE-A-2021-3229</identificador>
+    <titulo>Resolución de 5 de febrero de 2021, de la Universidad de Salamanca, por la que se publica el plan de estudios de Máster Universitario en Modelización Matemática.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>51</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210205</fecha_disposicion>
+    <fecha_publicacion>20210301</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>24531</pagina_inicial>
+    <pagina_final>24532</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/01/pdfs/BOE-A-2021-3229.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="4888" orden="">Matemáticas</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7050" orden="">Universidad de Salamanca</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 26 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, y una vez obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe positivo de la Agencia para la Calidad del Sistema Universitario de Castilla y León, y acordado el carácter oficial del título mediante Acuerdo del Consejo de Ministros de 12 de enero de 2021, publicado en el BOE de 22 de enero de 2021, por Resolución de la Secretaría General de Universidades de 14 de enero de 2021,</p>
+    <p class="parrafo">Este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención del título de Máster Universitario en Modelización Matemática en la rama de conocimiento de Ciencias.</p>
+    <p class="parrafo_2">Salamanca, 5 de febrero de 2021.–El Rector, Ricardo Rivero Ortega.</p>
+    <p class="anexo_num">PLAN DE ESTUDIOS DE MÁSTER UNIVERSITARIO EN MODELIZACIÓN MATEMÁTICA</p>
+    <p class="anexo_tit">Rama de Conocimiento: Ciencias</p>
+    <p class="centro_cursiva">Código Titulación: 4317209</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias O.</td>
+          <td class="cuerpo_tabla_centro">21</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas Op.</td>
+          <td class="cuerpo_tabla_centro">27</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos totales.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulos</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Tipo</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Temporalidad</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="20%"/>
+        <col width="50%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">
+            <p class="cuerpo_tabla_izq">M1.</p>
+            <p class="cuerpo_tabla_izq">Fundamentos Matemáticos.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Teoría de la Modelización y Simulación Matemática.</td>
+          <td class="cuerpo_tabla_centro">O</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos Avanzados en Ecuaciones Diferenciales y Modelización.</td>
+          <td class="cuerpo_tabla_centro">O</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos Numéricos Avanzados en EDPs.</td>
+          <td class="cuerpo_tabla_centro">O</td>
+          <td class="cuerpo_tabla_centro">4.5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelos Probabilísticos y Estadísticos.</td>
+          <td class="cuerpo_tabla_centro">O</td>
+          <td class="cuerpo_tabla_centro">4.5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">
+            <p class="cuerpo_tabla_izq">M2.</p>
+            <p class="cuerpo_tabla_izq">Ampliación.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Sistemas Dinámicos Discretos.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Integrables.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos de Investigación en modelización matemática en el área de Educación Matemática.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Enseñanza/Aprendizaje de la Modelización Matemática.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Herramientas Informáticas Avanzadas para la Modelización.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teoría Económica y Teoría de Juegos.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="12">
+            <p class="cuerpo_tabla_izq">M3.</p>
+            <p class="cuerpo_tabla_izq">Especialización y Aplicaciones.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Modelización basada en Autómatas Celulares.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelización en Soft Computing.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas de Inteligencia Artificial en Modelización.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos Numéricos en Ecuaciones Diferenciales Estocásticas.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos Numéricos para Modelos Basados en EDOs.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Software de Análisis Cualitativo de Datos.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelización de Sistemas Complejos.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Mecánica de los Medios Continuos.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelos Matemáticos en Medio Ambiente.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelos Matemáticos en Dinámica de Poblaciones.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelos Matemáticos en Física.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas Geométricas en la Física Moderna.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TFM.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Master (TFM).</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">TFM</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Las asignaturas optativas podrán, por circunstancias excepcionales, sufrir modificaciones, siempre que lo autorice el Vicerrectorado con competencias en ordenación académica y con anterioridad al inicio del curso académico.</p>
+  </texto>
+</documento>

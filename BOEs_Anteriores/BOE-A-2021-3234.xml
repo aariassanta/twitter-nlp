@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210301085601">
+  <metadatos>
+    <identificador>BOE-A-2021-3234</identificador>
+    <titulo>Resolución de 11 de febrero de 2021, de la Universidad de Zaragoza, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Historia.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>51</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210211</fecha_disposicion>
+    <fecha_publicacion>20210301</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>24547</pagina_inicial>
+    <pagina_final>24550</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/01/pdfs/BOE-A-2021-3234.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="4015" orden="">Historia</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7058" orden="">Universidad de Zaragoza</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en los artículos 26 y 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, por los que se establece el procedimiento para la modificación de planes de estudios ya verificados y una vez recibido informe favorable de la Agencia de Calidad y Prospectiva Universitaria de Aragón a las modificaciones presentadas del plan de estudios de Graduado o Graduada en Historia por la Universidad de Zaragoza,</p>
+    <p class="parrafo">Este Rectorado ha resuelto ordenar la publicación de la modificación del plan de estudios de Graduado o Graduada en Historia por la Universidad de Zaragoza que queda estructurado según consta en el Anexo a esta Resolución.</p>
+    <p class="parrafo_2">Zaragoza, 11 de febrero de 2021.–El Rector, José Antonio Mayoral Murillo.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente a la obtención del título de Graduado o Graduada en Historia por la Universidad de Zaragoza</p>
+    <p class="centro_cursiva">Estructura de las enseñanzas</p>
+    <p class="centro_redonda">(Real Decreto 1393/2007, anexo I, apartado 5.1)</p>
+    <p class="parrafo_2">1. Rama de conocimiento a la que se adscribe el título: Artes y Humanidades.</p>
+    <p class="parrafo">2. Distribución del plan de estudios en créditos ECTS, por tipo de materia.</p>
+    <table class="tabla">
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (Fb).</td>
+          <td class="cuerpo_tabla_der">66</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (Ob).</td>
+          <td class="cuerpo_tabla_der"> 117</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (Op).</td>
+          <td class="cuerpo_tabla_der"> 48</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_der">–</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_der">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total créditos.</td>
+          <td class="cuerpo_tabla_der"> 240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Distribución de los créditos de formación básica del plan de estudios por materias.</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="28%"/>
+        <col width="22%"/>
+        <col width="36%"/>
+        <col width="7%"/>
+        <col width="7%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Rama de conocimiento</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Materia RD 1393/2007,</p>
+            <p class="cabeza_tabla">de 29 de octubre</p>
+          </th>
+          <th class="cabeza_tabla">Asignaturas vinculadas</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Curso</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Artes y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Filosofía.</td>
+          <td class="cuerpo_tabla_izq">Pensamiento social.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Artes y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Arte.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Historia del Arte.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Artes y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Literatura.</td>
+          <td class="cuerpo_tabla_izq">Literaturas hispánicas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Artes y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Geografía.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Geografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Artes y Humanidades.</td>
+          <td class="cuerpo_tabla_izq" rowspan="7">Historia.</td>
+          <td class="cuerpo_tabla_izq">Historia y Ciencias sociales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Historia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introducción a la Arqueología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Escritura y sociedad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La formación de las sociedades complejas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Otras culturas: introducción a la etnoarqueología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Mundo actual.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="3"> Total créditos.</td>
+          <td class="cuerpo_tabla_centro">66</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">4. Contenido del plan de estudios.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Organización temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="25%"/>
+        <col width="14%"/>
+        <col width="30%"/>
+        <col width="7%"/>
+        <col width="7%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_izq">Filosofía.</td>
+          <td class="cuerpo_tabla_izq">Pensamiento social.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_izq">Arte.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de historia del arte.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de historia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_izq">Otras culturas: introducción a la etnoarqueología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_izq">La formación de las sociedades complejas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_izq">Geografía.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de geografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_izq">Mundo actual.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_izq">Literatura.</td>
+          <td class="cuerpo_tabla_izq">Literaturas hispánicas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_izq">Historia y ciencias sociales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La Historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Prehistoria.</td>
+          <td class="cuerpo_tabla_izq">Prehistoria: cazadores recolectores.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_izq">Introducción a la arqueología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Prehistoria.</td>
+          <td class="cuerpo_tabla_izq">Prehistoria: agricultores, pastores y metalúrgicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Antigua.</td>
+          <td class="cuerpo_tabla_izq">Historia antigua: Siglos VII-II a. E.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Medieval.</td>
+          <td class="cuerpo_tabla_izq">Historia de la Alta Edad Media: Siglos V-XII.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Moderna.</td>
+          <td class="cuerpo_tabla_izq">Historia moderna. Siglo XVI.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_izq">Escritura y sociedad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Antigua.</td>
+          <td class="cuerpo_tabla_izq">Historia antigua: Siglos II a. E. -V d. E.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Medieval.</td>
+          <td class="cuerpo_tabla_izq">Historia de la Baja Edad Media: Siglos XIII-XV.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia de América.</td>
+          <td class="cuerpo_tabla_izq">América indígena y colonial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Contemporánea.</td>
+          <td class="cuerpo_tabla_izq">Historia contemporánea universal.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Prehistoria.</td>
+          <td class="cuerpo_tabla_izq">Protohistoria: de la plena metalurgia a la transición al Estado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Antigua.</td>
+          <td class="cuerpo_tabla_izq">Hispania antigua.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Medieval.</td>
+          <td class="cuerpo_tabla_izq">España medieval.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Moderna.</td>
+          <td class="cuerpo_tabla_izq">Historia moderna. Siglos XVII y XVIII.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Optativa módulo 2.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia de América.</td>
+          <td class="cuerpo_tabla_izq">América contemporánea.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Contemporánea.</td>
+          <td class="cuerpo_tabla_izq">España contemporánea: Siglo XIX.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Moderna.</td>
+          <td class="cuerpo_tabla_izq">España moderna.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Optativa 1 módulo 2.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Optativa 2 módulo 2.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia Contemporánea.</td>
+          <td class="cuerpo_tabla_izq">España contemporánea: Siglo XX.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Optativa 1 módulo 4.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Optativa 2 módulo 4.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Optativa 3 módulo 4.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">Semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Optativa 4 módulo 4.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Optativa 5 módulo 4.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Optativa 6 módulo 4.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">Semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La historia y su periodización.</td>
+          <td class="cuerpo_tabla_izq">Historia de Aragón.</td>
+          <td class="cuerpo_tabla_izq">Historia de Aragón.</td>
+          <td class="cuerpo_tabla_centro">13</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Idioma moderno.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Idioma moderno B1 (Inglés, Francés, Italiano, Alemán).</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Tfg</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">5. Oferta de asignaturas optativas.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="28%"/>
+        <col width="8%"/>
+        <col width="15%"/>
+        <col width="41%"/>
+        <col width="8%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Módulo 2: Teoría, metodología e historiografía.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td rowspan="8"> </td>
+          <td class="cuerpo_tabla_izq">Historia de las religiones.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Historiografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Recuperación del patrimonio histórico-arqueológico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Paleografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Historia de las mujeres.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Historia cultural.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Prehistoria y arqueología: teoría, métodos y práctica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Lenguas clásicas (Latín, Griego o Árabe).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="15">Módulo 4: Itinerarios.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td rowspan="5">Mundo antiguo</td>
+          <td class="cuerpo_tabla_izq">La ciudad clásica.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Roma y su Imperio.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Arqueología clásica.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Símbolos, artes y creencias en la Prehistoria.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">El origen del hombre.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td rowspan="5">Edad Media</td>
+          <td class="cuerpo_tabla_izq">Historia económica y social de la Edad Media.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Culturas medievales europeas.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Historia del Islam.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Diplomática medieval.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Patrimonio histórico-documental.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td rowspan="5">Mundo Moderno y Contemporáneo</td>
+          <td class="cuerpo_tabla_izq">Historia económica y social de la Edad Moderna.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Culturas modernas europeas.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Historia económica del mundo contemporáneo.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Historia de los movimientos sociales contemporáneos.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Historia de las ideas políticas.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

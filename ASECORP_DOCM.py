@@ -67,32 +67,15 @@ today = date.today()
 
 # dd/mm/YYYY
 hoy = today.strftime("%Y%m%d")
-print("Fecha de Hoy =", hoy)
+print("Fecha de Hoy =", today.strftime("%d/%m/%Y"))
 
-# dd
-d = today.strftime("%d")
-print("dia =", d)
-
-# mm
-m = today.strftime("%m")
-print("mes =", m)
-
-# YYYY
-Y = today.strftime("%Y")
-print("año =", Y)
-
-print(today.strftime("%d/%m/%Y"))
-
-
-# %%
 URL_HTML_resumen =  "https://docm.jccm.es/portaldocm/cambiarBoletin.do?fecha=" + str(hoy)
 
 
-# %%
-URL_HTML_resumen
+#URL_HTML_resumen
 
+print('Accediendo a página del boletín')
 
-# %%
 # carga página HTML y genera árbol
 
 response = requests.get(URL_HTML_resumen)
@@ -112,7 +95,9 @@ save_html(response.content, './DOCMs/Resumen-DOCM-' + hoy + '.html')
 for seccion in sumario_HTML.xpath('//*[@class="cabeceraCategoria"]'):
     nombre_seccion = seccion.xpath('./text()')
     nombre_seccion = str(nombre_seccion[0]).strip()
-    print(nombre_seccion)
+    #print(nombre_seccion)
+
+print('Accediendo a página resumen de disposiciones')
 
 DOCM_sumarios = pd.DataFrame(columns=['item_Title','item_urlHTML','item_urlPDF'])
 
@@ -148,8 +133,7 @@ DOCM_sumarios['item_urlPDF'] = lista
 #     #NID = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[2]/td[2]/text()')
 #     print(response.text)
 
-
-print(DOCM_sumarios['item_urlHTML'][0])
+#print(DOCM_sumarios['item_urlHTML'][0])
 
 ### Necesita libreria Selenium para renderizar JS script
 
@@ -168,10 +152,12 @@ NID = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[2]/td[2]/text(
 rango = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[5]/td[2]/text()')
 organo_emisor = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[7]/td[2]/text()')
 
-print(numero_diario[0].strip(), numero_pagina[0].strip(), NID[0].strip(), rango[0].strip(), organo_emisor[0].strip())
-print()
+#print(numero_diario[0].strip(), numero_pagina[0].strip(), NID[0].strip(), rango[0].strip(), organo_emisor[0].strip())
+#print()
 
 driver.quit()
+
+print('Accediendo a página detalle de disposiciones')
 
 ### Recoge información de página de detalle con Selenium
 ### es necesario ya que la página se genera con un JS y
@@ -216,6 +202,8 @@ driver.quit()
 
 # # Salva PDFs y Genera DF con datos Análisis de cada PDF
 
+print('Generando Tags de patrones encontrados en disposiciones')
+
 # Crea nueva columna vacía de tipo lista en tabla_analisis
 #DOCM_sumarios['Referencias_completas'] = [[] for i in range(len(tabla_analisis))]
 DOCM_sumarios['Tags'] = [[] for i in range(len(DOCM_sumarios))]
@@ -238,13 +226,13 @@ for i, row in DOCM_sumarios.iterrows():
 
     # Busca expresiones REGX coincidentes con Patrones definidos
     DOCM_sumarios['Tags'][i] = re.findall('|'.join(pattern), str(pdf_contents), flags=re.IGNORECASE)
-    print(DOCM_sumarios['Tags'][i])
+    #print(DOCM_sumarios['Tags'][i])
 
 
 # Elimina Tags duplicados
 for i, row in DOCM_sumarios.iterrows():
     DOCM_sumarios['Tags'][i] = list(set(DOCM_sumarios['Tags'][i]))
-    print(DOCM_sumarios['Tags'][i])
+    #print(DOCM_sumarios['Tags'][i])
 
 # Aplica expresiones REGEX para búsqueda de leyes, decretos, etc. referenciadas anteriormente
 regex_result = []
@@ -253,7 +241,7 @@ regex_result = []
 ## Elimina duplicados
 boletin_flat_list = list(set(regex_result))
 
-
+print('Generando Tags de patrones encontrados en BBDD ASECORP')
 
 # ## Importa BBDD ASECORP
 
@@ -266,23 +254,24 @@ ambitos = []
 # si no se especifica ámbito los incluye todos
 boletin_ASECORP_flat_list, ASECORP_BBDD, ambitos = tagea_BBDD_ASECORP(['España','Europa','Castilla la Mancha'])
 
-print(ambitos)
+#print(ambitos)
 
 ## Busca coincidencias entre lista boletines BOEs explorados y lista boletines de BBDD ASECORP
 set(boletin_flat_list) & set(boletin_ASECORP_flat_list)
 
 #DOCM_sumarios['Tags'].isin(ASECORP_BBDD_BOE['Tags'])
-for row_to_compare in DOCM_sumarios['Tags']:
-    for row_comparing in ASECORP_BBDD['Tags']:
-        if set(row_comparing) & set(row_to_compare):
-            print(set(row_comparing) & set(row_to_compare))
+#for row_to_compare in DOCM_sumarios['Tags']:
+#    for row_comparing in ASECORP_BBDD['Tags']:
+#        if set(row_comparing) & set(row_to_compare):
+#            print(set(row_comparing) & set(row_to_compare))
 
+print('Realizando Matching entre Tags encontrados en disposiciones y en BBDD ASECORP')
 
 for i, row_to_compare in DOCM_sumarios.iterrows():
     for j, row_comparing in ASECORP_BBDD.iterrows():
         if set(row_to_compare['Tags']) & set(row_comparing['Tags']):
             DOCM_sumarios['Match_ASECORP_BBDD'][i].append (ASECORP_BBDD['Codigo'][j])
-            print(str(set(row_to_compare['Tags']) & set(row_comparing['Tags'])) + ' ' + str(row_comparing['Codigo']))
+            #print(str(set(row_to_compare['Tags']) & set(row_comparing['Tags'])) + ' ' + str(row_comparing['Codigo']))
 
 
 # # Genera Fichero EXCEL de resultados
@@ -305,5 +294,7 @@ DOCM_sumarios_final_CSV['Item_id'] = '=HIPERVINCULO(' + '"' + DOCM_sumarios_fina
 
 # Elimina columna PDF_Link
 DOCM_sumarios_final_CSV = DOCM_sumarios_final_CSV[['Item_id','Item_Title','Fecha_publicacion','Tags','Match_ASECORP_BBDD']]
+
+print('Guardando resultados en fichero')
 
 DOCM_sumarios_final_CSV.to_csv("./ASECORP/Resultados_Matching_DOCM_" + today.strftime("%Y%m%d") + ".csv" ,index=False) 

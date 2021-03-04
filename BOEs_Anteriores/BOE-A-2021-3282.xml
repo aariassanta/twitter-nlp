@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210302142601">
+  <metadatos>
+    <identificador>BOE-A-2021-3282</identificador>
+    <titulo>Resolución de 18 de febrero de 2021, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de modificación del artículo 25 del II Convenio colectivo del grupo de empresas Redexis Gas.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>52</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9573">Ministerio de Trabajo y Economía Social</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210218</fecha_disposicion>
+    <fecha_publicacion>20210302</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>24771</pagina_inicial>
+    <pagina_final>24774</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/02/pdfs/BOE-A-2021-3282.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/02/18/(4)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(4)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-3282</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-18</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(4)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(4)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-3282</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-18</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(4)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/02/18/(4)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(4)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 18 de febrero de 2021, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de modificación del artículo 25 del II Convenio colectivo del grupo de empresas Redexis Gas.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-03-02</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/02/18/(4)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(4)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/18/(4)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(4)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/18/(4)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/18/(4)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/18/(4)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="1684" orden="">Convenios colectivos</materia>
+      <materia codigo="3889" orden="">Gas</materia>
+      <materia codigo="5148" orden="">Negociación colectiva</materia>
+      <materia codigo="6806" orden="">Suministro de energía</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2018-17349" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 25 del Convenio publicado por Resolución de 4 de diciembre de 2018</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2015-11430" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 90.2 y 3 de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2010-9274" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto 713/2010, de 28 de mayo</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Visto el texto del acuerdo de modificación del artículo 25 del II Convenio colectivo del grupo de empresas Redexis Gas –Redexis Gas, SA; Redexis Infraestructuras, SL; Redexis GLP, SL y Redexis Gas Servicios, SL– (código de convenio n.º 90100283012015), publicado en el BOE de 18 de diciembre de 2018, acuerdo que fue suscrito, con fecha 14 de enero de 2021, de una parte por los designados por la Dirección de dicho grupo de empresas, en representación de las mismas, y de otra por el sindicato UGT-FICA, en representación de los trabajadores afectados, y de conformidad con lo dispuesto en el artículo 90, apartado 2 y 3, de la Ley del Estatuto de los Trabajadores, Texto refundido aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre (BOE de 24 de octubre), y en el Real Decreto 713/2010, de 28 de mayo, sobre registro y depósito de convenios y acuerdos colectivos de trabajo,</p>
+    <p class="parrafo">Esta Dirección General de Trabajo resuelve:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo">Ordenar la inscripción del citado acuerdo de modificación, en el correspondiente Registro de convenios y acuerdos colectivos de trabajo con funcionamiento a través de medios electrónicos de este Centro Directivo, con notificación a la Comisión Negociadora.</p>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">Disponer su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 18 de febrero de 2021.–La Directora General de Trabajo, Verónica Martínez Barbero.</p>
+    <p class="anexo">ACTA DE ACUERDO DE MODIFICACIÓN DEL II CONVENIO COLECTIVO DEL GRUPO DE EMPRESAS REDEXIS GAS</p>
+    <p class="parrafo_2">Madrid, 14 enero de 2021.</p>
+    <p class="centro_redonda">REUNIDOS</p>
+    <p class="parrafo_2">De una parte, la representación de las empresas Redexis Gas, S.A., Redexis Infraestructuras, S.L., Redexis GLP, S.L. y Redexis Gas Servicios, S.L., compareciendo en su nombre y representación:</p>
+    <p class="parrafo_2">Doña Susana Lorenzo de la Orden, en calidad de Directora de Recursos del Grupo de Empresas Redexis Gas.</p>
+    <p class="parrafo">Don Raúl Pérez Herranz, en calidad de Subdirector de Recursos Humanos.</p>
+    <p class="parrafo_2">Las empresas antes citadas y salvo mención específica se denominarán en adelante «RE» o «Parte Empresarial».</p>
+    <p class="parrafo">De otra parte, la Parte Social, compareciendo en este acto:</p>
+    <p class="parrafo_2">La Federación Sindical de UGT (UGT-FICA) en cuyo nombre y representación comparece:</p>
+    <p class="parrafo_2">Don Andrés Muñoz Hernández en su calidad de Secretario del sector energético UGT FICA.</p>
+    <p class="parrafo_2">Asimismo, en calidad de representantes de la Sección Sindical de dicho sindicato en las empresas comparecen los representantes de los trabajadores señalados a continuación. Y todo ello, a los efectos de lo previsto en el artículo 8 de la Ley Orgánica de la Libertad Sindical («LOLS»), esto es, reconocimiento de las citadas secciones sindicales por las empresas comparecientes.</p>
+    <p class="parrafo_2">La Representación legal de los trabajadores, integrada en este acto por los siguientes miembros:</p>
+    <p class="parrafo_2">Don José María González de Juan (UGT).</p>
+    <p class="parrafo">Don Francisco Ramón Martínez (UGT).</p>
+    <p class="parrafo">Don José Antonio Pérez Mingorance (UGT).</p>
+    <p class="parrafo">Doña Valentina García Rico (UGT).</p>
+    <p class="parrafo_2">Todos ellos –en adelante, la «Parte Social» o la «RLT»–, en calidad de miembros/representantes designados por la Sección Sindical de UGT, ostentando la mayoría de la Representación Legal de los Trabajadores («RLT») de todos los Comités de Empresa y/u órganos de representación legal de los trabajadores de la Sociedades que integran el Grupo Redexis.</p>
+    <p class="parrafo">Conjuntamente se les denominará las «Partes», o la «Comisión Negociadora», ostentando UGT el 72 % por ciento de la representación de la parte social en la Comisión Negociadora; CCOO ostenta el 28% por ciento restante de dicha parte social, habiendo sido convocado en tiempo y forma, si bien ha comunicado su decisión de no comparecer a la presente reunión.</p>
+    <p class="parrafo">Se reúnen a las doce horas del día reflejado en el encabezamiento, todos ellos en calidad de miembros de la Comisión Negociadora del Convenio.</p>
+    <p class="centro_redonda">ANTECEDENTES</p>
+    <p class="parrafo_2">I. En fecha 21 de junio de 2018 se alcanzó por las Partes un Preacuerdo del II Convenio Colectivo del Grupo de Empresas Redexis Gas para los años 2018 a 2021 (en adelante, el «Convenio»), sujeto a ratificación por el Consejo de Administración y la asamblea de los trabajadores.</p>
+    <p class="parrafo">II. Una vez obtenidas las oportunas aprobaciones y ratificado el texto definitivo del Convenio Colectivo, se procedió por parte de los sujetos expresamente facultados por las Partes, a efectos de lo dispuesto en el Estatuto de los Trabajadores, a solicitar telemáticamente –a través de la plataforma digital REGCON– el registro y depósito del citado Convenio Colectivo.</p>
+    <p class="parrafo">III. Tras los oportunos trámites de registro ante la Autoridad Laboral competente, el Convenio fue publicado en el BOE número 304 de fecha 18 de diciembre de 2018, sin perjuicio de su vigencia y con una duración inicial hasta el 31 de diciembre de 2021.</p>
+    <p class="parrafo">IV. Ante las dudas jurídicas surgidas en los últimos tiempos relativas al beneficio de suministro de energía contenido en el artículo 25 del Convenio Colectivo, así como el impacto contable que viene provocando, Grupo Redexis Gas procedió el pasado día 30 de diciembre de 2020 a convocar formalmente a la Comisión Negociadora firmante del Convenio, en base a la legitimación que conceden a la misma los artículos 87 y 88 del Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores (en adelante, «ET»), para la negociación de determinadas modificaciones en el texto del Convenio, en relación con el referido beneficio, todo ello de conformidad con lo previsto en el artículo 86.1 del ET.</p>
+    <p class="parrafo">Al respecto y no obstante la convocatoria formal de la Comisión Negociadora realizada el pasado 30 de diciembre de 2020, las Partes habían venido manteniendo distintas conversaciones y reuniones previas a tal fin, realizando toda una serie de valoraciones y manifestaciones durante las mismas en relación con la posibilidad de modificar el referido artículo 25 del Convenio Colectivo y las causas que motivarían dicha modificación.</p>
+    <p class="parrafo">V. Las Partes se reúnen en la fecha de la presente, constituidas como Comisión Negociadora, de conformidad con lo establecido en el artículo 88 del ET y en el Acta de fecha 27 de noviembre de 2017.</p>
+    <p class="parrafo">VI. La RE, una vez abierta la sesión y ante las dudas jurídicas existentes en cuanto a la configuración jurídica del derecho de suministro de energía bonificada en el periodo de pasividad y con carácter vitalicio del personal tanto pasivo como actualmente activo en el momento en el que se convirtiese en pasivo, así como el impacto contable de dicho derecho, traslada a la Parte social la posibilidad de modificar o convertir dicho derecho mediante una compensación económica en los términos y condiciones que se exponen en el transcurso de la reunión, indicándoles como fórmula de modificación o conversión la contenida en un acuerdo alcanzado con el Comité de empresa intercentros el pasado 21 de diciembre de 2020, posibilidad de modificación que ya había sido trasladada por la RE a la Parte social en contactos previos mantenidos a tal fin.</p>
+    <p class="parrafo">VII. La parte social, una vez valorada la propuesta de modificación o conversión, ante las circunstancias y motivaciones concurrentes, así como tras nueva realización de una serie de manifestaciones y valoraciones al respecto, accede a la propuesta de la RE y, a tal fin,</p>
+    <p class="centro_redonda">ACUERDAN</p>
+    <p class="articulo"><strong>Primero.</strong> Modificación del artículo 25 del Convenio Colectivo.</p>
+    <p class="parrafo">Se acuerda la modificación de la redacción del artículo 25 del Convenio Colectivo, pasando a ser esta la siguiente:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«Sin perjuicio de lo establecido en el presente Capítulo, la empresa respetará al personal procedente de Endesa los beneficios sociales a los que tengan derecho en base a los términos establecidos en su normativa de origen, de conformidad con el Acuerdo de Garantías de 16 de diciembre de 2010 y Anexo de 31 de octubre de 2013.</p>
+      <p class="parrafo">No obstante, el derecho del suministro de energía bonificada en el periodo de pasividad y con carácter vitalicio, del personal tanto pasivo como actualmente activo en el momento en el que se convirtiese en pasivo, se modifica o convierte mediante una compensación económica en los términos y condiciones previstos en el Acuerdo formalizado en fecha 21 de diciembre de 2020 entre el Comité de empresa intercentros y la empresa Redexis Gas, SA».</p>
+    </blockquote>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">Las Partes alcanzan el presente Acuerdo de modificación del II Convenio Colectivo del Grupo de Empresas Redexis Gas para los años 2018 a 2021, que se acompaña en su texto articulado y sus anexos una vez practicados sobre los mismos las modificaciones y adiciones acordadas, desplegando las mismas plenos efectos desde el momento de la firma del presente documento –sin perjuicio de su posterior registro y publicación–, y quedando incorporados a la presente Acta, formando parte de la misma, quedando vinculados sus efectos.</p>
+    <p class="parrafo">El restante contenido, términos y condiciones del Convenio que no han sido expresamente modificados por las Partes y no son parte del presente Acta de Acuerdo, se mantendrá invariable durante la vigencia del mismo.</p>
+    <p class="articulo">Tercero.</p>
+    <p class="parrafo">A efectos de lo dispuesto en el Estatuto de los Trabajadores, respecto de los presentes Acuerdos y la tramitación del registro y depósito del presente Acuerdo y del texto modificado del Convenio –una vez adaptado el mismo a las modificaciones anteriores–, las Partes facultan a doña Susana Lorenzo de la Orden, a doña Helena Vilar Rebolo y a don Raúl Pérez Herranz para que comparezca y presente la documentación correspondiente y aquélla para la que sea legalmente requerida ante los organismos públicos competentes, ostentando las facultades anteriores por delegación expresamente conferida por la Comisión Negociadora.</p>
+    <p class="parrafo_2">Y no habiendo más asuntos que tratar, se extiende y firma por todos los asistentes el presente Acta de Acuerdo, por cuadruplicado ejemplar.–Por la Representación Empresarial, Susana Lorenzo de la Orden y Raúl Pérez Herranz.–Por la Parte Social, Andrés Muñoz Hernández (UGT-FICA), Francisco Ramón Martínez (UGT), José María González de Juan (UGT), Valentina García Rico (UGT) y José Antonio Pérez Mingorance (UGT).</p>
+  </texto>
+</documento>

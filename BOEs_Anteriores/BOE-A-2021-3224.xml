@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210301085601">
+  <metadatos>
+    <identificador>BOE-A-2021-3224</identificador>
+    <titulo>Resolución de 27 de enero de 2021, de la Universidad Autónoma de Madrid, por la que se publica el plan de estudios de Graduado o Graduada en Ciencias (Grado conjunto de las Universidades Autónoma de Barcelona, Autónoma de Madrid y Carlos III de Madrid).</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>51</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210127</fecha_disposicion>
+    <fecha_publicacion>20210301</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>24517</pagina_inicial>
+    <pagina_final>24520</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/01/pdfs/BOE-A-2021-3224.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="3537" orden="">Ciencias</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7016" orden="">Universidad Autónoma de Madrid</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Fundación para el Conocimiento Madri+d, así como la autorización de la Comunidad Autónoma de Madrid, y establecido el carácter oficial del Título por Acuerdo del Consejo de Ministros de 12 de enero de 20221 (publicado en el BOE de 22 de enero de 2021).</p>
+    <p class="parrafo">Este Rectorado, de conformidad con lo dispuesto en el artículo 35 de la Ley Orgánica 6/2001, de Universidades, en la redacción dada por la Ley Orgánica 4/2007, ha resuelto publicar el plan de estudios conducente a la obtención del título oficial de Graduado o Graduada en Ciencias por la Universidad Autónoma de Barcelona, la Universidad Autónoma de Madrid y la Universidad Carlos III de Madrid, que quedará estructurado según consta en el Anexo de esta Resolución.</p>
+    <p class="parrafo_2">Madrid, 27 de enero de 2021.–El Rector, Rafael Garesse Alarcón.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente al título de Graduado o Graduada en Ciencias por la Universidad Autónoma de Barcelona, la Universidad Autónoma de Madrid y la Universidad Carlos III de Madrid (Rama Ciencias)</p>
+    <p class="parrafo_2">5.1 Estructura de las enseñanzas.</p>
+    <p class="parrafo_2">Tabla 1. Distribución del plan de estudios en ECTS por tipo de materia.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_der">72</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias.</td>
+          <td class="cuerpo_tabla_der">42</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_der">114</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_der">0</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de fin de grado.</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Tabla 2. Esquema del plan de estudios.</p>
+    <p class="centro_redonda">Primer curso</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="20%"/>
+        <col width="28%"/>
+        <col width="28%"/>
+        <col width="9%"/>
+        <col width="15%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Formación Básica.</td>
+          <td class="cuerpo_tabla_izq">Biología.</td>
+          <td class="cuerpo_tabla_izq">Biología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Geología.</td>
+          <td class="cuerpo_tabla_izq">Geología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Matemáticas.</td>
+          <td class="cuerpo_tabla_izq">Cálculo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Álgebra.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Química.</td>
+          <td class="cuerpo_tabla_izq">Química General.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Química Orgánica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Física.</td>
+          <td class="cuerpo_tabla_izq">Mecánica y Termodinámica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Informática.</td>
+          <td class="cuerpo_tabla_izq">Técnicas Informáticas y Bases de Datos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Formación Obligatoria.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Obligatorias Específicas.</td>
+          <td class="cuerpo_tabla_izq">Ciencia y Sociedad del Siglo XXI.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lógica y Filosofía de la Ciencia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Segundo curso</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="20%"/>
+        <col width="28%"/>
+        <col width="28%"/>
+        <col width="9%"/>
+        <col width="15%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Formación Básica.</td>
+          <td class="cuerpo_tabla_izq">Biología.</td>
+          <td class="cuerpo_tabla_izq">Biología de Organismos y Sistemas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Física.</td>
+          <td class="cuerpo_tabla_izq">Electricidad, Electromagnetismo y Óptica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Geología.</td>
+          <td class="cuerpo_tabla_izq">Geología Ambiental.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_izq">Ecuaciones diferenciales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Formación Obligatoria.</td>
+          <td class="cuerpo_tabla_izq">Bioquímica.</td>
+          <td class="cuerpo_tabla_izq">Bioquímica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Obligatorias Específicas.</td>
+          <td class="cuerpo_tabla_izq">Comunicación y Divulgación de la Ciencia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia de la Ciencia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas Tipo A.</td>
+          <td class="cuerpo_tabla_izq">Optativas Tipo A.</td>
+          <td class="cuerpo_tabla_izq">Optativas Tipo A.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Tercer curso</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="25%"/>
+        <col width="25%"/>
+        <col width="25%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas Tipo B.</td>
+          <td class="cuerpo_tabla_izq">Optativas Tipo B.</td>
+          <td class="cuerpo_tabla_izq">Optativas Tipo B.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Cuarto curso</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="20%"/>
+        <col width="28%"/>
+        <col width="28%"/>
+        <col width="9%"/>
+        <col width="15%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Obligatoria.</td>
+          <td class="cuerpo_tabla_izq">Obligatorias Específicas.</td>
+          <td class="cuerpo_tabla_izq">Gestión y Evaluación de la Ciencia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas Tipo B.</td>
+          <td class="cuerpo_tabla_izq">Optativas Tipo B.</td>
+          <td class="cuerpo_tabla_izq">Optativas Tipo B.</td>
+          <td class="cuerpo_tabla_centro">42</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Optativas</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="20%"/>
+        <col width="28%"/>
+        <col width="28%"/>
+        <col width="9%"/>
+        <col width="15%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="10">Optativas Tipo A.</td>
+          <td class="cuerpo_tabla_izq" rowspan="3">Mención en Biociencias.</td>
+          <td class="cuerpo_tabla_izq">Física Moderna.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Genes y Ambiente.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelización.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Mención en Ciencias de la Tierra y Medioambiente.</td>
+          <td class="cuerpo_tabla_izq">Ciencia de Materiales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Genes y Ambiente.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelización.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Mención en Ciencia y Tecnología.</td>
+          <td class="cuerpo_tabla_izq">Ciencia de Materiales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Conjuntos y Números.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Física Moderna.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelización.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="23">Optativa Tipo B.</td>
+          <td class="cuerpo_tabla_izq" rowspan="7">Mención en Biociencias.</td>
+          <td class="cuerpo_tabla_izq">Genética Molecular.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biomacromoléculas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Citología e Histología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fisiología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Metabolismo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biofísica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Metodología Bioquímica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Mención en Ciencias de la Tierra y Medioambiente.</td>
+          <td class="cuerpo_tabla_izq">Ecología Aplicada.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diversidad Biológica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología Ambiental.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis del Medio Biológico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis del Medio Físico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos Energéticos y Naturales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Geociencias.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Mención en Ciencia y Tecnología.</td>
+          <td class="cuerpo_tabla_izq">Métodos Numéricos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fenómenos Cuánticos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estructura de la Materia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología Energética.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología Eléctrica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología Electrónica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología Ambiental.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fuera de Mención.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="4">Asignaturas ofertadas de los grados existentes en la UAB, UAM y UC3M.</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210301092601">
+  <metadatos>
+    <identificador>BOE-A-2021-3223</identificador>
+    <titulo>Resolución de  27 de enero de 2021, de la Universidad Autónoma de Madrid, por la que se publica el plan de estudios de Graduado o Graduada en Ingeniería Biomédica.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>51</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210127</fecha_disposicion>
+    <fecha_publicacion>20210301</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>24513</pagina_inicial>
+    <pagina_final>24516</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/01/pdfs/BOE-A-2021-3223.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="509" orden="">Biología</materia>
+      <materia codigo="4173" orden="">Ingenieros</materia>
+      <materia codigo="4910" orden="">Medicina</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7016" orden="">Universidad Autónoma de Madrid</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2001-24515" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 35 de la Ley Orgánica 6/2001, de 21 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2021-903" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Fundación para el Conocimiento Madri+d, así como la autorización de la Comunidad Autónoma de Madrid, y establecido el carácter oficial del Título por Acuerdo del Consejo de Ministros de 12 de enero de 2021 (publicado en el BOE de 22 de enero de 2021).</p>
+    <p class="parrafo">Este Rectorado, de conformidad con lo dispuesto en el artículo 35 de la Ley Orgánica 6/2001, de Universidades, en la redacción dada por la Ley Orgánica 4/2007, ha resuelto publicar el plan de estudios conducente a la obtención del título oficial de Graduado o Graduada en Ingeniería Biomédica por la Universidad Autónoma de Madrid, que quedará estructurado según consta en el Anexo de esta Resolución.</p>
+    <p class="parrafo_2">Madrid, 27 de enero de 2021.–El Rector, Rafael Garesse Alarcón.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente al título de Graduado/a en Ingeniería Biomédica por la Universidad Autónoma de Madrid (Rama Ingeniería y Arquitectura)</p>
+    <p class="parrafo_2">5.1 Estructura de las enseñanzas.</p>
+    <p class="parrafo_2">Tabla 1. Distribución del plan de estudios en ECTS por tipo de materia.</p>
+    <table class="tabla">
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_der">78</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias.</td>
+          <td class="cuerpo_tabla_der">105</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_der">24</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_der">24</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de fin de grado.</td>
+          <td class="cuerpo_tabla_der">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Tabla 2. Esquema del plan de estudios.</p>
+    <p class="centro_redonda">Primer curso</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="20%"/>
+        <col width="28%"/>
+        <col width="28%"/>
+        <col width="9%"/>
+        <col width="15%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Fundamentos de Matemáticas, Física y Química.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Matemáticas.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Matemáticas II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Física.</td>
+          <td class="cuerpo_tabla_izq">Física I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Química.</td>
+          <td class="cuerpo_tabla_izq">Química General.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Fundamentos de Biomedicina.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Estructura, función del cuerpo humano y adaptación a la enfermedad.</td>
+          <td class="cuerpo_tabla_izq">Anatomía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fisiología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Biología Celular y Bioquímica.</td>
+          <td class="cuerpo_tabla_izq">Biología Celular y Genética.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bioquímica General.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Fundamentos de Ingeniería.</td>
+          <td class="cuerpo_tabla_izq">Programación.</td>
+          <td class="cuerpo_tabla_izq">Programación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología Electrónica y de Ordenadores.</td>
+          <td class="cuerpo_tabla_izq">Tecnología Electrónica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Segundo curso</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="20%"/>
+        <col width="28%"/>
+        <col width="28%"/>
+        <col width="9%"/>
+        <col width="15%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Fundamentos de Matemáticas, Física y Química.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Matemáticas.</td>
+          <td class="cuerpo_tabla_izq">Matemática III.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bioestadística.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Física.</td>
+          <td class="cuerpo_tabla_izq">Física II.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Biomedicina.</td>
+          <td class="cuerpo_tabla_izq">Estructura, Función del Cuerpo Humano y Adaptación a la Enfermedad.</td>
+          <td class="cuerpo_tabla_izq">Fisiopatología.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Fundamentos de Ingeniería.</td>
+          <td class="cuerpo_tabla_izq">Programación.</td>
+          <td class="cuerpo_tabla_izq">Algoritmos y Estructuras de Datos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología Electrónica y de Ordenadores.</td>
+          <td class="cuerpo_tabla_izq">Circuitos Digitales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Fundamentos de Señales y Sistemas.</td>
+          <td class="cuerpo_tabla_izq">Señales y Sistemas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tratamiento Digital de Señales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de Datos.</td>
+          <td class="cuerpo_tabla_izq">Gestión de Datos Biomédicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Transversal.</td>
+          <td class="cuerpo_tabla_izq">Administración y Gestión de Empresas y Proyectos Tecnológicos.</td>
+          <td class="cuerpo_tabla_izq">Administración y Gestión de Empresas y Proyectos Tecnológicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Tercer curso</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="20%"/>
+        <col width="28%"/>
+        <col width="28%"/>
+        <col width="9%"/>
+        <col width="15%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="12">Tecnologías de Ingeniería Biomédica.</td>
+          <td class="cuerpo_tabla_izq">Biosensores y bio/Nanobiomateriales.</td>
+          <td class="cuerpo_tabla_izq">Biosensores Químicos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnologías Clínicas.</td>
+          <td class="cuerpo_tabla_izq">Biomecánica y Biomateriales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Instrumentación Biomédica.</td>
+          <td class="cuerpo_tabla_izq">Bioinstrumentación Electrónica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sensores y Acondicionamiento de Bioseñales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Dispositivos Inalámbricos y Compatibilidad Electromagnética.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Big Data y Señales Biomédicas.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Aprendizaje Automático.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencia de Datos Biomédicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Tratamiento Digital de Señales Biomédicas.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Informáticos.</td>
+          <td class="cuerpo_tabla_izq">Sistemas Informáticos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Imagen Médica.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Tratamiento Digital de Imágenes.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Tecnológicos de Imagen Médica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Clínicos de Imagen Medica.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Cuarto curso</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="20%"/>
+        <col width="28%"/>
+        <col width="28%"/>
+        <col width="9%"/>
+        <col width="15%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Transversal.</td>
+          <td class="cuerpo_tabla_izq">Bioética.</td>
+          <td class="cuerpo_tabla_izq">Bioética.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Rotaciones y Prácticas.</td>
+          <td class="cuerpo_tabla_izq">Rotaciones Hospitalarias.</td>
+          <td class="cuerpo_tabla_izq">Rotaciones Hospitalarias.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas en Empresa/Ampliación de Rotaciones Hospitalarias.</td>
+          <td class="cuerpo_tabla_izq">Prácticas en Empresa/Ampliación de rotaciones.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Tecnologías de Ingeniería Biomédica.</td>
+          <td class="cuerpo_tabla_izq">Biosensores y Bio/Nanobiomateriales.</td>
+          <td class="cuerpo_tabla_izq" rowspan="5">Optativas A.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">18</td>
+          <td class="cuerpo_tabla_izq" rowspan="5">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnologías Clínicas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Instrumentación Biomédica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Big Data y Señales Biomédicas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Informáticos.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Transversal.</td>
+          <td class="cuerpo_tabla_izq">Emprendimiento.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Optativas B.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">6</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnologías de Ingeniería Biomédica.</td>
+          <td class="cuerpo_tabla_izq">Tecnologías clínicas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Grado.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Optativas A</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="20%"/>
+        <col width="28%"/>
+        <col width="28%"/>
+        <col width="9%"/>
+        <col width="15%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Tecnologías de Ingeniería Biomédica</td>
+          <td class="cuerpo_tabla_izq">Biosensores y Bio/Nanobiomateriales.</td>
+          <td class="cuerpo_tabla_izq">Nanobiomateriales</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Tecnologías Clínicas.</td>
+          <td class="cuerpo_tabla_izq">Simulación y Modelado Clínico</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería de Tejidos y Medicina Regenerativa</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Instrumentación Biomédica.</td>
+          <td class="cuerpo_tabla_izq">Tecnologías de Seguridad de Ondas de Radiofrecuencia y Microondas</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Big Data y Señales Biomédicas.</td>
+          <td class="cuerpo_tabla_izq">Ampliación de Tratamiento Digital de Señales Biomédicas</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Informáticos.</td>
+          <td class="cuerpo_tabla_izq">Sistemas y Aplicaciones para Salud</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Optativas B</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="20%"/>
+        <col width="28%"/>
+        <col width="28%"/>
+        <col width="9%"/>
+        <col width="15%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Transversal.</td>
+          <td class="cuerpo_tabla_izq">Emprendimiento.</td>
+          <td class="cuerpo_tabla_izq">Emprendimiento para Empresas Basadas en el Conocimiento.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Tecnologías de Ingeniería Biomédica.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Tecnologías Clínicas.</td>
+          <td class="cuerpo_tabla_izq">Diseño de Fármacos y Evaluación de Medidas Terapéuticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnologías de Rehabilitación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

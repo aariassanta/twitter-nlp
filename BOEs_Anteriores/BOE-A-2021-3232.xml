@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210301092601">
+  <metadatos>
+    <identificador>BOE-A-2021-3232</identificador>
+    <titulo>Resolución de 11 de febrero de 2021, de la Universidad de Zaragoza, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Geografía y Ordenación del Territorio.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>51</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210211</fecha_disposicion>
+    <fecha_publicacion>20210301</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>24540</pagina_inicial>
+    <pagina_final>24543</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/01/pdfs/BOE-A-2021-3232.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="3905" orden="">Geografía</materia>
+      <materia codigo="5258" orden="">Ordenación del territorio</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7058" orden="">Universidad de Zaragoza</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2010-18357" orden="2030">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el plan publicado por Resolución de 12 de noviembre de 2010</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 26 y 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en los artículos 26 y 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, por los que se establece el procedimiento para la modificación de planes de estudios ya verificados y una vez recibido informe favorable de la Agencia de Calidad y Prospectiva Universitaria de Aragón a las modificaciones presentadas del plan de estudios de Graduado o Graduada en Geografía y Ordenación del Territorio por la Universidad de Zaragoza.</p>
+    <p class="parrafo">Este Rectorado ha resuelto ordenar la publicación de la modificación del plan de estudios de Graduado o Graduada en Geografía y Ordenación del Territorio por la Universidad de Zaragoza que queda estructurado según consta en el Anexo a esta Resolución.</p>
+    <p class="parrafo_2">Zaragoza, 11 de febrero de 2021.–El Rector, José Antonio Mayoral Murillo.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente a la obtención del título de Graduado o Graduada en Geografía y Ordenación del Territorio por la Universidad de Zaragoza</p>
+    <p class="centro_cursiva">Estructura de las enseñanzas</p>
+    <p class="centro_redonda">(Real Decreto 1393/2007, Anexo I, apartado 5.1)</p>
+    <p class="parrafo_2">1. Rama de conocimiento a la que se adscribe el título: Ciencias Sociales y Jurídicas.</p>
+    <p class="parrafo">2. Distribución del plan de estudios en créditos ECTS, por tipo de materia.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (Fb).</td>
+          <td class="cuerpo_tabla_der"> 60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (Ob).</td>
+          <td class="cuerpo_tabla_der">150</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (Op).</td>
+          <td class="cuerpo_tabla_der"> 24</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_der">  6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">  Total créditos.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Distribución de los créditos de formación básica del plan de estudios por materias.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Rama de conocimiento</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignaturas vinculadas</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Curso</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="24%"/>
+        <col width="20%"/>
+        <col width="40%"/>
+        <col width="8%"/>
+        <col width="8%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Bases Histórico-Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos históricos de la organización del territorio.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Territorio y Sociedad.</td>
+          <td class="cuerpo_tabla_izq">Introducción a la economía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Bases Histórico- Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos jurídicos y sociales para la ordenación territorial y medioambiental.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Medio Natural.</td>
+          <td class="cuerpo_tabla_izq">Geomorfología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Medio Natural.</td>
+          <td class="cuerpo_tabla_izq">Climatología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Territorio y Sociedad.</td>
+          <td class="cuerpo_tabla_izq">Geografía humana: estructura y procesos territoriales I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Territorio y Sociedad.</td>
+          <td class="cuerpo_tabla_izq">Geografía humana: estructura y procesos territoriales II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Estructuras Regionales.</td>
+          <td class="cuerpo_tabla_izq">Grandes conjuntos regionales del mundo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Medio Natural.</td>
+          <td class="cuerpo_tabla_izq">Edafogeografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Estructuras Regionales.</td>
+          <td class="cuerpo_tabla_izq">Geografía de España: estructura y organización territorial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="3">  Total créditos.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">4. Contenido del plan de estudios.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Organización temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="15%"/>
+        <col width="25%"/>
+        <col width="25%"/>
+        <col width="8%"/>
+        <col width="8%"/>
+        <col width="8%"/>
+        <col width="11%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Bases histórico-jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos históricos de la organización del territorio.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Territorio y sociedad.</td>
+          <td class="cuerpo_tabla_izq">Geografía humana: estructuras y procesos territoriales I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Medio natural.</td>
+          <td class="cuerpo_tabla_izq">Geomorfología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Herramientas y técnicas.</td>
+          <td class="cuerpo_tabla_izq">Cartografía.</td>
+          <td class="cuerpo_tabla_izq">Cartografía general.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Pensamiento geográfico.</td>
+          <td class="cuerpo_tabla_izq">El pensamiento geográfico: evolución conceptual y metodológica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Estructuras regionales.</td>
+          <td class="cuerpo_tabla_izq">Grandes conjuntos regionales del mundo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Territorio y sociedad.</td>
+          <td class="cuerpo_tabla_izq">Geografía humana: estructuras y procesos territoriales II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Medio natural.</td>
+          <td class="cuerpo_tabla_izq">Climatología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Territorio y sociedad.</td>
+          <td class="cuerpo_tabla_izq">Introducción a la economía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Herramientas y técnicas.</td>
+          <td class="cuerpo_tabla_izq">Cartografía.</td>
+          <td class="cuerpo_tabla_izq">Cartografía temática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Bases histórico-jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos jurídicos y sociales para la ordenación territorial y medioambiental.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Medio natural.</td>
+          <td class="cuerpo_tabla_izq">Biogeografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Estructuras regionales.</td>
+          <td class="cuerpo_tabla_izq">Geografía de Europa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Territorio y sociedad.</td>
+          <td class="cuerpo_tabla_izq">Geografía de la población.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Medio natural.</td>
+          <td class="cuerpo_tabla_izq">Edafogeografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Estructuras regionales.</td>
+          <td class="cuerpo_tabla_izq">Geografía de España: estructura y organización territorial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aplicaciones.</td>
+          <td class="cuerpo_tabla_izq">Ordenación del medio físico y las estructuras socioeconómicas.</td>
+          <td class="cuerpo_tabla_izq">Geografía física aplicada a la ordenación del territorio I: el relieve y los seres vivos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Herramientas y técnicas.</td>
+          <td class="cuerpo_tabla_izq">Sistemas de información geográfica (SIG) y teledetección.</td>
+          <td class="cuerpo_tabla_izq">Sistemas de información geográfica.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Herramientas y técnicas.</td>
+          <td class="cuerpo_tabla_izq">Tratamiento de la información en Geografía.</td>
+          <td class="cuerpo_tabla_izq">Tratamiento de la información en Geografía.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Territorio y sociedad.</td>
+          <td class="cuerpo_tabla_izq">Geografía económica: procesos y territorios.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Medio natural.</td>
+          <td class="cuerpo_tabla_izq">Hidrogeografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aplicaciones.</td>
+          <td class="cuerpo_tabla_izq">Ordenación del medio físico y las estructuras socioeconómicas.</td>
+          <td class="cuerpo_tabla_izq">Políticas territoriales en las regiones españolas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Herramientas y técnicas.</td>
+          <td class="cuerpo_tabla_izq">Sistemas de información geográfica (SIG) y teledetección.</td>
+          <td class="cuerpo_tabla_izq">Teledetección.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td>Fundamentos</td>
+          <td>Estructuras regionales</td>
+          <td>Geografía de Aragón</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td>Semestre 2</td>
+        </tr>
+        <tr>
+          <td>Aplicaciones</td>
+          <td>Ordenación del medio físico y las estructuras socioeconómicas</td>
+          <td>Geografía física aplicada a la ordenación del territorio II: el clima y el agua</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td>Semestre 2</td>
+        </tr>
+        <tr>
+          <td>Fundamentos</td>
+          <td>Territorio y sociedad</td>
+          <td>Los espacios rurales: diversidad y estrategias para el desarrollo</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td>Semestre 2</td>
+        </tr>
+        <tr>
+          <td>Fundamentos</td>
+          <td>Territorio y sociedad</td>
+          <td>Los espacios urbanos: procesos y organización territorial</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td>Semestre 2</td>
+        </tr>
+        <tr>
+          <td> </td>
+          <td> </td>
+          <td>Optativa</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td>Semestre 2</td>
+        </tr>
+        <tr>
+          <td>Aplicaciones</td>
+          <td>Ordenación del medio físico y las estructuras socioeconómicas</td>
+          <td>Análisis integrado del medio natural</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td>Semestre 1</td>
+        </tr>
+        <tr>
+          <td>Aplicaciones</td>
+          <td>Ordenación del medio físico y las estructuras socioeconómicas</td>
+          <td>El paisaje en la ordenación del territorio</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td>Semestre 2</td>
+        </tr>
+        <tr>
+          <td>Fundamentos</td>
+          <td>Estructuras regionales</td>
+          <td>Geografía y medioambiente</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td>Semestre 1</td>
+        </tr>
+        <tr>
+          <td> </td>
+          <td> </td>
+          <td>Optativa</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td>Semestre 1</td>
+        </tr>
+        <tr>
+          <td>Fundamentos</td>
+          <td>Territorio y sociedad</td>
+          <td>Geografía social y cultural: procesos y patrones territoriales</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td>Semestre 1</td>
+        </tr>
+        <tr>
+          <td>Aplicaciones</td>
+          <td>Ordenación del medio físico y las estructuras socioeconómicas</td>
+          <td>Políticas y estrategias territoriales de la Unión Europea</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td>Semestre 2</td>
+        </tr>
+        <tr>
+          <td>Idioma moderno</td>
+          <td>Idioma moderno</td>
+          <td>Idioma moderno</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td>Semestre 2</td>
+        </tr>
+        <tr>
+          <td> </td>
+          <td> </td>
+          <td>Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td>Semestre 2</td>
+        </tr>
+        <tr>
+          <td>Aplicaciones</td>
+          <td>Ordenación del medio físico y las estructuras socioeconómicas</td>
+          <td>Ordenación del territorio: factores y escalas</td>
+          <td class="cuerpo_tabla_centro">10</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td>Anual</td>
+        </tr>
+        <tr>
+          <td>Trabajo fin de Grado, Prácticas externas</td>
+          <td>Trabajo fin de Grado</td>
+          <td>Trabajo fin de Grado</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Tfg</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td>Anual</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">5. Oferta de asignaturas optativas.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="8%"/>
+        <col width="18%"/>
+        <col width="33%"/>
+        <col width="33%"/>
+        <col width="8%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_izq">Aplicaciones.</td>
+          <td class="cuerpo_tabla_izq">Ordenación territorial del medio físico: profundización.</td>
+          <td class="cuerpo_tabla_izq">Análisis de riesgos naturales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_izq">Aplicaciones.</td>
+          <td class="cuerpo_tabla_izq">Ordenación territorial del medio físico: profundización.</td>
+          <td class="cuerpo_tabla_izq">Evaluación de impacto ambiental.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_izq">Aplicaciones.</td>
+          <td class="cuerpo_tabla_izq">Ordenación territorial del medio físico: profundización.</td>
+          <td class="cuerpo_tabla_izq">Métodos para la reconstrucción de paleoambientes.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_izq">Aplicaciones.</td>
+          <td class="cuerpo_tabla_izq">Ordenación territorial de las estructuras socio-económicas: profundización.</td>
+          <td class="cuerpo_tabla_izq">Geografía para el desarrollo y la cooperación territorial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_izq">Aplicaciones.</td>
+          <td class="cuerpo_tabla_izq">Ordenación territorial de las estructuras socio-económicas: profundización.</td>
+          <td class="cuerpo_tabla_izq">Geopolítica y globalización.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_izq">Aplicaciones.</td>
+          <td class="cuerpo_tabla_izq">Ordenación territorial de las estructuras socio-económicas: profundización.</td>
+          <td class="cuerpo_tabla_izq">Infraestructuras y servicios en la articulación del territorio.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_izq">Aplicaciones.</td>
+          <td class="cuerpo_tabla_izq">Ordenación territorial de las estructuras socio-económicas: profundización.</td>
+          <td class="cuerpo_tabla_izq">Turismo y territorio.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_izq">Aplicaciones.</td>
+          <td class="cuerpo_tabla_izq">Ordenación territorial de las estructuras socio-económicas: profundización.</td>
+          <td class="cuerpo_tabla_izq">El tejido industrial en la ordenación territorial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_izq">Aplicaciones.</td>
+          <td class="cuerpo_tabla_izq">Ordenación territorial del medio físico: profundización.</td>
+          <td class="cuerpo_tabla_izq">Aplicación de la geografía a la educación ambiental.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Grado, Prácticas externas.</td>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

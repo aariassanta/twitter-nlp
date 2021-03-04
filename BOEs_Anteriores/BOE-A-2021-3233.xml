@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210301092601">
+  <metadatos>
+    <identificador>BOE-A-2021-3233</identificador>
+    <titulo>Resolución de 11 de febrero de 2021, de la Universidad de Zaragoza, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Historia del Arte.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>51</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210211</fecha_disposicion>
+    <fecha_publicacion>20210301</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>24544</pagina_inicial>
+    <pagina_final>24546</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/01/pdfs/BOE-A-2021-3233.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="4017" orden="">Historia del Arte</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7058" orden="">Universidad de Zaragoza</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>los arts. 26 y 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en los artículos 26 y 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, por los que se establece el procedimiento para la modificación de planes de estudios ya verificados y una vez recibido informe favorable de la Agencia de Calidad y Prospectiva Universitaria de Aragón a las modificaciones presentadas del plan de estudios de Graduado o Graduada en Historia del Arte por la Universidad de Zaragoza.</p>
+    <p class="parrafo">Este Rectorado ha resuelto ordenar la publicación de la modificación del plan de estudios de Graduado o Graduada en Historia del Arte por la Universidad de Zaragoza que queda estructurado según consta en el Anexo a esta Resolución.</p>
+    <p class="parrafo_2">Zaragoza, 11 de febrero de 2021.–El Rector, José Antonio Mayoral Murillo.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente a la obtención del título de Graduado o Graduada en Historia del Arte por la Universidad de Zaragoza</p>
+    <p class="centro_cursiva">Estructura de las enseñanzas</p>
+    <p class="centro_redonda">(Real Decreto 1393/2007, Anexo I, apartado 5.1)</p>
+    <p class="parrafo_2">1. Rama de conocimiento a la que se adscribe el título: Artes y Humanidades</p>
+    <p class="parrafo">2. Distribución del plan de estudios en créditos ECTS, por tipo de materia.</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla"> Créditos ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (Fb).</td>
+          <td class="cuerpo_tabla_der"> 60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (Ob).</td>
+          <td class="cuerpo_tabla_der">135</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (Op).</td>
+          <td class="cuerpo_tabla_der"> 39</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_der">–</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_der">  6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total créditos.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Distribución de los créditos de formación básica del plan de estudios por materias.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Rama de conocimiento</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Materia RD 1393/2007</p>
+            <p class="cabeza_tabla">de 29 de octubre</p>
+          </th>
+          <th class="cabeza_tabla">Asignaturas vinculadas</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Curso</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="26%"/>
+        <col width="28%"/>
+        <col width="30%"/>
+        <col width="7%"/>
+        <col width="9%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Artes y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_izq">Historia Universal.</td>
+          <td class="cuerpo_tabla_centro"> 9</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Artes y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Arte.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Técnicas Artísticas.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2"> 6</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Artes y Humanidades.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Arte.</td>
+          <td class="cuerpo_tabla_izq">Teoría del Arte y Metodologías.</td>
+          <td class="cuerpo_tabla_centro"> 9</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Arte de la Antigüedad.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Artes y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Filosofía.</td>
+          <td class="cuerpo_tabla_izq">Pensamiento y Estética.</td>
+          <td class="cuerpo_tabla_centro"> 6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Artes y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Arte.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Historia de la Música.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2"> 9</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Artes y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Arte.</td>
+          <td class="cuerpo_tabla_izq">Iconografía.</td>
+          <td class="cuerpo_tabla_centro"> 9</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="3"> Total créditos.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">4. Contenido del plan de estudios.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Organización temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="25%"/>
+        <col width="43%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+        <col width="18%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 3.</td>
+          <td class="cuerpo_tabla_izq">Arte de la antigüedad</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 1.</td>
+          <td class="cuerpo_tabla_izq">Historia universal</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 2.</td>
+          <td class="cuerpo_tabla_izq">Teoría del arte y metodologías</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 3.</td>
+          <td class="cuerpo_tabla_izq">Arte desde la antigüedad tardía hasta el año 1000</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 2.</td>
+          <td class="cuerpo_tabla_izq">Técnicas artísticas</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 1.</td>
+          <td class="cuerpo_tabla_izq">Pensamiento y estética</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 3.</td>
+          <td class="cuerpo_tabla_izq">Arte de la época del Románico</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 3.</td>
+          <td class="cuerpo_tabla_izq">Arte de la época del Gótico</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 2.</td>
+          <td class="cuerpo_tabla_izq">Iconografía</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 3.</td>
+          <td class="cuerpo_tabla_izq">Arte del Renacimiento</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 4.</td>
+          <td class="cuerpo_tabla_izq">Arte Americano: Precolombino e Hispánico</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 1.</td>
+          <td class="cuerpo_tabla_izq">Historia de la música</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 6.</td>
+          <td class="cuerpo_tabla_izq">Conservación y restauración del patrimonio artístico</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 3.</td>
+          <td class="cuerpo_tabla_izq">Arte Barroco y de la Ilustración</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 4.</td>
+          <td class="cuerpo_tabla_izq">Arte Islámico</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 3.</td>
+          <td class="cuerpo_tabla_izq">Arte del siglo XIX</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 6.</td>
+          <td class="cuerpo_tabla_izq">Museología y museografía</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 3.</td>
+          <td class="cuerpo_tabla_izq">Arte del siglo XX y últimas tendencias</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 3.</td>
+          <td class="cuerpo_tabla_izq">Cine y otros medios audiovisuales</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 4.</td>
+          <td class="cuerpo_tabla_izq">Arte de Asia Oriental</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Asignaturas optativas</td>
+          <td class="cuerpo_tabla_centro">18</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 1/2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 5.</td>
+          <td class="cuerpo_tabla_izq">Arte antiguo y medieval en la Península Ibérica</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 5.</td>
+          <td class="cuerpo_tabla_izq">Arte español de la Edad Moderna</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 5.</td>
+          <td class="cuerpo_tabla_izq">Arte español de la Edad Contemporánea</td>
+          <td class="cuerpo_tabla_centro">7</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 6.</td>
+          <td class="cuerpo_tabla_izq">Mercado de arte, catalogación y gestión de colecciones</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Asignaturas optativas</td>
+          <td class="cuerpo_tabla_centro">21</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestre 1/2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 7.</td>
+          <td class="cuerpo_tabla_izq">Idioma moderno B1 (Inglés, Francés, Alemán, Italiano)</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Tfg</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Módulo 1: Formación básica de carácter humanístico.</p>
+    <p class="parrafo">Módulo 2: Bases para el conocimiento e interpretación de la obra artística.</p>
+    <p class="parrafo">Módulo 3: Historia general del Arte.</p>
+    <p class="parrafo">Módulo 4: Arte de otros ámbitos culturales.</p>
+    <p class="parrafo">Módulo 5: Historia del Arte Español.</p>
+    <p class="parrafo">Módulo 6: Introducción a la práctica profesional del historiador del arte: asesoramiento en la conservación, gestión, tutela del patrimonio histórico-artístico y exposición y difusión de la obra del arte.</p>
+    <p class="parrafo">Módulo 7: Idioma moderno B1: Inglés, Francés, Alemán o Italiano.</p>
+    <p class="parrafo_2">5. Oferta de asignaturas optativas.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla" colspan="2">Duración</th>
+          <th class="cabeza_tabla">Materia/Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="15%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+        <col width="55%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td rowspan="6">Módulo A.</td>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td>Literatura y arte.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td>Artes decorativas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td>Arte gráfico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td>Teoría e historia del urbanismo.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td>Arte y cultura de masas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td>Historia de la fotografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Módulo B.</td>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td>Arte de África.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td>Arte Iberoamericano contemporáneo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Módulo C.</td>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td>Arte aragonés.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td>Arte mudéjar.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="3">Módulo D.</td>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td>Música en la sociedad actual.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td>Géneros audiovisuales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3.º/4.º</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td>Cine español.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Módulo E.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td>Instrumentos para el ejercicio profesional del historiador del arte.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">A</td>
+          <td>Prácticas externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Módulo A: Historia general del arte: Estudios de facetas específicas.</p>
+    <p class="parrafo">Módulo B: Arte de otros ámbitos culturales.</p>
+    <p class="parrafo">Módulo C: Arte de ámbitos territoriales locales.</p>
+    <p class="parrafo">Módulo D: Música, cine y otros lenguajes audiovisuales.</p>
+    <p class="parrafo">Módulo E: Introducción al ejercicio profesional del historiador del arte.</p>
+  </texto>
+</documento>

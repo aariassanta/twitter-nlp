@@ -39,22 +39,16 @@ today = date.today()
 
 # dd/mm/YYYY
 hoy = today.strftime("%Y%m%d")
-print("Fecha de Hoy =", hoy)
+print("Fecha de Hoy =", today.strftime("%d/%m/%Y"))
 
 # dd
 d = today.strftime("%d")
-print("dia =", d)
 
 # mm
 m = today.strftime("%m")
-print("mes =", m)
 
 # YYYY
 Y = today.strftime("%Y")
-print("año =", Y)
-
-print(today.strftime("%d/%m/%Y"))
-
 
 URL_XML_resumen =  "https://www.boe.es/diario_boe/xml.php?id=BOE-S-" + str(hoy)
 
@@ -62,6 +56,8 @@ URL_XML_resumen =  "https://www.boe.es/diario_boe/xml.php?id=BOE-S-" + str(hoy)
 
 url = URL_XML_resumen
 r = requests.get(url)
+
+print('Accediendo a página del boletín')
 
 def save_html(html, path):
     with open(path, 'wb') as f:
@@ -78,18 +74,13 @@ raiz_sumario = raiz
 seccion = raiz.findall("sumario/diario/seccion")
 #seccion
 
-for seccion in raiz.xpath('//seccion'):
-    nombre_seccion = seccion.xpath('@nombre')
-    print(nombre_seccion)
+#for seccion in raiz.xpath('//seccion'):
+#    nombre_seccion = seccion.xpath('@nombre')
+#    print(nombre_seccion)
 
-
-secciones = raiz.findall("sumario/diario/seccion")
-for seccion in secciones:
-    print(seccion.text)
-
+print('Accediendo a página resumen de disposiciones')
 
 tabla_resumen = pd.DataFrame()
-
 
 # Busca en Secciones I y III
 for seccion in raiz.xpath('//seccion[contains(@nombre, "I. Disposiciones generales") or contains(@nombre, "III. Otras disposiciones")]'):
@@ -124,8 +115,8 @@ for item_URL in tabla_resumen['Item_URL_XML']:
     r = requests.get(item_URL)
     #f = './BOEs/' + item_URL[-16:] + '.xml'
     ### Separa el número del BOE del resto de la cadena y aplica expresión REGEX 
-    print(item_URL.split('='))
-    print(re.match('BOE\-A\-[0-9]+\-[0-9]+',item_URL.split('=')[1]))
+    #print(item_URL.split('='))
+    #print(re.match('BOE\-A\-[0-9]+\-[0-9]+',item_URL.split('=')[1]))
     filename = re.match('BOE\-A\-[0-9]+\-[0-9]+',item_URL.split('=')[1]).group()
     f = './BOEs/' + filename + '.xml'
     save_html(r.content, f)
@@ -134,11 +125,13 @@ for item_URL in tabla_resumen['Item_URL_XML']:
 
 import glob
 BOEs = glob.glob('./BOEs/BOE*.xml')
-print (BOEs)
+#print (BOEs)
 
 # # Genera DF con datos Análisis de cada XML
 
 tabla_analisis = pd.DataFrame()
+
+print('Accediendo a página detalle de disposiciones')
 
 for BOE in BOEs:
     #print (BOE)
@@ -171,6 +164,8 @@ for BOE in BOEs:
 
 tabla_analisis.sort_values('Item_id')
 
+print('Generando Tags de patrones encontrados en disposiciones')
+
 # Crea nueva columna vacía de tipo lista en tabla_analisis
 tabla_analisis['Referencias_completas'] = [[] for i in range(len(tabla_analisis))]
 tabla_analisis['Tags'] = [[] for i in range(len(tabla_analisis))]
@@ -184,12 +179,12 @@ for i, row in tabla_analisis.iterrows():
     for item_list in range(len(row['Referencias'])): 
         row['Referencias_completas'].append(row['Referencias_palabra'][item_list] + ' ' + row['Referencias_texto'][item_list])
         tabla_analisis['Tags'][i] = re.findall('|'.join(pattern), str(row['Referencias_texto']), flags=re.IGNORECASE)
-    print(row['Referencias_completas'])
+    #print(row['Referencias_completas'])
 
 # Elimina Tags duplicados
 for i, row in tabla_analisis.iterrows():
     tabla_analisis['Tags'][i] = list(set(tabla_analisis['Tags'][i]))
-    print(tabla_analisis['Tags'][i])
+    #print(tabla_analisis['Tags'][i])
 
 #tabla_analisis
 
@@ -197,30 +192,32 @@ texto = ''
 for refs in tabla_analisis['Referencias_completas']:
     for ref in refs:
         texto = texto + ref + ' '
-        print(ref)
+        #print(ref)
 
 
 texto = ''
 for i, row in tabla_analisis.iterrows():
     #unique_id = i
-    print('\n' + str(row['Item_id']) + str(row['Item_Name']) +'\n')
+    #print('\n' + str(row['Item_id']) + str(row['Item_Name']) +'\n')
 
     antecedente = 1
     for ref in row['Referencias_completas']:
         texto = texto + ref + ' '
-        print('\t' + 'Antecedente ' + str(antecedente) + ': ' + ref + ' ' + str(re.findall('|'.join(pattern), ref, flags=re.IGNORECASE)))
+        #print('\t' + 'Antecedente ' + str(antecedente) + ': ' + ref + ' ' + str(re.findall('|'.join(pattern), ref, flags=re.IGNORECASE)))
         antecedente += 1
 
 
 # Aplica expresiones REGEX para búsqueda de leyes, decretos, etc. referenciadas anteriormente
 regex_result = re.findall('|'.join(pattern), texto, flags=re.IGNORECASE)
 
-print(regex_result)
+#print(regex_result)
 
 ## Elimina duplicados
 boletin_flat_list = list(set(regex_result))
 
 #boletin_flat_list
+
+print('Generando Tags de patrones encontrados en BBDD ASECORP')
 
 # ## Importa BBDD ASECORP
 
@@ -238,17 +235,18 @@ boletin_ASECORP_flat_list, ASECORP_BBDD_BOE, ambitos = tagea_BBDD_ASECORP(['Espa
 set(boletin_flat_list) & set(boletin_ASECORP_flat_list)
 
 #tabla_analisis['Tags'].isin(ASECORP_BBDD_BOE['Tags'])
-for row_to_compare in tabla_analisis['Tags']:
-    for row_comparing in ASECORP_BBDD_BOE['Tags']:
-        if set(row_comparing) & set(row_to_compare):
-            print(set(row_comparing) & set(row_to_compare))
+#for row_to_compare in tabla_analisis['Tags']:
+#    for row_comparing in ASECORP_BBDD_BOE['Tags']:
+#        if set(row_comparing) & set(row_to_compare):
+#            print(set(row_comparing) & set(row_to_compare))
 
+print('Realizando Matching entre Tags encontrados en disposiciones y en BBDD ASECORP')
 
 for i, row_to_compare in tabla_analisis.iterrows():
     for j, row_comparing in ASECORP_BBDD_BOE.iterrows():
         if set(row_to_compare['Tags']) & set(row_comparing['Tags']):
             tabla_analisis['Match_ASECORP_BBDD'][i].append (ASECORP_BBDD_BOE['Codigo'][j])
-            print(str(set(row_to_compare['Tags']) & set(row_comparing['Tags'])) + ' ' + str(row_comparing['Codigo']))
+            #print(str(set(row_to_compare['Tags']) & set(row_comparing['Tags'])) + ' ' + str(row_comparing['Codigo']))
 
 
 # # Genera Fichero EXCEL de resultados
@@ -266,5 +264,7 @@ tabla_analisis_final_CSV = tabla_analisis_final
 
 # Compone y genera enlace a PDF del BOE correspondiente
 tabla_analisis_final_CSV['Item_id'] = '=HIPERVINCULO(' + '"https://www.boe.es/boe/dias/' + tabla_analisis_final_CSV['Fecha_publicacion'].map(lambda x: x.strftime('%Y')) + '/'                                                        + tabla_analisis_final_CSV['Fecha_publicacion'].map(lambda x: x.strftime('%m')) + '/'                                                        + tabla_analisis_final_CSV['Fecha_publicacion'].map(lambda x: x.strftime('%d')) + '/'                                                        + 'pdfs/'                                                        + tabla_analisis_final_CSV['Item_id'] + '.pdf";'                                                        + '"' + tabla_analisis_final_CSV['Item_id'] + '")'
+
+print('Guardando resultados en fichero')
 
 tabla_analisis_final_CSV.to_csv("./ASECORP/Resultados_Matching_BOE_" + today.strftime("%Y%m%d") + ".csv", index=False) 

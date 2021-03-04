@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210301085601">
+  <metadatos>
+    <identificador>BOE-A-2021-3235</identificador>
+    <titulo>Resolución de 11 de febrero de 2021, de la Universidad de Zaragoza, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Relaciones Laborales y Recursos Humanos.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>51</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210211</fecha_disposicion>
+    <fecha_publicacion>20210301</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>24551</pagina_inicial>
+    <pagina_final>24554</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/01/pdfs/BOE-A-2021-3235.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="6047" orden="">Relaciones Laborales</materia>
+      <materia codigo="7058" orden="">Universidad de Zaragoza</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en los artículos 26 y 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, por los que se establece el procedimiento para la modificación de planes de estudios ya verificados y una vez recibido informe favorable de la Agencia de Calidad y Prospectiva Universitaria de Aragón a las modificaciones presentadas del plan de estudios de Graduado o Graduada en Relaciones Laborales y Recursos Humanos por la Universidad de Zaragoza,</p>
+    <p class="parrafo">Este Rectorado ha resuelto ordenar la publicación de la modificación del plan de estudios de Graduado o Graduada en Relaciones Laborales y Recursos Humanos por la Universidad de Zaragoza que queda estructurado según consta en el Anexo a esta Resolución.</p>
+    <p class="parrafo_2">Zaragoza, 11 de febrero de 2021.–El Rector, José Antonio Mayoral Murillo.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente a la obtención del título de Graduado o Graduada en Relaciones Laborales y Recursos Humanos por la Universidad de Zaragoza</p>
+    <p class="centro_cursiva">Estructura de las enseñanzas</p>
+    <p class="centro_redonda">(Real Decreto 1393/2007, Anexo I, apartado 5.1)</p>
+    <p class="parrafo_2">1. Rama de conocimiento a la que se adscribe el título: Ciencias Sociales y Jurídicas.</p>
+    <p class="parrafo">2. Distribución del plan de estudios en créditos ECTS, por tipo de materia.</p>
+    <table class="tabla">
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (Fb).</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (Ob).</td>
+          <td class="cuerpo_tabla_der"> 128</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (Op).</td>
+          <td class="cuerpo_tabla_der"> 33</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_der">13</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total créditos.</td>
+          <td class="cuerpo_tabla_der"> 240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Distribución de los créditos de formación básica del plan de estudios por materias.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Rama de conocimiento</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Materia RD 1393/2007,</p>
+            <p class="cabeza_tabla">de 29 de octubre</p>
+          </th>
+          <th class="cabeza_tabla">Asignaturas vinculadas</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Curso</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="28%"/>
+        <col width="22%"/>
+        <col width="36%"/>
+        <col width="7%"/>
+        <col width="7%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Psicología.</td>
+          <td class="cuerpo_tabla_izq">Psicología del Trabajo y de las Organizaciones.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Empresa.</td>
+          <td class="cuerpo_tabla_izq">Organización de Empresas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Sociología.</td>
+          <td class="cuerpo_tabla_izq">Sociología del Trabajo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_izq">Historia Social y de las Relaciones Laborales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Derecho.</td>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Administrativo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Derecho.</td>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Civil.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Economía.</td>
+          <td class="cuerpo_tabla_izq">Economía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Empresa.</td>
+          <td class="cuerpo_tabla_izq">Dirección Estratégica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Derecho.</td>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho de la Empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="3"> Total créditos.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">4. Contenido del plan de estudios.</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="25%"/>
+        <col width="14%"/>
+        <col width="30%"/>
+        <col width="7%"/>
+        <col width="7%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Organización</p>
+            <p class="cabeza_tabla">temporal</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del trabajo y técnicas de negociación.</td>
+          <td class="cuerpo_tabla_izq">Psicología.</td>
+          <td class="cuerpo_tabla_izq">Psicología del trabajo y de las organizaciones.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización del trabajo, dirección y gestión de recursos humanos.</td>
+          <td class="cuerpo_tabla_izq">Empresa.</td>
+          <td class="cuerpo_tabla_izq">Organización de empresas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociología del trabajo y técnicas de investigación social.</td>
+          <td class="cuerpo_tabla_izq">Sociología.</td>
+          <td class="cuerpo_tabla_izq">Sociología del trabajo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia social y de las relaciones laborales.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_izq">Historia social y de las relaciones laborales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos jurídicos básicos.</td>
+          <td class="cuerpo_tabla_izq">Derecho.</td>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Civil.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos jurídicos básicos.</td>
+          <td class="cuerpo_tabla_izq">Derecho.</td>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Administrativo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Economía y mercado de trabajo.</td>
+          <td class="cuerpo_tabla_izq">Economía.</td>
+          <td class="cuerpo_tabla_izq">Economía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización del trabajo, dirección y gestión de recursos humanos.</td>
+          <td class="cuerpo_tabla_izq">Empresa.</td>
+          <td class="cuerpo_tabla_izq">Dirección estratégica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociología del trabajo y técnicas de investigación social.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Métodos y técnicas de investigación social.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marco normativo de las relaciones laborales y de la seguridad social.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Derecho del trabajo I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marco normativo de las relaciones laborales y de la seguridad social.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Derecho del trabajo II.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociología del trabajo y técnicas de investigación social.</td>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos jurídicos básicos.</td>
+          <td class="cuerpo_tabla_izq">Derecho.</td>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho de la Empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Fb</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Economía y mercado de trabajo.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Economía del trabajo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Contabilidad.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Contabilidad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marco normativo de las relaciones laborales y de la seguridad social.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Seguridad Social I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización del trabajo, dirección y gestión de recursos humanos.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Métodos del trabajo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teoría y Sistemas de Relaciones Laborales.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Teoría y sistemas de las relaciones laborales I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marco normativo de las relaciones laborales y de la seguridad social.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Seguridad Social II.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marco normativo de las relaciones laborales y de la seguridad social.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Derecho colectivo del trabajo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización del trabajo, dirección y gestión de recursos humanos.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Dirección y gestión de recursos humanos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del trabajo y técnicas de negociación.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Gestión del conflicto y técnicas de negociación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Políticas sociolaborales.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Políticas sociolaborales I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Políticas sociolaborales.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Políticas sociolaborales II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización del trabajo, dirección y gestión de recursos humanos.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Gestión de recursos humanos: Captación, selección y desarrollo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teoría y Sistemas de Relaciones Laborales.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Teoría y sistemas de las relaciones laborales II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Salud laboral y prevención de riesgos laborales.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Salud laboral y marco normativo de la prevención de riesgos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_centro">13</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Idioma moderno B1.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Idioma moderno B1 (alemán, inglés, francés, italiano).</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marco normativo de las relaciones laborales y de la seguridad social.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Derecho procesal laboral.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización del trabajo, dirección y gestión de recursos humanos.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Auditoría sociolaboral.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Salud laboral y prevención de riesgos laborales.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Gestión de la prevención de riesgos laborales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">semestre 1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Tfg</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">semestre 2</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">5. Oferta de asignaturas optativas.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Curso</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="80%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnologías aplicadas a la gestión de la información.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés específico para relaciones laborales y recursos humanos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Francés específico para relaciones laborales y recursos humanos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho financiero y tributario.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Práctica del procedimiento administrativo y procesal laboral.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis contable.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Práctica de contratación laboral.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Creación de empresas.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la responsabilidad social corporativa en la empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación y desarrollo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estudios sociales de la organización.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Protección social complementaria.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de retribuciones.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estructura económica de España.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Empleo público: el personal al servicio de las administraciones públicas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Régimen jurídico de las organizaciones de economía social.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Relaciones de empleo y desigualdad social.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho del empleo.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>
