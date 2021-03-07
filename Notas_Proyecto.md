@@ -80,7 +80,7 @@ Este boletín, es el más complejo de analizar con diferencia, y básicamente po
 1. La información no se puede extraer de manera convencional porque son páginas web que se sirven con un JS script, lo que complica su captura.
 2. El formato de entrega de la información es un PDF, que de nuevo complica el acceso y manejo del detalle necesario para realizar el análisis.
 
-En cualquier caso, gestionada la complejidad de la captura de la información, el análisis lo hemos reaizado sobre todas las secciones disponibles en el boletín, y para una fase posterior del proyecto quizás se debería evalaur la posibilidad de eliminar algunas de ellas.
+En cualquier caso, gestionada la complejidad de la captura de la información, el análisis lo hemos realizado sobre todas las secciones disponibles en el boletín, y para una fase posterior del proyecto quizás se debería evaluar la posibilidad de eliminar algunas de ellas.
 
 En la captura de la tabla resultante mostrada a continuación, se observa que las coincidencias, como en los boletines anteriores, se entrega en la columna **Match_ASECORP_BBDD**.
 
@@ -90,7 +90,7 @@ Un hecho importante a considerar, es que las correspondencias de un boletín se 
 
 ## Análisis de la BBDD de ASECORP
 
-A continuación se presenta el ranking por Ámbito territorial de los registors incluídos en la BBDD. De la información resultante se observa que los boletines más interesantes para atacar al principio serían el DOGC, el BOE, y el DOUE respectivamente.
+A continuación se presenta el ranking por Ámbito territorial de los registros incluídos en la BBDD. De la información resultante se observa que los boletines más interesantes para atacar al principio serían el DOGC, el BOE, y el DOUE respectivamente.
 
 | Ambito             |   Registros |
 |:-------------------|---------:|

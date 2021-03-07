@@ -209,8 +209,7 @@ print('Generando Tags de patrones encontrados en disposiciones')
 DOCM_sumarios['Tags'] = [[] for i in range(len(DOCM_sumarios))]
 DOCM_sumarios['Match_ASECORP_BBDD'] = [[] for i in range(len(DOCM_sumarios))]
 
-
-pattern = ['Ley [0-9]+\/[0-9]+','Real Decreto [0-9]+\/[0-9]+','Real Decreto Legislativo [0-9]+\/[0-9]+','Real Decreto-ley [0-9]+\/[0-9]+','Orden [A-Z]+\/[0-9]+\/[0-9]+','Orden Circular [0-9]+\/[0-9]+','Reglamento \(UE\) [0-9]+\/[0-9]+', 'Reglamento de Ejeución \(UE\) [0-9]+\/[0-9]+' ,'Sentencia de [0-9]+ de [a-z]+ de [0-9]+','Sentencia [0-9]+\/[0-9]+','Orden de [0-9]+ de [a-z]+ de [0-9]+', 'Resolución de [0-9]+ de [a-z]+ de [0-9]+','Resolución [a-z]+\/[0-9]+\/[0-9]+', 'Nota de Servicio [0-9]+\/[0-9]+', 'Acuerdo multilateral M\-[0-9]+', 'Circular [0-9]+\/[0-9]+', 'Decisión \(UE\) [0-9]+\/[0-9]+', 'Decisión de Ejecución \(UE\) [0-9]+\/[0-9]+']
+pattern = ['Ley [0-9]+\/[0-9]+','Ley Orgánica [0-9]+\/[0-9]+','Decreto [0-9]+\/[0-9]+','Real Decreto [0-9]+\/[0-9]+','Real Decreto Legislativo [0-9]+\/[0-9]+','Real Decreto-ley [0-9]+\/[0-9]+','Orden [A-Z]+\/[0-9]+\/[0-9]+','Orden Circular [0-9]+\/[0-9]+','Reglamento \(UE\) [0-9]+\/[0-9]+', 'Reglamento de Ejeución \(UE\) [0-9]+\/[0-9]+' ,'Sentencia de [0-9]+ de [a-z]+ de [0-9]+','Sentencia [0-9]+\/[0-9]+','Orden de [0-9]+ de [a-z]+ de [0-9]+', 'Resolución de [0-9]+ de [a-z]+ de [0-9]+','Resolución [a-z]+\/[0-9]+\/[0-9]+', 'Nota de Servicio [0-9]+\/[0-9]+', 'Acuerdo multilateral M\-[0-9]+', 'Acuerdo Multilateral RID [0-9]+\/[0-9]+', 'Circular [0-9]+\/[0-9]+', 'Decisión \(UE\) [0-9]+\/[0-9]+', 'Decisión de Ejecución \(UE\) [0-9]+\/[0-9]+', 'Instrucción IS\-[0-9]+']
 
 for i, row in DOCM_sumarios.iterrows():
     r = requests.get(row['item_urlPDF'])

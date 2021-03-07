@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210305092601">
+  <metadatos>
+    <identificador>BOE-A-2021-3417</identificador>
+    <titulo>Real Decreto 94/2021, de 16 de febrero, por el que se modifica el Real Decreto 92/2018, de 2 de marzo, por el que se regula el régimen de los organismos pagadores y de coordinación con los fondos europeos agrícolas, FEAGA y FEADER.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>55</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="3120">Ministerio de Agricultura, Pesca y Alimentación</departamento>
+    <rango codigo="1340">Real Decreto</rango>
+    <numero_oficial>94/2021</numero_oficial>
+    <fecha_disposicion>20210216</fecha_disposicion>
+    <fecha_publicacion>20210305</fecha_publicacion>
+    <fecha_vigencia>20210306</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>25929</pagina_inicial>
+    <pagina_final>25930</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-3417</url_epub>
+    <url_pdf>/boe/dias/2021/03/05/pdfs/BOE-A-2021-3417.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/rd/2021/02/16/94</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/2021/02/16/94">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-3417</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-16</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">94</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/2021/02/16/94/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-3417</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-16</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">94</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/rd/2021/02/16/94"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/rd/2021/02/16/94/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real Decreto 94/2021, de 16 de febrero, por el que se modifica el Real Decreto 92/2018, de 2 de marzo, por el que se regula el régimen de los organismos pagadores y de coordinación con los fondos europeos agrícolas, FEAGA y FEADER.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-03-05</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/rd/2021/02/16/94/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/2021/02/16/94/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/2021/02/16/94/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/2021/02/16/94/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/2021/02/16/94/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/2021/02/16/94/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/2021/02/16/94/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/2021/02/16/94/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/2021/02/16/94/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="420" orden="">Ayudas</materia>
+      <materia codigo="1320" orden="">Comunidades Autónomas</materia>
+      <materia codigo="3239" orden="">Entidades financieras</materia>
+      <materia codigo="3712" orden="">Financiación comunitaria</materia>
+      <materia codigo="8362" orden="">Fondo Europeo Agrícola de Garantía</materia>
+      <materia codigo="3768" orden="">Fondo Europeo de Desarrollo Regional</materia>
+      <materia codigo="4505" orden="">Intereses</materia>
+      <materia codigo="5257" orden="">Ordenación de gastos y pagos</materia>
+      <materia codigo="5641" orden="">Política Agrícola Común</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="101" orden="">Agricultura</alerta>
+      <alerta codigo="117" orden="">Ganadería y animales</alerta>
+      <alerta codigo="127" orden="">Sistema financiero</alerta>
+      <alerta codigo="134" orden="">Unión Europea</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2018-4001" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 10.3 del Real Decreto 92/2018, de 2 de marzo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2002-800" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Estatuto aprobado por Real Decreto 1441/2001, de 21 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El Real Decreto 92/2018, de 2 de marzo, por el que se regula el régimen de los organismos pagadores y de coordinación con los fondos europeos agrícolas, FEAGA y FEADER, estableció el régimen jurídico de los organismos pagadores de los gastos financiados con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y del organismo de coordinación, así como los mecanismos para hacer efectiva la coordinación.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El Fondo Español de Garantía Agraria, O.A., tal y como se recoge en su Estatuto, aprobado por Real Decreto 1441/2001, de 21 de diciembre, tiene atribuidas, entre otras funciones, actuar como interlocutor único ante la Comisión Europea para aquellas cuestiones relativas a la financiación de la Política Agrícola Común y la coordinación financiera del sistema de prefinanciación nacional de los gastos de los fondos europeos agrícolas y del proceso de liquidación de cuentas de los mismos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Durante las seis campañas de aplicación de la última reforma de la Política Agrícola Común (PAC), la normativa nacional se ha ido adecuando de manera sucesiva a las modificaciones de la normativa de la Unión Europea, al tiempo que se incorporaban cambios derivados de la experiencia adquirida en la gestión de estos fondos para dotar al sistema de ayudas de una mayor simplicidad, eficacia y eficiencia.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En línea con estos objetivos e iniciativas, se ha detectado que los procedimientos relacionados con los mecanismos necesarios para atender a la prefinanciación nacional de los pagos con cargo al FEAGA y al FEADER pueden ser mejorados.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Así, actualmente, las cuentas únicas y específicas abiertas por los organismos pagadores de las comunidades autónomas utilizadas para el pago de las ayudas de la PAC llevan varios años en los que, por la coyuntura económica y bancaria, no generan apenas intereses.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Consecuentemente, la preparación de expedientes trimestrales para liquidar al Tesoro Público cantidades muy pequeñas supone un coste desproporcionado, tanto para las entidades financieras como para los organismos pagadores y el propio coordinador de los organismos pagadores, y también para la Intervención Delegada de la Intervención General de la Administración del Estado que debe fiscalizar cada trimestre importes de céntimos de euros, en algunos casos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Por tanto, la tramitación de este procedimiento cada trimestre supone una disminución de eficacia en la gestión de los recursos, dado que, en ocasiones, el coste de su gestión administrativa supera los intereses devengados en el mismo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Por ello, al objeto de dotar de mayor simplicidad y eficiencia, y ahorrar costes a la Administración y al sector financiero, siempre sin poner en riesgo la liquidación de los intereses, se precisa modificar el apartado 3 del artículo 10 del Real Decreto 92/2018, de 2 de marzo, ampliando a una periodicidad anual la liquidación de los intereses devengados por la cuenta de los fondos anticipados a los organismos pagadores de las comunidades autónomas en el marco de prefinanciación nacional de los pagos con cargo a esos fondos..</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En la elaboración de esta norma se han observado los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Así, de acuerdo con los principios de necesidad y eficacia, se justifica el proyecto en la necesidad de implementar un ajuste que mejore la coordinación financiera del sistema de prefinanciación nacional de los gastos de los fondos europeos agrícolas y del proceso de liquidación de cuentas de los mismos. Se cumple el principio de proporcionalidad y la regulación se limita al mínimo imprescindible para cumplir con dicha normativa. El principio de seguridad jurídica se garantiza al establecerse en una disposición general las nuevas previsiones en coherencia con el resto del ordenamiento jurídico. Asimismo, en aplicación del principio de transparencia han sido consultadas durante la tramitación de la norma las comunidades autónomas, y se ha sustanciado el trámite de audiencia e información pública. Finalmente, el principio de eficiencia se considera cumplido toda vez que no se imponen nuevas cargas administrativas frente a la regulación actual.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 16 de febrero de 2021,</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="centro_redonda">DISPONGO:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo único. Modificación del Real Decreto 92/2018, de 2 de marzo, por el que se regula el régimen de los organismos pagadores y de coordinación con los fondos europeos agrícolas, FEAGA y FEADER.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El apartado 3 del artículo 10 del Real Decreto 92/2018, de 2 de marzo, por el que se regula el régimen de los organismos pagadores y de coordinación con los fondos europeos agrícolas, FEAGA y FEADER, queda redactado de la siguiente manera:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«3. Los fondos anticipados a los organismos pagadores de las comunidades autónomas se ingresarán en una cuenta única y específica para cada fondo. Dicha cuenta devengará intereses en las condiciones normales de mercado. Los intereses devengados por esta cuenta se liquidarán al Tesoro Público anualmente, a través del organismo de coordinación, que incluirá los intereses devengados desde el uno de enero al treinta y uno de diciembre del año natural».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición final única. Entrada en vigor.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», surtiendo efectos desde el 1 de enero de 2021.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">Dado en Madrid, el 16 de febrero de 2021.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="firma_rey">FELIPE R.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="firma_ministro">El Ministro de Agricultura, Pesca y Alimentación,</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="firma_ministro">LUIS PLANAS PUCHADES</p>
+  </texto>
+</documento>

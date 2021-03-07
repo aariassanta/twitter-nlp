@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210305095601">
+  <metadatos>
+    <identificador>BOE-A-2021-3445</identificador>
+    <titulo>Corrección de errores de la Orden APA/858/2020, de 9 de septiembre, por la que se definen los bienes y los rendimientos asegurables, las condiciones técnicas mínimas de cultivo, el ámbito de aplicación, los periodos de garantía, las fechas de suscripción y los precios unitarios del seguro base con garantías adicionales para uva de vinificación en la Península y en la Comunidad Autónoma de las Illes Balears, comprendido en el cuadragésimo primer Plan de Seguros Agrarios Combinados.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>55</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="3120">Ministerio de Agricultura, Pesca y Alimentación</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <numero_oficial/>
+    <fecha_disposicion/>
+    <fecha_publicacion>20210305</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>26026</pagina_inicial>
+    <pagina_final>26026</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo/>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/05/pdfs/BOE-A-2021-3445.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias/>
+    <alertas>
+      <alerta codigo="101" orden="">Agricultura</alerta>
+      <alerta codigo="112" orden="">Derecho Mercantil</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-10908" orden="2120">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>de la Orden APA/858/2020, de 9 de septiembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Advertidos dos errores en la Orden APA/858/2020, de 9 de septiembre, por la que se definen los bienes y los rendimientos asegurables, las condiciones técnicas mínimas de cultivo, el ámbito de aplicación, los periodos de garantía, las fechas de suscripción y los precios unitarios del seguro base con garantías adicionales para uva de vinificación en la Península y en la Comunidad Autónoma de las Illes Balears, comprendido en el cuadragésimo primer Plan de Seguros Agrarios Combinados, publicada en el «Boletín Oficial del Estado» n.º 249, el día 18 de septiembre de 2020, se procede a efectuar la oportuna rectificación.</p>
+    <p class="parrafo_2">En la página 78967, el epígrafe (8) Comunidad Autónoma de Cataluña del apartado VIII.A Precios fuera de denominación de origen, del anexo VIII, donde dice:</p>
+    <p class="parrafo_2">«T  Forcada  12  22»</p>
+    <p class="parrafo_2">Debe decir:</p>
+    <p class="parrafo_2">«B  Forcada  12  22»</p>
+    <p class="parrafo_2">En la página 79001, el epígrafe (34) Denominación de Origen «Penedés» del apartado VIII.B Precios en denominaciones de origen, del anexo VIII, donde dice:</p>
+    <p class="parrafo_2">«T  Forcada  16  24»</p>
+    <p class="parrafo_2">Debe decir:</p>
+    <p class="parrafo_2">«B  Forcada  16  24»</p>
+  </texto>
+</documento>

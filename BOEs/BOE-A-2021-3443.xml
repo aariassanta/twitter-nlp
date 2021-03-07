@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210305142601">
+  <metadatos>
+    <identificador>BOE-A-2021-3443</identificador>
+    <titulo>Resolución de 23 de febrero de 2021, de la Dirección General de Trabajo, por la que se registran y publican la revisión salarial para el año 2021 y tabla salarial del Convenio colectivo del Grupo Champion.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>55</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9573">Ministerio de Trabajo y Economía Social</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210223</fecha_disposicion>
+    <fecha_publicacion>20210305</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>26020</pagina_inicial>
+    <pagina_final>26022</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/05/pdfs/BOE-A-2021-3443.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/02/23/(2)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/23/(2)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-3443</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-23</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(2)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/23/(2)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-3443</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-23</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(2)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/02/23/(2)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/02/23/(2)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 23 de febrero de 2021, de la Dirección General de Trabajo, por la que se registran y publican la revisión salarial para el año 2021 y tabla salarial del Convenio colectivo del Grupo Champion.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-03-05</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/02/23/(2)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/23/(2)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/23/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/23/(2)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/23/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/23/(2)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/23/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="1684" orden="">Convenios colectivos</materia>
+      <materia codigo="3442" orden="">Establecimientos comerciales</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2015-11430" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 90.2 y 3 de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2010-9274" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto 713/2010, de 28 de mayo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2019-11318" orden="3070">
+          <palabra codigo="331">EN RELACIÓN con</palabra>
+          <texto>el Convenio publicado por Resolución de 19 de julio de 2019</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Visto el texto de la revisión salarial para el año 2021 y la correspondiente tabla del Convenio colectivo del Grupo Champion (Supermercados Champion, S.A. y Grupo Supeco-Maxor, S.L.) –código de convenio n.º 90016103012006–, publicado en el BOE de 1 de agosto de 2019, acuerdo de revisión que fue suscrito, con fecha 19 de enero de 2021, por la Comisión Paritaria de dicho Convenio, en la que están integrados los designados por la Dirección del citado Grupo de empresas, en representación de las mismas, y los sindicatos CC.OO., FETICO y UGT, firmantes de dicho Convenio en representación de los trabajadores afectados, y de conformidad con lo dispuesto en el artículo 90, apartado 2 y 3, de la Ley del Estatuto de los Trabajadores, Texto refundido aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre (BOE de 24 de octubre), y en el Real Decreto 713/2010, de 28 de mayo, sobre registro y depósito de convenios y acuerdos colectivos de trabajo,</p>
+    <p class="parrafo">Esta Dirección General de Trabajo resuelve:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo">Ordenar la inscripción de los citados acuerdo de revisión y tablas salariales en el correspondiente Registro de convenios y acuerdos colectivos de trabajo con funcionamiento a través de medios electrónicos de este Centro Directivo, con notificación a la Comisión Paritaria.</p>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">Disponer su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 23 de febrero de 2021.–La Directora General de Trabajo, Verónica Martínez Barbero.</p>
+    <p class="centro_negrita">ACTA DE LA COMISIÓN PARITARIA DEL CONVENIO COLECTIVO DEL GRUPO CHAMPION 2019-2021 (SUPERMERCADOS CHAMPION,  S.A. Y GRUP SUPECO MAXOR, S.L.)</p>
+    <p class="parrafo_2">Por la Dirección de las empresas:</p>
+    <p class="parrafo_2">Lorena Sánchez.</p>
+    <p class="parrafo">Juan Antonio Sánchez.</p>
+    <p class="parrafo">Begoña Reinoso.</p>
+    <p class="parrafo">Isabel Avivar.</p>
+    <p class="parrafo_2">Por CC.OO.: Carmen Toribio.</p>
+    <p class="parrafo_2">Por FETICO: Mónica Quindós.</p>
+    <p class="parrafo_2">Por UGT: Máxima Real.</p>
+    <p class="parrafo_2">En Madrid, a 19 de enero de 2021, siendo las 17:00 horas, se reúne la Comisión Paritaria del Convenio Colectivo del Grupo Champion («Supermercados Champion, S.A.» y «Grup Supeco-Maxor, S.L.»), previa convocatoria al efecto, con asistencia de todas las organizaciones que la integran, representadas por las personas que figuran al margen, a fin de tratar punto único del Orden del Día:</p>
+    <p class="articulo">Único.</p>
+    <p class="parrafo">Aplicación del incremento del artículo 34. Incremento salarial. Apartados 1 y 3. Incremento sobre tablas fijo del Convenio Colectivo del Grupo Champion, para el año 2021.</p>
+    <p class="parrafo">Abierta la sesión, y en cumplimiento de lo previsto en el Convenio Colectivo del Grupo Champion («Supermercados Champion, S. A.» y «Grup Supeco-Maxor, S.L.») (BOE 01.08.2019), la Comisión Paritaria por unanimidad acuerda aplicar con efectos 1 de enero de 2021, el incremento fijo de acuerdo con lo dispuesto en el apartado 1, apartado 3, del artículo 34, y Disposición Transitoria Primera del Convenio Colectivo de aplicación.</p>
+    <p class="parrafo_2">A tales efectos, de conformidad con lo dispuesto en el apartado 1 del artículo 34, para el año 2021, y con efectos de uno de enero de cada año, «los salarios base Grupo se incrementarán en un 1,75%, percibiéndose por cada trabajador en proporción a su jornada de trabajo efectiva, salvo para los Grupos IV y V, cuyo incremento será del 3%», disponiéndose en el apartado 3 del artículo 34 del Convenio, que sin perjuicio del incremento pactado en los apartados anteriores, las partes consideran necesario, para potenciar la competitividad y la productividad en el seno del Grupo Champion, y de conformidad con lo dispuesto en el artículo 12.3). 3.2, y Disposición Transitoria Primera del presente convenio, garantizar que con efectos del 1 de enero de 2021, el salario Base del nuevo Grupo de Profesionales será como mínimo de 14.000 euros, percibiéndose por cada trabajador en proporción a su jornada de trabajo».</p>
+    <p class="parrafo_2">Asimismo, conforme a lo dispuesto en la Disposición Transitoria Primera del Convenio Colectivo de aplicación, con fecha de efectos del 1 de enero de 2021, los Grupos de Profesionales A y B, se reclasificarán en un único Grupo de Profesionales: «Grupo IV. Profesionales».</p>
+    <p class="parrafo_2">En aplicación de lo dispuesto en el Convenio Colectivo del Grupo Champion, artículo 34.1 y 3. Disposición Transitoria Primera del Convenio, se procede a aprobar las nuevas tablas con efectos de 1.01.2021:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Incremento Fijo Tablas (01.01.2021).</p>
+            <p class="cabeza_tabla">Art. 34.1 y 3 Convenio Grupo Champion</p>
+          </th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Salario Anual</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo IV. Profesionales.</td>
+          <td class="cuerpo_tabla_centro">14.000,00</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo III. Especialistas.</td>
+          <td class="cuerpo_tabla_centro">14.282,06</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo II. Técnicos y gestores.</td>
+          <td class="cuerpo_tabla_centro">15.139,00</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo I. Mandos.</td>
+          <td class="cuerpo_tabla_centro">16.047,33</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Los salarios base personales se incrementarán en el mismo porcentaje aplicado a los salarios base de Grupo profesional, incremento del 1,75 %, salvo para los Grupos IV y V cuyo incremento es del 3%, percibiéndose por cada trabajador en proporción a su jornada de trabajo efectiva.</p>
+    <p class="parrafo">El salario base anual aquí establecido se refiere a la ejecución de la jornada de trabajo pactada en el artículo 18. Apartados I y IV del presente Convenio colectivo, siendo de aplicación tanto a los trabajadores que actualmente prestan servicio, como a los trabajadores que ingresen, o reingresen en la empresa.</p>
+    <p class="parrafo">La determinación de la retribución fijada por unidad de tiempo en razón a la jornada laboral máxima anual establecida en el presente convenio (salario/hora), se efectuará dividiendo la retribución anual, por la suma del número de horas anuales previsto en el artículo 18. Apartados I y IV, que incluye el importe de pagas extraordinarias y vacaciones, sin perjuicio de que en el momento de pago pueda detraerse el importe correspondiente a vacaciones para su abono independiente.</p>
+    <p class="parrafo">Finaliza la reunión procediendo a la habilitación de doña Eva Marín Oliaga para que, en nombre de la Comisión, lleve a cabo cuantos trámites sean precisos en orden al depósito, registro y posterior publicación de la presente Acta en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo">Y no habiendo más asuntos que tratar se levanta la sesión y, de ella, la presente Acta que, una vez leída y encontrada conforme, se firma por los asistentes en el lugar y fecha arriba indicados.</p>
+  </texto>
+</documento>

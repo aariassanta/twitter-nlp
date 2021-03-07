@@ -52,6 +52,8 @@ Y = today.strftime("%Y")
 
 URL_XML_resumen =  "https://www.boe.es/diario_boe/xml.php?id=BOE-S-" + str(hoy)
 
+# URL_XML_resumen = 'https://www.boe.es/diario_boe/xml.php?id=BOE-S-20210305'
+
 #URL_XML_resumen
 
 url = URL_XML_resumen
@@ -83,31 +85,39 @@ print('Accediendo a página resumen de disposiciones')
 tabla_resumen = pd.DataFrame()
 
 # Busca en Secciones I y III
-for seccion in raiz.xpath('//seccion[contains(@nombre, "I. Disposiciones generales") or contains(@nombre, "III. Otras disposiciones")]'):
+for secciones in raiz.xpath('//seccion[contains(@nombre, "I. Disposiciones generales") or\
+                                     contains(@nombre, "III. Otras disposiciones") or\
+                                     contains(@nombre, "V. Anuncios. - A. Contratación del Sector Público") or\
+                                     contains(@nombre, "T.C. Sección del Tribunal Constitucional")]'):
 
-    nombre_seccion = seccion.xpath('@nombre')
+    nombre_seccion = secciones.xpath('@nombre')
 
-    for departamento in seccion:
-        nombre_departamento = departamento.xpath('@nombre') 
+    for seccion in secciones:
 
-        for epigrafe in departamento:
-            nombre_epigrafe = epigrafe.xpath('@nombre')
-
-            for item in epigrafe:
-                item_id = item.xpath('@id')
-                item_name = item.xpath('.//titulo/text()') 
-
-                item_urlXml = "https://www.boe.es" + str(item.xpath('.//urlXml/text()'))[2:-2]
-
-                tabla_resumen = tabla_resumen.append({'Seccion': nombre_seccion, 
-                                                      'Departamento': nombre_departamento, 
-                                                      'Epigrafe' : nombre_epigrafe,
-                                                      'Item_id': item_id, 
-                                                      'Item_Nombre' : item_name, 
-                                                      'Item_URL_XML' : item_urlXml},
-                                                      ignore_index=True)
+        for item in seccion.xpath('.//item'):
+            item_id = item.xpath('@id')
+            nombre_departamento = item.xpath('.//ancestor::departamento/@nombre')   # Recoge Departamento del item
+            nombre_epigrafe = item.xpath('.//ancestor::epigrafe/@nombre')           # Recoge Epigrafe del item
+            item_name = item.xpath('.//titulo/text()')
+            item_urlXml = "https://www.boe.es" + str(item.xpath('.//urlXml/text()'))[2:-2]
+            tabla_resumen = tabla_resumen.append({'Seccion': nombre_seccion, 
+                                                  'Departamento': nombre_departamento, 
+                                                  'Epigrafe' : nombre_epigrafe,
+                                                  'Item_id': item_id, 
+                                                  'Item_Nombre' : item_name, 
+                                                  'Item_URL_XML' : item_urlXml},
+                                                  ignore_index=True)
 
 tabla_resumen.sort_values('Item_id')
+
+# Convierte columnas Departamento y Epigrafe a tipo str para poder realizar búsqueda de palabra Comunidad y variantes
+tabla_resumen['Epigrafe'] = tabla_resumen['Epigrafe'].astype(str)
+tabla_resumen['Departamento'] = tabla_resumen['Departamento'].astype(str)
+
+# Elimina disposiciones con departamento o epigrafe que contenga las palabras Comunidad y sus variantes
+terminos = ['Comunidad', 'Comunitat', 'COMUNIDAD', 'COMUNITAT']
+tabla_resumen = tabla_resumen.drop(tabla_resumen.index[tabla_resumen['Epigrafe'].str.contains('|'.join(terminos), na=False)])
+tabla_resumen = tabla_resumen.drop(tabla_resumen.index[tabla_resumen['Departamento'].str.contains('|'.join(terminos), na=False)])
 
 # # Descarga ficheros XML asociados
 
@@ -117,7 +127,7 @@ for item_URL in tabla_resumen['Item_URL_XML']:
     ### Separa el número del BOE del resto de la cadena y aplica expresión REGEX 
     #print(item_URL.split('='))
     #print(re.match('BOE\-A\-[0-9]+\-[0-9]+',item_URL.split('=')[1]))
-    filename = re.match('BOE\-A\-[0-9]+\-[0-9]+',item_URL.split('=')[1]).group()
+    filename = re.match('BOE\-(A|B)\-[0-9]+\-[0-9]+',item_URL.split('=')[1]).group()
     f = './BOEs/' + filename + '.xml'
     save_html(r.content, f)
 
@@ -172,8 +182,7 @@ tabla_analisis['Tags'] = [[] for i in range(len(tabla_analisis))]
 tabla_analisis['Match_ASECORP_BBDD'] = [[] for i in range(len(tabla_analisis))]
 
 # Define expresiones REGEX para búsqueda de leyes, decretos, etc. referenciadas anteriormente
-pattern = ['Ley [0-9]+\/[0-9]+','Real Decreto [0-9]+\/[0-9]+','Real Decreto Legislativo [0-9]+\/[0-9]+','Real Decreto-ley [0-9]+\/[0-9]+','Orden [A-Z]+\/[0-9]+\/[0-9]+','Orden Circular [0-9]+\/[0-9]+','Reglamento \(UE\) [0-9]+\/[0-9]+', 'Reglamento de Ejeución \(UE\) [0-9]+\/[0-9]+' ,'Sentencia de [0-9]+ de [a-z]+ de [0-9]+','Sentencia [0-9]+\/[0-9]+','Orden de [0-9]+ de [a-z]+ de [0-9]+', 'Resolución de [0-9]+ de [a-z]+ de [0-9]+','Resolución [a-z]+\/[0-9]+\/[0-9]+', 'Nota de Servicio [0-9]+\/[0-9]+', 'Acuerdo multilateral M\-[0-9]+', 'Circular [0-9]+\/[0-9]+', 'Decisión \(UE\) [0-9]+\/[0-9]+', 'Decisión de Ejecución \(UE\) [0-9]+\/[0-9]+']
-
+pattern = ['Ley [0-9]+\/[0-9]+','Ley Orgánica [0-9]+\/[0-9]+','Decreto [0-9]+\/[0-9]+','Real Decreto [0-9]+\/[0-9]+','Real Decreto Legislativo [0-9]+\/[0-9]+','Real Decreto-ley [0-9]+\/[0-9]+','Orden [A-Z]+\/[0-9]+\/[0-9]+','Orden Circular [0-9]+\/[0-9]+','Reglamento \(UE\) [0-9]+\/[0-9]+', 'Reglamento de Ejeución \(UE\) [0-9]+\/[0-9]+' ,'Sentencia de [0-9]+ de [a-z]+ de [0-9]+','Sentencia [0-9]+\/[0-9]+','Orden de [0-9]+ de [a-z]+ de [0-9]+', 'Resolución de [0-9]+ de [a-z]+ de [0-9]+','Resolución [a-z]+\/[0-9]+\/[0-9]+', 'Nota de Servicio [0-9]+\/[0-9]+', 'Acuerdo multilateral M\-[0-9]+', 'Acuerdo Multilateral RID [0-9]+\/[0-9]+', 'Circular [0-9]+\/[0-9]+', 'Decisión \(UE\) [0-9]+\/[0-9]+', 'Decisión de Ejecución \(UE\) [0-9]+\/[0-9]+', 'Instrucción IS\-[0-9]+']
 # Consolida las columnas Referencias_palabra y Referencias_texto en una única frase
 for i, row in tabla_analisis.iterrows():
     for item_list in range(len(row['Referencias'])): 
