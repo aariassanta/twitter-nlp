@@ -33,7 +33,8 @@ def tagea_BBDD_ASECORP(ambitos=['todos']):
     ASECORP_BBDD_FINAL.insert(loc=8, column='Tags', value=['' for i in range(ASECORP_BBDD_FINAL.shape[0])])
 
     # Define expresiones REGEX para búsqueda de leyes, decretos, etc. referenciadas anteriormente
-    pattern = ['Ley [0-9]+\/[0-9]+','Ley Orgánica [0-9]+\/[0-9]+','Decreto [0-9]+\/[0-9]+','Real Decreto [0-9]+\/[0-9]+','Real Decreto Legislativo [0-9]+\/[0-9]+','Real Decreto-ley [0-9]+\/[0-9]+','Orden [A-Z]+\/[0-9]+\/[0-9]+','Orden Circular [0-9]+\/[0-9]+','Reglamento \(UE\) [0-9]+\/[0-9]+', 'Reglamento de Ejeución \(UE\) [0-9]+\/[0-9]+' ,'Sentencia de [0-9]+ de [a-z]+ de [0-9]+','Sentencia [0-9]+\/[0-9]+','Orden de [0-9]+ de [a-z]+ de [0-9]+', 'Resolución de [0-9]+ de [a-z]+ de [0-9]+','Resolución [a-z]+\/[0-9]+\/[0-9]+', 'Nota de Servicio [0-9]+\/[0-9]+', 'Acuerdo multilateral M\-[0-9]+', 'Acuerdo Multilateral RID [0-9]+\/[0-9]+', 'Circular [0-9]+\/[0-9]+', 'Decisión \(UE\) [0-9]+\/[0-9]+', 'Decisión de Ejecución \(UE\) [0-9]+\/[0-9]+', 'Instrucción IS\-[0-9]+']
+     pattern = ['Ley [0-9]+\/[0-9]+', 'Ley Orgánica [0-9]+\/[0-9]+', 'Decreto [0-9]+\/[0-9]+', 'Real Decreto [0-9]+\/[0-9]+', 'Real Decreto Legislativo [0-9]+\/[0-9]+', 'Real Decreto-ley [0-9]+\/[0-9]+', 'Orden [A-Z]+\/[0-9]+\/[0-9]+', 'Orden Circular [0-9]+\/[0-9]+','Reglamento \(UE\) [0-9]+\/[0-9]+', 'Reglamento de Ejeución \(UE\) [0-9]+\/[0-9]+', 'Sentencia de [0-9]+ de [a-z]+ de [0-9]+', 'Sentencia [0-9]+\/[0-9]+', 'Orden de [0-9]+ de [a-z]+ de [0-9]+', 'Resolución de [0-9]+ de [a-z]+ de [0-9]+', 'Resolución [a-z]+\/[0-9]+\/[0-9]+', 'Nota de Servicio [0-9]+\/[0-9]+', 'Acuerdo multilateral M\-[0-9]+', 'Acuerdo Multilateral RID [0-9]+\/[0-9]+', 'Circular [0-9]+\/[0-9]+', 'Decisión \(UE\) [0-9]+\/[0-9]+', 'Decisión de Ejecución \(UE\) [0-9]+\/[0-9]+', 'Instrucción IS\-[0-9]+']
+    
     # Genera Tags en columna creada
     titulo = []
     for i, row in ASECORP_BBDD_FINAL.iterrows():
