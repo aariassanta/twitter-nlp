@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210219095602">
+  <metadatos>
+    <identificador>BOE-A-2021-2654</identificador>
+    <titulo>Resolución de 3 de febrero de 2021, de la Universidad Europea de Madrid, por la que se publica el plan de estudios de Graduado o Graduada en Veterinaria.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>43</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210203</fecha_disposicion>
+    <fecha_publicacion>20210219</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>20007</pagina_inicial>
+    <pagina_final>20009</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/19/pdfs/BOE-A-2021-2654.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7060" orden="">Universidad Europea de Madrid</materia>
+      <materia codigo="7131" orden="">Veterinaria</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-903" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe positivo de la Fundación para el Conocimiento madri+d, y acordado el carácter oficial del título por Acuerdo de Consejo de Ministros de 12 de enero de 2021, por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos publicado por Resolución de la Secretaría General de Universidades de 14 de enero de 2021 («Boletín Oficial del Estado» de 22 de enero de 2021),</p>
+    <p class="parrafo">Este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención del título de Grado en Veterinaria por la Universidad Europea de Madrid quedando el plan de estudios estructurado según consta en esta Resolución.</p>
+    <p class="parrafo_2">Villaviciosa de Odón, 3 de febrero de 2021.–La Rectora, Elena Gazapo Carretero.</p>
+    <p class="anexo">PLAN DE ESTUDIOS DEL TÍTULO DE GRADO EN VETERINARIA POR LA UNIVERSIDAD EUROPEA DE MADRID</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Estructura del plan de estudios</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias Básicas.</td>
+          <td class="cuerpo_tabla_der">90</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias Obligatorias (excepto Prácticas y Trabajo Fin de Grado).</td>
+          <td class="cuerpo_tabla_der">174</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias Optativas.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Tuteladas.</td>
+          <td class="cuerpo_tabla_der">24</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos totales.</td>
+          <td class="cuerpo_tabla_der">300</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Cr. ECTS</th>
+          <th class="cabeza_tabla">Org. temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Ciencias básicas (Química, bioquímica y física y biología).</td>
+          <td class="cuerpo_tabla_izq">Ciencias básicas I.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias básicas II.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Economía y empresa.</td>
+          <td class="cuerpo_tabla_izq">Economía y empresa.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia y sociología.</td>
+          <td class="cuerpo_tabla_izq">Historia y sociología veterinaria.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Estructura y función (Biología, bioquímica, Anatomía y fisiología).</td>
+          <td class="cuerpo_tabla_izq">Estructura y función I.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estructura y función II.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biología.</td>
+          <td class="cuerpo_tabla_izq">Agentes biológicos I.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_izq">Epidemiología y Bioestadística.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estructura y función (Biología, bioquímica, Anatomía y fisiología).</td>
+          <td class="cuerpo_tabla_izq">Estructura y función II.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biología.</td>
+          <td class="cuerpo_tabla_izq">Agentes biológicos II.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Normativa y bienestar animal (Derecho).</td>
+          <td class="cuerpo_tabla_izq">Bienestar animal y etnología.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Fundamentos del diagnóstico y la terapéutica.</td>
+          <td class="cuerpo_tabla_izq">Bases farmacológicas y de la terapéutica.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introducción a la clínica veterinaria.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Alteraciones de la estructura y función.</td>
+          <td class="cuerpo_tabla_izq">Diagnóstico clínico complementario I.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fisiopatología veterinaria.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Optativas.</td>
+          <td class="cuerpo_tabla_izq">Biotecnología veterinaria aplicada.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">2.º</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Optativa.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">3</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biodiversidad y conservación.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Normativa y bienestar animal (Derecho).</td>
+          <td class="cuerpo_tabla_izq">Deontología, veterinaria legal y bioética.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Alteraciones de la estructura y función.</td>
+          <td class="cuerpo_tabla_izq">Diagnóstico clínico complementario II.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica equina.</td>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica equina.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Especialidad en clínica de pequeños animales.</td>
+          <td class="cuerpo_tabla_izq">Introducción a la especialidad en clínica de pequeños animales.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica de pequeños animales: sistema cardiorrespiratorio.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica de pequeños animales: dermatología y endocrinología.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Producción animal y gestión de explotaciones.</td>
+          <td class="cuerpo_tabla_izq">Introducción a la producción animal.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología de los alimentos.</td>
+          <td class="cuerpo_tabla_izq">Tecnología y control de los alimentos.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Especialidad en clínica de pequeños animales.</td>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica de pequeños animales: neurología.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica de pequeños animales: aparato reproductor.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Especialidad en clínica de animales de renta.</td>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica de rumiantes.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica porcina.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica equina.</td>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica equina: aparato reproductor.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Producción animal y gestión de explotaciones de rumiantes.</td>
+          <td class="cuerpo_tabla_izq">Gestión de explotaciones, sanidad y producción de bovino.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Producción animal y gestión de explotaciones de porcino.</td>
+          <td class="cuerpo_tabla_izq">Gestión de explotaciones, sanidad y producción de porcino.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Producción animal y gestión de explotaciones de otras especies.</td>
+          <td class="cuerpo_tabla_izq">Gestión de explotaciones, sanidad y producción de aves y conejos.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Higiene y seguridad alimentaria.</td>
+          <td class="cuerpo_tabla_izq">Higiene y gestión de la calidad y la seguridad en la industria alimentaria I.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología de los alimentos.</td>
+          <td class="cuerpo_tabla_izq">Tecnología y control de los alimentos II.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Optativas.</td>
+          <td class="cuerpo_tabla_izq">Gestión de clínica veterinaria y comunicación.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">4.º</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Optativa.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">3</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fisioterapia y técnicas de rehabilitación.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica de pequeños animales.</td>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica de pequeños animales: urgencias y hospitalización.</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 9.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica de animales exóticos y silvestres.</td>
+          <td class="cuerpo_tabla_izq">Especialidad en clínica de animales exóticos y silvestres.</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 9.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Producción animal y gestión de explotaciones de rumiantes.</td>
+          <td class="cuerpo_tabla_izq">Gestión de explotaciones, sanidad y producción de los pequeños rumiantes.</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 9.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Producción animal y gestión de explotaciones de otras especies.</td>
+          <td class="cuerpo_tabla_izq">Gestión de explotaciones, sanidad y producción en acuicultura y apicultura.</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestre 9.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Higiene y seguridad alimentaria.</td>
+          <td class="cuerpo_tabla_izq">Higiene y gestión de la calidad y la seguridad en la industria alimentaria II.</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 9.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Investigación veterinaria.</td>
+          <td class="cuerpo_tabla_izq">Investigación veterinaria.</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 9.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Prácticas tuteladas.</td>
+          <td class="cuerpo_tabla_izq">Rotatorio profesional.</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Prácticas Tuteladas.</td>
+          <td class="cuerpo_tabla_centro">18</td>
+          <td class="cuerpo_tabla_izq">Semestre 10.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Prácticas Tuteladas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 10.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 10.</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

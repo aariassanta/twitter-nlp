@@ -7,7 +7,7 @@ import requests
 import re
 import os
 import shutil
-from ASECORP_BBDD import tagea_BBDD_ASECORP
+from ASECORP_BBDD import tagea_BBDD_ASECORP, devuelve_patrones
 from selenium import webdriver
 
 from io import StringIO
@@ -101,61 +101,83 @@ print('Accediendo a página resumen de disposiciones')
 
 DOCM_sumarios = pd.DataFrame(columns=['item_Title','item_urlHTML','item_urlPDF'])
 
-lista = []
+#lista = []
+#for sumario in sumario_HTML.xpath('//*[@class="sumario"]'):
+#    lista.append(sumario.text_content().strip())
+#
+#DOCM_sumarios['item_Title'] = lista
+#
+#lista = []   
+#for link_HTML in sumario_HTML.xpath('//*[@title="Ver los datos detallados del documento"]'):
+#    link = link_HTML.xpath('./@href')
+#    #print(link)
+#    lista.append('https://docm.jccm.es/portaldocm' + str(link)[3:-2])
+#
+#DOCM_sumarios['item_urlHTML'] = lista
+#
+#lista = []   
+#for link_PDF in sumario_HTML.xpath('//div/a[@class="new-window"]'):
+#    link = link_PDF.xpath('./@href')
+#    #print(link)
+#    lista.append('https://docm.jccm.es/portaldocm' + str(link)[3:-2])
+#
+#DOCM_sumarios['item_urlPDF'] = lista
+
+# Compone la primera tabla con campos acceso a detalle disposiciones individuales 
+
 for sumario in sumario_HTML.xpath('//*[@class="sumario"]'):
-    lista.append(sumario.text_content().strip())
+    title = sumario.text_content().strip()
+    #print(sumario)
+    categoria = sumario.xpath('./preceding::h3[1]/text()')
+    #print(categoria)
+    link_HTML = sumario.xpath('following-sibling::div[1]/a[@title="Ver los datos detallados del documento"]/@href')
+    link_HTML = 'https://docm.jccm.es/portaldocm' + str(link_HTML)[3:-2]
+    #print(link_HTML)
+    link_PDF = sumario.xpath('./a/@href')
+    link_PDF = 'https://docm.jccm.es/portaldocm' + str(link_PDF)[3:-2]
+    #print(link_PDF)
 
-DOCM_sumarios['item_Title'] = lista
+    DOCM_sumarios = DOCM_sumarios.append({'seccion': categoria, 
+                                          'item_Title': title, 
+                                          'item_urlHTML' : link_HTML,
+                                          'item_urlPDF': link_PDF}, 
+                                          ignore_index = True)
 
-lista = []   
-for link_HTML in sumario_HTML.xpath('//*[@title="Ver los datos detallados del documento"]'):
-    link = link_HTML.xpath('./@href')
-    #print(link)
-    lista.append('https://docm.jccm.es/portaldocm' + str(link)[3:-2])
+# Convierte columna seccion a string
+DOCM_sumarios['seccion'] = DOCM_sumarios['seccion'].astype(str)     
 
-DOCM_sumarios['item_urlHTML'] = lista
+# Elimina caracteres \n \t y \r
+DOCM_sumarios.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r"], value=["",""], regex=True, inplace=True)
 
-lista = []   
-for link_PDF in sumario_HTML.xpath('//div/a[@class="new-window"]'):
-    link = link_PDF.xpath('./@href')
-    #print(link)
-    lista.append('https://docm.jccm.es/portaldocm' + str(link)[3:-2])
+# Elimina disposiciones con seccion que contenga las palabras AUTORIDADES y/o PERSONAL
+terminos = ['AUTORIDADES Y PERSONAL', 'AUTORIDADES', 'PERSONAL']
+DOCM_sumarios = DOCM_sumarios.drop(DOCM_sumarios.index[DOCM_sumarios['seccion'].str.contains('|'.join(terminos), na=False)])
 
-DOCM_sumarios['item_urlPDF'] = lista
+# Elimina disposiciones con item_Title que contenga las palabras Sanciones
+terminos = ['Sanciones']
+DOCM_sumarios = DOCM_sumarios.drop(DOCM_sumarios.index[DOCM_sumarios['item_Title'].str.contains('|'.join(terminos), na=False)])
 
-# Consolida las columnas Referencias_palabra y Referencias_texto en una única frase
-# for i, row in DOCM_sumarios.iterrows():
-#     # carga página HTML y genera árbol
-#     response = requests.get(row['item_urlHTML'])
-#     sumario_HTML = html.fromstring(response.text)
-#     HTML = html.tostring(sumario_HTML)
-# 
-#     #NID = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[2]/td[2]/text()')
-#     print(response.text)
-
-#print(DOCM_sumarios['item_urlHTML'][0])
-
-### Necesita libreria Selenium para renderizar JS script
-
-options = webdriver.ChromeOptions()
-options.headless = True
-driver = webdriver.Chrome(options=options)
-
-driver.get(DOCM_sumarios['item_urlHTML'][0])
-#print(driver.page_source)
-response = driver.page_source
-
-sumario_HTML = html.fromstring(response)
-numero_diario = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[1]/td[2]/text()')
-numero_pagina = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[3]/td[4]/text()')
-NID = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[2]/td[2]/text()')
-rango = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[5]/td[2]/text()')
-organo_emisor = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[7]/td[2]/text()')
+#### Necesita libreria Selenium para renderizar JS script
+#
+#options = webdriver.ChromeOptions()
+#options.headless = True
+#driver = webdriver.Chrome(options=options)
+#
+#driver.get(DOCM_sumarios['item_urlHTML'][0])
+##print(driver.page_source)
+#response = driver.page_source
+#
+#sumario_HTML = html.fromstring(response)
+#numero_diario = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[1]/td[2]/text()')
+#numero_pagina = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[3]/td[4]/text()')
+#NID = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[2]/td[2]/text()')
+#rango = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[5]/td[2]/text()')
+#organo_emisor = sumario_HTML.xpath('//table[@class="tablaDetalle"]/tbody/tr[7]/td[2]/text()')
 
 #print(numero_diario[0].strip(), numero_pagina[0].strip(), NID[0].strip(), rango[0].strip(), organo_emisor[0].strip())
 #print()
 
-driver.quit()
+#driver.quit()
 
 print('Accediendo a página detalle de disposiciones')
 
@@ -209,7 +231,9 @@ print('Generando Tags de patrones encontrados en disposiciones')
 DOCM_sumarios['Tags'] = [[] for i in range(len(DOCM_sumarios))]
 DOCM_sumarios['Match_ASECORP_BBDD'] = [[] for i in range(len(DOCM_sumarios))]
 
-pattern = ['Ley [0-9]+\/[0-9]+','Ley Orgánica [0-9]+\/[0-9]+','Decreto [0-9]+\/[0-9]+','Real Decreto [0-9]+\/[0-9]+','Real Decreto Legislativo [0-9]+\/[0-9]+','Real Decreto-ley [0-9]+\/[0-9]+','Orden [A-Z]+\/[0-9]+\/[0-9]+','Orden Circular [0-9]+\/[0-9]+','Reglamento \(UE\) [0-9]+\/[0-9]+', 'Reglamento de Ejeución \(UE\) [0-9]+\/[0-9]+' ,'Sentencia de [0-9]+ de [a-z]+ de [0-9]+','Sentencia [0-9]+\/[0-9]+','Orden de [0-9]+ de [a-z]+ de [0-9]+', 'Resolución de [0-9]+ de [a-z]+ de [0-9]+','Resolución [a-z]+\/[0-9]+\/[0-9]+', 'Nota de Servicio [0-9]+\/[0-9]+', 'Acuerdo multilateral M\-[0-9]+', 'Acuerdo Multilateral RID [0-9]+\/[0-9]+', 'Circular [0-9]+\/[0-9]+', 'Decisión \(UE\) [0-9]+\/[0-9]+', 'Decisión de Ejecución \(UE\) [0-9]+\/[0-9]+', 'Instrucción IS\-[0-9]+']
+# Define expresiones REGEX para búsqueda de leyes, decretos, etc. referenciadas anteriormente
+#pattern = ['Ley [0-9]+\/[0-9]+','Ley Orgánica [0-9]+\/[0-9]+','Decreto [0-9]+\/[0-9]+','Real Decreto [0-9]+\/[0-9]+','Real Decreto Legislativo [0-9]+\/[0-9]+','Real Decreto-ley [0-9]+\/[0-9]+','Orden [A-Z]+\/[0-9]+\/[0-9]+','Orden Circular [0-9]+\/[0-9]+','Reglamento \(UE\) [0-9]+\/[0-9]+', 'Reglamento de Ejeución \(UE\) [0-9]+\/[0-9]+' ,'Sentencia de [0-9]+ de [a-z]+ de [0-9]+','Sentencia [0-9]+\/[0-9]+','Orden de [0-9]+ de [a-z]+ de [0-9]+', 'Resolución de [0-9]+ de [a-z]+ de [0-9]+','Resolución [a-z]+\/[0-9]+\/[0-9]+', 'Nota de Servicio [0-9]+\/[0-9]+', 'Acuerdo multilateral M\-[0-9]+', 'Acuerdo Multilateral RID [0-9]+\/[0-9]+', 'Circular [0-9]+\/[0-9]+', 'Decisión \(UE\) [0-9]+\/[0-9]+', 'Decisión de Ejecución \(UE\) [0-9]+\/[0-9]+', 'Instrucción IS\-[0-9]+']
+pattern = devuelve_patrones()
 
 for i, row in DOCM_sumarios.iterrows():
     r = requests.get(row['item_urlPDF'])

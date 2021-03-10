@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210219135601">
+  <metadatos>
+    <identificador>BOE-A-2021-2633</identificador>
+    <titulo>Resolución de 9 de febrero de 2021, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de BT Global ICT Business Spain, SLU.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>43</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9573">Ministerio de Trabajo y Economía Social</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210209</fecha_disposicion>
+    <fecha_publicacion>20210219</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>19853</pagina_inicial>
+    <pagina_final>19876</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/19/pdfs/BOE-A-2021-2633.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/02/09/(2)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(2)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2633</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-09</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(2)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(2)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2633</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-09</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(2)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/02/09/(2)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(2)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 9 de febrero de 2021, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de BT Global ICT Business Spain, SLU.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-19</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/02/09/(2)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(2)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/09/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(2)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/09/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(2)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/09/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas>
+      <nota codigo="36" orden="315">Vigencia desde el 30 de noviembre de 2020 hasta el 31 de marzo de 2021. Prorrogable.</nota>
+    </notas>
+    <materias>
+      <materia codigo="1684" orden="">Convenios colectivos</materia>
+      <materia codigo="6854" orden="">Telecomunicaciones</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2015-11430" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 90.2 y 3, de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2010-9274" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto 713/2010, de 28 de mayo</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Visto el texto del I Convenio colectivo de la empresa BT Global ICT Business Spain, S.L.U. (código de convenio n.º 90103892012021), que fue suscrito, con fecha 30 de noviembre de 2020, de una parte por los designados por la Dirección de la empresa, en representación de la misma, y de otra por sección sindical de UGT que suma la mayoría de los miembros del Comité de empresa, en representación de los trabajadores afectados, y de conformidad con lo dispuesto en el artículo 90, apartado 2 y 3, de la Ley del Estatuto de los Trabajadores, Texto refundido aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre (BOE de 24 de octubre), y en el Real Decreto 713/2010, de 28 de mayo, sobre registro y depósito de convenios y acuerdos colectivos de trabajo,</p>
+    <p class="parrafo">Esta Dirección General de Trabajo resuelve:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo">Ordenar la inscripción del citado Convenio colectivo, en el correspondiente Registro de convenios y acuerdos colectivos de trabajo con funcionamiento a través de medios electrónicos de este Centro Directivo, con notificación a la Comisión Negociadora.</p>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">Disponer su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 9 de febrero de 2021.–La Directora General de Trabajo, Verónica Martínez Barbero.</p>
+    <p class="anexo">I CONVENIO COLECTIVO DE BT GLOBAL ICT BUSINESS SPAIN S.L.U.</p>
+    <p class="centro_redonda">PREÁMBULO</p>
+    <p class="parrafo_2">El presente convenio colectivo responde a la voluntad de ambas partes de dotar a la empresa BT Global ICT Business Spain S.L.U. (en adelante, «BT» o «la Empresa») de un marco único de regulación de las condiciones y relaciones laborales de carácter general para todos los centros y lugares de trabajo de los trabajadores en plantilla de BT.</p>
+    <p class="parrafo">En este sentido, el convenio colectivo tiene por objeto la sistematización y articulación en un texto único de las condiciones de trabajo y de los pactos o acuerdos firmados con la representación legal de los trabajadores, así como ajustar las condiciones colectivas de trabajo a la realidad de la Empresa. Se formaliza al amparo de lo dispuesto en el Título III del Estatuto de los Trabajadores.</p>
+    <p class="capitulo_num">CAPÍTULO I</p>
+    <p class="capitulo_tit">Disposiciones generales</p>
+    <p class="articulo">Artículo 1. Objeto del convenio colectivo y legitimación.</p>
+    <p class="parrafo">El presente convenio colectivo se formaliza al amparo de lo dispuesto en el Título III del Estatuto de los Trabajadores y tiene por objeto la sistematización y articulación en un único texto de las condiciones de trabajo y los acuerdos o pactos firmados con la representación de los trabajadores.</p>
+    <p class="parrafo">El presente convenio colectivo ha sido suscrito, de una parte, por los representantes de la Dirección de la empresa BT y, de otra, por la sección sindical de la Unión General de Trabajadores (UGT), por cuanto, de acuerdo con lo dispuesto en el art. 87.1 de la Ley del Estatuto de los Trabajadores (texto refundido aprobado mediante Real Decreto Legislativo 2/2015, de 23 de octubre), suma la mayoría de los miembros del comité de empresa.</p>
+    <p class="parrafo">Ambas partes se reconocen recíprocamente como interlocutores válidos que ostentan la legitimación requerida para suscribir el presente convenio colectivo con validez y eficacia general, siendo de aplicación directa y preferente respecto de los elementos aquí regulados.</p>
+    <p class="articulo">Artículo 2. Ámbito personal.</p>
+    <p class="parrafo">Las disposiciones contenidas en el presente convenio colectivo serán de aplicación a la totalidad de los empleados que presten servicios bajo la dependencia y por cuenta de la empresa BT con excepción de:</p>
+    <p class="parrafo_2">a) Los comprendidos en el artículo 1.3.c) del Estatuto de los Trabajadores.</p>
+    <p class="parrafo">b) Los que se consideren como relación laboral de carácter especial, conforme al artículo 2.1.a) del Estatuto de los Trabajadores.</p>
+    <p class="parrafo">c) Aquellos trabajadores que desempeñen funciones directivas u ocupen puestos ligados a actividades de una especial responsabilidad y confianza. Estos trabajadores son: (i) Miembros del Comité de Dirección; (ii) empleados con responsabilidad en gestión directiva y (iii) mandos intermedios.</p>
+    <p class="parrafo_2">A estos efectos, se entiende por mandos intermedios aquellos trabajadores que tienen empleados a su cargo y que no representan funciones de gestión directiva y reportan a una persona con responsabilidad en gestión directiva o asimilada.</p>
+    <p class="parrafo">En los casos previstos en el punto (iii) del apartado c) anterior, deberá constar la aceptación voluntaria, expresa y escrita del empleado, así como la regulación de sus condiciones por escrito pactadas individualmente, que en ningún caso podrán ser inferiores a las establecidas en el presente convenio colectivo en cómputo anual.</p>
+    <p class="parrafo">Acordada con el «mando intermedio» la no aplicación del convenio colectivo, la situación se mantendrá por periodos iguales a la vigencia del convenio colectivo coincidentes en el tiempo.</p>
+    <p class="parrafo">Si el «mando intermedio» que inicialmente, conforme al párrafo anterior, quedó excluido de la aplicación del presente convenio colectivo, comunicase a la Empresa su voluntad de quedar bajo el ámbito de aplicación del convenio colectivo, esta decisión del trabajador surtirá efectos a partir de la entrada en vigor del convenio colectivo que sustituyese al presente.</p>
+    <p class="parrafo">En caso de que un trabajador dejase de ejercer las funciones propias de los puntos (i); (ii) y (iii) del apartado c) anterior, con independencia de cómo afectase esta situación a sus condiciones de trabajo, quedará incluido automáticamente en el ámbito de aplicación del presente convenio colectivo.</p>
+    <p class="parrafo">En caso de que un trabajador accediera a un puesto descrito en los puntos (i) o (ii) del apartado c) anterior, quedará automáticamente excluido del ámbito de aplicación del presente convenio. Si accediera a un puesto descrito en el punto (iii) del apartado c) anterior, deberá constar la aceptación voluntaria y expresa de la exclusión del presente convenio.</p>
+    <p class="articulo">Artículo 3. Ámbito territorial.</p>
+    <p class="parrafo">Las disposiciones contenidas en el presente convenio colectivo serán de aplicación en todo el territorio estatal y en especial, en todos los centros y lugares de trabajo, constituidos o que puedan constituirse en el futuro durante su vigencia, en los que cualquier trabajador de la empresa BT preste sus servicios.</p>
+    <p class="articulo">Artículo 4. Ámbito funcional.</p>
+    <p class="parrafo">El presente convenio colectivo será de aplicación a todas las actividades que actualmente presta BT o a aquéllas otras que pudieran desarrollarse por la Empresa en el futuro.</p>
+    <p class="articulo">Artículo 5. Ámbito temporal y denuncia.</p>
+    <p class="parrafo">1. El presente convenio colectivo entrará en vigor a todos los efectos el día 30 de noviembre 2020 y su duración será hasta el 31 de marzo de 2021.</p>
+    <p class="parrafo">2. La denuncia, en caso de producirse, se efectuará, por cualquiera de las partes firmantes, mediante comunicación fehaciente por escrito, con exposición razonada de las causas, con una antelación de tres meses antes de la finalización de su vigencia, y se presentará ante el Organismo competente.</p>
+    <p class="parrafo">3. Las partes firmantes se comprometen a iniciar la negociación del nuevo convenio colectivo una vez formulada la denuncia, aun cuando no se hubiese agotado su vigencia temporal. Las partes se obligan a negociar de buena fe.</p>
+    <p class="parrafo">4. Denunciado el presente convenio colectivo en los términos establecidos en el punto 2 anterior, se mantendrá en vigor su contenido normativo durante el plazo de quince meses, salvo que con anterioridad al plazo establecido de quince meses éste sea sustituido por un convenio colectivo de empresa de eficacia general.</p>
+    <p class="parrafo">5. Para solventar de manera efectiva las discrepancias existentes tras el transcurso del plazo establecido en el apartado anterior sin alcanzarse un acuerdo, las partes se adhieren y someten a los procedimientos extra judiciales de solución de conflictos colectivos, como la mediación o el arbitraje, establecidos o que pudieran establecerse mediante acuerdos interprofesionales de ámbito estatal, en el interés de que este medio de solución procure la continuidad del modelo colectivo de relaciones laborales que instaura este convenio colectivo.</p>
+    <p class="parrafo">6. Al margen de lo anterior, por acuerdo entre la Empresa y la Parte Social se podrá acordar la prórroga y modificación del Convenio Colectivo. A estos efectos, la comisión negociadora se constituirá en su caso con una antelación mínima de tres meses a la perdida de vigencia del convenio colectivo, pudiendo extenderse las negociaciones hasta el 30 de abril de 2021. En caso de alcanzarse un acuerdo de modificación se cumplirán seguidamente los requisitos de registro, depósito y publicación previstos en el Título III del Estatuto de los Trabajadores.</p>
+    <p class="parrafo">En caso de no alcanzarse acuerdo en esa fecha el convenio colectivo se entenderá automáticamente denunciado, manteniéndose en vigor su contenido normativo durante un plazo de doce meses, salvo que con anterioridad a dicho término éste sea sustituido por un convenio colectivo de empresa de eficacia general.</p>
+    <p class="articulo">Artículo 6. Garantía personal.</p>
+    <p class="parrafo">Se respetarán con carácter estrictamente personal («<em>ad personam</em>») las situaciones que pudieran existir a la fecha de la firma de este convenio colectivo y que, computadas en conjunto y anualmente, excedan de las pactadas y se encuentren expresamente reconocidas por la Empresa a los trabajadores.</p>
+    <p class="articulo">Artículo 7. Vinculación a la totalidad.</p>
+    <p class="parrafo">Las condiciones pactadas en el presente convenio colectivo constituyen un todo orgánico e indivisible y, a los efectos de su aplicación práctica, serán consideradas en su cómputo global.</p>
+    <p class="parrafo">En caso de nulidad sobrevenida de alguna cláusula del presente convenio colectivo, las partes firmantes se comprometen a negociar la misma en aras de salvaguardar la eficacia general del presente convenio colectivo. El acuerdo que se obtuviera se incorporará al convenio colectivo.</p>
+    <p class="articulo">Artículo 8. Prelación normativa.</p>
+    <p class="parrafo">Las normas de este convenio colectivo se aplicarán con carácter prioritario y preferente respecto a cualquier otra disposición o norma legal, sin perjuicio de lo dispuesto en el vigente artículo 84.2 ET. En todo aquello que no esté previsto, será de aplicación el Estatuto de los Trabajadores y las demás disposiciones legales de carácter general que regulen las relaciones laborales.</p>
+    <p class="articulo">Artículo 9. Cláusula derogatoria.</p>
+    <p class="parrafo">El presente convenio colectivo regirá en sustitución de cualquier norma, pacto, acuerdo uso o costumbre que pudiera existir con anterioridad a su entrada en vigor que contradiga lo dispuesto en el presente texto, los cuales quedan expresamente derogados.</p>
+    <p class="capitulo_num">CAPÍTULO II</p>
+    <p class="capitulo_tit">Organización del trabajo</p>
+    <p class="articulo">Artículo 10. Organización práctica del trabajo.</p>
+    <p class="parrafo">La organización práctica del trabajo, así como las decisiones sobre políticas, sistemas y procedimientos de organización del trabajo corresponden a la Dirección de la Empresa, sin perjuicio de las facultades que competan legalmente a la representación de los trabajadores y de las consultas y acuerdos que pudieran articularse con la misma.</p>
+    <p class="articulo">Artículo 11. Ingreso y contratación.</p>
+    <p class="parrafo">La Empresa, en el ejercicio de su poder de organización, procederá a contratar a los profesionales que mejor se ajusten a los perfiles necesarios para el desarrollo de la actividad empresarial. No obstante, lo anterior, se establece que para la cobertura de vacantes la Empresa, con carácter previo a la incorporación de un tercero, dará preferencia a trabajadores que ya vengan prestando sus servicios en la Empresa y reúnan las condiciones de perfiles profesionales requeridos para el puesto de trabajo objeto de cobertura.</p>
+    <p class="articulo">Artículo 12. Período de prueba.</p>
+    <p class="parrafo">Todo nuevo contrato de trabajo estará sujeto a período de prueba que quedará concertado por escrito. Se establece un periodo de prueba de 6 meses para los trabajadores comprendidos en los grupos profesionales 1 y 2, y de 2 meses para el resto de grupos profesionales a los que se refiere el presente convenio colectivo.</p>
+    <p class="parrafo">La suspensión del contrato de trabajo, cualquiera que sea su causa, interrumpirá el período de prueba, sin perjuicio de la aplicación, en su caso, de los mínimos legales indisponibles que pudieran establecerse.</p>
+    <p class="parrafo">Cualquier resolución de un contrato de trabajo en período de prueba será comunicada a la Representación de los Trabajadores.</p>
+    <p class="articulo">Artículo 13. Extinción del contrato de trabajo.</p>
+    <p class="parrafo">La extinción del contrato de trabajo de los empleados se producirá por cualquiera de las causas previstas en el Estatuto de los Trabajadores, y previo cumplimiento de las formalidades aplicables a las diferentes causas.</p>
+    <p class="parrafo">El cese por dimisión del empleado deberá notificarse por escrito a la Empresa, en todos los casos, con una antelación mínima de 15 días.</p>
+    <p class="articulo">Artículo 13.1. Contrato de relevo.</p>
+    <p class="parrafo">Se acuerda la utilización del contrato de relevo recogido en el artículo 12.7 del Estatuto de los Trabajadores, siempre que sea de aplicación esta normativa y previo acuerdo entre empresa y trabajador o trabajadora.</p>
+    <p class="capitulo_num">CAPÍTULO III</p>
+    <p class="capitulo_tit">Clasificación profesional</p>
+    <p class="articulo">Artículo 14. Grupos profesionales.</p>
+    <p class="parrafo">De acuerdo con el artículo 22.2 del Estatuto de los Trabajadores, se entiende por Grupo Profesional el que agrupa unitariamente las aptitudes profesionales, titulaciones, y contenido general de la prestación, y podrá incluir distintas tareas, funciones, especialidades profesionales o responsabilidades asignadas al trabajador.</p>
+    <p class="parrafo">Con carácter general los trabajadores desarrollarán las tareas propias de su Grupo Profesional, así como tareas suplementarias y/o auxiliares precisas que integren el proceso completo del cual formen parte.</p>
+    <p class="parrafo">Cuando se prevea desempeñar de forma habitual y suficiente varias funciones dentro del mismo Grupo o bien funciones propias de más de un Grupo Profesional, la clasificación se realizará en virtud del Grupo Profesional más alto en responsabilidad que se prevea desarrollar.</p>
+    <p class="parrafo">La reseña de los Grupos profesionales, funciones profesionales y sus niveles funcionales que se establecen en este Convenio es meramente enunciativa y no supone la obligación de tenerlos cubiertos, ya que su existencia estará en función, en todo caso, de las actividades que se desarrollen en la Empresa.</p>
+    <p class="parrafo">Se identifican 4 divisiones funcionales atendiendo a las principales actividades de la Empresa:</p>
+    <p class="parrafo_2">A) De forma directa acomete tareas de la operación CORE:</p>
+    <p class="parrafo_2">– Gestión Contrato/Oferta Cliente.</p>
+    <p class="parrafo">– Servicios Profesionales.</p>
+    <p class="parrafo">– Gestión Operativa.</p>
+    <p class="parrafo_2">B) Da soporte a todo lo anterior:</p>
+    <p class="parrafo_2">– Apoyo Corporativo:</p>
+    <p class="parrafo_2">Dentro de cada División Funcional se enmarcan Grupos Profesionales que serán descritos atendiendo a funciones y/o tareas que se desempeñan y en las que se valoran aspectos como los conocimientos, complejidad, responsabilidad, iniciativa, autonomía, gestión y formación.</p>
+    <p class="parrafo_2">1. Conocimientos y experiencia: Se tendrá en cuenta, además de la formación básica necesaria para cumplir correctamente los cometidos, la experiencia adquirida y la dificultad para la adquisición de dichos conocimientos y experiencia.</p>
+    <p class="parrafo">2. Complejidad: Se tendrá en cuenta el número y el grado de integración de los diversos factores antes mencionados.</p>
+    <p class="parrafo">3. Responsabilidad: Se tendrá en cuenta el nivel de influencia sobre los resultados y la relevancia de la gestión sobre los recursos humanos, técnicos y productivos.</p>
+    <p class="parrafo">4. Iniciativa: Se tendrá en cuenta el grado de seguimiento a normas o directrices para la ejecución de tareas o funciones.</p>
+    <p class="parrafo">5. Autonomía: Se tendrá en cuenta el grado de dependencia jerárquica en el desempeño de las tareas o funciones que se desarrollen.</p>
+    <p class="parrafo">6. Mando: Se tendrá en cuenta el grado de supervisión y ordenación de las funciones y tareas, la capacidad de interrelación, las características del colectivo y el número de personas sobre las que se ejerce el mando.</p>
+    <p class="parrafo">7. Formación: La titulación será una referencia de las aptitudes requeridas por cada perfil, sin que pueda determinar reconocimiento o exclusión del correspondiente grupo profesional.</p>
+    <p class="parrafo_2">Grupo profesional 1:</p>
+    <p class="parrafo_2">Criterios generales:</p>
+    <p class="parrafo_2">Este grupo engloba funciones de especialistas que supongan la realización de tareas técnicas de alta cualificación, complejas y heterogéneas, con objetivos globales y un alto grado de exigencia en autonomía, iniciativa y responsabilidad, pudiendo realizar labores de supervisión técnica de los proyectos o ámbitos de actuación asignados.</p>
+    <p class="parrafo">Reconocido dentro de la unidad de negocio como especialista de nivel sénior en un campo de conocimiento y en el conocimiento de prácticas para mejorar los procesos de trabajo.</p>
+    <p class="parrafo">Los trabajadores adscritos a este grupo profesional organizan y gestionan actividades/procesos con un elevado componente técnico, siendo estos complejos y específicos en objetivo y contenido. Se enfrentan a variados problemas y de complejidad tal que requieren profundos conocimientos técnicos e iniciativa para ser solventados, así como el uso de habilidades interpersonales. Con carácter general, el conocimiento técnico es imprescindible para la realización de sus tareas, debiendo comprender la aplicación teórica y práctica de su especialidad.</p>
+    <p class="parrafo">Los trabajadores incluidos en este grupo profesional deben tener habilidades de interrelación humana con alto nivel de desarrollo, con finalidades informativas y negociadoras. Los procedimientos y normas a aplicar no están siempre definidos, debiendo de ser capaces de encontrar soluciones en base a la aplicación de sus conocimientos teóricos y experiencia adquirida.</p>
+    <p class="parrafo">Titulación de referencia: Universitaria de grado superior adecuada a la función o dilatada experiencia profesional, consolidada en el ejercicio de su profesión.</p>
+    <p class="parrafo">Con carácter general, formarán parte de este grupo profesional las siguientes funciones:</p>
+    <p class="parrafo_2">– Gestión Contrato/Oferta Cliente:</p>
+    <p class="parrafo_2">• Ventas y gestión de clientes (<em>Sales</em>).</p>
+    <p class="parrafo">• Gestión de contratos (<em>Business Management</em>).</p>
+    <p class="parrafo">• Desarrollo de negocio (<em>Deal Architect</em>).</p>
+    <p class="parrafo">• Venta especializada <em>(Sales Specialist</em>).</p>
+    <p class="parrafo">• Diseño de ofertas (<em>Sales Engineers/Bid Management</em>).</p>
+    <p class="parrafo_2">– Apoyo Corporativo:</p>
+    <p class="parrafo_2">• Soporte a funciones, procesos o programas.</p>
+    <p class="parrafo">• Gestión de Productos (<em>Product/Porfolio Management</em>).</p>
+    <p class="parrafo">• Compras.</p>
+    <p class="parrafo">• Finanzas.</p>
+    <p class="parrafo">• Legal.</p>
+    <p class="parrafo">• Recursos Humanos.</p>
+    <p class="parrafo">• Innovación Operativa.</p>
+    <p class="parrafo">• Oficina de Transformación, Programas y Recursos-Gestión de Recursos.</p>
+    <p class="parrafo">• Seguridad.</p>
+    <p class="parrafo">• Sistemas Internos:</p>
+    <p class="parrafo_2">   - Ingeniería de Procesos.</p>
+    <p class="parrafo">  - <em>Business Partners</em> de Sistemas.</p>
+    <p class="parrafo">  - Gestión de Servicios TI.</p>
+    <p class="parrafo_2">– Servicios Profesionales:</p>
+    <p class="parrafo_2">• Gestión de Servicio.</p>
+    <p class="parrafo">• Gestión de Proyecto.</p>
+    <p class="parrafo">• Consultoría.</p>
+    <p class="parrafo">• Soporte e Instalación de Soluciones y Servicios.</p>
+    <p class="parrafo_2">– Gestión Operativa:</p>
+    <p class="parrafo_2">• Oficina de Transformación, Programas y Recursos-Gestión de proyectos internos (OPP).</p>
+    <p class="parrafo">• Gestión Proveedores.</p>
+    <p class="parrafo">• Entrega Servicios:</p>
+    <p class="parrafo_2">   - Diseño Técnico (CSED).  </p>
+    <p class="parrafo">   - Entrega Internacional.</p>
+    <p class="parrafo">   - Entrega Doméstica.</p>
+    <p class="parrafo">   - Gestión de Acceso.</p>
+    <p class="parrafo_2">• Mantenimiento Servicios (<em>Service Assurance</em>).</p>
+    <p class="parrafo">• Operaciones TI.</p>
+    <p class="parrafo">• Gestión de Proyectos.</p>
+    <p class="parrafo">• Ingeniería de Red:</p>
+    <p class="parrafo_2">  - Planificación de Servicio.</p>
+    <p class="parrafo">  - Desarrollo de Servicio.</p>
+    <p class="parrafo">  - Soporte Servicio.</p>
+    <p class="parrafo">  - Acomodación.</p>
+    <p class="parrafo_2">Grupo profesional 2:</p>
+    <p class="parrafo_2">Criterios generales:</p>
+    <p class="parrafo_2">Este grupo profesional incluye funciones que suponen tareas técnicas homogéneas y heterogéneas que pueden o no implicar responsabilidad de mando relacionadas con objetivos con adecuado grado de exigencia y autonomía y contenido intelectual. Funciones que suponen la integración, coordinación y, en su caso, supervisión de actividades realizadas por colaboradores en una misma unidad funcional. Organizan y programan las actividades bajo su responsabilidad, siendo éstas complejas y específicas en objetivo y contenido.</p>
+    <p class="parrafo">Los empleados incluidos en este grupo profesional se enfrentan a variados problemas y de gran complejidad que exigen profundos conocimientos técnicos e iniciativa para ser solventados. Con carácter general, el conocimiento técnico es imprescindible para la realización de sus tareas, debiendo comprender la aplicación teórica y práctica de su especialidad.</p>
+    <p class="parrafo">Los trabajadores adscritos a este grupo profesional deben tener habilidades de interrelación humana, con finalidades informativas y negociadoras. Están sujetos a procedimientos y normas diferentes para la resolución de problemas, pero aquellos no aportan una solución directa, por lo que deben elegir la aplicación más adecuada extrapolando soluciones previas anteriores o su propia experiencia.</p>
+    <p class="parrafo">Titulación de referencia: Universitaria de grado superior o medio relevante para la función o dilatada experiencia profesional consolidada en el ejercicio de su profesión.</p>
+    <p class="parrafo">Típicamente formaran parte de este grupo profesional las siguientes funciones:</p>
+    <p class="parrafo_2">– Gestión Contrato/Oferta Cliente.</p>
+    <p class="parrafo_2">• Ventas y gestión de clientes (<em>Sales</em>).</p>
+    <p class="parrafo">• Gestión de contratos (<em>Business Management</em>).</p>
+    <p class="parrafo">• Diseño de soluciones (<em>Deal Architect</em>).</p>
+    <p class="parrafo">• Venta especializada (<em>Sales Specialist</em>).</p>
+    <p class="parrafo">• Diseño de ofertas (<em>Sales Engineers/Bid Management</em>).</p>
+    <p class="parrafo_2">– Apoyo Corporativo:</p>
+    <p class="parrafo_2">• Soporte a funciones, procesos o programas.</p>
+    <p class="parrafo">• Gestión de Productos (<em>Product/Porfolio Management</em>).</p>
+    <p class="parrafo">• Marketing.</p>
+    <p class="parrafo">• Compras.</p>
+    <p class="parrafo">• Finanzas.</p>
+    <p class="parrafo">• Legal.</p>
+    <p class="parrafo">• Recursos Humanos.</p>
+    <p class="parrafo">• Innovación Operativa.</p>
+    <p class="parrafo">• Oficina de Transformación, Programas y Recursos-Gestión de Recursos.</p>
+    <p class="parrafo">• Seguridad.</p>
+    <p class="parrafo">• Sistemas Internos.</p>
+    <p class="parrafo_2">   - Ingeniería de Procesos.</p>
+    <p class="parrafo">   - <em>Business Partners</em> de Sistemas.</p>
+    <p class="parrafo">   - Gestión de Servicios TI.</p>
+    <p class="parrafo_2">– Servicios Profesionales:</p>
+    <p class="parrafo_2">• Gestión de Servicio.</p>
+    <p class="parrafo">• Gestión de Proyecto.</p>
+    <p class="parrafo">• Consultoría.</p>
+    <p class="parrafo">• Soporte e Instalación de Soluciones y Servicios.</p>
+    <p class="parrafo_2">– Gestión Operativa:</p>
+    <p class="parrafo_2">• Oficina de Transformación, Programas y Recursos-Gestión de proyectos internos (OPP).</p>
+    <p class="parrafo">• Gestión Proveedores.</p>
+    <p class="parrafo">• Entrega Servicios:</p>
+    <p class="parrafo_2">   - Diseño Técnico (CSED).</p>
+    <p class="parrafo">   - Entrega Internacional.</p>
+    <p class="parrafo">   - Entrega Doméstica.</p>
+    <p class="parrafo">   - Gestión de Acceso.</p>
+    <p class="parrafo_2">• Mantenimiento Servicios (<em>Service Assurance</em>).</p>
+    <p class="parrafo">• Operaciones TI.</p>
+    <p class="parrafo">• Gestión de Proyectos.</p>
+    <p class="parrafo">• Ingeniería de Red:</p>
+    <p class="parrafo_2">   - Planificación de Servicio.</p>
+    <p class="parrafo">   - Desarrollo de Servicio.</p>
+    <p class="parrafo">   - Soporte Servicio.</p>
+    <p class="parrafo">   - Acomodación.</p>
+    <p class="parrafo_2">Grupo profesional 3:</p>
+    <p class="parrafo_2">Criterios generales:</p>
+    <p class="parrafo_2">Este grupo profesional incluye tareas y trabajos consistentes en la ejecución de operaciones específicas de carácter técnico que requieran adecuados conocimientos profesionales, aptitudes prácticas e iniciativa adecuada cuya responsabilidad está limitada por supervisión, pudiendo ser ayudados por otro u otros trabajadores/as.</p>
+    <p class="parrafo">Engloba actividades de supervisión de equipos de trabajo sujetos a instrucciones y procedimientos concretos, claramente establecidas, con un alto grado de dependencia, y que no necesitan de formación específica diferente de la específica del puesto. Requieren conocimientos conseguidos a través de la formación y de la práctica. Deben tener suficiencia en la actividad especializada, adquirida a través de una sólida formación y cierta experiencia. Disponen de procedimientos para solventar los distintos problemas que se les presentan, debiendo ellos aplicar la solución más adecuada para cada posibilidad. Se enfrentan a problemas de cierta complejidad, aunque en su mayor parte definidos y situaciones con aspectos novedosos, siendo necesario escoger la solución más adecuada.</p>
+    <p class="parrafo">Titulación de referencia: Universitaria de grado medio o formación profesional de grado superior adecuada a la función, o experiencia profesional consolidada en el ejercicio de su profesión.</p>
+    <p class="parrafo">Típicamente formaran parte de este grupo profesional las siguientes funciones:</p>
+    <p class="parrafo_2">– Gestión de clientes:</p>
+    <p class="parrafo_2">• Ventas y gestión de clientes (<em>Sales</em>).</p>
+    <p class="parrafo">• Desarrollo de negocio (<em>Deal Architect</em>).</p>
+    <p class="parrafo">• Venta especializada (<em>Sales Specialist</em>).</p>
+    <p class="parrafo">• Diseño de ofertas (<em>Sales Engineers/Bid Management</em>).</p>
+    <p class="parrafo">• Graduados.</p>
+    <p class="parrafo_2">– Apoyo Corporativo:</p>
+    <p class="parrafo_2">• Soporte a funciones, procesos o programas.</p>
+    <p class="parrafo">• Soporte a ventas.</p>
+    <p class="parrafo">• Gestión de Productos.</p>
+    <p class="parrafo">• Marketing.</p>
+    <p class="parrafo">• Finanzas.</p>
+    <p class="parrafo">• Legal.</p>
+    <p class="parrafo">• Recursos Humanos.</p>
+    <p class="parrafo">• Innovación Operativa.</p>
+    <p class="parrafo">• Oficina de Transformación, Programas y Recursos-Gestión de Recursos.</p>
+    <p class="parrafo">• Seguridad.</p>
+    <p class="parrafo">• Sistemas Internos:</p>
+    <p class="parrafo_2">   - Ingeniería de Procesos.</p>
+    <p class="parrafo">   - <em>Business Partners</em> de Sistemas.</p>
+    <p class="parrafo">   - Gestión de Servicios TI.</p>
+    <p class="parrafo_2">• Graduados.</p>
+    <p class="parrafo_2">– Servicios Profesionales:</p>
+    <p class="parrafo_2">• Gestión de Servicio.</p>
+    <p class="parrafo">• Gestión de Proyecto.</p>
+    <p class="parrafo">• Consultoría.</p>
+    <p class="parrafo">• Soporte e Instalación de Soluciones y Servicios.</p>
+    <p class="parrafo">• Graduados.</p>
+    <p class="parrafo_2">– Gestión Operativa:</p>
+    <p class="parrafo_2">• Oficina de Transformación, Programas y Recursos-Gestión de proyectos internos (OPP).</p>
+    <p class="parrafo">• Gestión Proveedores.</p>
+    <p class="parrafo">• Entrega Servicios.</p>
+    <p class="parrafo_2">   - Diseño Técnico (CSED).</p>
+    <p class="parrafo">   - Entrega Internacional.</p>
+    <p class="parrafo">   - Entrega Doméstica.</p>
+    <p class="parrafo">   - Gestión de Acceso.</p>
+    <p class="parrafo_2">• Mantenimiento Servicios (<em>Service Assurance</em>).</p>
+    <p class="parrafo">• Operaciones TI.</p>
+    <p class="parrafo">• Gestión de Proyectos.</p>
+    <p class="parrafo">• Ingeniería de Red:</p>
+    <p class="parrafo_2">   - Planificación de Servicio.</p>
+    <p class="parrafo">   - Soporte Servicio.</p>
+    <p class="parrafo">   - Acomodación.</p>
+    <p class="parrafo_2">• Graduados.</p>
+    <p class="parrafo_2">Grupo profesional 4.1:</p>
+    <p class="parrafo_2">Criterios generales:</p>
+    <p class="parrafo_2">En este grupo profesional se incluyen tareas y trabajos consistentes en la ejecución de actividades específicas técnicas y/o administrativas muy procedimentadas. Realizan actividades de contenido muy similar, con capacidad para decidir el orden de ejecución y el modo de actuación en la resolución de problemas. Se requieren competencias de interrelación y trato con otras personas. Deben ser capaces de solventar los problemas que les plantea la función, eligiendo la opción más adecuada, a partir de procedimientos y precedentes similares. Se enfrentan a problemas en situaciones semejantes que, para su resolución, requieren de un análisis y elección entre un conjunto de cosas aprendidas.</p>
+    <p class="parrafo">Titulación de referencia: formación profesional de grado superior o medio adecuado a la función, o preferiblemente experiencia en la función.</p>
+    <p class="parrafo">Con carácter general, formarán parte de este grupo profesional las siguientes funciones:</p>
+    <p class="parrafo_2">– Apoyo Corporativo:</p>
+    <p class="parrafo_2">• Soporte a funciones, procesos o programas.</p>
+    <p class="parrafo">• Soporte a ventas.</p>
+    <p class="parrafo">• Soporte a ofertas, contratos, entrega.</p>
+    <p class="parrafo">• Soporte a área/departamento.</p>
+    <p class="parrafo">• Oficina de Transformación, Programas y Recursos-Gestión de Recursos.</p>
+    <p class="parrafo_2">– Servicios Profesionales:</p>
+    <p class="parrafo_2">• Gestión de Servicio.</p>
+    <p class="parrafo">• Gestión de Proyecto.</p>
+    <p class="parrafo">• Soporte e Instalación de Soluciones y Servicios.</p>
+    <p class="parrafo_2">– Gestión Operativa:</p>
+    <p class="parrafo_2">• Oficina de Transformación, Programas y Recursos-Gestión de proyectos internos (OPP).</p>
+    <p class="parrafo">• Gestión Proveedores.</p>
+    <p class="parrafo">• Entrega Servicios:</p>
+    <p class="parrafo_2">   - Entrega Internacional.</p>
+    <p class="parrafo">   - Entrega Doméstica.</p>
+    <p class="parrafo">   - Gestión de Acceso.</p>
+    <p class="parrafo_2">• Mantenimiento Servicios (<em>Service Assurance</em>).</p>
+    <p class="parrafo">• Operaciones TI.</p>
+    <p class="parrafo">• Gestión de Proyectos.</p>
+    <p class="parrafo">• Ingeniería de Red:</p>
+    <p class="parrafo_2">   - Soporte Servicio.</p>
+    <p class="parrafo">   - Acomodación.</p>
+    <p class="parrafo_2">Grupo profesional 4.2:</p>
+    <p class="parrafo_2">Criterios generales:</p>
+    <p class="parrafo_2">Se incluyen en este grupo profesional las tareas que consisten en operaciones realizadas siguiendo un método de trabajo preciso, con alto grado de supervisión, que normalmente exigen conocimientos: de carácter elemental y de un período breve de adaptación.</p>
+    <p class="parrafo">Los trabajadores incluidos en este grupo profesional pueden ejercer capacidades discrecionales sobre trabajos rutinarios; no obstante, busca el asesoramiento de miembros de mayor rango cuando se producen desviaciones de la norma y cuando se necesita más creatividad. Desempeña un papel de soporte básico en la facilitación de soluciones a problemas en el ámbito de la organización técnica inmediata. Interactúa únicamente con su grupo de trabajo.</p>
+    <p class="parrafo">El desempeño de sus tareas es rutinario y se desarrollan en unos parámetros perfectamente delimitados por su responsable o procedimiento de trabajo.</p>
+    <p class="parrafo">Las áreas de trabajo son limitadas al enfoque de sus tareas en el grupo.</p>
+    <p class="parrafo">Necesita supervisión directa y debe buscar orientación ante cualquier imprevisto en la aplicación de sus funciones.</p>
+    <p class="parrafo">Titulación de referencia: Formación profesional de grado medio, enseñanza básica o experiencia en la función.</p>
+    <p class="parrafo">Con carácter general, formarán parte de este grupo profesional las siguientes funciones:</p>
+    <p class="parrafo_2">– Apoyo Corporativo:</p>
+    <p class="parrafo_2">• Soporte a funciones, procesos o programas.</p>
+    <p class="parrafo_2">– Servicios Profesionales:</p>
+    <p class="parrafo_2">• Soporte a servicios, funciones, procesos o proyectos.</p>
+    <p class="capitulo_num">CAPÍTULO IV</p>
+    <p class="capitulo_tit">Tiempo de trabajo</p>
+    <p class="articulo">Artículo 15. Jornada y horario de trabajo.</p>
+    <p class="parrafo">15.1 Régimen general.</p>
+    <p class="parrafo_2">15.1.1 Jornada ordinaria de trabajo.</p>
+    <p class="parrafo_2">Durante la vigencia del presente convenio colectivo, la jornada de trabajo aplicable a todos los trabajadores de BT será de 1.752 horas, en cómputo anual, de las cuales 1.744 horas serán de trabajo efectivo y 8 horas serán de libre disposición para el trabajador.</p>
+    <p class="parrafo_2">15.1.2 Horario ordinario de trabajo en jornada de invierno.</p>
+    <p class="parrafo_2">El horario ordinario aplicable a todos los centros de trabajo de BT será, en jornada de invierno, de lunes a jueves, de 9.00 a.m. a 18.00 p.m., en jornada partida y con un descanso de una hora para comer, y los viernes de 8.00 a.m. a 15.00 p.m. en jornada continua con 15 minutos de descanso, lo que hace un cómputo de 39 horas semanales.</p>
+    <p class="parrafo">Durante la jornada de invierno existe para el trabajador la posibilidad de flexibilizar su horario, en una hora a la entrada y a la salida siendo posible la entrada entre las 8.00 a.m. y las 10.00 a.m. y la salida en consecuencia con la hora de entrada entre las 17.00 p.m. y las 19.00 p.m.</p>
+    <p class="parrafo_2">15.1.3 Horario ordinario de trabajo en jornada de verano.</p>
+    <p class="parrafo_2">La jornada de verano se establece durante los meses de julio y agosto en horario de 8.00 a.m. a 15.00 a.m., de lunes a viernes. De acuerdo con lo dispuesto anteriormente, la jornada de verano será de 36 horas semanales.</p>
+    <p class="parrafo">Los empleados que disfruten de jornada de verano estarán sujetos al cumplimiento de las siguientes condiciones:</p>
+    <p class="parrafo_2">– Respetar el horario de trabajo de la Jornada Continua: de 08:00 h. a 15:00 h., de lunes a viernes con 15 minutos de descanso.</p>
+    <p class="parrafo">– Disfrutar un mínimo de 15 días laborables de sus vacaciones anuales, durante los meses de julio y agosto y/o durante el período navideño.</p>
+    <p class="parrafo">– Realizar, con carácter obligatorio, una guardia a la semana, en horario de 09:00 h. a 18:00 h. con una hora para comer, con el objeto de cubrir el servicio todos los días laborables. Cada Supervisor preparará la disposición de las guardias en su equipo, de acuerdo con la planificación de vacaciones. De la obligatoriedad de la guardia semanal, estarán excluidas las personas con reducción de jornada efectiva durante la jornada de verano. La realización de una guardia a la semana no impide que, el resto de los días, por necesidades de atención al servicio y/o compromisos con clientes, cada responsable pueda solicitar a cualquier persona que extienda su horario al habitual.</p>
+    <p class="parrafo_2">No obstante, siempre se procurará que, en los referidos supuestos de necesidades de atención al servicio y/o compromisos con clientes, no coincida la prolongación del horario en la persona que ha efectuado la guardia semanal inmediata anterior.</p>
+    <p class="parrafo">Para el caso de que, por necesidades del servicio y/o compromisos adquiridos con clientes, el trabajador no pudiera disfrutar de la totalidad de la jornada de verano, será compensado con tres días adicionales de descanso a disfrutar en el plazo máximo de 4 meses.</p>
+    <p class="parrafo_2">15.2 Cómputo de jornada de trabajadores dedicados o asignados a proyectos de cliente.</p>
+    <p class="parrafo_2">15.2.1 Aquellos trabajadores dedicados o asignados a proyectos de cliente que, por las necesidades del servicio, tengan que realizar su trabajo en condiciones distintas a las establecidas con carácter general en este convenio colectivo, ajustarán sus condiciones laborales de tiempo de trabajo a las necesidades del servicio en cuanto a jornada, horario y días festivos, durante el tiempo que el trabajador esté vinculado a dicho servicio. En tales supuestos, la jornada realizada por cada trabajador tendrá la consideración, en todo caso, de jornada ordinaria de trabajo.</p>
+    <p class="parrafo">15.2.2 Jornada inferior.</p>
+    <p class="parrafo_2">Si la jornada de trabajo efectiva realizada en los supuestos previstos en este apartado fuese inferior hasta en un 15% respecto de la jornada que le correspondería realizar si prestara sus servicios en el centro de trabajo al que esté adscrito, el trabajador disfrutará de la misma sin alteración de su sistema de retribución y sin necesidad de recuperar las horas dejadas de realizar.</p>
+    <p class="parrafo">En caso de que el número de horas realizadas efectivamente superase el porcentaje antes indicado, la Empresa podrá asignar al trabajador la realización de tareas hasta completar el menor número de horas realizado con la finalidad de alcanzar el porcentaje establecido en este párrafo.</p>
+    <p class="parrafo_2">15.2.3 Jornada superior.</p>
+    <p class="parrafo_2">Si la jornada de trabajo efectiva realizada en los supuestos previstos en este artículo fuese superior a la jornada ordinaria máxima prevista en cómputo anual en la Empresa, el trabajador y la Dirección de la Empresa pactarán las condiciones de la regularización de ese exceso de horas realizado, bien en tiempo de descanso, bien como compensación económica, en función de las necesidades organizativas de la Empresa.</p>
+    <p class="parrafo">En ambos casos, para proceder a la regularización cada hora de exceso se compensará con una hora ordinaria en tiempo de descanso o el valor económico unitario de la hora ordinaria.</p>
+    <p class="parrafo">En caso de optar por la compensación con tiempo de descanso, si esto no se produjera dentro de los cuatro meses siguientes, la compensación será económica.</p>
+    <p class="articulo">Artículo 16. Vacaciones.</p>
+    <p class="parrafo">El personal tiene derecho a disfrutar de 23 días laborables de vacaciones al año o la parte proporcional de ellas, en caso de no permanecer el año completo en alta en la Empresa.</p>
+    <p class="parrafo">El período de devengo de los días de vacaciones se extiende desde el 1 de enero hasta el 31 de diciembre de cada año.</p>
+    <p class="parrafo">El período de disfrute de los días de vacaciones se extiende desde el 1 de enero del año del devengo hasta el 30 de Abril del año siguiente (16 meses). Las vacaciones no disfrutadas caducan el 30 de abril del año posterior al devengo, salvo autorización por escrito del responsable y de la Dirección de la Empresa.</p>
+    <p class="parrafo">Cuando el periodo de vacaciones fijado en el calendario de vacaciones de la empresa coincida en el tiempo con una incapacidad temporal derivada del embarazo, el parto o la lactancia natural o con el periodo de suspensión del contrato de trabajo previsto en los apartados 4, 5 y 7 del artículo 48 ET, se tendrá derecho a disfrutar las vacaciones en fecha distinta a la de la incapacidad temporal o a la del disfrute del permiso que por aplicación de dicho precepto le correspondiera, al finalizar el periodo de suspensión, aunque haya terminado el año natural a que correspondan.</p>
+    <p class="parrafo">En el supuesto de que el periodo de vacaciones coincida con una incapacidad temporal por contingencias distintas a las señaladas en el párrafo anterior que imposibilite al trabajador disfrutarlas, total o parcialmente, durante el año natural a que corresponden, el trabajador podrá hacerlo una vez finalice su incapacidad y siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se hayan originado.</p>
+    <p class="parrafo">Todos los empleados de BT podrán disfrutar de un día adicional de vacaciones por cada tres años de servicio en la Empresa, con un máximo de tres días. Cada día adicional se sumará a los días de vacaciones del año siguiente a aquel en el que se cumplan los tres años.</p>
+    <p class="parrafo">Aquellos empleados que a título individual estén disfrutando, a la fecha de la entrada en vigor de este convenio colectivo, de 22 días laborables de vacaciones más 2 días adicionales para disfrutar durante los períodos de Semana Santa y/o Navidad, pasarán a disfrutar de 23 días laborables de vacaciones más 1 día adicional para disfrutar durante los periodos de Semana Santa y/o Navidad; respecto al día adicional se disfrutará desde el lunes anterior al Jueves Santo y hasta el viernes posterior al Lunes de Pascua, y/o desde el lunes anterior al día 24 de Diciembre hasta el viernes posterior al 6 de Enero del siguiente año. Este día adicional de vacaciones no será recuperable ni abonado bajo circunstancia alguna. Además, no se retribuirá en la liquidación del finiquito en caso de no haber sido disfrutado.</p>
+    <p class="parrafo">Los días 24 y 31 de diciembre se disfrutarán como días libres, siempre que el servicio o proyecto al que el trabajador esté asignado lo permita. En ningún caso estos días serán compensados.</p>
+    <p class="capitulo_num">CAPÍTULO V</p>
+    <p class="capitulo_tit">Condiciones retributivas</p>
+    <p class="articulo">Artículo 17. Principios generales y estructura retributiva.</p>
+    <p class="parrafo">El sistema retributivo de BT está formado por los conceptos que se establecen en este capítulo.</p>
+    <p class="parrafo">La estructura retributiva en la Empresa se compone de salario base bruto anual, de los distintos complementos salariales recogidos en el artículo 19 y, en su caso, de la retribución variable a que tuviera derecho el trabajador.</p>
+    <p class="articulo">Artículo 18. Salario base.</p>
+    <p class="parrafo">El salario base es la retribución mínima asignada a cada trabajador según su área funcional y grupo profesional como contraprestación por el desarrollo de las tareas que tiene encomendadas y para la realización de la jornada de trabajo y los períodos de descanso computables como de trabajo.</p>
+    <p class="parrafo">El salario base bruto mínimo anual de las diferentes áreas funcionales y grupos profesionales es el que se señala en las tablas salariales del anexo 1.</p>
+    <p class="parrafo">No obstante lo anterior, los trabajadores dados de alta en la Empresa en la fecha de la entrada en vigor del presente convenio colectivo, dejarán de percibir los conceptos retributivos de «plus de transporte», «paga de beneficios» y «plus de productividad» (si venían percibiendo los mismos) y la cuantía de los referidos conceptos se incorporará al salario base a partir de la fecha de la entrada en vigor del presente convenio colectivo.</p>
+    <p class="articulo">Artículo 19. Complementos salariales.</p>
+    <p class="parrafo">Son complementos salariales las retribuciones del trabajador que se agregan al salario base, cuando concurren los requisitos y circunstancias que dan derecho a su percepción. Se establecen los siguientes complementos salariales:</p>
+    <p class="parrafo_2">– Complemento 1 convenio colectivo BT (complemento 1 BT): este complemento retribuye la diferencia entre el Salario Base del grupo profesional en el que el trabajador esté adscrito como consecuencia de la nueva clasificación profesional establecida en el presente convenio y la cuantía que, hasta la entrada en vigor del presente convenio colectivo, el trabajador venía percibiendo por alguno de los siguientes conceptos (tal y como vienen identificados, hasta la fecha de entrada en vigor del convenio, en el recibo de nómina): salario base, plus de transporte, paga de beneficios, plus de productividad, antigüedad, ex-antigüedad, ex-categoría, plus convenio y plus permanencia, de acuerdo a su categoría profesional y convenio colectivo de aplicación.</p>
+    <p class="parrafo">– Complemento consolidado: Este complemento retribuye las cuantías que, hasta la fecha de entrada en vigor del presente convenio colectivo, el trabajador venía percibiendo por alguno de los siguientes conceptos retributivos: antigüedad no absorbible, complemento personal de antigüedad, complemento personal consolidado, plus compensatorio y plus de permanencia, de acuerdo a su categoría profesional y convenio colectivo de aplicación.</p>
+    <p class="parrafo">– Complemento a devengos: bajo el concepto de complemento a devengos el trabajador percibirá la cuantía salarial que, a la fecha de entrada en vigor del presente convenio colectivo, exceda de las cuantías percibidas bajo los conceptos de salario base, regulado en el artículo 18, y los complementos previstos en el presente artículo.</p>
+    <p class="parrafo">– Plus de permanencia: La antigüedad del trabajador se computará desde su ingreso en la Empresa, contabilizándose el periodo de aprendizaje y consistirá en cuatrienios hasta un límite máximo de 6, respetándose las situaciones de aquellos trabajadores que a la entrada en vigor del primer convenio colectivo de BT, tuvieran un número superior.</p>
+    <p class="parrafo">Supondrá un pago único para el empleado que genere un cuatrienio y con los límites establecidos en el párrafo anterior, cantidad no absorbible ni compensable, cuyo importe se señala en las tablas salariales del anexo 1.</p>
+    <p class="parrafo_2">Se indica a continuación una tabla explicativa de la conversión de la estructura salarial:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla"> </th>
+          <th class="cabeza_tabla">Correspondencia Estructura salarial anterior*</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="34%"/>
+        <col width="66%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Salario base.</td>
+          <td class="cuerpo_tabla_izq">Salario Base, Plus Transporte, Paga de beneficios, Plus productividad.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Complemento 1 convenio colectivo BT.</td>
+          <td class="cuerpo_tabla_izq">Diferencia entre SB actual y SB nuevo convenio, Antigüedad, ex antigüedad, ex categoría. Plus Convenio. Plus Permanencia.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Plus de permanencia.</td>
+          <td class="cuerpo_tabla_izq">Se genera cada cuatro años, cantidad única para todos los empleados.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prorrateo pagas extras.</td>
+          <td class="cuerpo_tabla_izq">Correspondiente a las 2 pagas extraordinarias.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Complemento consolidado.</td>
+          <td class="cuerpo_tabla_izq">Complemento personal de Antigüedad, Complemento Personal Consolidado, antigüedad no absorbible. Plus Compensatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Complemento a devengos.</td>
+          <td class="cuerpo_tabla_izq">Complemento a Devengos.</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="2">
+            <p class="cita">* En los casos que dichos conceptos apliquen.</p>
+          </td>
+        </tr>
+      </tfoot>
+    </table>
+    <p class="parrafo_2">A los efectos del presente convenio colectivo, se entenderá por salario fijo bruto anual la suma percibida por el trabajador por todos los conceptos retributivos recogidos en el artículo 18, 22 y en el presente artículo.</p>
+    <p class="articulo">Artículo 20. Horas extraordinarias.</p>
+    <p class="parrafo">El valor de la hora extraordinaria será igual a la hora individual calculada sobre el salario fijo bruto anual de cada trabajador y tendrán un recargo del 75% y del 150% las realizadas en domingos o festivos.</p>
+    <p class="articulo">Artículo 21. Revisión salarial.</p>
+    <p class="parrafo">21.1 Revisión salarial fija para todos los empleados de la compañía.</p>
+    <p class="parrafo_2">Las partes firmantes acuerdan negociar la subida de los conceptos retributivos: salario base, complemento 1 convenio colectivo BT, prorrateo de pagas extraordinarias, plus de permanencia, dietas, pluses de disponibilidad y guardias, en la prórroga del presente convenio, cuyo acuerdo, de alcanzarse, será aplicable con efecto del 1 de abril 2021, sin compensación ni absorción, para todos los empleados que se encuentren en situación de alta a 31 de marzo de 2021.</p>
+    <p class="parrafo_2">21.2 Bolsa de beneficios.</p>
+    <p class="parrafo_2">Para los empleados que a la firmar del presente convenio no disfrutaran de ayuda de comida superior a la 132€ anuales ni de seguro médico (pagado por la Compañía de sus beneficiarios), y para las nuevas incorporaciones, se establece una bolsa de beneficios de 132€ anuales.</p>
+    <p class="parrafo_2">21.3 Seguro Médico.</p>
+    <p class="parrafo_2">Las partes acuerdan, mantener la estructura actual complementándose para todos los trabajadores la póliza del seguro médico del empleado al 100%, en las mismas condiciones que tienen los trabajadores que lo disfrutan al 100% en la actualidad, sin incluir a sus beneficiarios.</p>
+    <p class="articulo">Artículo 22. Gratificaciones extraordinarias.</p>
+    <p class="parrafo">Los trabajadores tienen derecho a dos gratificaciones extraordinarias al año, una de ellas en el mes de julio y otra en el mes de diciembre por un importe equivalente a una mensualidad ordinaria, entendiendo como tal, el salario base del artículo 18 del presente convenio colectivo.</p>
+    <p class="parrafo">Las gratificaciones extraordinarias se prorratearán en las doce mensualidades.</p>
+    <p class="articulo">Artículo 23. Pago de las retribuciones.</p>
+    <p class="parrafo">El salario se pagará mediante transferencia bancaria en los últimos cinco días de cada mes.</p>
+    <p class="parrafo">Todas las retribuciones que se fijen en el presente convenio colectivo serán brutas y la Empresa practicará las retenciones que, por impuestos y cuotas a la Seguridad Social, establezca la ley.</p>
+    <p class="articulo">Artículo 24. Dietas y viajes.</p>
+    <p class="parrafo">En los supuestos de viajes o desplazamientos a poblaciones distintas a las que está radicada el centro de trabajo, para los gastos ocasionados se estará a lo dispuesto en la «Política de Viajes y Gastos de BT».</p>
+    <p class="parrafo">Para el caso de que los empleados opten por la opción de dieta o media dieta, frente a la «Política de Viajes y Gastos de BT», se establecen los importes que se señalan en las tablas del anexo 1.</p>
+    <p class="parrafo">Los días de salida devengarán idéntica dieta y los días de llegada quedarán reducidos a la mitad, cuando el trabajador o trabajadora pernocte en su domicilio, a menos que hubiera de efectuar las dos comidas principales fuera de su domicilio.</p>
+    <p class="parrafo">Si por circunstancias especiales, los gastos originados por desplazamiento sobrepasaran el importe de la dieta, el exceso deberá ser abonado por la empresa tras posterior justificación.</p>
+    <p class="capitulo_num">CAPÍTULO VI</p>
+    <p class="capitulo_tit">Movilidad funcional. Movilidad geográfica</p>
+    <p class="seccion">Movilidad funcional</p>
+    <p class="articulo">Artículo 25. Movilidad funcional.</p>
+    <p class="parrafo">La movilidad funcional en el seno de la Empresa se realizará de conformidad con el régimen jurídico, garantías y requisitos establecidos en el Estatuto de los Trabajadores, sin otras limitaciones que las exigidas por las aptitudes profesionales, funciones, especialidades profesionales, responsabilidades, conocimientos, complejidad, autonomía, dificultad y competencias precisas para ejercer la prestación laboral, la pertenencia al Grupo Profesional y la idoneidad del trabajador para el desarrollo de las nuevas funciones, previa realización, si ello fuera necesario, de los correspondientes procesos de formación y adaptación.</p>
+    <p class="seccion">Movilidad geográfica</p>
+    <p class="articulo">Artículo 26. Desplazamiento temporal.</p>
+    <p class="parrafo">Por desplazamiento temporal se entiende el que obliga a un cambio de residencia del empleado por un tiempo no superior a un año. Se aplicará el artículo 40 del Estatuto de los Trabajadores sobre movilidad geográfica.</p>
+    <p class="parrafo">Para este desplazamiento temporal, se tendrán en consideración, en la medida de lo posible, las circunstancias personales y el propio desplazamiento. Se compensará económicamente y el importe se determinara caso por caso, acordándolo con el trabajador afectado por la medida, sin perjuicio de la obligatoriedad del movimiento.</p>
+    <p class="parrafo">En el supuesto que el número de trabajadores afectados supere el 1% en los doce meses anteriores, el importe de la compensación económica se acordará en el seno de la Comisión Paritaria.</p>
+    <p class="parrafo">En todo caso se incluirá ayuda a gastos de viaje, mudanza y alojamiento temporal.</p>
+    <p class="articulo">Artículo 27. Traslado.</p>
+    <p class="parrafo">Se considera traslado el destino no temporal de un empleado a un centro o lugar de trabajo permanente de la Empresa diferente al que está adscrito, siempre que exija cambio de residencia. Sin perjuicio de la capacidad de la Empresa de requerir la acreditación del cambio de residencia, en caso de discrepancia, estos supuestos se analizarán en el marco de la Comisión Paritaria.</p>
+    <p class="parrafo">Se entenderá que el traslado lleva asociado cambio de residencia cuando el centro o lugar de trabajo al que sea trasladado el trabajador se encuentre a una distancia superior a 80 kilómetros respecto del centro o lugar de trabajo de origen.</p>
+    <p class="parrafo">Será de aplicación el artículo 40 del Estatuto de los Trabajadores y podrá acordarse por las dos partes, a petición del empleado, o de la Empresa, o con carácter forzoso.</p>
+    <p class="parrafo">Los traslados quedarán circunscritos a los centros y lugares de trabajo de los que la Empresa disponga en cada momento. Se tendrán en consideración, en la medida de lo posible, las circunstancias personales y el propio desplazamiento. Se compensaran económicamente y el importe se determinara caso por caso, acordándolo con el trabajador afectado por la medida, sin perjuicio de la obligatoriedad del movimiento. En el supuesto que el número de trabajadores afectados supere el 1% en los doce meses anteriores, el importe de la compensación económica se acordará en el seno de la Comisión Paritaria.</p>
+    <p class="parrafo">En todo caso se incluirá ayuda a gastos de viaje, mudanza y alojamiento temporal.</p>
+    <p class="parrafo">Para una correcta interpretación de esta norma debe distinguirse entre traslado forzoso y voluntario:</p>
+    <p class="parrafo_2">– Forzoso: aquel que viene impuesto por la Dirección de la Empresa, por razones económicas, técnicas, organizativas o de producción que lo justifiquen. Se considerarán tales las que estén relacionadas con la competitividad, productividad u organización técnica o del trabajo en la empresa, así como las contrataciones referidas a la actividad empresarial.</p>
+    <p class="parrafo">– Voluntario: aquel solicitado directamente por el empleado, ya sea de forma directa por interés personal, ya por concurrir a la cobertura de una vacante cuyo puesto supone el traslado.</p>
+    <p class="articulo">Artículo 28. Desplazamientos sin cambio de domicilio.</p>
+    <p class="parrafo">Se denominará desplazamiento sin cambio de domicilio el realizado por el trabajador para el desarrollo de su prestación laboral para atender a las necesidades del servicio o del cliente.</p>
+    <p class="parrafo_2">a) En los supuestos de desplazamientos realizados por los trabajadores que presten servicios en un centro o lugar de trabajo de forma habitual se estará a lo dispuesto en las directrices y normas establecidas en la «Política de viajes y gastos de BT» vigente en cada momento.</p>
+    <p class="parrafo">b) En los supuestos de desplazamientos, que impliquen cambio de centro o lugar de trabajo habitual, la Empresa abonará la diferencia del precio del traslado desde su domicilio al nuevo centro de trabajo, si es que la hubiere, tomando como referencia el precio del transporte público.</p>
+    <p class="parrafo">Se notificará por escrito la duración del desplazamiento, y con antelación suficiente para poder conciliar la vida profesional y familiar.</p>
+    <p class="capitulo_num">CAPÍTULO VII</p>
+    <p class="capitulo_tit">Permisos y licencias</p>
+    <p class="articulo">Artículo 29. Permisos retribuidos.</p>
+    <p class="parrafo">1. Adicionalmente a los permisos establecidos en el art. 37 ET, los trabajadores, previo aviso y justificación, podrán ausentarse del trabajo, con derecho a remuneración, por alguno de los motivos y por el tiempo siguiente:</p>
+    <p class="parrafo_2">a) Tres días laborables por el nacimiento de hijo. En el caso de nacimiento por cesárea, el padre podrá disponer de dos días laborables adicionales.</p>
+    <p class="parrafo">b) En el caso de las mujeres embarazadas, quince días naturales previos a la fecha prevista del parto.</p>
+    <p class="parrafo">c) En los casos de acogimiento y adopción, la Empresa facilitará quince días naturales en concepto de permiso remunerado, los cuales serán a partir de la asignación del menor por parte de la Administración competente.</p>
+    <p class="parrafo">d) Dos días laborables por el fallecimiento, accidente o enfermedad grave, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario, de parientes hasta el primer grado de consanguinidad o afinidad. Cuando con tal motivo el trabajador necesite hacer un desplazamiento al efecto, el plazo será de cuatro días laborables. La distancia mínima requerida para que pueda entenderse la necesidad de desplazamiento será de 200 km por trayecto.</p>
+    <p class="parrafo">e) Dos días naturales por el fallecimiento, accidente o enfermedad grave, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario, de parientes de segundo grado de consanguinidad o afinidad. Cuando con tal motivo el trabajador necesite hacer un desplazamiento al efecto, el plazo será de cuatro días naturales. La distancia mínima requerida para que pueda entenderse la necesidad de desplazamiento será de 200 km por trayecto.</p>
+    <p class="parrafo_2">2. Para la concesión y ejercicio de los permisos y licencias regulados en el presente convenio colectivo, los trabajadores deberán presentar a la mayor brevedad que permitan las circunstancias, ante la Dirección de la Empresa, los justificantes y la documentación pertinente que acredite la existencia de las circunstancias o hechos causantes en que los fundamenten.</p>
+    <p class="parrafo">3. Los permisos y licencias antes indicados deben disfrutarse en la fecha en que se produce o se está produciendo el hecho causante, no pudiendo ser trasladados a días hábiles, resultando irrelevante que aquél coincida en día festivo o con el periodo de disfrute de vacaciones.</p>
+    <p class="articulo">Artículo 30. Permisos no retribuidos.</p>
+    <p class="parrafo">1. Los trabajadores que cuenten con una antigüedad mínima de un año en la Empresa, tendrán derecho a disfrutar de un permiso no retribuido (Excedencia Óptima) de una duración mínima de 1 semana (7 días naturales) y máxima de 1 mes, pudiéndose solicitar esta excedencia cada tres años, sin necesidad de justificar su causa. Para poder disfrutar de dicho permiso es condición indispensable tener la aprobación del supervisor directo, que dependerá de las necesidades del servicio y siempre que no sea necesario cubrir la plaza ya sea con la plantilla o subcontratación.</p>
+    <p class="parrafo">2. En los supuestos de acogimiento y adopción, la Empresa facilitará a los progenitores la posibilidad de solicitar un permiso no retribuido, por un tiempo máximo de 30 días naturales.</p>
+    <p class="articulo">Artículo 31. Complemento por nacimiento y cuidado de menor e incapacidad temporal.</p>
+    <p class="parrafo">Durante la situación de permiso por nacimiento y cuidado de menor e incapacidad temporal toda persona empleada percibirá, durante el periodo legal vigente, con cargo a la Empresa la diferencia entre la prestación correspondiente de la Seguridad Social y el 100% de su salario fijo bruto percibido en el mes anterior a producirse la situación de suspensión del contrato.</p>
+    <p class="articulo">Artículo 32. Parejas de hecho.</p>
+    <p class="parrafo">Se reconoce la plena equiparación de los derechos del régimen matrimonial al de las parejas de hecho, siempre y cuando resulte debidamente acreditada la existencia de tal condición, siendo el medio adecuado y necesario para ello la certificación del Registro de Parejas de Hecho correspondiente, acta notarial en la cual así se declare, u otra acreditación legalmente válida.</p>
+    <p class="articulo">Artículo 33. Seguro de vida y accidentes.</p>
+    <p class="parrafo">La Empresa tiene concertada, a su cargo, una póliza de seguro de vida y accidentes para todos los Empleados, que cubre los riesgos de fallecimiento por cualquier causa, incapacidad permanente absoluta para cualquier profesión u oficio por cualquier causa y fallecimiento por accidente.</p>
+    <p class="parrafo">Los Empleados tendrán a su disposición en la intranet de la Empresa el resumen de las condiciones particulares de la póliza del referido seguro de vida y accidentes.</p>
+    <p class="capitulo_num">CAPÍTULO VIII</p>
+    <p class="capitulo_tit">Comisión Paritaria</p>
+    <p class="articulo">Artículo 34. Comisión Paritaria.</p>
+    <p class="parrafo">1. Se constituye una Comisión Paritaria para resolver las cuestiones que se deriven de la interpretación y aplicación de este convenio colectivo, de conformidad con lo previsto en el artículo 85.3.e) del Estatuto de los Trabajadores. A este respecto, las partes firmantes del presente Convenio se adhieren al V Acuerdo sobre Solución Autónoma de Conflictos Laborales (sistema extrajudicial), en caso de que se produjeran discrepancias en el seno de la comisión paritaria.</p>
+    <p class="parrafo">La Comisión Paritaria estará compuesta por 3 miembros de los sindicatos firmantes del presente convenio colectivo, guardándose la proporción de su representatividad en la Empresa según los resultados obtenidos en las últimas elecciones sindicales efectuadas y el mismo número en representación de la Empresa que serán designados en la forma que decidan las respectivas organizaciones y con las funciones que más adelante se especifican.</p>
+    <p class="parrafo">2. Los acuerdos de la Comisión Paritaria requerirán en todo caso el voto favorable de la mayoría de la representación sindical y de la Empresa.</p>
+    <p class="parrafo">3. La Comisión Paritaria se reunirá, con carácter extraordinario, cuando alguna de las partes la convoque y su funcionamiento se articulará en la forma que la misma acuerde. A las reuniones de la Comisión Paritaria podrán asistir, con voz pero sin voto, los asesores que en cada caso designen las respectivas representaciones. Se levantará acta de cada una de las reuniones.</p>
+    <p class="parrafo">4. La Comisión Paritaria tendrá su domicilio en la sede social de la Empresa pudiendo libremente trasladar el mismo a cualquier otro lugar, bastando para ello el acuerdo de ambas representaciones.</p>
+    <p class="parrafo">5. Los miembros de la Comisión Paritaria ejercerán sus funciones durante el periodo de vigencia del convenio colectivo, pudiendo cesar por libre revocación de las organizaciones que los eligieron, así como por renuncia o decisión personal. En cualquiera de los supuestos de cese se procederá de forma inmediata a su sustitución, a cuyos efectos dentro de los quince días siguientes al cese se notificará la nueva designación por la organización correspondiente.</p>
+    <p class="parrafo">6. La Comisión Paritaria se dotará de un Presidente, designado de entre los representantes de la empresa y un Secretario elegido de entre los miembros de la representación sindical. Ninguno de los dos cargos citados anteriormente gozará de voto de calidad.</p>
+    <p class="parrafo">7. La Comisión Paritaria tendrá las siguientes funciones:</p>
+    <p class="parrafo_2">a) Vigilancia y seguimiento del cumplimiento del convenio colectivo.</p>
+    <p class="parrafo">b) Interpretación de la totalidad de los preceptos del convenio colectivo.</p>
+    <p class="parrafo">c) Análisis y, en su caso, actualización de los puestos de trabajo y su encuadre en los actuales Grupos Profesionales, siempre que exista reclamación individual previa de un trabajador.</p>
+    <p class="parrafo">d) A instancia de alguna de las partes, mediar y/o intentar conciliar, en su caso, y previo acuerdo de estas, arbitrar en cuantas ocasiones y conflictos, todos ellos de carácter colectivo, puedan suscitarse en la aplicación del convenio colectivo.</p>
+    <p class="parrafo">e) Entender, de forma previa y obligatoria a la vía administrativa y jurisdiccional, el planteamiento de conflictos colectivos que surjan por la aplicación e interpretación del convenio colectivo.</p>
+    <p class="parrafo">f) Cuantas otras funciones tiendan a la mayor eficacia práctica del convenio colectivo, o se deriven de lo estipulado en su texto y anexos que formen parte del mismo, tanto de carácter individual como colectivo.</p>
+    <p class="parrafo_2">8. Como trámite que será previo y preceptivo a toda actuación administrativa o jurisdiccional que se promueva individualmente, los trabajadores afectados por el presente convenio colectivo se obligan a poner en conocimiento de la Comisión Paritaria cuantas dudas, discrepancias y conflictos sean relativos a tiempo de trabajo, grupos profesionales, movilidad geográfica y funcional o reclamación de cantidad; a fin de que mediante su intervención se resuelva el problema planteado o, si ello no fuera posible, emita dictamen al respecto, sin que ello menoscabe su derecho a acudir a la vía administrativa o jurisdiccional.</p>
+    <p class="capitulo_num">CAPÍTULO IX</p>
+    <p class="capitulo_tit">Inaplicación de condiciones de trabajo</p>
+    <p class="articulo">Artículo 35. Procedimiento de resolución de discrepancias del procedimiento de no aplicación de condiciones de trabajo recogidos en el artículo 82.3 del Estatuto de los Trabajadores.</p>
+    <p class="parrafo">Cuando concurran causas económicas, técnicas, organizativas o de producción, por acuerdo entre la Empresa y los representantes de los trabajadores legitimados para negociar un convenio colectivo conforme a lo previsto en el artículo 87.1, se podrá proceder, previo desarrollo de un período de consultas en los términos del artículo 41.4 del Estatuto de los Trabajadores, a inaplicar en la Empresa las condiciones de trabajo previstas en el convenio colectivo aplicable que afecten a las siguientes materias:</p>
+    <p class="parrafo_2">a) Jornada de trabajo.</p>
+    <p class="parrafo">b) Horario y la distribución del tiempo de trabajo.</p>
+    <p class="parrafo">c) Régimen de trabajo as turnos.</p>
+    <p class="parrafo">d) Sistema de remuneración y cuantía salarial.</p>
+    <p class="parrafo">e) Sistema de trabajo y rendimiento.</p>
+    <p class="parrafo">f) Funciones, cuando excedan de los límites que para la movilidad funcional prevé el artículo 39 de esta Ley.</p>
+    <p class="parrafo">g) Mejoras voluntarias de la acción protectora de la Seguridad Social.</p>
+    <p class="parrafo_2">En caso de desacuerdo durante el período de consultas cualquiera de las partes podrá someter la discrepancia a la Comisión paritaria del convenio que dispondrá de un plazo máximo de siete días para pronunciarse, a contar desde que la discrepancia fuera planteada. Cuando no se hubiera solicitado la intervención de la Comisión paritaria o ésta no alcanzara un acuerdo, las partes se comprometen a recurrir a los procedimientos establecidos en los acuerdos interprofesionales de ámbito estatal o autonómico, previstos en el artículo 83 del Estatuto de los Trabajadores, para solventar de manera efectiva las discrepancias surgidas en la negociación de los acuerdos a que se refiere este apartado.</p>
+    <p class="parrafo">Cuando el período de consultas finalice sin acuerdo y las partes no se hubieran sometido a los procedimientos mencionados a los que se refiere el párrafo anterior o estos no hubieran solucionado la discrepancia, cualquiera de las partes podrá someter la solución de la misma a la Comisión Consultiva Nacional de Convenios Colectivos cuando la inaplicación de las condiciones de trabajo afectase a centros de trabajo de la Empresa situados en el territorio de más de una comunidad autónoma, o a los órganos correspondientes de las comunidades autónomas en los demás casos. La decisión de estos órganos, que podrá ser adoptada en su propio seno o por un árbitro designado al efecto por ellos mismos con las debidas garantías para asegurar su imparcialidad, habrá de dictarse en plazo no superior a veinticinco días a contar desde la fecha del sometimiento del conflicto ante dichos órganos. Tal decisión tendrá la eficacia de los acuerdos alcanzados en período de consultas y sólo será recurrible conforme al procedimiento y en base a los motivos establecidos en el artículo 91 del Estatuto de los Trabajadores.</p>
+    <p class="capitulo_num">CAPÍTULO X</p>
+    <p class="capitulo_tit">Representación de los trabajadores y acción sindical</p>
+    <p class="articulo">Artículo 36. Representación de los Trabajadores.</p>
+    <p class="parrafo">La Representación de los Trabajadores en el seno de la Empresa se instrumenta a través del Comité Intercentros, los Comités de Empresa, Delegados de Personal y de los Delegados Sindicales de la Sección Sindical de Empresa, que tendrán las facultades, derechos y obligaciones señalados para los mismos en la Ley Orgánica de Libertad Sindical, Estatuto de los Trabajadores y el presente convenio colectivo.</p>
+    <p class="parrafo">La intervención como interlocutores ante la dirección de la Empresa en todos los procedimientos, comisiones o consultas previstos legalmente o en el presente convenio colectivo, corresponderá a las Secciones Sindicales firmantes y no firmantes del presente convenio colectivo siempre que hayan obtenido representación en las últimas elecciones sindicales y al Comité Intercentros (si constituido) o, en su lugar, los Comités de Empresa legalmente establecidos.</p>
+    <p class="articulo">Artículo 37. Comité Intercentros.</p>
+    <p class="parrafo">1. Composición.</p>
+    <p class="parrafo_2">El Comité Intercentros, que se creará al amparo del artículo 63 del Estatuto de los Trabajadores cuando en la empresa exista una pluralidad de centros de trabajo con comités de empresa o delegados de personal, estará compuesto por un máximo de 7 miembros, que serán designados de entre los componentes de los Comités de Empresa y/o Delegados de Personal. En su constitución se guardará la debida proporcionalidad, según el número de representantes unitarios obtenidos por cada candidatura en las elecciones sindicales de todos los centros de trabajo de la Empresa en todo el ámbito estatal.</p>
+    <p class="parrafo_2">2. Competencias.</p>
+    <p class="parrafo_2">– El Comité Intercentros tendrá, en el ámbito estatal, las competencias que la ley y el presente convenio colectivo atribuyen a los Comités de Empresa y Delegados de Personal, en su ámbito respectivo y específicamente el de negociar convenios colectivos.</p>
+    <p class="parrafo">– Tendrá la facultad de constituir las distintas comisiones internas que crea convenientes.</p>
+    <p class="parrafo">– Durante los procesos de Negociación colectiva podrán ser asistidos de cinco asesores como máximo, según niveles de representatividad de los distintos sindicatos con presencia en el Comité Intercentros.</p>
+    <p class="parrafo">– El Comité Intercentros designará los miembros que formarán parte, en su caso, del Comité Intercentros de Seguridad y Salud Laboral, así como los integrantes de las Comisiones que se prevean en el presente convenio colectivo, respetando la misma representatividad de los integrantes del Comité Intercentros.</p>
+    <p class="parrafo_2">3. Los integrantes del Comité Intercentros tendrán derecho a asistir a 3 reuniones al año del Comité Intercentros, las horas y los gastos incurridos por la asistencia a las referidas reuniones serán a cargo de la Empresa, previa justificación documental.</p>
+    <p class="articulo">Artículo 38. Acumulación del crédito horario.</p>
+    <p class="parrafo">Los miembros de los Comités de Empresa, podrán acumular su crédito horario en uno o en varios miembros.</p>
+    <p class="articulo">Articulo 39. Elecciones sindicales.</p>
+    <p class="parrafo">Las elecciones sindicales se celebrarán el mismo día en las distintas unidades electorales existentes en BT. La circunscripción será por centro de trabajo adscrito, excepto en aquellas circunscripciones que tengan menos de 6 trabajadores, en cuyo caso se podrá aplicar el art. 63.2 del ET.</p>
+    <p class="articulo">Artículo 40. Comisiones de Estudio.</p>
+    <p class="parrafo">1. Se crearán comisiones de estudio que tendrán carácter paritario, y estarán compuestas por 3 miembros de los sindicatos firmantes del presente convenio colectivo, guardándose la proporción de su representatividad en la Empresa según los resultados obtenidos en las últimas elecciones sindicales efectuadas, y el mismo número en representación de la Empresa.</p>
+    <p class="parrafo">2. Las comisiones se constituirán y comenzarán sus actividades después de la firma del presente convenio colectivo, en las siguientes materias:</p>
+    <p class="parrafo_2">– Salud laboral.</p>
+    <p class="parrafo">– Igualdad.</p>
+    <p class="parrafo">– Formación.</p>
+    <p class="parrafo_2">3. No obstante lo establecido en el apartado anterior, se podrán crear comisiones de estudio, con la misma composición y proporción que la indicada en el apartado 1 del presente artículo en cualquier otra materia que las partes acuerden.</p>
+    <p class="capitulo_num">CAPÍTULO XI</p>
+    <p class="capitulo_tit">Prevención de riesgos laborales. Seguridad y salud laboral</p>
+    <p class="articulo">Artículo 41. Principios generales.</p>
+    <p class="parrafo">Tanto la Empresa como los trabajadores de BT vienen obligados a observar y cumplir las disposiciones y medidas de prevención de la seguridad y salud laboral contenidas en la legislación vigente en cada momento.</p>
+    <p class="parrafo">Las partes firmantes del presente convenio colectivo valoran la importancia de la formación como elemento esencial de las acciones preventivas, comprometiéndose por tanto a realizarla de forma eficaz.</p>
+    <p class="parrafo">Asimismo, se emprenderán acciones y medidas encaminadas a lograr una mejora de la calidad de vida y medio ambiente de trabajo, desarrollando objetivos de promoción, defensa de la salud y mejora de las condiciones de trabajo.</p>
+    <p class="articulo">Artículo 42. Delegados de Prevención y Comité de Seguridad y Salud.</p>
+    <p class="parrafo">1. Los Delegados de Prevención son los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo. Serán designados por y entre los representantes del personal con arreglo a la escala establecida en la normativa vigente, salvo pacto en contrario con la Empresa.</p>
+    <p class="parrafo">2. El Comité de Seguridad y Salud Laboral asumirá las funciones que le correspondan según la legislación, y su composición será la que establezca la normativa vigente.</p>
+    <p class="articulo">Artículo 43. Competencias, facultades y garantías.</p>
+    <p class="parrafo">Las competencias, facultades y garantías de los Delegados de Prevención y del Comité de Seguridad y Salud serán los establecidos en la normativa vigente.</p>
+    <p class="capitulo_num">CAPÍTULO XII</p>
+    <p class="capitulo_tit">Igualdad y conciliación</p>
+    <p class="parrafo_2">Se estará a lo dispuesto en la legislación vigente y en el Plan de Igualdad vigente.</p>
+    <p class="articulo">Artículo 44. Trabajo flexible.</p>
+    <p class="parrafo">Se estará a lo dispuesto en la legislación vigente y en el modelo de trabajo flexible vigente en BT, cuyo contenido inicial fue suscrito por ambas partes el 17 de Noviembre de 2010.</p>
+    <p class="capitulo_num">CAPÍTULO XIII</p>
+    <p class="capitulo_tit">Políticas de disponibilidad, guardias, turnicidad y nocturnidad</p>
+    <p class="parrafo_2">Se estará a lo dispuesto en la legislación vigente y en las Políticas de Disponibilidad, Guardias, Turnicidad y Nocturnidad vigentes en BT, cuyo último contenido fue suscrito por ambas partes el 26 Diciembre de 2017.</p>
+    <p class="capitulo_num">CAPÍTULO XIV</p>
+    <p class="capitulo_tit">Política de desconexión digital</p>
+    <p class="parrafo_2">Las partes acuerdan trabajar sobre las políticas de desconexión digital y una vez acordadas se procederá a implantarlas en la compañía.</p>
+    <p class="parrafo">Se estará a lo dispuesto en la legislación vigente y en la Políticas de Desconexión Digital vigentes en BT.</p>
+    <p class="anexo_num">ANEXO I</p>
+    <p class="anexo_tit">Tablas salariales I Convenio Colectivo de BT</p>
+    <p class="centro_cursiva">Tablas vigentes hasta 31/03/2021</p>
+    <cocol width="60%"> </cocol>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Función</th>
+          <th class="cabeza_tabla">Grupo profesional</th>
+          <th class="cabeza_tabla">Salario base anual (incluye 2 pagas extras)</th>
+          <th class="cabeza_tabla">Salario mensual</th>
+          <th class="cabeza_tabla">Prorrateo 2 pagas</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="28%"/>
+        <col width="14%"/>
+        <col width="18%"/>
+        <col width="20%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Servicios Profesionales.</td>
+          <td class="cuerpo_tabla_izq">Grupo 1.</td>
+          <td class="cuerpo_tabla_centro">28.207,59</td>
+          <td class="cuerpo_tabla_centro">2.014,83</td>
+          <td class="cuerpo_tabla_centro">335,80</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 2.</td>
+          <td class="cuerpo_tabla_centro">24.028,69</td>
+          <td class="cuerpo_tabla_centro">1.716,33</td>
+          <td class="cuerpo_tabla_centro">286,06</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 3.</td>
+          <td class="cuerpo_tabla_centro">21.416,87</td>
+          <td class="cuerpo_tabla_centro">1.529,78</td>
+          <td class="cuerpo_tabla_centro">254,96</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 4.1.</td>
+          <td class="cuerpo_tabla_centro">19.327,42</td>
+          <td class="cuerpo_tabla_centro">1.380,53</td>
+          <td class="cuerpo_tabla_centro">230,09</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 4.2.</td>
+          <td class="cuerpo_tabla_centro">17.237,97</td>
+          <td class="cuerpo_tabla_centro">1.231,28</td>
+          <td class="cuerpo_tabla_centro">205,21</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Gestión Operativa.</td>
+          <td class="cuerpo_tabla_izq">Grupo 1.</td>
+          <td class="cuerpo_tabla_centro">28.207,59</td>
+          <td class="cuerpo_tabla_centro">2.014,83</td>
+          <td class="cuerpo_tabla_centro">335,80</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 2.</td>
+          <td class="cuerpo_tabla_centro">24.028,69</td>
+          <td class="cuerpo_tabla_centro">1.716,33</td>
+          <td class="cuerpo_tabla_centro">286,06</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 3.</td>
+          <td class="cuerpo_tabla_centro">21.416,87</td>
+          <td class="cuerpo_tabla_centro">1.529,78</td>
+          <td class="cuerpo_tabla_centro">254,96</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 4.1.</td>
+          <td class="cuerpo_tabla_centro">17.237,97</td>
+          <td class="cuerpo_tabla_centro">1.231,28</td>
+          <td class="cuerpo_tabla_centro">205,21</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Gestión Contrato/Oferta.</td>
+          <td class="cuerpo_tabla_izq">Grupo 1.</td>
+          <td class="cuerpo_tabla_centro">28.207,59</td>
+          <td class="cuerpo_tabla_centro">2.014,83</td>
+          <td class="cuerpo_tabla_centro">335,80</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 2.</td>
+          <td class="cuerpo_tabla_centro">24.028,69</td>
+          <td class="cuerpo_tabla_centro">1.716,33</td>
+          <td class="cuerpo_tabla_centro">286,06</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 3.</td>
+          <td class="cuerpo_tabla_centro">21.416,87</td>
+          <td class="cuerpo_tabla_centro">1.529,78</td>
+          <td class="cuerpo_tabla_centro">254,96</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 4.1.</td>
+          <td class="cuerpo_tabla_centro">17.237,97</td>
+          <td class="cuerpo_tabla_centro">1.231,28</td>
+          <td class="cuerpo_tabla_centro">205,21</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Apoyo Corporativo.</td>
+          <td class="cuerpo_tabla_izq">Grupo 1.</td>
+          <td class="cuerpo_tabla_centro">28.207,59</td>
+          <td class="cuerpo_tabla_centro">2.014,83</td>
+          <td class="cuerpo_tabla_centro">335,80</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 2.</td>
+          <td class="cuerpo_tabla_centro">24.028,69</td>
+          <td class="cuerpo_tabla_centro">1.716,33</td>
+          <td class="cuerpo_tabla_centro">286,06</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 3.</td>
+          <td class="cuerpo_tabla_centro">19.327,42</td>
+          <td class="cuerpo_tabla_centro">1.380,53</td>
+          <td class="cuerpo_tabla_centro">230,09</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 4.1.</td>
+          <td class="cuerpo_tabla_centro">17.237,97</td>
+          <td class="cuerpo_tabla_centro">1.231,28</td>
+          <td class="cuerpo_tabla_centro">205,21</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Grupo 4.2.</td>
+          <td class="cuerpo_tabla_centro">14.626,16</td>
+          <td class="cuerpo_tabla_centro">1.044,73</td>
+          <td class="cuerpo_tabla_centro">174,12</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <colgroup>
+        <col width="20%"/>
+        <col width="24%"/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Valor cuatrienio.</td>
+          <td class="cuerpo_tabla_izq" colspan="2">17,61 euros/mes.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dieta completa.</td>
+          <td class="cuerpo_tabla_izq" colspan="2">44,20 euros/día.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Media dieta.</td>
+          <td class="cuerpo_tabla_izq" colspan="2">10,64 euros/día.</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

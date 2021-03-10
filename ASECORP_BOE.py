@@ -7,7 +7,7 @@ import requests
 import re
 import os
 import shutil
-from ASECORP_BBDD import tagea_BBDD_ASECORP
+from ASECORP_BBDD import tagea_BBDD_ASECORP, devuelve_patrones
 
 ## Crea función que convierte lista a string en todas las columnas de tabla_analisis
 ## para evitar en presentación final los caracteres [' '] propios de las listas
@@ -52,7 +52,7 @@ Y = today.strftime("%Y")
 
 URL_XML_resumen =  "https://www.boe.es/diario_boe/xml.php?id=BOE-S-" + str(hoy)
 
-# URL_XML_resumen = 'https://www.boe.es/diario_boe/xml.php?id=BOE-S-20210305'
+#URL_XML_resumen = 'https://www.boe.es/diario_boe/xml.php?id=BOE-S-20210210'
 
 #URL_XML_resumen
 
@@ -91,7 +91,7 @@ for secciones in raiz.xpath('//seccion[contains(@nombre, "I. Disposiciones gener
                                      contains(@nombre, "T.C. Sección del Tribunal Constitucional")]'):
 
     nombre_seccion = secciones.xpath('@nombre')
-
+    #print(nombre_seccion)
     for seccion in secciones:
 
         for item in seccion.xpath('.//item'):
@@ -100,6 +100,7 @@ for secciones in raiz.xpath('//seccion[contains(@nombre, "I. Disposiciones gener
             nombre_epigrafe = item.xpath('.//ancestor::epigrafe/@nombre')           # Recoge Epigrafe del item
             item_name = item.xpath('.//titulo/text()')
             item_urlXml = "https://www.boe.es" + str(item.xpath('.//urlXml/text()'))[2:-2]
+            #print(item_urlXml)
             tabla_resumen = tabla_resumen.append({'Seccion': nombre_seccion, 
                                                   'Departamento': nombre_departamento, 
                                                   'Epigrafe' : nombre_epigrafe,
@@ -182,7 +183,9 @@ tabla_analisis['Tags'] = [[] for i in range(len(tabla_analisis))]
 tabla_analisis['Match_ASECORP_BBDD'] = [[] for i in range(len(tabla_analisis))]
 
 # Define expresiones REGEX para búsqueda de leyes, decretos, etc. referenciadas anteriormente
-pattern = ['Ley [0-9]+\/[0-9]+','Ley Orgánica [0-9]+\/[0-9]+','Decreto [0-9]+\/[0-9]+','Real Decreto [0-9]+\/[0-9]+','Real Decreto Legislativo [0-9]+\/[0-9]+','Real Decreto-ley [0-9]+\/[0-9]+','Orden [A-Z]+\/[0-9]+\/[0-9]+','Orden Circular [0-9]+\/[0-9]+','Reglamento \(UE\) [0-9]+\/[0-9]+', 'Reglamento de Ejeución \(UE\) [0-9]+\/[0-9]+' ,'Sentencia de [0-9]+ de [a-z]+ de [0-9]+','Sentencia [0-9]+\/[0-9]+','Orden de [0-9]+ de [a-z]+ de [0-9]+', 'Resolución de [0-9]+ de [a-z]+ de [0-9]+','Resolución [a-z]+\/[0-9]+\/[0-9]+', 'Nota de Servicio [0-9]+\/[0-9]+', 'Acuerdo multilateral M\-[0-9]+', 'Acuerdo Multilateral RID [0-9]+\/[0-9]+', 'Circular [0-9]+\/[0-9]+', 'Decisión \(UE\) [0-9]+\/[0-9]+', 'Decisión de Ejecución \(UE\) [0-9]+\/[0-9]+', 'Instrucción IS\-[0-9]+']
+#pattern = ['Ley [0-9]+\/[0-9]+','Ley Orgánica [0-9]+\/[0-9]+','Decreto [0-9]+\/[0-9]+','Real Decreto [0-9]+\/[0-9]+','Real Decreto Legislativo [0-9]+\/[0-9]+','Real Decreto-ley [0-9]+\/[0-9]+','Orden [A-Z]+\/[0-9]+\/[0-9]+','Orden Circular [0-9]+\/[0-9]+','Reglamento \(UE\) [0-9]+\/[0-9]+', 'Reglamento de Ejeución \(UE\) [0-9]+\/[0-9]+' ,'Sentencia de [0-9]+ de [a-z]+ de [0-9]+','Sentencia [0-9]+\/[0-9]+','Orden de [0-9]+ de [a-z]+ de [0-9]+', 'Resolución de [0-9]+ de [a-z]+ de [0-9]+','Resolución [a-z]+\/[0-9]+\/[0-9]+', 'Nota de Servicio [0-9]+\/[0-9]+', 'Acuerdo multilateral M\-[0-9]+', 'Acuerdo Multilateral RID [0-9]+\/[0-9]+', 'Circular [0-9]+\/[0-9]+', 'Decisión \(UE\) [0-9]+\/[0-9]+', 'Decisión de Ejecución \(UE\) [0-9]+\/[0-9]+', 'Instrucción IS\-[0-9]+']
+pattern = devuelve_patrones()
+
 # Consolida las columnas Referencias_palabra y Referencias_texto en una única frase
 for i, row in tabla_analisis.iterrows():
     for item_list in range(len(row['Referencias'])): 

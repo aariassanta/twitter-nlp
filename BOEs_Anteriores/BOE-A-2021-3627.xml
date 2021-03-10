@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210308132602">
+  <metadatos>
+    <identificador>BOE-A-2021-3627</identificador>
+    <titulo>Resolución de 12 de febrero de 2021, de la Universidad de Vic-Universidad Central de Catalunya, por la que se publica el plan de estudios de Graduado o Graduada en Derecho.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>57</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210212</fecha_disposicion>
+    <fecha_publicacion>20210308</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>26971</pagina_inicial>
+    <pagina_final>26972</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/08/pdfs/BOE-A-2021-3627.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="2434" orden="">Derecho</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7056" orden="">Universidad de Vic</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-10780" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 3 de septiembre de 2020</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Agència per a la Qualitat del Sistema Universitari de Catalunya, así como la autorización de la Comunidad Autónoma de Cataluña, y establecido el carácter oficial del título por Acuerdo del Consejo de Ministros de 1 de septiembre de 2020 (publicado en el BOE núm. 248 por Resolución de la Secretaría General de Universidades de 3 de septiembre de 2020), el Rector de la Universidad de Vic-Universidad Central de Catalunya ordena publicar el plan de estudios conducente a la obtención del título de Graduado o Graduada en Derecho por la Universidad de Vic-Universidad Central de Catalunya, que quedará estructurado según consta en el anexo de la presente resolución.</p>
+    <p class="parrafo_2">Vic, 12 de febrero de 2021.–El Rector, Josep Eladi Baños Díez.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente al título de Graduado o Graduada en Derecho por la Universidad de Vic-Universidad Central de Catalunya</p>
+    <p class="centro_cursiva">Código RUCT: 2503671</p>
+    <p class="centro_redonda">Rama de conocimiento: Ciencias Sociales y Jurídicas</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias.</td>
+          <td class="cuerpo_tabla_der">129</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_der">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de fin de grado.</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos</th>
+          <th class="cabeza_tabla">Organización temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos del Derecho.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">42</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comunicación.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Economía.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Informática.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Filosofía y Principios del Derecho.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Procesal.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">18</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Civil.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">18</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Internacional Privado.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Mercantil.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Administrativo.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés Jurídico.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Constitucional.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho del Trabajo y Seguridad Social.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Financiero y Tributario.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Penal.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho de las Tecnologías de la Información.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Internacional Público.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés Jurídico.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Contabilidad Financiera.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Conocimientos y Técnicas para la Práctica Jurídica.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Economía y Gestión Empresarial.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">30</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

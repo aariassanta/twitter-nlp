@@ -1,0 +1,2917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210212071626">
+  <metadatos>
+    <identificador>BOE-A-2021-2119</identificador>
+    <titulo>Resolución de 4 de agosto de 2020, de la Dirección General de Política Energética y Minas, por la que se renueva la vigencia de la certificación de dieciocho sistemas solares, pertenecientes a una misma familia, fabricados por Vaillant GmbH.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>37</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9575">Ministerio para la Transición Ecológica y el Reto Demográfico</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20200804</fecha_disposicion>
+    <fecha_publicacion>20210212</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>16485</pagina_inicial>
+    <pagina_final>16507</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo/>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/12/pdfs/BOE-A-2021-2119.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias/>
+    <alertas/>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Recibida en la Secretaría de Estado de Energía la solicitud presentada por Vaillant SL, con domicilio social en Mendigorritxu 52 Pol. Ind. Jundiz 01015-Vitoria-Gasteiz, Araba/Álava, para la renovación de vigencia de la certificación de 18 sistemas solares, pertenecientes a una misma familia, fabricados por Vaillant GmbH en su instalación industrial fabricada en Alemania, que se certificaron con las siguientes contraseñas:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Modelo</th>
+          <th class="cabeza_tabla">Contraseña</th>
+          <th class="cabeza_tabla">Fecha Resolución</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.150 MFD.</td>
+          <td class="cuerpo_tabla_centro">SST-16418</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.150 MTD.</td>
+          <td class="cuerpo_tabla_centro">SST-16518</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.150 MID.</td>
+          <td class="cuerpo_tabla_centro">SST-16618</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.250 MFD.</td>
+          <td class="cuerpo_tabla_centro">SST-16718</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.250 MFD.</td>
+          <td class="cuerpo_tabla_centro">SST-16818</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.250 MTD.</td>
+          <td class="cuerpo_tabla_centro">SST-16918</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.250 MTD.</td>
+          <td class="cuerpo_tabla_centro">SST-17018</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.250 MID.</td>
+          <td class="cuerpo_tabla_centro">SST-17118</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.250 FD.</td>
+          <td class="cuerpo_tabla_centro">SST-17218</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.250 FD.</td>
+          <td class="cuerpo_tabla_centro">SST-17318</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.250 TD.</td>
+          <td class="cuerpo_tabla_centro">SST-17418</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.250 TD.</td>
+          <td class="cuerpo_tabla_centro">SST-17518</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/2.2350 MFD.</td>
+          <td class="cuerpo_tabla_centro">SST-17618</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/23.350 MFD.</td>
+          <td class="cuerpo_tabla_centro">SST-17718</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.350 MTD.</td>
+          <td class="cuerpo_tabla_centro">SST-17818</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/23.350 MTD.</td>
+          <td class="cuerpo_tabla_centro">SST-17918</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.350 FD.</td>
+          <td class="cuerpo_tabla_centro">SST-18018</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.350 TD.</td>
+          <td class="cuerpo_tabla_centro">SST-18118</td>
+          <td class="cuerpo_tabla_centro">02/08/2018</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Conforme a los ensayos emitidos:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Laboratorio Emisor</th>
+          <th class="cabeza_tabla">Clave</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">TÜV Rheinland.</td>
+          <td class="cuerpo_tabla_centro">21227421.002r1</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Resultando que por el interesado se ha presentado la documentación exigida por la legislación vigente que afecta al producto cuya renovación de vigencia de certificación solicita, y que el modelo cumple todas las especificaciones actualmente establecidas por la Orden IET/401/2012 de 28 de febrero sobre exigencias técnicas de los paneles solares.</p>
+    <p class="parrafo">Esta Secretaría de Estado de Energía, de acuerdo con lo establecido en la referida disposición ha resuelto renovar la certificación del citado producto, con la contraseña de certificación:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Modelo</th>
+          <th class="cabeza_tabla">Contraseña</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.150 MFD.</td>
+          <td class="cuerpo_tabla_centro">SST-35119</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.150 MTD.</td>
+          <td class="cuerpo_tabla_centro">SST-35219</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.150 MID.</td>
+          <td class="cuerpo_tabla_centro">SST-35319</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.250 MFD.</td>
+          <td class="cuerpo_tabla_centro">SST-35419</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.250 MFD.</td>
+          <td class="cuerpo_tabla_centro">SST-35519</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.250 MTD.</td>
+          <td class="cuerpo_tabla_centro">SST-35619</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.250 MTD.</td>
+          <td class="cuerpo_tabla_centro">SST-35719</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.250 MID.</td>
+          <td class="cuerpo_tabla_centro">SST-35819</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/ 21.250 FD.</td>
+          <td class="cuerpo_tabla_centro">SST-35919</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.250 FD.</td>
+          <td class="cuerpo_tabla_centro">SST-36019</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/21.250 TD.</td>
+          <td class="cuerpo_tabla_centro">SST-36119</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.250 TD.</td>
+          <td class="cuerpo_tabla_centro">SST-36219</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/2.2350 MFD.</td>
+          <td class="cuerpo_tabla_centro">SST-36319</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/23.350 MFD.</td>
+          <td class="cuerpo_tabla_centro">SST-36419</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.350 MTD.</td>
+          <td class="cuerpo_tabla_centro">SST-36519</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/23.350 MTD.</td>
+          <td class="cuerpo_tabla_centro">SST-36619</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.350 FD.</td>
+          <td class="cuerpo_tabla_centro">SST-36719</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">auroSTEP plus/22.350 TD.</td>
+          <td class="cuerpo_tabla_centro">SST-36819</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Y con fecha de caducidad dos años después de la fecha de la Resolución, definiendo como características técnicas del modelo o tipo certificado las que se indican a continuación.</p>
+    <p class="parrafo">Esta renovación de certificación se ajusta a las normas e instrucciones técnicas complementarias para la homologación de los paneles solares, actualizadas por la Orden IET/401/2012 de 28 de febrero. Asimismo, el producto deberá cumplir cualquier otro reglamento o disposición que le sea aplicable.</p>
+    <p class="parrafo">El titular de esta Resolución presentará dentro del período fijado para someterse al control y seguimiento de la producción, la documentación acreditativa, a fin de verificar la adecuación del producto a las condiciones iniciales, así como la declaración en la que se haga constar que, en la fabricación de dichos productos, los sistemas de control de calidad utilizados se mantienen, como mínimo, en las mismas condiciones que en el momento de la certificación.</p>
+    <p class="parrafo">La identificación, características técnicas, especificaciones generales y datos resumen del informe del ensayo del modelo o tipo certificado son las que se indican a continuación.</p>
+    <p class="parrafo">El incumplimiento de cualquiera de las condiciones fundamentales en las que se basa la concesión de esta certificación dará lugar a la suspensión cautelar automática de la misma, independientemente de su posterior anulación, en su caso, y sin perjuicio de las responsabilidades legales que de ello pudieran derivarse.</p>
+    <p class="parrafo">Contra la presente resolución, que pone fin a la vía administrativa, de acuerdo con lo dispuesto en el artículo 114 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas podrá interponerse recurso contencioso-administrativo ante los Juzgados Centrales de lo Contencioso-administrativo en el plazo de dos meses, a contar desde el día siguiente al de la publicación de la presente resolución de conformidad con el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.</p>
+    <p class="parrafo">También podrá interponerse potestativamente recurso de reposición ante el titular de la Secretaría de Estado de Energía en el plazo de un mes, a contar desde el día siguiente al de la publicación de la presente resolución, significando que, en caso de presentar recurso de reposición, no se podrá interponer recurso contencioso-administrativo hasta que se resuelva expresamente el recurso de reposición o se produzca la desestimación presunta del mismo, en virtud de lo dispuesto en el artículo 123.2 de la citada ley.</p>
+    <p class="parrafo">Para el cómputo de los plazos por meses habrá de estarse a lo dispuesto en el artículo 30.4 de la citada Ley 39/2015, de 1 de octubre.</p>
+    <p class="centro_cursiva">1. Modelo con contraseña SST-35119</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/21.150 MFD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 150,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 1.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 110 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">6150</td>
+          <td class="cuerpo_tabla_centro">3374</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">5897</td>
+          <td class="cuerpo_tabla_centro">3343</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">6654</td>
+          <td class="cuerpo_tabla_centro">5077</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">4573</td>
+          <td class="cuerpo_tabla_centro">3974</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 140 l/día </p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">7821</td>
+          <td class="cuerpo_tabla_centro">3910</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">5740</td>
+          <td class="cuerpo_tabla_centro">3974</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">4730</td>
+          <td class="cuerpo_tabla_centro">5740</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">5834</td>
+          <td class="cuerpo_tabla_centro">4730</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día </p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">9492</td>
+          <td class="cuerpo_tabla_centro">4131</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">4257</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">5077</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">5298</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">2. Modelo con contraseña SST-35219</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/21.150 MTD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 150,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 1.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 110 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">6150</td>
+          <td class="cuerpo_tabla_centro">3437</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">5897</td>
+          <td class="cuerpo_tabla_centro">3437</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">6654</td>
+          <td class="cuerpo_tabla_centro">5077</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">4573</td>
+          <td class="cuerpo_tabla_centro">3974</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 140 l/día </p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">7821</td>
+          <td class="cuerpo_tabla_centro">3910</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">7506</td>
+          <td class="cuerpo_tabla_centro">3974</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">8483</td>
+          <td class="cuerpo_tabla_centro">5740</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">5834</td>
+          <td class="cuerpo_tabla_centro">4730</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">9492</td>
+          <td class="cuerpo_tabla_centro">4131</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">4257</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">5077</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">5298</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">3. Modelo con contraseña SST-35319</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/21.150 MID</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 150,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 1.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 110 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">6150</td>
+          <td class="cuerpo_tabla_centro">3437</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">5897</td>
+          <td class="cuerpo_tabla_centro">3437</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">6654</td>
+          <td class="cuerpo_tabla_centro">5077</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">4573</td>
+          <td class="cuerpo_tabla_centro">3974</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 140 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">7821</td>
+          <td class="cuerpo_tabla_centro">3910</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">7506</td>
+          <td class="cuerpo_tabla_centro">3974</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">8483</td>
+          <td class="cuerpo_tabla_centro">5740</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">5834</td>
+          <td class="cuerpo_tabla_centro">4730</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día </p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">9492</td>
+          <td class="cuerpo_tabla_centro">4131</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">4257</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">5077</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">5298</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">4. Modelo con contraseña SST-35419</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/21.250 MFD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 250,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 1.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">9492</td>
+          <td class="cuerpo_tabla_centro">4384</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">4510</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">6370</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">5456</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 200 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">11164</td>
+          <td class="cuerpo_tabla_centro">4699</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">10691</td>
+          <td class="cuerpo_tabla_centro">4857</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">12110</td>
+          <td class="cuerpo_tabla_centro">6749</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">8326</td>
+          <td class="cuerpo_tabla_centro">6023</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">4951</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">5172</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">6717</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">5. Modelo con contraseña SST-35519</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/22.250 MFD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 250,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 2.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">9492</td>
+          <td class="cuerpo_tabla_centro">5897</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">5866</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">8767</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 200 l/día </p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N)</td>
+          <td class="cuerpo_tabla_centro">11164</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N)</td>
+          <td class="cuerpo_tabla_centro">10691</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N)</td>
+          <td class="cuerpo_tabla_centro">12110</td>
+          <td class="cuerpo_tabla_centro">9766</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N)</td>
+          <td class="cuerpo_tabla_centro">8326</td>
+          <td class="cuerpo_tabla_centro">7474</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día </p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">7379</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">7474</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">10943</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">8799</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">6. Modelo con contraseña SST-35619</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/21.250 MTD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 250,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 1.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">9492</td>
+          <td class="cuerpo_tabla_centro">4384</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">4510</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">5370</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">5456</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 200 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">11164</td>
+          <td class="cuerpo_tabla_centro">4699</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">10691</td>
+          <td class="cuerpo_tabla_centro">4857</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">12110</td>
+          <td class="cuerpo_tabla_centro">6749</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">8326</td>
+          <td class="cuerpo_tabla_centro">6023</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">4951</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">5172</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">6717</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">7. Modelo con contraseña SST-35719</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/22.250 MTD</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 250,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 2.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">9492</td>
+          <td class="cuerpo_tabla_centro">5897</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">5866</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">8767</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 200 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">11164</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">10691</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">12110</td>
+          <td class="cuerpo_tabla_centro">9776</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">8326</td>
+          <td class="cuerpo_tabla_centro">7474</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día </p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">7379</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">7474</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">10911</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">8799</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">8. Modelo con contraseña SST-35819</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/21.250 MID.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 250,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 1.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">9492</td>
+          <td class="cuerpo_tabla_centro">4384</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">4510</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">5370</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">5456</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 200 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">11164</td>
+          <td class="cuerpo_tabla_centro">4699</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">10691</td>
+          <td class="cuerpo_tabla_centro">4857</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">12110</td>
+          <td class="cuerpo_tabla_centro">6749</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">8326</td>
+          <td class="cuerpo_tabla_centro">6023</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">4951</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">5172</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">6717</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">9. Modelo con contraseña SST-35919</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/ 21.250 FD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 250,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 1.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">9492</td>
+          <td class="cuerpo_tabla_centro">4384</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">4510</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">6370</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">5456</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 200 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">11164</td>
+          <td class="cuerpo_tabla_centro">4699</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">10691</td>
+          <td class="cuerpo_tabla_centro">4857</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">12110</td>
+          <td class="cuerpo_tabla_centro">6749</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">8326</td>
+          <td class="cuerpo_tabla_centro">6023</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">4951</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">5172</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">6717</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">10. Modelo con contraseña SST-36019</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/22.250 FD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 250,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 2.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">9492</td>
+          <td class="cuerpo_tabla_centro">5897</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">5866</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">8767</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 200 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">11164</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">10691</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">12110</td>
+          <td class="cuerpo_tabla_centro">9776</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">8326</td>
+          <td class="cuerpo_tabla_centro">7474</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">7379</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">7474</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">10943</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">8799</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">11. Modelo con contraseña SST-36119</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/21.250 TD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 250,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 1.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">3492</td>
+          <td class="cuerpo_tabla_centro">4384</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">4510</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">6370</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">5456</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 200 l/día </p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">11164</td>
+          <td class="cuerpo_tabla_centro">4699</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">10691</td>
+          <td class="cuerpo_tabla_centro">4857</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">12110</td>
+          <td class="cuerpo_tabla_centro">6749</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">8326</td>
+          <td class="cuerpo_tabla_centro">6023</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">4951</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">5172</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">6717</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">12. Modelo con contraseña SST-36219</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/22.250 TD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 250,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 2.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 170 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">9492</td>
+          <td class="cuerpo_tabla_centro">5897</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">9114</td>
+          <td class="cuerpo_tabla_centro">5866</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">10281</td>
+          <td class="cuerpo_tabla_centro">8767</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">7064</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 200 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">11164</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">10691</td>
+          <td class="cuerpo_tabla_centro">6559</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">12110</td>
+          <td class="cuerpo_tabla_centro">9776</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">8326</td>
+          <td class="cuerpo_tabla_centro">7474</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">7370</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">7474</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">10943</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">8799</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">13. Modelo con contraseña SST-36319</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/2.2350 MFD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 350,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 2.</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">7695</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">7758</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">11384</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">8988</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 300 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">16746</td>
+          <td class="cuerpo_tabla_centro">8420</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">16052</td>
+          <td class="cuerpo_tabla_centro">8609</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">18165</td>
+          <td class="cuerpo_tabla_centro">12394</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">12488</td>
+          <td class="cuerpo_tabla_centro">10218</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 400 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">22327</td>
+          <td class="cuerpo_tabla_centro">9145</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">21413</td>
+          <td class="cuerpo_tabla_centro">9524</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">24220</td>
+          <td class="cuerpo_tabla_centro">13214</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">16651</td>
+          <td class="cuerpo_tabla_centro">11952</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">14. Modelo con contraseña SST-36419</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/23.350 MFD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 350,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 3</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">8799</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">8735</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">13056</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">9713</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 300 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>Stockholm (59,6º N)</td>
+          <td>16746</td>
+          <td>9902</td>
+          <td>504</td>
+        </tr>
+        <tr>
+          <td>Würzburg (49,5º N)</td>
+          <td>16052</td>
+          <td>9902</td>
+          <td>504</td>
+        </tr>
+        <tr>
+          <td>Davos (46,8º N)</td>
+          <td>18165</td>
+          <td>14759</td>
+          <td>504</td>
+        </tr>
+        <tr>
+          <td>Athens (38,0º N)</td>
+          <td>12488</td>
+          <td>11258</td>
+          <td>504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 400 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">22327</td>
+          <td class="cuerpo_tabla_centro">11353</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">21413</td>
+          <td class="cuerpo_tabla_centro">11574</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">24220</td>
+          <td class="cuerpo_tabla_centro">16746</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">16651</td>
+          <td class="cuerpo_tabla_centro">13718</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">15. Modelo con contraseña SST-36519</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/22.350 MTD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 350,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 2</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">7695</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">7758</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">11384</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">8988</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 300 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">16746</td>
+          <td class="cuerpo_tabla_centro">8420</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">16052</td>
+          <td class="cuerpo_tabla_centro">8609</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">18165</td>
+          <td class="cuerpo_tabla_centro">12394</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">12488</td>
+          <td class="cuerpo_tabla_centro">10218</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 400 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">22327</td>
+          <td class="cuerpo_tabla_centro">9145</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">21413</td>
+          <td class="cuerpo_tabla_centro">9524</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">24220</td>
+          <td class="cuerpo_tabla_centro">13214</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">16651</td>
+          <td class="cuerpo_tabla_centro">11952</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">16. Modelo con contraseña SST-36619</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/23.350 MTD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 350,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 3</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">8799</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">8735</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">13056</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">9713</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 300 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">16746</td>
+          <td class="cuerpo_tabla_centro">9902</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">16052</td>
+          <td class="cuerpo_tabla_centro">9902</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">18165</td>
+          <td class="cuerpo_tabla_centro">14759</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">12488</td>
+          <td class="cuerpo_tabla_centro">11258</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 400 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">22327</td>
+          <td class="cuerpo_tabla_centro">11353</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">21413</td>
+          <td class="cuerpo_tabla_centro">11574</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">24220</td>
+          <td class="cuerpo_tabla_centro">16746</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">16651</td>
+          <td class="cuerpo_tabla_centro">13718</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">17. Modelo con contraseña SST-36719</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/22.350 FD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 350,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 2</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">7695</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">7778</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">11384</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">8988</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 300 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">16746</td>
+          <td class="cuerpo_tabla_centro">8420</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">16052</td>
+          <td class="cuerpo_tabla_centro">8609</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">18165</td>
+          <td class="cuerpo_tabla_centro">12394</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">12488</td>
+          <td class="cuerpo_tabla_centro">10218</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 400 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">22327</td>
+          <td class="cuerpo_tabla_centro">9145</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">21413</td>
+          <td class="cuerpo_tabla_centro">9524</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">24220</td>
+          <td class="cuerpo_tabla_centro">13214</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">16651</td>
+          <td class="cuerpo_tabla_centro">11952</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">18. Modelo con contraseña SST-36819</p>
+    <p class="parrafo_2">Identificación:</p>
+    <p class="parrafo_2">Fabricante: Vaillant GmbH.</p>
+    <p class="parrafo">Nombre comercial: auroSTEP plus/22.350 TD.</p>
+    <p class="parrafo">Tipo sistema: Plano.</p>
+    <p class="parrafo">Características del colector: (modelo unitario).</p>
+    <p class="parrafo_2">Dimensiones:</p>
+    <p class="parrafo_2">Longitud: 2.033 mm.</p>
+    <p class="parrafo">Ancho: 1.233 mm.</p>
+    <p class="parrafo">Alto: 80 mm.</p>
+    <p class="parrafo">Área apertura: 2,352 m<sup>2</sup>.</p>
+    <p class="parrafo">Área absorbedor: 2,33 m<sup>2</sup>.</p>
+    <p class="parrafo">Área total: 2,507 m<sup>2</sup>.</p>
+    <p class="parrafo_2">Características del sistema:</p>
+    <p class="parrafo_2">Volumen del depósito: 350,0000 l.</p>
+    <p class="parrafo">Volumen de tubos: l.</p>
+    <p class="parrafo">Número de captadores del sistema: 2</p>
+    <p class="parrafo_2">Indicadores de rendimiento de sistemas:</p>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 250 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">Stockholm (59,6º N)</td>
+          <td class="cuerpo_tabla_centro">13939</td>
+          <td class="cuerpo_tabla_centro">7695</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">13371</td>
+          <td class="cuerpo_tabla_centro">7758</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">15137</td>
+          <td class="cuerpo_tabla_centro">11384</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">10407</td>
+          <td class="cuerpo_tabla_centro">8988</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 300 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">16746</td>
+          <td class="cuerpo_tabla_centro">8420</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">16052</td>
+          <td class="cuerpo_tabla_centro">8609</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">18165</td>
+          <td class="cuerpo_tabla_centro">12394</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">12488</td>
+          <td class="cuerpo_tabla_centro">10218</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Indicadores de rendimiento del sistema sobre la base anual de un volumen de demanda de 400 l/día</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Localidad</th>
+          <th class="cabeza_tabla">Q<sub>d </sub>MJ</th>
+          <th class="cabeza_tabla">Q<sub>l</sub> MJ</th>
+          <th class="cabeza_tabla">Q<sub>Par</sub> MJ</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Stockholm (59,6º N).</td>
+          <td class="cuerpo_tabla_centro">22327</td>
+          <td class="cuerpo_tabla_centro">9145</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Würzburg (49,5º N).</td>
+          <td class="cuerpo_tabla_centro">21413</td>
+          <td class="cuerpo_tabla_centro">9524</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Davos (46,8º N).</td>
+          <td class="cuerpo_tabla_centro">24220</td>
+          <td class="cuerpo_tabla_centro">13214</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Athens (38,0º N).</td>
+          <td class="cuerpo_tabla_centro">16651</td>
+          <td class="cuerpo_tabla_centro">11952</td>
+          <td class="cuerpo_tabla_centro">504</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Observaciones:-</p>
+    <p class="parrafo_2">Madrid, 4 de agosto de 2020.–El Director General de Política Energética y Minas, Manuel García Hernández.</p>
+  </texto>
+</documento>

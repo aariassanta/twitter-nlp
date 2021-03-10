@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210210071649">
+  <metadatos>
+    <identificador>BOE-A-2021-1960</identificador>
+    <titulo>Resolución de 8 de febrero de 2021, del Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria, por la que se publica la revocación de números de identificación fiscal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>35</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="5140">Ministerio de Hacienda</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210208</fecha_disposicion>
+    <fecha_publicacion>20210210</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>15357</pagina_inicial>
+    <pagina_final>15358</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo/>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/10/pdfs/BOE-A-2021-1960.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias/>
+    <alertas/>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Conforme a lo dispuesto en el apartado 4 de la disposición adicional sexta de la Ley 58/2003, de 17 de diciembre, General Tributaria, modificada por el artículo quinto, apartado diecisiete, de la Ley 36/2006, de 29 de noviembre, de Medidas para la Prevención del Fraude Fiscal, se dispone la publicación de la revocación de los números de identificación fiscal que figuran en el anexo.</p>
+    <p class="parrafo_2">Madrid, 8 de febrero de 2021.–El Director del Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria, Gonzalo García de Castro.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Relación de números de identificación fiscal revocados</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">NIF</th>
+          <th class="cabeza_tabla">Razón social</th>
+          <th class="cabeza_tabla">Fecha del acuerdo</th>
+          <th class="cabeza_tabla">Registro público de Inscripción</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">B93105146</td>
+          <td class="cuerpo_tabla_izq">DOLCHE CAFE MALAGA, SL.</td>
+          <td class="cuerpo_tabla_centro">21-07-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MÁLAGA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B34132704</td>
+          <td class="cuerpo_tabla_izq">ALZUFRA, SL.</td>
+          <td class="cuerpo_tabla_centro">8-10-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE PALENCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B30014252</td>
+          <td class="cuerpo_tabla_izq">COMERCIAL SIETE CORONAS, SL.</td>
+          <td class="cuerpo_tabla_centro">17-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MURCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">A30015234</td>
+          <td class="cuerpo_tabla_izq">DILEMU, SA.</td>
+          <td class="cuerpo_tabla_centro">17-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MURCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">A30020671</td>
+          <td class="cuerpo_tabla_izq">LACARPE, SA.</td>
+          <td class="cuerpo_tabla_centro">17-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MURCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">A07021090</td>
+          <td class="cuerpo_tabla_izq">VIAJES CLUMBA, SA.</td>
+          <td class="cuerpo_tabla_centro">6-08-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MALLORCA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">N4002832F</td>
+          <td class="cuerpo_tabla_izq">AMERICAN NATIONAL GROUP OF COMMERCE INC.</td>
+          <td class="cuerpo_tabla_centro">19-10-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MALLORCA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">A22028740</td>
+          <td class="cuerpo_tabla_izq">FRUTICOLA CATALANO ARAGONESA, SA.</td>
+          <td class="cuerpo_tabla_centro">17-09-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE HUESCA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B30072078</td>
+          <td class="cuerpo_tabla_izq">SINZE, SL.</td>
+          <td class="cuerpo_tabla_centro">17-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MURCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B83077156</td>
+          <td class="cuerpo_tabla_izq">JINDALE, SL.</td>
+          <td class="cuerpo_tabla_centro">10-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MADRID.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B35085471</td>
+          <td class="cuerpo_tabla_izq">CANYPEZ, SL.</td>
+          <td class="cuerpo_tabla_centro">3-08-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE LAS PALMAS.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">A30125058</td>
+          <td class="cuerpo_tabla_izq">MUNISA TRANSPORTES, SA.</td>
+          <td class="cuerpo_tabla_centro">28-07-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MURCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B35128966</td>
+          <td class="cuerpo_tabla_izq">PARK CAR, SL.</td>
+          <td class="cuerpo_tabla_centro">3-08-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE LAS PALMAS.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">F30140875</td>
+          <td class="cuerpo_tabla_izq">FARGO SEGURIDAD, SDAD COOP LTDA.</td>
+          <td class="cuerpo_tabla_centro">17-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MURCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B13146501</td>
+          <td class="cuerpo_tabla_izq">EXPORT ONION, SL.</td>
+          <td class="cuerpo_tabla_centro">17-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MURCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B57171019</td>
+          <td class="cuerpo_tabla_izq">OCP AUTOMOVILES, SL.</td>
+          <td class="cuerpo_tabla_centro">25-08-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE BARCELONA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">A07202658</td>
+          <td class="cuerpo_tabla_izq">MIRADOR DE IBIZA, SA.</td>
+          <td class="cuerpo_tabla_centro">5-08-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE IBIZA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">A38227740</td>
+          <td class="cuerpo_tabla_izq">DISCO NUMERO DOS, SA.</td>
+          <td class="cuerpo_tabla_centro">3-06-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE TENERIFE.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">A07251366</td>
+          <td class="cuerpo_tabla_izq">COLOMAR FERRER, SA.</td>
+          <td class="cuerpo_tabla_centro">5-08-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE IBIZA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B30275259</td>
+          <td class="cuerpo_tabla_izq">HERNANDEZ Y GREEN, SL.</td>
+          <td class="cuerpo_tabla_centro">17-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MURCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B07286701</td>
+          <td class="cuerpo_tabla_izq">VIDRES NORD, SL.</td>
+          <td class="cuerpo_tabla_centro">19-10-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MALLORCA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">A07292691</td>
+          <td class="cuerpo_tabla_izq">SOCIEDAD INMOBILIARIA LAGARTIJA, SA.</td>
+          <td class="cuerpo_tabla_centro">13-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE IBIZA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B03360120</td>
+          <td class="cuerpo_tabla_izq">IMPORTADORA MARANIA, SL.</td>
+          <td class="cuerpo_tabla_centro">16-07-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE FUERTEVENTURA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">A78384781</td>
+          <td class="cuerpo_tabla_izq">GESTAHORRO, SA.</td>
+          <td class="cuerpo_tabla_centro">16-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE ZARAGOZA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B35478197</td>
+          <td class="cuerpo_tabla_izq">CONTRATAS Y OBRAS TRIANA, SL.</td>
+          <td class="cuerpo_tabla_centro">3-08-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE LAS PALMAS.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B30479174</td>
+          <td class="cuerpo_tabla_izq">COLECCIONES CERAMICAS, SL.</td>
+          <td class="cuerpo_tabla_centro">17-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MURCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B50581156</td>
+          <td class="cuerpo_tabla_izq">NUEVA INFORMACION ECONOMICA, SL.</td>
+          <td class="cuerpo_tabla_centro">16-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE ZARAGOZA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B50590322</td>
+          <td class="cuerpo_tabla_izq">THAY-GARMENT COMPANY, SL.</td>
+          <td class="cuerpo_tabla_centro">16-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE ZARAGOZA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B35639400</td>
+          <td class="cuerpo_tabla_izq">CORPODISCA, SL.</td>
+          <td class="cuerpo_tabla_centro">4-08-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE LAS PALMAS.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B35711878</td>
+          <td class="cuerpo_tabla_izq">BIEDERCAN ASESORES, SL.</td>
+          <td class="cuerpo_tabla_centro">4-08-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE LAS PALMAS.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B35749472</td>
+          <td class="cuerpo_tabla_izq">INATLA, SL.</td>
+          <td class="cuerpo_tabla_centro">4-08-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE LAS PALMAS.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B50813690</td>
+          <td class="cuerpo_tabla_izq">ALBATEZAR, SL.</td>
+          <td class="cuerpo_tabla_centro">16-12-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE ZARAGOZA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B30880561</td>
+          <td class="cuerpo_tabla_izq">CRISTOBAL DIAZ ACIMEUS.</td>
+          <td class="cuerpo_tabla_centro">4-11-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MURCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B30882476</td>
+          <td class="cuerpo_tabla_izq">KERN SPAIN LIMITED SRLU.</td>
+          <td class="cuerpo_tabla_centro">14-10-2020</td>
+          <td class="cuerpo_tabla_izq">REGISTRO MERCANTIL DE MURCIA.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">B24735615</td>
+          <td class="cuerpo_tabla_izq">SERENDIPITY PREPARACIÓN DEPORTIVA, SL.</td>
+          <td class="cuerpo_tabla_centro">15-12-2020</td>
+          <td class="cuerpo_tabla_izq">MERCANTIL DE LEÓN.</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

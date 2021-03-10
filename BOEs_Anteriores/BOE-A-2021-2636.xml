@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210219135601">
+  <metadatos>
+    <identificador>BOE-A-2021-2636</identificador>
+    <titulo>Resolución de 9 de febrero de 2021, de la Dirección General de Trabajo, por la que se registran y publican las tablas salariales para el año 2021 del Convenio colectivo estatal para las industrias del curtido, correas, cueros industriales y curtición de pieles para peletería.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>43</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9573">Ministerio de Trabajo y Economía Social</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210209</fecha_disposicion>
+    <fecha_publicacion>20210219</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>19944</pagina_inicial>
+    <pagina_final>19946</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/19/pdfs/BOE-A-2021-2636.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/02/09/(5)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(5)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2636</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-09</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(5)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(5)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2636</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-09</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(5)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/02/09/(5)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(5)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 9 de febrero de 2021, de la Dirección General de Trabajo, por la que se registran y publican las tablas salariales para el año 2021 del Convenio colectivo estatal para las industrias del curtido, correas, cueros industriales y curtición de pieles para peletería.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-19</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/02/09/(5)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(5)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/09/(5)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(5)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/09/(5)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/09/(5)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/09/(5)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="1684" orden="">Convenios colectivos</materia>
+      <materia codigo="4150" orden="">Industria del cuero</materia>
+      <materia codigo="5532" orden="">Peletería</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2015-11430" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 90. 2 y 3 de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2010-9274" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto 713/2010, de 28 de mayo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2019-14047" orden="3070">
+          <palabra codigo="331">EN RELACIÓN con</palabra>
+          <texto>el Convenio publicado por Resolución de 13 de septiembre de 2019</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Vistas las tablas salariales para el año 2021 del Convenio colectivo estatal para las industrias del curtido, correas, cueros industriales y curtición de pieles para peletería (código de Convenio 99001465011981), publicado en el BOE de 2 de octubre 2019, que fueron suscritas, con fecha 25 de enero de 2021, de una parte por la Asociación Española del Curtido (ACEXPIEL), en representación de las empresas del sector, y de otra, por los sindicatos CC.OO. de Industria y UGT-FICA de Industria, Construcción y Agro, en representación de los trabajadores afectados, y de conformidad con lo dispuesto en el artículo 90, apartados 2 y 3, de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre, y en el Real Decreto 713/2010, de 28 de mayo, sobre registro y depósito de convenios y acuerdos colectivos de trabajo,</p>
+    <p class="parrafo">Esta Dirección General de Trabajo resuelve:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo">Ordenar la inscripción de las citadas tablas salariales en el correspondiente Registro de convenios y acuerdos colectivos de trabajo con funcionamiento a través de medios electrónicos de este centro directivo, con notificación a la Comisión Paritaria.</p>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">Disponer su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 9 de febrero de 2021.–La Directora General de Trabajo, Verónica Martínez Barbero.</p>
+    <p class="anexo">ACTA DE LA COMISIÓN PARITARIA DEL CONVENIO COLECTIVO ESTATAL PARA LAS INDUSTRIAS DEL CURTIDO, CORREAS, CUEROS INDUSTRIALES Y CURTICIÓN DE PIELES PARA PELETERÍA DE FECHA 25 DE ENERO DE 2021</p>
+    <p class="parrafo_2">En Madrid, siendo las 11:00 horas del día 25 de enero de 2021, se reúnen telemáticamente, miembros de Comisión Paritaria del Convenio Colectivo Estatal para las Industrias del curtido, correas y cueros industriales y curtición de pieles para peletería, con la asistencia de los representantes de los Sindicatos Comisiones Obreras de Industria y Unión General de Trabajadores y en representación de las empresas del sector, la Asociación Española del Curtido (ACEXPIEL) relacionados a continuación, al objeto de tratar los siguientes puntos:</p>
+    <p class="parrafo_2">Por CCOO:</p>
+    <p class="parrafo_2">Carmen Expósito Robles.</p>
+    <p class="parrafo_2">Por UGT:</p>
+    <p class="parrafo_2">José Carlos Ruiz Palacios.</p>
+    <p class="parrafo_2">Por ACEXPIEL:</p>
+    <p class="parrafo_2">Anna García.</p>
+    <p class="parrafo">Enrique Hervás Micolau.</p>
+    <p class="parrafo_2">1. Actualización Tablas salariales 2020.</p>
+    <p class="parrafo_2">De conformidad con el artículo 29 del convenio colectivo, al ser el porcentaje del IPC real (-0,5% para el año 2020), inferior al incremento pactado (2% para el año 2021), no procede la aplicación de la cláusula de revisión salarial.</p>
+    <p class="parrafo_2">2. Atrasos salariales 2020.</p>
+    <p class="parrafo_2">De acuerdo con lo establecido en el artículo 29 del convenio, no procede el abono de atrasos correspondientes al año 2020.</p>
+    <p class="parrafo_2">3. Tablas salariales provisionales 2021 sobre las definitivas del año 2020.</p>
+    <p class="parrafo_2">De conformidad con el artículo 29 del convenio colectivo, se procede a la revisión y actualización de las tablas salariales provisionales del año 2021 sobre las tablas definitivas del año 2020, aplicando sobre estas últimas un incremento pactado del 2%, las cuales se adjuntan como Anexo 1.</p>
+    <p class="parrafo_2">4. Delegación de firma.</p>
+    <p class="parrafo_2">Se autoriza indistintamente a don Enrique Hervás Micolau, y a don Arturo Caballer Martínez, para que en nombre de la comisión paritaria realice los trámites necesarios para la publicación de la actualización de las tablas salariales en el BOE.</p>
+    <p class="anexo_num">ANEXO 1</p>
+    <p class="anexo_tit">Tablas salariales provisionales Nomenclátor 2021</p>
+    <p class="centro_redonda">TABLAS SALARIALES NOMENCLÁTOR 2021 (SOBRE DEFINITIVAS 2020)</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Grupo profesional</th>
+          <th class="cabeza_tabla">Salario día</th>
+          <th class="cabeza_tabla">Salario mes</th>
+          <th class="cabeza_tabla">Complemento</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">Nomenclátor</th>
+          <th class="cabeza_tabla">Nomenclátor</th>
+          <th class="cabeza_tabla">Nomenclátor</th>
+          <th class="cabeza_tabla">Nomenclátor</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Grupo 0.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">2.886,00</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td>Grupo 1.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">2.308,61</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td>Grupo 2.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1.968,69</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td>Grupo 3 - Nivel I.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1.524,73</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td>Grupo 3 - Nivel II.</td>
+          <td class="cuerpo_tabla_centro">43,93</td>
+          <td class="cuerpo_tabla_centro">1.335,96</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td>Grupo 4 - Nivel I empleados.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1.438,93</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td>Grupo 4 - Nivel I operarios (*).</td>
+          <td class="cuerpo_tabla_centro">40,21</td>
+          <td class="cuerpo_tabla_centro">1.222,99</td>
+          <td class="cuerpo_tabla_centro">0,91 (1)</td>
+        </tr>
+        <tr>
+          <td>Grupo 4 - Nivel II empleados.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1.178,60</td>
+          <td class="cuerpo_tabla_centro">7,20 (2)</td>
+        </tr>
+        <tr>
+          <td>Grupo 4 - Nivel II operarios.</td>
+          <td class="cuerpo_tabla_centro">38,75</td>
+          <td class="cuerpo_tabla_centro">1.178,68</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td>Grupo 5.</td>
+          <td class="cuerpo_tabla_centro">37,80</td>
+          <td class="cuerpo_tabla_centro">1.149,93</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="cita">(1) Complemento exclusivamente, para el puesto de trabajo de Clasificación de 1.ª</p>
+    <p class="cita">(2) Complemento exclusivamente para el puesto de trabajo de telefonista sin idiomas.</p>
+    <p class="cita">(*) Complemento exclusivamente para el puesto de trabajo de jefatura: 10%.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Flexibilidad</th>
+          <th class="cabeza_tabla">euros/hora</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Grupo 0.</td>
+          <td class="cuerpo_tabla_centro">No tiene complemento</td>
+        </tr>
+        <tr>
+          <td>Grupo I.</td>
+          <td class="cuerpo_tabla_centro">2,73</td>
+        </tr>
+        <tr>
+          <td>Grupo II.</td>
+          <td class="cuerpo_tabla_centro">2,04</td>
+        </tr>
+        <tr>
+          <td>Grupo III - Nivel I.</td>
+          <td class="cuerpo_tabla_centro">1,64</td>
+        </tr>
+        <tr>
+          <td>Grupo III - Nivel II.</td>
+          <td class="cuerpo_tabla_centro">1,43</td>
+        </tr>
+        <tr>
+          <td>Grupo IV - Nivel I Empleados.</td>
+          <td class="cuerpo_tabla_centro">1,58</td>
+        </tr>
+        <tr>
+          <td>Grupo IV - Nivel I Operarios.</td>
+          <td class="cuerpo_tabla_centro">1,32</td>
+        </tr>
+        <tr>
+          <td>Grupo IV - Nivel II Empleados.</td>
+          <td class="cuerpo_tabla_centro">1,27</td>
+        </tr>
+        <tr>
+          <td>Grupo IV - Nivel II Operarios.</td>
+          <td class="cuerpo_tabla_centro">1,27</td>
+        </tr>
+        <tr>
+          <td>Grupo V.</td>
+          <td class="cuerpo_tabla_centro">1,27</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210308125601">
+  <metadatos>
+    <identificador>BOE-A-2021-3622</identificador>
+    <titulo>Resolución de 21 de diciembre de 2020, de la Universidad de Vic-Universidad Central de Catalunya, por la que se publica el plan de estudios de Máster Universitario en Gestión Empresarial.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>57</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20201221</fecha_disposicion>
+    <fecha_publicacion>20210308</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>26961</pagina_inicial>
+    <pagina_final>26961</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/08/pdfs/BOE-A-2021-3622.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="848" orden="">Ciencias Empresariales</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7056" orden="">Universidad de Vic</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 25 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenido el informe favorable de la modificación del plan de estudios por parte de la Agència per a la Qualitat del Sistema Universitari de Catalunya, con fecha 28 de septiembre de 2018, el Rector de la Universidad de Vic-Universidad Central de Catalunya, conforme a lo establecido en el artículo 25 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, ordena la publicación del actual plan de estudios conducente a la obtención del título de Máster Universitario en Gestión Empresarial por la Universidad de Vic-Universidad Central de Catalunya, que quedará estructurado según consta en el anexo de esta Resolución.</p>
+    <p class="parrafo_2">Vic, 21 de diciembre de 2020.–El Rector, Josep Eladi Baños Díez.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Máster en Gestión Empresarial</p>
+    <p class="centro_cursiva">Código RUCT: 4313325</p>
+    <p class="centro_redonda">Rama de conocimiento: Ciencias Sociales y Jurídicas</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias.</td>
+          <td class="cuerpo_tabla_der">18</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_der">27</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_der">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de fin de máster.</td>
+          <td class="cuerpo_tabla_der">10</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Especialidades: Gestión Empresarial Internacional; Finanzas y Contabilidad; Marketing</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/materia</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos</th>
+          <th class="cabeza_tabla">Org. temporal</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programa de Desarrollo.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección Estratégica Empresarial.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">10</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prática Profesional</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">TFM</td>
+          <td class="cuerpo_tabla_centro">10</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">10</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Finanzas y Contabilidad.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">29</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">22</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión Empresarial Internacional.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">22</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p> </p>
+  </texto>
+</documento>

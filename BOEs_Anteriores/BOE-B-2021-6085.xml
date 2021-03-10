@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210210071649">
+  <metadatos>
+    <identificador>BOE-B-2021-6085</identificador>
+    <titulo>Resolución de la Delegación de Economía y Hacienda en Teruel por la que se anuncia subasta de bienes propiedad del Estado.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>35</diario_numero>
+    <seccion>5</seccion>
+    <subseccion>A</subseccion>
+    <departamento codigo="5140">Ministerio de Hacienda</departamento>
+    <numero_anuncio>A210006880</numero_anuncio>
+    <fecha_publicacion>20210210</fecha_publicacion>
+    <letra_imagen>B</letra_imagen>
+    <pagina_inicial>7734</pagina_inicial>
+    <pagina_final>7734</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2021/02/10/pdfs/BOE-B-2021-6085.pdf</url_pdf>
+  </metadatos>
+  <analisis>
+    <modalidad codigo="L">Licitación</modalidad>
+    <tipo codigo="2">Servicios</tipo>
+    <tramitacion codigo=""/>
+    <procedimiento codigo=""/>
+    <fecha_presentacion_ofertas/>
+    <fecha_apertura_ofertas/>
+    <precio codigo=""/>
+    <importe/>
+    <ambito_geografico>Aragón</ambito_geografico>
+    <materias/>
+    <materias_cpv>70000000 Servicios inmobiliarios</materias_cpv>
+    <observaciones>Subasta</observaciones>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con el artículo 103 del Real Decreto 1373/2009, de 28 de agosto, por el que se aprueba el Reglamento General de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, se anuncia subasta pública al alza, con admisión simultanea de ofertas en sobre cerrado, de las fincas propiedad del Estado español que a continuación se relacionan.</p>
+    <p class="parrafo">La subasta se celebrará el 19 de marzo de 2021, a las 10,00 horas, en esta Delegación de Economía y Hacienda (Avda. Sagunto, 24).</p>
+    <p class="parrafo">El Pliego de condiciones particulares podrá ser consultado en la Sección de Patrimonio de la Delegación de Economía y Hacienda en Teruel, avda. Sagunto, n.º 24, en el tablón de anuncios de la misma y en la página web del Ministerio de Hacienda (www.hacienda.gob.es). Así mismo dicho pliego quedará expuesto en los tablones de anuncios de los respectivos Ayuntamientos donde radican las fincas objeto de la subasta.</p>
+    <p class="parrafo">Las Ofertas en sobre cerrado podrán presentarse, en la forma establecida en el Pliego de condiciones, durante los treinta días naturales siguientes al de la publicación de la presente convocatoria en el Boletín Oficial del Estado.</p>
+    <table class="tabla">
+      <tr>
+        <td>
+          <p class="parrafo">LOTE</p>
+        </td>
+        <td>
+          <p class="parrafo">Nº SUBASTA</p>
+        </td>
+        <td>
+          <p class="parrafo">MUNICIPIO</p>
+        </td>
+        <td>
+          <p class="parrafo">FINCA</p>
+        </td>
+        <td>
+          <p class="parrafo">LOCALIZACIÓN</p>
+        </td>
+        <td>
+          <p class="parrafo">PRECIO</p>
+        </td>
+        <td>
+          <p class="parrafo">FIANZA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">1</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Alacón</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 3 Parcela 326</p>
+        </td>
+        <td>
+          <p class="parrafo">60,00</p>
+        </td>
+        <td>
+          <p class="parrafo">3,00</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">2</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Alacón</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 8 Parcela 685</p>
+        </td>
+        <td>
+          <p class="parrafo">452,79</p>
+        </td>
+        <td>
+          <p class="parrafo">22,64</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">3</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Albalate del Arzobispo</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 21 Parcela 170</p>
+        </td>
+        <td>
+          <p class="parrafo">370,00</p>
+        </td>
+        <td>
+          <p class="parrafo">18,50</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">4</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Albalate del Arzobispo</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 21 Parcela 349</p>
+        </td>
+        <td>
+          <p class="parrafo">638,56</p>
+        </td>
+        <td>
+          <p class="parrafo">31,92</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">5</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Burbáguena</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 502 Parcela 256</p>
+        </td>
+        <td>
+          <p class="parrafo">384,00</p>
+        </td>
+        <td>
+          <p class="parrafo">19,20</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">6</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Burbáguena</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 505 Parcela 71</p>
+        </td>
+        <td>
+          <p class="parrafo">272,00</p>
+        </td>
+        <td>
+          <p class="parrafo">13,60</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">7</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Burbáguena</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 505 Parcela 136</p>
+        </td>
+        <td>
+          <p class="parrafo">948,00</p>
+        </td>
+        <td>
+          <p class="parrafo">47,40</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">8</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Burbáguena</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 511 Parcela 564</p>
+        </td>
+        <td>
+          <p class="parrafo">162,00</p>
+        </td>
+        <td>
+          <p class="parrafo">8,10</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">9</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Burbáguena</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 513 Parcela 117</p>
+        </td>
+        <td>
+          <p class="parrafo">86,00</p>
+        </td>
+        <td>
+          <p class="parrafo">4,30</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">10</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Calamocha</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 214 Parcela 103</p>
+        </td>
+        <td>
+          <p class="parrafo">85,00</p>
+        </td>
+        <td>
+          <p class="parrafo">4,25</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">11</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Calamocha</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 403 Parcela 133</p>
+        </td>
+        <td>
+          <p class="parrafo">48,00</p>
+        </td>
+        <td>
+          <p class="parrafo">2,40</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">12</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Calamocha</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 703 Parcela 318</p>
+        </td>
+        <td>
+          <p class="parrafo">161,00</p>
+        </td>
+        <td>
+          <p class="parrafo">8,05</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">13</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Calamocha</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 704 Parcela 147</p>
+        </td>
+        <td>
+          <p class="parrafo">716,00</p>
+        </td>
+        <td>
+          <p class="parrafo">35,80</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">14</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Cascante del Rio</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 6 Parcela 49</p>
+        </td>
+        <td>
+          <p class="parrafo">135,54</p>
+        </td>
+        <td>
+          <p class="parrafo">6,77</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">15</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Huesa del Común</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 12 Parcela 130</p>
+        </td>
+        <td>
+          <p class="parrafo">490,00</p>
+        </td>
+        <td>
+          <p class="parrafo">24,50</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">16</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Libros</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 6 Parcela 182</p>
+        </td>
+        <td>
+          <p class="parrafo">94,00</p>
+        </td>
+        <td>
+          <p class="parrafo">4,70</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">17</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Libros</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 8 Parcela 14</p>
+        </td>
+        <td>
+          <p class="parrafo">597,00</p>
+        </td>
+        <td>
+          <p class="parrafo">29,85</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">18</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Libros</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 14 Parcela 46</p>
+        </td>
+        <td>
+          <p class="parrafo">720,00</p>
+        </td>
+        <td>
+          <p class="parrafo">36,00</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">19</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Obón</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 4 Parcela 193</p>
+        </td>
+        <td>
+          <p class="parrafo">411,00</p>
+        </td>
+        <td>
+          <p class="parrafo">20,55</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">20</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Obón</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 14 Parcela 216</p>
+        </td>
+        <td>
+          <p class="parrafo">155,00</p>
+        </td>
+        <td>
+          <p class="parrafo">7,75</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">21</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Obón</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 14 Parcela 427</p>
+        </td>
+        <td>
+          <p class="parrafo">160,00</p>
+        </td>
+        <td>
+          <p class="parrafo">8,00</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">22</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Oliete</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 1 Parcela 219</p>
+        </td>
+        <td>
+          <p class="parrafo">1.900,93</p>
+        </td>
+        <td>
+          <p class="parrafo">95,05</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">23</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Oliete</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 9 Parcela 390</p>
+        </td>
+        <td>
+          <p class="parrafo">50,00</p>
+        </td>
+        <td>
+          <p class="parrafo">2,50</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">24</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Samper de Calanda</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 26 Parcela 423</p>
+        </td>
+        <td>
+          <p class="parrafo">30,00</p>
+        </td>
+        <td>
+          <p class="parrafo">1,50</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="parrafo">25</p>
+        </td>
+        <td>
+          <p class="parrafo">Primera</p>
+        </td>
+        <td>
+          <p class="parrafo">Torrijas</p>
+        </td>
+        <td>
+          <p class="parrafo">Rústica</p>
+        </td>
+        <td>
+          <p class="parrafo">Polígono 14 Parcela 115</p>
+        </td>
+        <td>
+          <p class="parrafo">305,00</p>
+        </td>
+        <td>
+          <p class="parrafo">15,25</p>
+        </td>
+      </tr>
+    </table>
+    <p class="parrafo_2">Teruel, 5 de febrero de 2021.- La Delegada de Economía y Hacienda, María Eugenia Agudo Vega.</p>
+  </texto>
+</documento>

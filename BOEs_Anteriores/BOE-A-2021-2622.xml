@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210219105602">
+  <metadatos>
+    <identificador>BOE-A-2021-2622</identificador>
+    <titulo>Resolución 1A0/38040/2021, de 1 de febrero, del Centro Criptológico Nacional, por la que se certifica la seguridad del producto "Safeguard for Privileged Passwords, version 6.7 (6.7.0.14066)", desarrollado por One Identity LLC.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>43</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="6110">Ministerio de Defensa</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial>1A0/38040/2021</numero_oficial>
+    <fecha_disposicion>20210201</fecha_disposicion>
+    <fecha_publicacion>20210219</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>19740</pagina_inicial>
+    <pagina_final>19741</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo/>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/19/pdfs/BOE-A-2021-2622.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias/>
+    <alertas/>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Recibida en el Centro Criptológico Nacional la solicitud presentada por One Identity LLC, con domicilio social en One Identity LLC, 4 Polaris Way, Aliso Viejo, California, 92656, Estados Unidos de América, para la certificación de la seguridad del producto «Safeguard for Privileged Passwords, version 6.7 (6.7.0.14066)», conforme al entorno de uso, garantías y limitaciones indicadas en la correspondiente Declaración de Seguridad: «Safeguard for Privileged Passwords-Security Target, version 1.4 (9 December 2020)».</p>
+    <p class="parrafo">Visto el correspondiente Informe Técnico de Evaluación de Jtsec Beyond IT Security, S.L., de código EXT-6438, que determina el cumplimiento del producto «Safeguard for Privileged Passwords, version 6.7 (6.7.0.14066)», de las propiedades de seguridad indicadas en dicha Declaración de Seguridad, tras el análisis de su seguridad según indican las normas «Certificación Nacional Esencial de Seguridad, versión 0.1».</p>
+    <p class="parrafo">Visto el correspondiente Informe de Certificación del Centro Criptológico Nacional, de código INF-3413, que determina el cumplimiento del producto «Safeguard for Privileged Passwords, version 6.7 (6.7.0.14066)», de los requisitos para la certificación de su seguridad exigidos por el Reglamento de Evaluación y Certificación de la Seguridad de las Tecnologías de la Información, aprobado por la Orden PRE/2740/2007, de 19 de septiembre.</p>
+    <p class="parrafo">De acuerdo con las facultades que me confiere la Ley 11/2002, reguladora del Centro Nacional de Inteligencia, al amparo de lo dispuesto en el artículo 1 y artículo 2, párrafo 2, letra c, del Real Decreto 421/2004, de 12 de marzo, por el que se regula el Centro Criptológico Nacional, al objeto de resolver la solicitud de certificación mencionada, dispongo:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo">Certificar que la seguridad del producto «Safeguard for Privileged Passwords, version 6.7 (6.7.0.14066)», cumple con lo especificado en la Declaración de Seguridad de referencia «Safeguard for Privileged Passwords-Security Target, version 1.4 (9 December 2020)», según exigen las garantías definidas en las normas «Certificación Nacional Esencial de Seguridad, versión 0.1», para el nivel de garantía de evaluación LINCE.</p>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">Esta certificación, su alcance y vigencia, y el uso de la condición de producto certificado, quedan sujetos a lo establecido en el Reglamento de Evaluación y Certificación de la Seguridad de las Tecnologías de la Información.</p>
+    <p class="articulo">Tercero.</p>
+    <p class="parrafo">El Informe de Certificación y la Declaración de Seguridad citados se encuentran disponibles para su consulta en el Centro Criptológico Nacional.</p>
+    <p class="articulo">Cuarto.</p>
+    <p class="parrafo">La presente Resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 1 de febrero de 2021.–La Secretaria de Estado Directora del Centro Criptológico Nacional, Paz Esteban López.</p>
+  </texto>
+</documento>

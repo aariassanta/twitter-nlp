@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210308142601">
+  <metadatos>
+    <identificador>BOE-A-2021-3585</identificador>
+    <titulo>Orden TMA/209/2021, de 4 de marzo, por la que se establecen las bases reguladoras de los Premios Matilde Ucelay del Grupo MITMA.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>57</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9572">Ministerio de Transportes, Movilidad y Agenda Urbana</departamento>
+    <rango codigo="1350">Orden</rango>
+    <numero_oficial>TMA/209/2021</numero_oficial>
+    <fecha_disposicion>20210304</fecha_disposicion>
+    <fecha_publicacion>20210308</fecha_publicacion>
+    <fecha_vigencia>20210309</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>26742</pagina_inicial>
+    <pagina_final>26745</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/08/pdfs/BOE-A-2021-3585.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/o/2021/03/04/tma209</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2021/03/04/tma209">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-3585</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-03-04</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tma209</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2021/03/04/tma209/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-3585</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-03-04</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tma209</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2021/03/04/tma209"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2021/03/04/tma209/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden TMA/209/2021, de 4 de marzo, por la que se establecen las bases reguladoras de los Premios Matilde Ucelay del Grupo MITMA.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-03-08</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2021/03/04/tma209/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/03/04/tma209/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/03/04/tma209/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/03/04/tma209/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/03/04/tma209/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/03/04/tma209/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/03/04/tma209/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="296" orden="">Arquitectura</materia>
+      <materia codigo="4662" orden="">Igualdad de género</materia>
+      <materia codigo="9630" orden="">Ministerio de Transportes Movilidad y Agenda Urbana</materia>
+      <materia codigo="5666" orden="">Premios</materia>
+      <materia codigo="6932" orden="">Transportes</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="104" orden="">Asuntos sociales</alerta>
+      <alerta codigo="132" orden="">Transportes y tráfico</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-7508" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto 645/2020, de 7 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-6115" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley Orgánica 3/2007, de 22 de marzo</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El derecho constitucional a la igualdad y a la no discriminación por razón de sexo recogido en el artículo 14 de la Constitución, se complementa, en el ámbito de la acción pública, con la obligación de los poderes públicos de promover las condiciones para que la igualdad del individuo y de los grupos en que se integra sean reales y efectivas, prevista en el artículo 9.2 de la Constitución.</p>
+    <p class="parrafo">En desarrollo de estos principios y de los recogidos en diversos textos internacionales, se aprobó la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres que, en su artículo 15, recoge como unos de los principios generales de las políticas públicas de igualdad la transversalidad, de manera que todos los poderes públicos deben incorporar, de forma activa, la perspectiva de género en sus actuaciones.</p>
+    <p class="parrafo">En este marco, también el Ministerio de Transportes, Movilidad y Agenda Urbana incorpora la perspectiva de género y la promoción efectiva de la igualdad al ejercicio de las competencias que le corresponden de conformidad con el Real Decreto 645/2020, de 7 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Transportes, Movilidad y Agenda Urbana.</p>
+    <p class="parrafo">Con el fin otorgar reconocimiento a la labor de aquellas personas o entidades que contribuyen con sus actividades a la introducción de la perspectiva de género en los ámbitos de las infraestructuras, los transportes, la movilidad, la vivienda y el urbanismo se considera idóneo la instauración de unos premios que permitan resaltar aquellas acciones que atendiendo a las demandas y necesidades específicas de las mujeres permitan avanzar hacia una sociedad más equitativa.</p>
+    <p class="parrafo">La denominación de los premios quiere rendir homenaje a Matilde Ucelay Maortúa, primera mujer licenciada en arquitectura en España, que obtuvo el título en el año 1936. Pese a las enormes dificultades, desarrolló su carrera profesional durante más de 40 años y fue autora de más de un centenar de proyectos, especialmente viviendas, pero también edificios industriales y laboratorios. En el año 2004 obtuvo el Premio Nacional de Arquitectura en reconocimiento a su «trayectoria excepcional»</p>
+    <p class="parrafo">La presente orden cumple con los principios de buena regulación a que se refiere el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En este sentido, esta orden responde al principio de necesidad y eficacia, ya que el reconocimiento público de las actividades realizadas por personas o entidades en favor de la igualdad entre hombres y mujeres es una vía destacada para visibilizar los avances hacia la igualdad efectiva. En relación con los principios de eficacia, eficiencia y transparencia, la concesión de estos premios establece un procedimiento abierto de manera que las candidaturas al mismo podrán ser propuestas libremente por entidades o colectivos sociales interesados. Por último, por lo que respecta a los principios de seguridad jurídica y proporcionalidad, esta norma es coherente con el ordenamiento jurídico y con las previsiones de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.</p>
+    <p class="parrafo">Durante la tramitación se ha recabado informe de la Abogacía del Estado en el Departamento.</p>
+    <p class="parrafo">En su virtud, y con la aprobación previa del Ministro de Política Territorial y Función Pública, dispongo:</p>
+    <p class="articulo">Artículo 1. Objeto.</p>
+    <p class="parrafo">Los Premios Matilde Ucelay del Grupo MITMA, que se convocarán anualmente, tienen por objeto el reconocimiento público de aquellas actividades que, en el ámbito de la perspectiva de género, se desarrollen en el sector de los transportes, la movilidad o la agenda urbana.</p>
+    <p class="articulo">Artículo 2. Beneficiarios.</p>
+    <p class="parrafo">Podrán optar a los Premios todas aquellas personas físicas y jurídicas, entidades y organismos públicos o privados, organizaciones, fundaciones o asociaciones que hayan desarrollado actuaciones o proyectos relacionados con la perspectiva de género en el ámbito de los transportes, la movilidad o la agenda urbana.</p>
+    <p class="articulo">Artículo 3. Categorías.</p>
+    <p class="parrafo">Los Premios Matilde Ucelay del Grupo MITMA tendrán las siguientes categorías:</p>
+    <p class="parrafo_2">a) A la trayectoria personal.–Mediante el que se otorgará el reconocimiento a aquellas personas físicas que, en el ámbito de los transportes, la movilidad o la agenda urbana, haya realizado una labor destacada en favor de las políticas de igualdad entre hombres y mujeres.</p>
+    <p class="parrafo">b) Al proyecto.–Mediante el que se otorgará el reconocimiento a aquel proyecto, práctica, programa o iniciativa relativa a la perspectiva de género que se haya desarrollado en el ámbito de los transportes, la movilidad o la agenda urbana.</p>
+    <p class="parrafo">c) A la entidad.–Mediante el que se otorgará el reconocimiento a aquellas personas jurídicas, entidades, organismos, fundaciones, organizaciones o asociaciones que hayan realizado una destacada labor en el ámbito de la perspectiva de género en los sectores de los transportes, la movilidad o la agenda urbana.</p>
+    <p class="articulo">Artículo 4. Criterios de concesión.</p>
+    <p class="parrafo">Para el otorgamiento de los premios el Jurado tendrá en cuenta los siguientes criterios para cada categoría:</p>
+    <p class="parrafo_2">a) En la categoría «trayectoria personal», se valorará las actuaciones y trayectoria de la persona candidata en la consecución de la igualdad entre hombres y mujeres así como el impacto de la labor realizada en la visibilización de los problemas asociados a la desigualdad de la mujer.</p>
+    <p class="parrafo">b) En la categoría «proyecto» se valorará la repercusión del proyecto, práctica, programa o iniciativa en el avance hacia una sociedad más equitativa así como su posible escalabilidad a otros ámbitos</p>
+    <p class="parrafo">c) En la categoría «entidad» se valorará las actuaciones y trayectoria de la entidad en favor de la igualdad entre hombres y mujeres o así como la efectividad y el alcance de los trabajos realizados en favor de la misma.</p>
+    <p class="articulo">Artículo 5. Dotación de los premios.</p>
+    <p class="parrafo">1. Los premios regulados en esta orden no tendrán carácter económico.</p>
+    <p class="parrafo">2. Para cada categoría convocada el premio consistirá en un diploma. Asimismo se dará difusión tanto a la concesión del premio como a los méritos y logros de las personas beneficiarias de los mismos</p>
+    <p class="parrafo">3. El premio podrá ser declarado desierto, en todas o alguna de sus categorías, en caso de que ninguna de las candidaturas reuniera los méritos suficientes para ser galardonada con el mismo.</p>
+    <p class="articulo">Artículo 6. Candidaturas.</p>
+    <p class="parrafo">1. Las candidaturas a los premios podrán ser presentadas por las personas que forman parte del Jurado y por entidades, organizaciones, instituciones, asociaciones o colectivos, mediante propuestas razonadas dirigidas al órgano instructor. En el caso de las candidaturas presentadas por las personas que forman parte del Jurado, dichas personas se abstendrán de participar en las deliberaciones que afecten a dicha candidatura</p>
+    <p class="parrafo">2. Las candidaturas presentarán una solicitud de participación que incluirá una memoria razonada y argumentada, con los méritos y circunstancias especiales que concurran en las personas, entidades o proyectos candidatos, y la vinculación de las mismas con el sector de los transportes, la movilidad o la agenda urbana.</p>
+    <p class="parrafo">3. Las candidaturas y la documentación que acompaña a las mismas podrán presentarse, de acuerdo con lo dispuesto en el artículo 14.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, por medios electrónico o en cualquiera de los lugares previstos en el artículo 16.4 de la citada Ley.</p>
+    <p class="parrafo">Las personas jurídicas estarán obligadas a utilizar los medios electrónicos de conformidad con lo establecido en el artículo 14.2 de la citada Ley.</p>
+    <p class="parrafo">4. La presentación de la candidatura supone la aceptación incondicionada de estas bases reguladoras y de toda la normativa que regule este premio. En caso de incumplimiento de alguna de las condiciones recogidas en la misma, las personas beneficiarias perderán el premio otorgado.</p>
+    <p class="articulo">Artículo 7. Procedimiento y órganos competentes.</p>
+    <p class="parrafo">1. La convocatoria de las sucesivas ediciones del Premio Matilde Ucelay del Grupo MITMA se efectuará mediante Orden de la persona titular del Ministerio de Transportes, Movilidad y Agenda Urbana. Las convocatorias se publicarán en el Boletín Oficial del Estado.</p>
+    <p class="parrafo">2. Corresponderá al Gabinete Técnico de la Subsecretaría de Transportes, Movilidad y Agenda Urbana la instrucción de los actos de trámite necesarios para la concesión de los Premios.</p>
+    <p class="parrafo">3. Las candidaturas presentadas serán sometidas a la consideración del Jurado que emitirá un informe concretando el resultado de la valoración efectuada y proponiendo a las personas beneficiarias de los premios en sus diferentes categorías.</p>
+    <p class="parrafo">4. El órgano instructor, a la vista del Acta del Jurado, formulará la propuesta de resolución, que habrá de ser motivada, y la elevará con su informe a la persona titular del Ministerio de Transportes, Movilidad y Agenda Urbana, que resolverá.</p>
+    <p class="articulo">Artículo 8. Composición del Jurado.</p>
+    <p class="parrafo">1. El Jurado estará presidido por la persona titular Dirección General de Organización e Inspección del Ministerio de Transportes, Movilidad y Agenda Urbana y contará con las siguientes vocalías designadas por dicha Presidencia de conformidad con las propuestas que remitan los siguientes órganos:</p>
+    <p class="parrafo_2">– Gabinete del Ministro de Transportes, Movilidad y Agenda Urbana, un vocal con rango mínimo de Subdirector o Subdirectora General, o asimilado.</p>
+    <p class="parrafo">– Secretaría de Estado de Transportes, Movilidad y Agenda Urbana, tres vocales con rango mínimo de Subdirector o Subdirectora General, o asimilados.</p>
+    <p class="parrafo">– Las siguientes entidades públicas: ADIF, RENFE-Operadora, Puertos del Estado, AENA S.M.E. S.A., ENAIRE E.P.E., INECO S.M.E. M.P. S.A., y SEPES E.P.E. propondrán un vocal cada una de ellas.</p>
+    <p class="parrafo">– En cuanto a la Secretaría del Jurado la ejercerá, con voz, pero sin voto, una persona con la condición de funcionario o funcionaria del Gabinete Técnico de la Subsecretaría de Transportes, Movilidad y Agenda Urbana</p>
+    <p class="parrafo_2">2. En lo no previsto en estas bases, el funcionamiento del Jurado como órgano colegiado se ajustará a las previsiones contenidas en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.</p>
+    <p class="parrafo">3. Atendiendo a lo establecido en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, cada uno de los órganos y entidades a los que corresponda proponer vocalías para el Jurado deberá proponer necesariamente a un hombre y a una mujer, entre quienes la Presidencia del Jurado designará a quien corresponda.  </p>
+    <p class="articulo">Artículo 9. Plazos.</p>
+    <p class="parrafo">1. El plazo máximo para la presentación de candidaturas será establecido en la convocatoria, no pudiendo ser inferior a quince días hábiles desde la publicación de la convocatoria en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo">2. El plazo máximo para resolver y notificar la resolución del procedimiento no podrá exceder de dos meses. Dicho plazo se computará desde la publicación de la convocatoria.</p>
+    <p class="articulo">Artículo 10. Difusión y entrega del premio.</p>
+    <p class="parrafo">1. Los premios serán entregados a las personas beneficiarias por la persona titular del Ministerio de Transportes, Movilidad y Agenda Urbana en un acto público, con la solemnidad y difusión adecuadas.</p>
+    <p class="parrafo">2. El MITMA promoverá la realización de exposiciones y actividades de difusión en las instalaciones del Ministerio y de las entidades del Grupo MITMA, en las que se pongan de manifiesto los trabajos y los logros realizados por las personas premiadas.</p>
+    <p class="articulo">Disposición adicional única. Ausencia de incremento de gasto.</p>
+    <p class="parrafo">El funcionamiento del Jurado previsto en esta orden no supondrá incremento alguno de gasto público y será atendido con los medios personales, técnicos y presupuestarios ya existentes en el Ministerio Transportes, Movilidad y Agenda urbana.</p>
+    <p class="articulo">Disposición final única. Entrada en vigor.</p>
+    <p class="parrafo">La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 4 de marzo de 2021.–El Ministro de Transportes, Movilidad y Agenda Urbana, José Luis Ábalos Meco.</p>
+  </texto>
+</documento>

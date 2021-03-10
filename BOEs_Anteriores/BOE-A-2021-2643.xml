@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210219095602">
+  <metadatos>
+    <identificador>BOE-A-2021-2643</identificador>
+    <titulo>Resolución de 25 de enero de 2021, de la Universidad Católica de Valencia San Vicente Mártir, por la que se publica la modificación del plan de estudios de Máster Universitario en Relación de Ayuda y Counselling.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>43</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210125</fecha_disposicion>
+    <fecha_publicacion>20210219</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>19976</pagina_inicial>
+    <pagina_final>19977</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/19/pdfs/BOE-A-2021-2643.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="5789" orden="">Psicología</materia>
+      <materia codigo="8201" orden="">Universidad Católica de Valencia San Vicente Mártir</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-15294" orden="2030">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el plan publicado por Resolución de 12 de noviembre de 2020</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2015-740" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 9 de enero de 2015</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, por el que se establece el procedimiento para la modificación de planes de estudios ya verificados, previo informe positivo de la Agencia Nacional de Evaluación de la Calidad y Acreditación, de fecha 6 de octubre de 2020, a las modificaciones del plan de estudios correspondiente a las enseñanzas del título de Máster Universitario en Relación de Ayuda y Counselling por la Universidad Católica de Valencia San Vicente Mártir, cuyo título fue aprobado por Acuerdo de Consejo de Ministros de 26 de diciembre de 2014 (publicado en el «BOE» de 29 de enero de 2015, por Resolución de la Secretaría de Estado de Universidades de 09 de enero de 2015), y cuyo plan de estudios fue publicado, mediante Resolución de la Universidad del 12 de Noviembre de 2020, en el «Boletín Oficial del Estado» del 30 de Noviembre de 2020.</p>
+    <p class="parrafo">Este Rectorado ha resuelto ordenar la publicación de la modificación del plan de estudios conducente a la obtención del título de Máster Universitario en Relación de Ayuda y Counselling por la Universidad Católica de Valencia San Vicente Mártir, según consta en el anexo de esta resolución.</p>
+    <p class="parrafo_2">Valencia, 25 de enero de 2021.–El Rector, José Manuel Pagán Agulló.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Máster Universitario en Relación de Ayuda y Counselling</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia créditos </th>
+          <th class="cabeza_tabla">Créditos </th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+          <td class="cuerpo_tabla_centro"> 0</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias.</td>
+          <td class="cuerpo_tabla_centro">48</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_centro"> 0</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro"> 6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro"> 6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_centro">60 </td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignaturas</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="10%"/>
+        <col width="45%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">COUNSELLING Y COMPETENCIA EMOCIONAL PARA LA INTERVENCIÓN.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Counselling e inteligencia emocional.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">METODOLOGÍA DEL COUNSELLING Y LA RELACIÓN DE AYUDA.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Counselling I.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Counselling II.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">APLICACIÓN DEL COUNSELLING Y LA RELACIÓN DE AYUDA.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Análisis de casos.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">INTERVENCIÓN EN CRISIS Y RESILIENCIA.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Intervención en crisis.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Estrategias e intervención en procesos de duelo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Resiliencia.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">COUNSELLING, VULNERABILIDAD Y EXCLUSIÓN.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Counselling en ámbitos de exclusión social.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Aplicación del Counselling en otros ámbitos.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">COUNSELLING Y LIDERAZGO.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Trabajo en equipo. Counselling organizacional.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Coaching y liderazgo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TRABAJO FIN DE MASTER.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de máster.</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura </th>
+          <th class="cabeza_tabla">Curso </th>
+          <th class="cabeza_tabla">Semestre </th>
+          <th class="cabeza_tabla">Tipo de forrmación<sup>1</sup> </th>
+          <th class="cabeza_tabla">ECTS </th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="59%"/>
+        <col width="8%"/>
+        <col width="12%"/>
+        <col width="13%"/>
+        <col width="8%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Counselling e inteligencia emocional.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Counselling I.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Counselling II.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de casos.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Intervención en crisis.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estrategias e intervención en procesos de duelo.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Resiliencia.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Counselling en ámbitos de exclusión social.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aplicación del Counselling en otros ámbitos.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo en equipo. Counselling organizacional.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Coaching y liderazgo.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de máster.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">TFM</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="5">
+            <p class="cita"><sup>1</sup> OB (Obligatoria), PE (Prácticas Externas), TFM (Trabajo Fin de Máster).</p>
+          </td>
+        </tr>
+      </tfoot>
+    </table>
+  </texto>
+</documento>

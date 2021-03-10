@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210215142601">
+  <metadatos>
+    <identificador>BOE-A-2021-2147</identificador>
+    <titulo>Resolución de 1 de febrero de 2021, de la Dirección General de Industria y de la Pequeña y Mediana Empresa, por la que se publica la relación de normas UNE anuladas durante el mes de enero de 2021.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>38</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="5250">Ministerio de Industria, Comercio y Turismo</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210201</fecha_disposicion>
+    <fecha_publicacion>20210213</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>16697</pagina_inicial>
+    <pagina_final>16700</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/13/pdfs/BOE-A-2021-2147.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/02/01/(3)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(3)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2147</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-01</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(3)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(3)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2147</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-01</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(3)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/02/01/(3)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(3)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 1 de febrero de 2021, de la Dirección General de Industria y de la Pequeña y Mediana Empresa, por la que se publica la relación de normas UNE anuladas durante el mes de enero de 2021.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-13</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/02/01/(3)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(3)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/01/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(3)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/01/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(3)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/01/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5159" orden="">Normalización</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="129" orden="">Tecnología e investigación</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1996-2468" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 11.f) del Reglamento aprobado por Real Decreto 2200/1995, de 28 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">En cumplimiento de lo dispuesto en el artículo 11.º, apartado f), del Reglamento de la Infraestructura para la Calidad y Seguridad Industrial, aprobado por Real Decreto 2200/1995, de 28 de diciembre (BOE de 6 de febrero de 1996), modificado por el Real Decreto 1072/2015, de 27 de noviembre (BOE de 14 de diciembre de 2015), y visto el expediente de anulación de normas presentado por la Asociación Española de Normalización, entidad designada por Orden del Ministerio de Industria y Energía de 26 de febrero de 1986, de acuerdo con el Real Decreto 1614/1985, de 1 de agosto, y reconocida por la disposición adicional primera del citado Real Decreto 2200/1995, de 28 de diciembre.</p>
+    <p class="parrafo">Esta Dirección General ha resuelto publicar en el «Boletín Oficial del Estado», la relación de normas españolas UNE anuladas durante el mes de enero de 2021, identificadas por su título y código numérico, que figura como anexo a la presente Resolución.</p>
+    <p class="parrafo_2">Madrid, 1 de febrero de 2021.–El Director General de Industria y de la Pequeña y Mediana Empresa, Galo Gutiérrez Monzonís.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Normas anuladas en el mes de enero de 2021</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Código</th>
+          <th class="cabeza_tabla">Título</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 20545-5:1985</td>
+          <td class="cuerpo_tabla_izq">Resistencias fijas para equipos electrónicos. Especificación intermedia. Resistencias fijas de precisión.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 20545-5-1:1985</td>
+          <td class="cuerpo_tabla_izq">Resistencias fijas para equipos electrónicos. Especificación marco-particular. Resistencias fijas de precisión. Nivel de garantía E.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 28530:1985</td>
+          <td class="cuerpo_tabla_izq">Construcciones aeroespaciales. Filetes incompletos de roscas laminadas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40007:1955</td>
+          <td class="cuerpo_tabla_izq">Signos representativos de la maquinaria textil. Hilatura.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40008:1957</td>
+          <td class="cuerpo_tabla_izq">Signos representativos de la maquinaria. Textura (tisaje).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40009:2002</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil. Signos representativos de la maquinaria textil. Lavado, blanqueo, tintura, acabado.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40021:2001</td>
+          <td class="cuerpo_tabla_izq">Designación del lado (derecha e izquierda), en las máquinas de hilatura.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40022:2003</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Urdidores de sección cónica. Anchura máxima útil.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40058:2001</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Separación entre los husos de las continuas de anillo de hilar y retorcer.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40062:2003</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Conos para el bobinado cruzado. Dimensiones, tolerancias y designación de conos con un semiángulo de 4 grados y 20 minutos para el bobinado cruzado de los hilos destinados a la tintura.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40063:1982</td>
+          <td class="cuerpo_tabla_izq">Material para la industria textil. Designación del lado de los telares.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40067:2002</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Laminillas de paraurdimbres para máquinas tejedoras no automáticas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40069:1980</td>
+          <td class="cuerpo_tabla_izq">Designación del lado, en las máquinas de preparación para tejer.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40071:2003</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Conos para el bobinado cruzado. Dimensiones, tolerancias y designación de conos con un semiángulo de 4 grados y 20 minutos.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40100:2003</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Fileta de urdidor. Medidas principales.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40126-2:2001</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil. Maquinaria de tintura y acabado. Parte 2: Clasificación y nomenclatura.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40127:2001</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil. Maquinaria de tintura y acabado. Definición del lado derecho e izquierdo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40137:1980</td>
+          <td class="cuerpo_tabla_izq">Designación del lado (derecha e izquierda) de las bobinadoras y canilleras automáticas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40170:2003</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Máquinas de preparación de la urdimbre. Definición de los lados derecho e izquierdo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40181:2003</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Malla de alambre doble estañado para telares Jacquard.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40195:2002</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Listones porta-lizos para mallas de bucles con extremos cerrados en forma de "O".</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40201:2003</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Tubos cilíndricos. Dimensiones, tolerancias y designación de los tubos perforados para tintura.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40206:2003</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Conos para el bobinado cruzado. Dimensiones, tolerancias y designación de conos con un semiángulo de 3 grados y 30 minutos</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40252:2003</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Tubos cilíndricos. Medidas, tolerancias y designación de los tubos para el bobinado de artículos textiles de pasamanería.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40269:1976</td>
+          <td class="cuerpo_tabla_izq">Sistema de estiraje para el material de hilatura. Terminología trilingüe.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40272:2003</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Conos para el bobinado cruzado. Dimensiones, tolerancias y designación de conos con un semiángulo de 5 grados y 57 minutos.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40280:2001</td>
+          <td class="cuerpo_tabla_izq">Maquinaria para la preparación de la hilatura, de la hilatura y de retorcido. Terminología.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40319:1978</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Material de preparación de la urdimbre para el tisaje. Vocabulario.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40320:1985</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Clasificación de telares y máquinas de tejer.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40341:1979</td>
+          <td class="cuerpo_tabla_izq">Materiales para la industria textil. Púas para guarniciones flexibles para cardas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40346:2002</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Laminillas de paraurdimbres para máquinas tejedoras automáticas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40365:2001</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Rodamientos para cilindros inferiores y cotas de montaje. Tapa con espiga central y tapa con dispositivo lateral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40428:1982</td>
+          <td class="cuerpo_tabla_izq">Vocabulario de las operaciones y de los baños relativos a las máquinas de limpieza en seco.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40444:1982</td>
+          <td class="cuerpo_tabla_izq">Maquinaria y accesorios textiles. Peines para telar con marco de plástico. Dimensiones.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40467:1982</td>
+          <td class="cuerpo_tabla_izq">Maquinaria preparatoria para la hilatura. Balas para algodón. Medidas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40473:2002</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Tubos cilíndricos. Medidas principales recomendadas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40477:1982</td>
+          <td class="cuerpo_tabla_izq">Maquinaria de limpieza en seco. Definiciones y control de las características de una máquina.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40478:1983</td>
+          <td class="cuerpo_tabla_izq">Máquinas para el lavado en seco de circuito cerrado. Definiciones y control de las características de una máquina.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40479:1985</td>
+          <td class="cuerpo_tabla_izq">Maquinaria de lavandería. Secadoras. Planchadoras. Definiciones y control de las características de una máquina.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40480:1984</td>
+          <td class="cuerpo_tabla_izq">Maquinaria para lavandería. Secadores rotativos. Definiciones y control de las características de una máquina.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40481:1983</td>
+          <td class="cuerpo_tabla_izq">Maquinaria de blanqueo y de limpieza en seco. Túnel de lavado. Definiciones y control de sus características.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40482:1982</td>
+          <td class="cuerpo_tabla_izq">Máquinas de lavandería. Lavadoras-centrifugadoras. Definiciones y control de sus características.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40483:1983</td>
+          <td class="cuerpo_tabla_izq">Accesorios para la industria textil. Templazos para telares.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40496:2001</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Cintas metálicas para guarniciones de cardas. Tolerancias</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40499:1984</td>
+          <td class="cuerpo_tabla_izq">Material para la industria textil. Método de evaluación de la calidad de los plegadores.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40505:1984</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Agujas planas para peinadoras y máquinas de hilar.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40506:1984</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Puntas de acero para deshilachadoras.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40510:1984</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil y accesorios. Agujas de acero para maquinaria de hilatura.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40515:1985</td>
+          <td class="cuerpo_tabla_izq">Máquinas para tejido de punto. Fonturas. Medidas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 40517:1985</td>
+          <td class="cuerpo_tabla_izq">Maquinaria textil. Máquinas para tejido de punto. Diámetro nominal de las maquinas circulares.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 71504:2008</td>
+          <td class="cuerpo_tabla_izq">Metodología de análisis y gestión de riesgos para los sistemas de información.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 77243-2:2004</td>
+          <td class="cuerpo_tabla_izq">Análisis de gas. Preparación de mezclas de gas para calibración. Métodos volumétricos dinámicos. Parte 2: Bombas volumétricas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 77309:2001</td>
+          <td class="cuerpo_tabla_izq">Calidad del suelo. Determinación de cadmio, cromo, cobalto, cobre, plomo, manganeso, níquel y cinc en extractos del suelo en agua regia. Métodos espectrométricos de absorción atómica con llama y atomización electrotérmica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 77309:2001 ERRATUM:2012</td>
+          <td class="cuerpo_tabla_izq">Calidad del suelo. Determinación de cadmio, cromo, cobalto, cobre, plomo, manganeso, níquel y cinc en extractos del suelo en agua regia. Métodos espectrométricos de absorción atómica con llama y atomización electrotérmica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 192007-1:2017</td>
+          <td class="cuerpo_tabla_izq">Procedimiento para la inspección reglamentaria. Instalaciones eléctricas de baja tensión. Parte 1: Requisitos generales.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-CEN/TR 15350:2013 IN</td>
+          <td class="cuerpo_tabla_izq">Vibraciones mecánicas. Directrices para la evaluación de la exposición a las vibraciones transmitidas por la mano usando la información disponible incluyendo la información proporcionada por los fabricantes de maquinaria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-CEN/TR 16298:2012 IN</td>
+          <td class="cuerpo_tabla_izq">Textiles y productos textiles. Textiles inteligentes. Definiciones, categorización, aplicaciones y necesidades relativas a la normalización.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-CLC/TS 50083-3-3:2014</td>
+          <td class="cuerpo_tabla_izq">Redes de distribución por cable para señales de televisión, señales de sonido y servicios interactivos. Parte 3-3: Equipos activos de banda ancha utilizados en las redes. Métodos de medida del nivel de salida máxima de funcionamiento en la vía de retorno (Ratificada por AENOR en diciembre de 2014).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 1889-1:2012</td>
+          <td class="cuerpo_tabla_izq">Maquinaria para minería subterránea. Máquinas móviles para trabajos subterráneos. Seguridad. Parte 1: Vehículos sobre neumáticos.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 12965:2004+A2:2009</td>
+          <td class="cuerpo_tabla_izq">Tractores y maquinaria agrícola y forestal. Ejes de transmisión de potencia a cardan y sus protecciones. Seguridad.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 13830:2016</td>
+          <td class="cuerpo_tabla_izq">Fachadas ligeras. Norma de producto.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 50321:2000</td>
+          <td class="cuerpo_tabla_izq">Calzado aislante de la electricidad para trabajos en instalaciones de baja tensión.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 50491-3:2010</td>
+          <td class="cuerpo_tabla_izq">Requisitos generales para sistemas electrónicos para viviendas y edificios (HBES) y sistemas de automatización y control de edificios (BACS). Parte 3: Requisitos de seguridad eléctrica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 50557:2012</td>
+          <td class="cuerpo_tabla_izq">Requisitos para los dispositivos de rearme automático (ARD) para interruptores automáticos, AD e ID de uso doméstico y análogo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60051-5:1993</td>
+          <td class="cuerpo_tabla_izq">Instrumentos de medida eléctricos con indicación analógica por acción directa y sus accesorios. Parte 5: requisitos particulares para fasímetros medidores de factor de potencia y sincronoscopios. (Versión oficial EN 60051-5:1989).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60051-6:1993</td>
+          <td class="cuerpo_tabla_izq">Instrumentos de medida eléctricos con indicación analógica por acción directa y sus accesorios. Parte 6: requisitos particulares para ohmímetros (medidores de impedancia) y medidores de conductancia. (Versión oficial EN 60051-6:1989).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60051-7:1993</td>
+          <td class="cuerpo_tabla_izq">Instrumentos de medida eléctricos con indicación analógica por acción directa y sus accesorios. Parte 7: requisitos particulares para los instrumentos multifunción (Versión oficial EN 60051-7:1989).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60051-8:1993</td>
+          <td class="cuerpo_tabla_izq">Instrumentos de medida eléctricos con indicación analógica por acción directa y sus accesorios. Parte 8: requisitos particulares para accesorios (Versión oficial EN 60051-8:1989).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60350-2:2014</td>
+          <td class="cuerpo_tabla_izq">Aparatos electrodomésticos de cocción. Parte 2: Encimeras. Métodos de medida de la aptitud a la función.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60350-2:2014/A11:2015</td>
+          <td class="cuerpo_tabla_izq">Aparatos electrodomésticos de cocción. Parte 2: Encimeras. Métodos de medida de la aptitud a la función.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60728-3:2012</td>
+          <td class="cuerpo_tabla_izq">Redes de distribución por cable para señales de televisión, señales de sonido y servicios interactivos. Parte 3: Equipos activos de banda ancha utilizados en las redes de distribución por cable.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60728-3-1:2012</td>
+          <td class="cuerpo_tabla_izq">Redes de distribución por cable para señales de televisión, sonido y servicios interactivos. Parte 3-1: Métodos de medida de no-linealidad para carga completa de canales digitales con señales DVB-C (Ratificada por AENOR en noviembre de 2012).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60749-12:2003</td>
+          <td class="cuerpo_tabla_izq">Dispositivos de semiconductores. Métodos de ensayo mecánicos y climáticos. Parte 12: Vibraciones, frecuencias variables.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60942:2005</td>
+          <td class="cuerpo_tabla_izq">Electroacústica. Calibradores acústicos.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 61190-1-3:2007</td>
+          <td class="cuerpo_tabla_izq">Materiales de fijación para conjuntos electrónicos. Parte 1-3: Requisitos para aleaciones de soldadura electrónica y soldaduras sólidas con y sin fundente para aplicaciones de soldadura electrónica (IEC 61190-1-3:2007) (Ratificada por AENOR en diciembre de 2007).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 61190-1-3:2007/A1:2010</td>
+          <td class="cuerpo_tabla_izq">Materiales de fijación para conjuntos electrónicos. Parte 1-3: Requisitos para aleaciones de soldadura electrónica y soldaduras sólidas con y sin fundente para aplicaciones de soldadura electrónica (Ratificada por AENOR en noviembre de 2010).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 61281-1:1999</td>
+          <td class="cuerpo_tabla_izq">Subsistemas de comunicación por fibra óptica. Parte 1: Especificación genérica (Ratificada por AENOR en junio de 1999).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 61340-4-3:2005</td>
+          <td class="cuerpo_tabla_izq">Electrostática. Parte 4-3: Métodos de ensayos normalizados para aplicaciones específicas. Calzado.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 61643-331:2004</td>
+          <td class="cuerpo_tabla_izq">Componentes para dispositivos de protección contra sobretensiones de baja tensión. Parte 331: Especificación para varistancias de óxido metálico (MOV).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 61756-1:2006</td>
+          <td class="cuerpo_tabla_izq">Dispositivo de interconexión de fibra óptica y componentes pasivos. Norma de interfaz para sistemas de gestión de fibra. Parte 1: Generalidades y guía (IEC 61756-1:2006) (Ratificada por AENOR en octubre de 2006).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 62024-1:2008</td>
+          <td class="cuerpo_tabla_izq">Componentes inductivos de alta frecuencia. Características eléctricas y métodos de medición. Parte 1: Inductor de pastilla en el rango de nanohenrios (Ratificada por AENOR en septiembre de 2008).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 62604-2:2012</td>
+          <td class="cuerpo_tabla_izq">Duplexores de Onda Acústica de Superficie y de Onda Acústica de Sustrato. Parte 2: Guía para el usuario (Ratificada por AENOR en abril de 2012).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO/IEC 17011:2004</td>
+          <td class="cuerpo_tabla_izq">Evaluación de la conformidad. Requisitos generales para los organismos de acreditación que realizan la acreditación de organismos de evaluación de la conformidad (ISO/IEC 17011:2004).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO/IEC 17011:2004 ERRATUM</td>
+          <td class="cuerpo_tabla_izq">Evaluación de la conformidad. Requisitos generales para los organismos de acreditación que realizan la acreditación de organismos de evaluación de la conformidad (ISO/IEC 17011:2004).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO/IEC 17025:2005</td>
+          <td class="cuerpo_tabla_izq">Evaluación de la conformidad. Requisitos generales para la competencia de los laboratorios de ensayo y de calibración.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO/IEC 17025:2005 ERRATUM:2006</td>
+          <td class="cuerpo_tabla_izq">Evaluación de la conformidad. Requisitos generales para la competencia de los laboratorios de ensayo y de calibración (ISO/IEC 17025:2005/Cor. 1:2006).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-ISO 15176:2007</td>
+          <td class="cuerpo_tabla_izq">Calidad del suelo. Caracterización de suelo excavado y otros materiales del suelo para su reutilización.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-ISO 15799:2007</td>
+          <td class="cuerpo_tabla_izq">Calidad del suelo. Directrices para la caracterización ecotoxicológica de los suelos y los materiales del suelo (ISO 15799:2003).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-ISO 15800:2008</td>
+          <td class="cuerpo_tabla_izq">Calidad del suelo. Caracterización de los suelos respecto a la exposición de las personas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-ISO/IEC 14598-5:2006</td>
+          <td class="cuerpo_tabla_izq">Tecnología de la Información. Evaluación del producto software. Parte 5: Procedimiento para evaluadores (ISO/IEC 14598-5:1998).</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

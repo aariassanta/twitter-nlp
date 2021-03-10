@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210215172601">
+  <metadatos>
+    <identificador>BOE-A-2021-2292</identificador>
+    <titulo>Resolución de 4 de febrero de 2021, de la Dirección General de Trabajo, por la que se registran y publican las tablas salariales para el año 2021 del Convenio colectivo de la industria del calzado.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>39</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9573">Ministerio de Trabajo y Economía Social</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210204</fecha_disposicion>
+    <fecha_publicacion>20210215</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>17565</pagina_inicial>
+    <pagina_final>17567</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/15/pdfs/BOE-A-2021-2292.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/02/04/(3)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/04/(3)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2292</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-04</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(3)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/04/(3)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2292</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-04</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(3)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/02/04/(3)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/02/04/(3)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 4 de febrero de 2021, de la Dirección General de Trabajo, por la que se registran y publican las tablas salariales para el año 2021 del Convenio colectivo de la industria del calzado.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-15</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/02/04/(3)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/04/(3)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/04/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/04/(3)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/04/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/04/(3)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/04/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="574" orden="">Calzado</materia>
+      <materia codigo="1684" orden="">Convenios colectivos</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2015-11430" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 90.2 y 3 de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2010-9274" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto 713/2010, de 28 de mayo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2019-10744" orden="3070">
+          <palabra codigo="331">EN RELACIÓN con</palabra>
+          <texto>el Convenio publicado por Resolución de 9 de julio de 2019</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Vistas las tablas salariales para el año 2021 del Convenio colectivo de la industria del calzado (código de Convenio 9900080501981), publicado en el «Boletín Oficial del Estado» de 22 de julio 2019, que fueron suscritas, con fecha 21 de enero de 2021, de una parte por la Asociación de Empresas de Componentes del Calzado (AEC) y la Federación de Industrias del Calzado Español (FICE), en representación de las empresas del sector, y, de otra, por los sindicatos CC.OO.-Industria y UGT-FICA, en representación de los trabajadores afectados, y de conformidad con lo dispuesto en el artículo 90, apartados 2 y 3, de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre, y en el Real Decreto 713/2010, de 28 de mayo, sobre registro y depósito de convenios y acuerdos colectivos de trabajo,</p>
+    <p class="parrafo">Esta Dirección General de Trabajo resuelve:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo">Ordenar la inscripción de las citadas tablas salariales en el correspondiente Registro de convenios y acuerdos colectivos de trabajo con funcionamiento a través de medios electrónicos de este centro directivo, con notificación a la Comisión Negociadora.</p>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">Disponer su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 4 de febrero de 2021.–La Directora General de Trabajo, Verónica Martínez Barbero.</p>
+    <p class="anexo">ACTA DE LA REUNIÓN DE LA COMISIÓN NEGOCIADORA PARA LA APROBACIÓN Y FIRMA DE LA TABLA SALARIAL DEL TERCER AÑO DE VIGENCIA DEL CONVENIO COLECTIVO DE LA INDUSTRIA DEL CALZADO 2019-2021</p>
+    <p class="parrafo_2">Asistentes:</p>
+    <p class="parrafo_2">En representación de los trabajadores:</p>
+    <p class="parrafo_2">– Por CCOO-INDUSTRIA: Francisco Fernández Villodre, María Jesús Fernández Zapardiel, Miguel Ángel Cerda Galvañ, Diego Belón Herce, Manuel Dominguez Bermejo y Carmen Expósito Robles.</p>
+    <p class="parrafo">– Por FITAG-UGT: Jose Carlos Ruiz, Miguel Ángel Urgoitii Ordóñez y Félix Carmelo Moreno Magaña.</p>
+    <p class="parrafo_2">En representación de las empresas:</p>
+    <p class="parrafo_2">– Por AEC (Asociación de empresas de componentes del calzado): Álvaro Sánchez Concellón.</p>
+    <p class="parrafo">– Por FICE (Federación de Industrias del Calzado Español): Enrique Navalón Cuenca, María Ángela Cano García, Javier Oñate Domínguez y José M.ª Escrigas Galán.</p>
+    <p class="parrafo_2">En Madrid, siendo las 10:00 horas del día 21 de enero de 2021, se reúnen las personas al margen referenciadas, integrantes de la Comisión Negociadora del Convenio de la Industria del Calzado al objeto de aprobar la redacción y proceder a la firma de la Tabla Salarial del Tercer año de vigencia del Convenio, año 2021, conforme a lo dispuesto en el artículo 34.1.1.5 del mismo.</p>
+    <p class="parrafo">Examinada la tabla salarial por los componentes de la Comisión Negociadora, y siendo conforme a lo establecido en el artículo anteriormente referenciado, se procede a su firma, adjuntándola a la presente Acta, con sus copias correspondientes.</p>
+    <p class="parrafo">A efectos de su firma se autoriza a los siguientes representantes:</p>
+    <p class="parrafo_2">– Por CCOO-INDISTRIA, a Carmen Expósito Robles.</p>
+    <p class="parrafo">– Por FITAG-UGT, a José Carlos Ruiz.</p>
+    <p class="parrafo">– Por AEC, a Alvaro Sánchez Concellón.</p>
+    <p class="parrafo">– Por FICE, a Enrique Navalón Cuenca.</p>
+    <p class="parrafo_2">Finalmente se autoriza a María Ángela Cano García, como la persona autorizada a tal efecto, para que proceda al envió telemático de la presente Acta y Tabla Salarial del año 2021 a la Dirección General de Trabajo para el registro y publicación de la misma en el BOE.</p>
+    <p class="anexo_num">ANEXO 2</p>
+    <p class="anexo_tit">Convenio del Calzado</p>
+    <p class="centro_cursiva">Tabla salarial 2021</p>
+    <p class="parrafo_2">Tabla I. Personal con retribución mensual o diaria (extras aparte).</p>
+    <p class="parrafo">Tabla II. Personal con retribución mensual o diaria (todo incluido).</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" rowspan="2"> </th>
+          <th class="cabeza_tabla">Salario anual</th>
+          <th class="cabeza_tabla">Salario mes</th>
+          <th class="cabeza_tabla">Salario día</th>
+          <th class="cabeza_tabla">Salario mes</th>
+          <th class="cabeza_tabla">Salario día</th>
+          <th class="cabeza_tabla">Hora Prima</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">2021</th>
+          <th class="cabeza_tabla">(Tabla I)</th>
+          <th class="cabeza_tabla">(Tabla I)</th>
+          <th class="cabeza_tabla">(Tabla II)</th>
+          <th class="cabeza_tabla">(Tabla II)</th>
+          <th class="cabeza_tabla">(Tabla II)</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="34%"/>
+        <col width="12%"/>
+        <col width="12%"/>
+        <col width="10%"/>
+        <col width="12%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Grupo I. Personal Técnico Titulado.</td>
+          <td class="cuerpo_tabla_centro">2%</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingenieros y Licenciados.</td>
+          <td class="cuerpo_tabla_centro">28.522,07</td>
+          <td class="cuerpo_tabla_centro">2.037,29</td>
+          <td class="cuerpo_tabla_centro">67,11</td>
+          <td class="cuerpo_tabla_centro">2.376,84</td>
+          <td class="cuerpo_tabla_centro">78,14</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingenieros Técnicos y Analistas Diplomados.</td>
+          <td class="cuerpo_tabla_centro">26.179,10</td>
+          <td class="cuerpo_tabla_centro">1.869,94</td>
+          <td class="cuerpo_tabla_centro">61,60</td>
+          <td class="cuerpo_tabla_centro">2.181,59</td>
+          <td class="cuerpo_tabla_centro">71,72</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Graduados Sociales y A.T.S.</td>
+          <td class="cuerpo_tabla_centro">26.179,10</td>
+          <td class="cuerpo_tabla_centro">1.869,94</td>
+          <td class="cuerpo_tabla_centro">61,60</td>
+          <td class="cuerpo_tabla_centro">2.181,59</td>
+          <td class="cuerpo_tabla_centro">71,72</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Personal Técnico no Titulado.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Encargado General Fabricación.</td>
+          <td class="cuerpo_tabla_centro">26.174,14</td>
+          <td class="cuerpo_tabla_centro">1.869,58</td>
+          <td class="cuerpo_tabla_centro">61,59</td>
+          <td class="cuerpo_tabla_centro">2.181,18</td>
+          <td class="cuerpo_tabla_centro">71,71</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Encargado Depto.y Técnico Org.</td>
+          <td class="cuerpo_tabla_centro">25.484,49</td>
+          <td class="cuerpo_tabla_centro">1.820,32</td>
+          <td class="cuerpo_tabla_centro">59,96</td>
+          <td class="cuerpo_tabla_centro">2.123,71</td>
+          <td class="cuerpo_tabla_centro">69,82</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Encargado Sector, Programador y Modelista.</td>
+          <td class="cuerpo_tabla_centro">22.892,29</td>
+          <td class="cuerpo_tabla_centro">1.635,16</td>
+          <td class="cuerpo_tabla_centro">53,86</td>
+          <td class="cuerpo_tabla_centro">1.907,69</td>
+          <td class="cuerpo_tabla_centro">62,72</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Patronista.</td>
+          <td class="cuerpo_tabla_centro">20.979,90</td>
+          <td class="cuerpo_tabla_centro">1.498,56</td>
+          <td class="cuerpo_tabla_centro">49,36</td>
+          <td class="cuerpo_tabla_centro">1.748,32</td>
+          <td class="cuerpo_tabla_centro">57,48</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Encargado de Sección y Cronometrador.</td>
+          <td class="cuerpo_tabla_centro">19.463,12</td>
+          <td class="cuerpo_tabla_centro">1.390,22</td>
+          <td class="cuerpo_tabla_centro">45,80</td>
+          <td class="cuerpo_tabla_centro">1.621,93</td>
+          <td class="cuerpo_tabla_centro">53,32</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Subencargado de Sección.</td>
+          <td class="cuerpo_tabla_centro">17.093,46</td>
+          <td class="cuerpo_tabla_centro">1.220,96</td>
+          <td class="cuerpo_tabla_centro">40,22</td>
+          <td class="cuerpo_tabla_centro">1.424,45</td>
+          <td class="cuerpo_tabla_centro">46,83</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Grupo II. Empleados Mercantiles.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Jefe de Compras y Ventas.</td>
+          <td class="cuerpo_tabla_centro">25.350,57</td>
+          <td class="cuerpo_tabla_centro">1.810,76</td>
+          <td class="cuerpo_tabla_centro">59,65</td>
+          <td class="cuerpo_tabla_centro">2.112,55</td>
+          <td class="cuerpo_tabla_centro">69,45</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Agente de Compras y Viajantes.</td>
+          <td class="cuerpo_tabla_centro">20.666,42</td>
+          <td class="cuerpo_tabla_centro">1.476,17</td>
+          <td class="cuerpo_tabla_centro">48,63</td>
+          <td class="cuerpo_tabla_centro">1.722,20</td>
+          <td class="cuerpo_tabla_centro">56,62</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Oficial de ventas.</td>
+          <td class="cuerpo_tabla_centro">20.451,43</td>
+          <td class="cuerpo_tabla_centro">1.460,82</td>
+          <td class="cuerpo_tabla_centro">48,12</td>
+          <td class="cuerpo_tabla_centro">1.704,29</td>
+          <td class="cuerpo_tabla_centro">56,03</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dependiente.</td>
+          <td class="cuerpo_tabla_centro">15.323,05</td>
+          <td class="cuerpo_tabla_centro">1.094,50</td>
+          <td class="cuerpo_tabla_centro">36,05</td>
+          <td class="cuerpo_tabla_centro">1.276,92</td>
+          <td class="cuerpo_tabla_centro">41,98</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Personal Administrativo.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Jefe de Sección.</td>
+          <td class="cuerpo_tabla_centro">23.728,67</td>
+          <td class="cuerpo_tabla_centro">1.694,91</td>
+          <td class="cuerpo_tabla_centro">55,83</td>
+          <td class="cuerpo_tabla_centro">1.977,39</td>
+          <td class="cuerpo_tabla_centro">65,01</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Jefe de Negociado.</td>
+          <td class="cuerpo_tabla_centro">22.769,68</td>
+          <td class="cuerpo_tabla_centro">1.626,41</td>
+          <td class="cuerpo_tabla_centro">53,58</td>
+          <td class="cuerpo_tabla_centro">1.897,47</td>
+          <td class="cuerpo_tabla_centro">62,38</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Oficial de Primera.</td>
+          <td class="cuerpo_tabla_centro">19.463,12</td>
+          <td class="cuerpo_tabla_centro">1.390,22</td>
+          <td class="cuerpo_tabla_centro">45,80</td>
+          <td class="cuerpo_tabla_centro">1.621,93</td>
+          <td class="cuerpo_tabla_centro">53,32</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Oficial de Segunda.</td>
+          <td class="cuerpo_tabla_centro">17.817,09</td>
+          <td class="cuerpo_tabla_centro">1.272,65</td>
+          <td class="cuerpo_tabla_centro">41,92</td>
+          <td class="cuerpo_tabla_centro">1.484,76</td>
+          <td class="cuerpo_tabla_centro">48,81</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Auxiliar y Telefonista.</td>
+          <td class="cuerpo_tabla_centro">15.479,38</td>
+          <td class="cuerpo_tabla_centro">1.105,67</td>
+          <td class="cuerpo_tabla_centro">36,42</td>
+          <td class="cuerpo_tabla_centro">1.289,95</td>
+          <td class="cuerpo_tabla_centro">42,41</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Grupo IV. Oficios varios.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Conductor Transportista y Maestro de Mesilla.</td>
+          <td class="cuerpo_tabla_centro">17.693,38</td>
+          <td class="cuerpo_tabla_centro">1.263,81</td>
+          <td class="cuerpo_tabla_centro">41,63</td>
+          <td class="cuerpo_tabla_centro">1.474,45</td>
+          <td class="cuerpo_tabla_centro">48,48</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Encargado de Almacén y Listero.</td>
+          <td class="cuerpo_tabla_centro">16.672,21</td>
+          <td class="cuerpo_tabla_centro">1.190,87</td>
+          <td class="cuerpo_tabla_centro">39,23</td>
+          <td class="cuerpo_tabla_centro">1.389,35</td>
+          <td class="cuerpo_tabla_centro">45,68</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Almacenero y Chofer Distribuidor.</td>
+          <td class="cuerpo_tabla_centro">16.295,13</td>
+          <td class="cuerpo_tabla_centro">1.163,94</td>
+          <td class="cuerpo_tabla_centro">38,34</td>
+          <td class="cuerpo_tabla_centro">1.357,93</td>
+          <td class="cuerpo_tabla_centro">44,64</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Oficial de almacén.</td>
+          <td class="cuerpo_tabla_centro">15.749,07</td>
+          <td class="cuerpo_tabla_centro">1.124,93</td>
+          <td class="cuerpo_tabla_centro">37,06</td>
+          <td class="cuerpo_tabla_centro">1.312,42</td>
+          <td class="cuerpo_tabla_centro">43,15</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Vigilante y Pesador.</td>
+          <td class="cuerpo_tabla_centro">15.058,95</td>
+          <td class="cuerpo_tabla_centro">1.075,64</td>
+          <td class="cuerpo_tabla_centro">35,43</td>
+          <td class="cuerpo_tabla_centro">1.254,91</td>
+          <td class="cuerpo_tabla_centro">41,26</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ordenanza, Portero y Mozo de Almacén.</td>
+          <td class="cuerpo_tabla_centro">14.989,40</td>
+          <td class="cuerpo_tabla_centro">1.070,67</td>
+          <td class="cuerpo_tabla_centro">35,27</td>
+          <td class="cuerpo_tabla_centro">1.249,12</td>
+          <td class="cuerpo_tabla_centro">41,07</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Empleados de Limpieza.</td>
+          <td class="cuerpo_tabla_centro">14.598,13</td>
+          <td class="cuerpo_tabla_centro">1.042,72</td>
+          <td class="cuerpo_tabla_centro">34,35</td>
+          <td class="cuerpo_tabla_centro">1.216,51</td>
+          <td class="cuerpo_tabla_centro">39,99</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Grupo III. Fabricación.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Nivel 5.</td>
+          <td class="cuerpo_tabla_centro">16.306,58</td>
+          <td class="cuerpo_tabla_centro">1.164,76</td>
+          <td class="cuerpo_tabla_centro">38,37</td>
+          <td class="cuerpo_tabla_centro">1.358,88</td>
+          <td class="cuerpo_tabla_centro">44,68</td>
+          <td class="cuerpo_tabla_centro">9,30</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Nivel 4.</td>
+          <td class="cuerpo_tabla_centro">15.749,07</td>
+          <td class="cuerpo_tabla_centro">1.124,93</td>
+          <td class="cuerpo_tabla_centro">37,06</td>
+          <td class="cuerpo_tabla_centro">1.312,42</td>
+          <td class="cuerpo_tabla_centro">43,15</td>
+          <td class="cuerpo_tabla_centro">8,98</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Nivel 3.</td>
+          <td class="cuerpo_tabla_centro">15.191,55</td>
+          <td class="cuerpo_tabla_centro">1.085,11</td>
+          <td class="cuerpo_tabla_centro">35,74</td>
+          <td class="cuerpo_tabla_centro">1.265,96</td>
+          <td class="cuerpo_tabla_centro">41,62</td>
+          <td class="cuerpo_tabla_centro">8,67</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Nivel 2.</td>
+          <td class="cuerpo_tabla_centro">14.963,30</td>
+          <td class="cuerpo_tabla_centro">1.068,81</td>
+          <td class="cuerpo_tabla_centro">35,21</td>
+          <td class="cuerpo_tabla_centro">1.246,94</td>
+          <td class="cuerpo_tabla_centro">41,00</td>
+          <td class="cuerpo_tabla_centro">8,54</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Nivel 1.</td>
+          <td class="cuerpo_tabla_centro">14.806,79</td>
+          <td class="cuerpo_tabla_centro">1.057,63</td>
+          <td class="cuerpo_tabla_centro">34,84</td>
+          <td class="cuerpo_tabla_centro">1.233,90</td>
+          <td class="cuerpo_tabla_centro">40,57</td>
+          <td class="cuerpo_tabla_centro">8,45</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="anexo_num">ANEXO 2 BIS</p>
+    <p class="anexo_tit">Tabla salarial de reparadores de calzado y duplicado de llaves</p>
+    <p class="centro_cursiva">Tabla salarial 2021</p>
+    <p class="parrafo_2">Tabla I. Personal con retribución mensual o diaria (extras aparte).</p>
+    <p class="parrafo">Tabla II. Personal con retribución mensual o diaria (todo incluido).</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" rowspan="2"> </th>
+          <th class="cabeza_tabla">Salario anual</th>
+          <th class="cabeza_tabla">Salario mes</th>
+          <th class="cabeza_tabla">Salario día</th>
+          <th class="cabeza_tabla">Salario mes</th>
+          <th class="cabeza_tabla">Salario día</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">2021</th>
+          <th class="cabeza_tabla">(Tabla I)</th>
+          <th class="cabeza_tabla">(Tabla I)</th>
+          <th class="cabeza_tabla">(Tabla II)</th>
+          <th class="cabeza_tabla">(Tabla II)</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="44%"/>
+        <col width="12%"/>
+        <col width="12%"/>
+        <col width="10%"/>
+        <col width="12%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Reparadores de Calzado y Duplicados de llaves.</td>
+          <td class="cuerpo_tabla_centro">2%</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Reparadores / Duplicadores (+ de 6 años).</td>
+          <td class="cuerpo_tabla_centro">16.027,82</td>
+          <td class="cuerpo_tabla_centro">1.144,84</td>
+          <td class="cuerpo_tabla_centro">37,71</td>
+          <td class="cuerpo_tabla_centro">1.335,65</td>
+          <td class="cuerpo_tabla_centro">43,91</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Reparadores / Duplicadores (+1 a 6 años).</td>
+          <td class="cuerpo_tabla_centro">15.470,32</td>
+          <td class="cuerpo_tabla_centro">1.105,02</td>
+          <td class="cuerpo_tabla_centro">36,40</td>
+          <td class="cuerpo_tabla_centro">1.289,19</td>
+          <td class="cuerpo_tabla_centro">42,38</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Reparadores / Duplicadores (1.<sup>er</sup> año).</td>
+          <td class="cuerpo_tabla_centro">14.280,00</td>
+          <td class="cuerpo_tabla_centro">1.020,00</td>
+          <td class="cuerpo_tabla_centro">33,60</td>
+          <td class="cuerpo_tabla_centro">1.190,00</td>
+          <td class="cuerpo_tabla_centro">39,12</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

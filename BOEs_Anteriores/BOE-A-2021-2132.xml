@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210215142601">
+  <metadatos>
+    <identificador>BOE-A-2021-2132</identificador>
+    <titulo>Orden CIN/119/2021, de 8 de febrero, por la que se crea la Sede Electrónica del Ministerio de Ciencia e Innovación.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>38</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="4245">Ministerio de Ciencia e Innovación</departamento>
+    <rango codigo="1350">Orden</rango>
+    <numero_oficial>CIN/119/2021</numero_oficial>
+    <fecha_disposicion>20210208</fecha_disposicion>
+    <fecha_publicacion>20210213</fecha_publicacion>
+    <fecha_vigencia>20210214</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>16638</pagina_inicial>
+    <pagina_final>16642</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-2132</url_epub>
+    <url_pdf>/boe/dias/2021/02/13/pdfs/BOE-A-2021-2132.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/o/2021/02/08/cin119</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2021/02/08/cin119">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2132</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-08</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cin119</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2021/02/08/cin119/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2132</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-08</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cin119</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/cin119"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2021/02/08/cin119/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden CIN/119/2021, de 8 de febrero, por la que se crea la Sede Electrónica del Ministerio de Ciencia e Innovación.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-13</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/cin119/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/02/08/cin119/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/cin119/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/02/08/cin119/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/cin119/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/02/08/cin119/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/cin119/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/02/08/cin119/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/02/08/cin119/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="1508" orden="">Administración electrónica</materia>
+      <materia codigo="4506" orden="">Internet</materia>
+      <materia codigo="2459" orden="">Ministerio de Ciencia e Innovación</materia>
+      <materia codigo="7869" orden="">Registros telemáticos</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="143" orden="">Administración electrónica</alerta>
+      <alerta codigo="109" orden="">Derecho Administrativo</alerta>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2015-10566" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 38 de la Ley 40/2015, de 1 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2009-18358" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 3.2 del Real Decreto 1671/2009, de 6 de noviembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El artículo 38 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, define la sede electrónica como aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias.</p>
+    <p class="parrafo">El establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de la integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la misma.</p>
+    <p class="parrafo">Corresponde a cada Administración Pública determinar, de acuerdo con lo dispuesto en el apartado 3 del citado artículo, las condiciones e instrumentos de creación de las sedes electrónicas, con sujeción a los principios de transparencia, publicidad, responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad e interoperabilidad. En todo caso debe garantizarse la identificación del órgano titular de la sede, así como los medios disponibles para la formulación de sugerencias y quejas.</p>
+    <p class="parrafo">Por otra parte, el Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, además de regular la sede electrónica en sus artículos 3 al 9, señala específicamente en su artículo 3.2 que las sedes electrónicas se crearán mediante orden del Ministro correspondiente o resolución del titular del organismo público, que deberá publicarse en el «Boletín Oficial del Estado», determinando el contenido mínimo de esta norma aprobatoria. Con ello se aportan a los ciudadanos garantías de plena certeza y seguridad en sus relaciones con la Administración Pública.</p>
+    <p class="parrafo">El Ministerio de Ciencia e Innovación fue creado mediante Real Decreto 2/2020, de 12 de enero, por el que se reestructuran los departamentos ministeriales, desarrollándose su estructura orgánica a través del Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los departamentos ministeriales, y del Real Decreto 404/2020, de 25 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Ciencia e Innovación, como departamento ministerial de la Administración General del Estado encargado de la propuesta y ejecución de la política del Gobierno en materia de ciencia, desarrollo tecnológico e innovación en todos los sectores, así como del resto de competencias y atribuciones que le confiere el ordenamiento jurídico.</p>
+    <p class="parrafo">Con la implantación de la sede se pretende, por tanto, facilitar a la ciudadanía y la sociedad sus relaciones con el Ministerio de Ciencia e Innovación, de manera ágil y eficaz, garantizando el cumplimiento del derecho de los ciudadanos a comunicarse con las Administraciones Públicas a través de medios electrónicos, tal y como preceptúa el artículo 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.</p>
+    <p class="parrafo">De conformidad con estas previsiones normativas, la presente orden tiene por objeto la creación y regulación de la Sede Electrónica del Ministerio de Ciencia e Innovación, para todos los órganos del Ministerio y organismos públicos y demás entidades de derecho público vinculadas, dependientes o adscritas al mismo, siempre que las mismas no cuenten con sede electrónica propia.</p>
+    <p class="parrafo">Asimismo, mediante esta orden se habilita, en su disposición final primera, a la persona titular de la Subsecretaría para la adaptación de determinadas características de la sede cuando deban modificarse.</p>
+    <p class="parrafo">En su virtud, dispongo:</p>
+    <p class="articulo">Artículo 1. Objeto y ámbito de aplicación.</p>
+    <p class="parrafo">1. Esta orden tiene por objeto la creación de la Sede Electrónica del Ministerio de Ciencia e Innovación (SEMCIN, en lo sucesivo), con el ámbito y características que se recogen en la misma, con el fin de dar cumplimiento a lo establecido en el artículo 38 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, así como en el artículo 3 del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos.</p>
+    <p class="parrafo">2. Su ámbito de aplicación se extiende exclusivamente a los órganos pertenecientes al Ministerio de Ciencia e Innovación, quedando fuera del mismo los organismos públicos y demás entidades de derecho público vinculadas, dependientes o adscritas a este departamento ministerial que, conforme a lo establecido en el artículo 3 del Real Decreto 1671/2009, de 6 de noviembre, aprueben sus respectivas sedes electrónicas mediante resolución de su titular, que se publicará en su correspondiente sede electrónica y en el «Boletín Oficial del Estado».</p>
+    <p class="articulo">Artículo 2. Características de la Sede Electrónica del Ministerio de Ciencia e Innovación.</p>
+    <p class="parrafo">1. La SEMCIN se crea con las siguientes características:</p>
+    <p class="parrafo_2">a) Tendrá por ámbito la totalidad de los órganos del departamento.</p>
+    <p class="parrafo">Asimismo, la SEMCIN extenderá su ámbito a los organismos y entidades que se determinen en los convenios que, en su caso, suscriba la persona titular de la Subsecretaría con los titulares de los organismos públicos y entidades de derecho público vinculadas, dependientes o adscritas al Departamento, al amparo de lo establecido en el último inciso del artículo 3.3 del Real Decreto 1671/2009, de 6 de noviembre. Estos acuerdos serán objeto de publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo">b) Se realizarán a través de la SEMCIN todas las actuaciones, procedimientos y servicios que requieran la autenticación de los ciudadanos o de la Administración Pública en sus relaciones con éstos por medios electrónicos, así como aquellos otros respecto a los que se decida su inclusión en la sede por razones de eficacia y calidad en la prestación de servicios a los ciudadanos.</p>
+    <p class="parrafo">c) La dirección electrónica de referencia de la sede será https://ciencia.sede.gob.es. Será accesible directamente, así como a través del portal de internet http://www.ciencia.gob.es.</p>
+    <p class="parrafo">d) La titularidad de la sede electrónica corresponderá a la Subsecretaría de Ciencia e Innovación.</p>
+    <p class="parrafo">e) La gestión tecnológica de la sede será competencia de la Subsecretaría de Ciencia e Innovación, que la ejercerá a través de la División de Tecnologías de la Información.</p>
+    <p class="parrafo">f) Serán responsables de la gestión, de los contenidos y de los servicios puestos a disposición de los ciudadanos en la sede los titulares de los centros directivos del Departamento, y en su caso de los Organismos y entidades que se incorporen a la sede. La responsabilidad se corresponderá con las competencias que cada uno de los titulares tenga atribuidas por la legislación vigente.</p>
+    <p class="parrafo">g) La gestión de los contenidos comunes de la sede y la coordinación con los centros directivos del Departamento y los Organismos incorporados a la sede corresponderá a la Subsecretaría del Departamento.</p>
+    <p class="parrafo">h) La SEMCIN incluirá como mínimo los contenidos relacionados en el artículo 3 de esta orden.</p>
+    <p class="parrafo">i) Serán canales de acceso a los servicios disponibles en la sede:</p>
+    <p class="parrafo_2">1.º Para el acceso electrónico, a través de Internet, bien directamente a través del portal de internet http://www.ciencia.gob.es o de la sede electrónica.</p>
+    <p class="parrafo">2.º Para la atención telefónica, los servicios de información departamental, a través de los teléfonos que se publicarán en la propia sede.</p>
+    <p class="parrafo_2">j) La información y los servicios incluidos en la SEMCIN cumplirán los principios de accesibilidad y uso establecidos en la Ley 40/2015, de 1 de octubre, en los términos dictados por la normativa vigente en esta materia en cada momento.</p>
+    <p class="parrafo_2">2. La publicación en la sede electrónica de informaciones, servicios y transacciones respetará los principios de accesibilidad y uso de acuerdo con las normas establecidas al respecto, estándares abiertos y, en su caso, aquellos otros que sean de uso generalizado por los ciudadanos.</p>
+    <p class="parrafo">3. Los contenidos publicados en la sede electrónica responderán a los criterios de seguridad e interoperabilidad que se derivan del Real Decreto 1671/2009, de 6 de noviembre, del Real Decreto 3/2010, de 8 de enero, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica, así como del Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.</p>
+    <p class="articulo">Artículo 3. Contenido y servicios de la sede electrónica del Ministerio de Ciencia e Innovación.</p>
+    <p class="parrafo">1. La SEMCIN dispondrá del siguiente contenido:</p>
+    <p class="parrafo_2">a) Identificación de la sede, así como del órgano titular y de los responsables de la gestión de los contenidos puestos a disposición de la misma.</p>
+    <p class="parrafo">b) Información necesaria para la correcta utilización de la sede, incluyendo el mapa de la sede electrónica o información equivalente, con especificación de la estructura de navegación y las distintas secciones disponibles, así como la relacionada con propiedad intelectual.</p>
+    <p class="parrafo">c) Servicios de asesoramiento electrónico al usuario para la correcta utilización de la SEMCIN.</p>
+    <p class="parrafo">d) Relación de sistemas de firma electrónica que sean admitidos o utilizados en la SEMCIN.</p>
+    <p class="parrafo">e) Información relacionada con la protección de datos personales, de conformidad con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, incluyendo un enlace con la sede electrónica de la Agencia Española de Protección de Datos.</p>
+    <p class="parrafo">f) Informe de cumplimiento de las condiciones de confidencialidad, integridad y disponibilidad de las informaciones y comunicaciones que se realicen a través de la SEMCIN.</p>
+    <p class="parrafo">g) Resolución de la Subsecretaría por la que se crean los sellos electrónicos.</p>
+    <p class="parrafo">h) Enlace al «Boletín Oficial del Estado».</p>
+    <p class="parrafo">i) Enlace con el Punto de Acceso General de la Administración General del Estado.</p>
+    <p class="parrafo_2">2. La SEMCIN dispondrá de los siguientes servicios a disposición de los ciudadanos:</p>
+    <p class="parrafo_2">a) Relación de los medios electrónicos que los ciudadanos puedan utilizar en cada supuesto para comunicarse con la sede.</p>
+    <p class="parrafo">b) Catálogo de Trámites y Servicios disponibles en la SEMCIN, con indicación de los que deban realizarse obligatoriamente por vía electrónica.</p>
+    <p class="parrafo">c) Carta de Servicios Electrónicos de la SEMCIN.</p>
+    <p class="parrafo">d) Buzón general de sugerencias y quejas.</p>
+    <p class="parrafo">e) Acceso a la consulta del estado de tramitación del expediente.</p>
+    <p class="parrafo">f) Sistema de verificación del certificado de la SEMCIN.</p>
+    <p class="parrafo">g) Sistema de verificación de los certificados de sellos electrónicos empleados en la SEMCIN.</p>
+    <p class="parrafo">h) Servicio de comprobación de la autenticidad e integridad de los documentos autenticados mediante código seguro de verificación.</p>
+    <p class="parrafo">i) Fecha y hora oficial, y días declarados oficialmente como inhábiles. La fecha y hora oficial de la sede corresponde a la de España peninsular conforme a lo que, en su caso, establezca el Esquema Nacional de Interoperabilidad.</p>
+    <p class="articulo">Artículo 4. Medios para la formulación de quejas y sugerencias.</p>
+    <p class="parrafo">1. Los medios disponibles para la formulación de quejas y sugerencias en relación con el contenido, gestión y servicios ofrecidos en la sede que se crea por esta orden serán los siguientes:</p>
+    <p class="parrafo_2">a) Presentación presencial o por correo postal ante el Registro General del Ministerio de Ciencia e Innovación, así como por medio de correo electrónico, de acuerdo con el procedimiento establecido en el artículo 15 del Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado.</p>
+    <p class="parrafo">b) Presentación telemática a través del servicio de formulación de sugerencias y quejas de la SEMCIN.</p>
+    <p class="parrafo_2">2. No se considerarán medios para la formulación de quejas y sugerencias los servicios de asesoramiento electrónico al usuario para la correcta utilización de la sede, sin perjuicio de su obligación, cuando existan, de atender los problemas que susciten los ciudadanos.</p>
+    <p class="articulo">Disposición transitoria única. Sede electrónica de la Agencia Estatal de Investigación.</p>
+    <p class="parrafo">Hasta que por parte de la Agencia Estatal de Investigación se proceda a la creación de su sede electrónica propia mediante resolución de su titular, todas las actuaciones, procedimientos y servicios de dicha Agencia que requieran la autenticación de la Administración Pública o de los ciudadanos por medios electrónicos se regirán por lo dispuesto en la presente orden.</p>
+    <p class="articulo">Disposición derogatoria única. Derogación normativa.</p>
+    <p class="parrafo">Quedan derogadas las disposiciones de igual o inferior rango en lo que se opongan a lo dispuesto en esta orden.</p>
+    <p class="articulo">Disposición final primera. Adaptación de determinadas características de la sede.</p>
+    <p class="parrafo">Podrán adaptarse, mediante Resolución de la Subsecretaría del Departamento, publicada en el «Boletín Oficial del Estado»:</p>
+    <p class="parrafo_2">a) La dirección electrónica que figura en la presente orden, cuando deba modificarse por cualquier causa.</p>
+    <p class="parrafo">b) La denominación de los centros y organismos responsables, cuando deriven de reordenaciones organizativas.</p>
+    <p class="parrafo">c) La relación y características de los canales de acceso a los servicios disponibles en la sede.</p>
+    <p class="parrafo">d) Cualquier otra característica que no sea de consignación obligatoria conforme a lo previsto en el artículo 3.2 del Real Decreto 1671/2009, de 6 de noviembre.</p>
+    <p class="articulo">Disposición final segunda. Habilitación.</p>
+    <p class="parrafo">La persona titular de la Subsecretaría de Ciencia e Innovación podrá adoptar cuantas disposiciones sean necesarias para el desarrollo y ejecución de la presente orden.</p>
+    <p class="articulo">Disposición final tercera. Entrada en vigor.</p>
+    <p class="parrafo">La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 8 de febrero de 2021.–El Ministro de Ciencia e Innovación, Pedro Duque Duque.</p>
+  </texto>
+</documento>

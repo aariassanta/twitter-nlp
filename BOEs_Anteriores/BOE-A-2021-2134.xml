@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210215105602">
+  <metadatos>
+    <identificador>BOE-A-2021-2134</identificador>
+    <titulo>Auto de 5 de octubre de 2020, de la Sala Tercera del Tribunal Supremo, que declara suspender cautelarmente el apartado segundo de la Orden SND/413/2020, de 15 de mayo, por la que se establecen medidas especiales para la inspección técnica de vehículos.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>38</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="1430">Tribunal Supremo</departamento>
+    <rango codigo="1250">Auto</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20201005</fecha_disposicion>
+    <fecha_publicacion>20210213</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>16645</pagina_inicial>
+    <pagina_final>16645</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-2134</url_epub>
+    <url_pdf>/boe/dias/2021/02/13/pdfs/BOE-A-2021-2134.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="4289" orden="">Inspección Técnica de Vehículos</materia>
+      <materia codigo="6974" orden="">Tribunal Supremo</materia>
+      <materia codigo="7116" orden="">Vehículos de motor</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="132" orden="">Transportes y tráfico</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-5081" orden="2090">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>la suspensión cautelar del apartado 2 de la Orden SND/413/2020, de 15 de mayo</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">En la pieza de medidas cautelares del recurso contencioso-administrativo <span class="no_partir">núm. 182/2020,</span> interpuesta por la representación procesal de la Federación Empresarial de Auto Transporte de la Provincia de Tarragona (FEAT-TARRAGONA) contra la Orden SND/413/2020, de 15 de mayo, por la que se establecen medidas especiales para la inspección técnica de vehículos, la Sala Tercera (Sección Cuarta) del Tribunal Supremo ha dictado auto con fecha 5 de octubre de 2020 cuya parte dispositiva es del tenor literal siguiente: </p>
+    <p class="centro_redonda">LA SALA ACUERDA</p>
+    <p class="parrafo_2">Suspender cautelarmente el apartado segundo de la Orden SND413/2020, de 15 de mayo. Sin costas.</p>
+    <p class="parrafo">Publíquese en el BOE la parte dispositiva del presente Auto.</p>
+    <p class="parrafo_2">Así lo acuerdan, mandan y firman los Excmos. Sres. Magistrados indicados al margen.–Jorge Rodríguez-Zapata Pérez.–Pablo Lucas Murillo de la Cueva.–Celsa Pico Lorenzo.–María del Pilar Teso Gamella.–José Luis Requero Ibáñez.–Rafael Toledano Cantero.–Firmado.</p>
+  </texto>
+</documento>

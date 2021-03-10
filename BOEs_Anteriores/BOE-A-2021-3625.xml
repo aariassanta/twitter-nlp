@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210308132602">
+  <metadatos>
+    <identificador>BOE-A-2021-3625</identificador>
+    <titulo>Resolución de 2 de febrero de 2021, de la Universidad de Castilla-La Mancha, por la que se publica el plan de estudios de Máster Universitario en Auditoría Pública.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>57</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210202</fecha_disposicion>
+    <fecha_publicacion>20210308</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>26967</pagina_inicial>
+    <pagina_final>26968</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/08/pdfs/BOE-A-2021-3625.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="385" orden="">Auditoría de Cuentas</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7031" orden="">Universidad de Castilla La Mancha</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 26.3 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2001-24515" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2021-901" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe positivo de la Agencia Nacional de Evaluación de la Calidad y Acreditación, y acordado el carácter oficial del título por el Consejo de Ministros en su reunión de 12 de enero de 2021 (publicado en el BOE de 22 de enero de 2021, por Resolución del Secretario General de Universidades de 14 de enero de 2021).</p>
+    <p class="parrafo">Este Rectorado, de acuerdo con lo previsto en el artículo 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades y en el artículo 26.3 del Real Decreto 1393/2007, de 29 de octubre, ha resuelto publicar el plan de estudios conducente a la obtención del título de Máster Universitario en Auditoría Pública por la Universidad de Castilla-La Mancha.</p>
+    <p class="parrafo">El plan de estudios a que se refiere la presente resolución quedará estructurado conforme se recoge en el anexo.</p>
+    <p class="parrafo_2">Ciudad Real, 2 de febrero de 2021.–El Rector, José Julián Garde López-Brea.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios de Máster Universitario en Auditoría Pública</p>
+    <p class="centro_cursiva">Rama de conocimiento: Ciencias Sociales y Jurídicas</p>
+    <p class="centro_redonda">Centro de impartición: Facultad de Derecho y Ciencias Sociales</p>
+    <p class="parrafo_2">Distribución general del plan de estudios:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">42</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas (PE).</td>
+          <td class="cuerpo_tabla_der">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de máster (TFM).</td>
+          <td class="cuerpo_tabla_der">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos totales.</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Cuadro de distribución de módulos, materias y asignaturas del plan de estudios:</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulos</th>
+          <th class="cabeza_tabla">Materias</th>
+          <th class="cabeza_tabla">Asignaturas</th>
+          <th class="cabeza_tabla">Organización Temporal</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Normativa de Auditoría Pública. Caracterización.</td>
+          <td class="cuerpo_tabla_izq">Normativa de Auditoría Pública - Normas Técnicas.</td>
+          <td class="cuerpo_tabla_izq">Auditoría pública. Marco normativo y estándares técnicos.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Ejecución y Metodología de Auditoría.</td>
+          <td class="cuerpo_tabla_izq" rowspan="3">Ejecución y metodología de la Auditoría Pública. Enfoque de Riesgos. Auditorías específicas.</td>
+          <td class="cuerpo_tabla_izq">Metodología. Auditoría Pública. Gestión de Riesgos y cumplimiento normativo. Responsabilidades públicas.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La Auditoría de las cuentas anuales públicas y Auditorías de Gestión.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Auditorías específicas y por tipología de organización.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Auditoría Pública en la esfera internacional. Fiscalización Fondos Europeos.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">La Auditoría de los fondos estructurales y de inversión europeos.</td>
+          <td class="cuerpo_tabla_izq">Instituciones Europeas. Presupuesto, fondos comunitarios y su control.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">El control de los fondos europeos por el Tribunal Europeo de Cuentas. Metodología de Fiscalización.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fiscalización de Sistemas de Información.</td>
+          <td class="cuerpo_tabla_izq">La Auditoría Pública de Sistemas de Información (SI). Integración con las Auditorías de Regularidad y Operativas/de Gestión.</td>
+          <td class="cuerpo_tabla_izq">Auditoría Pública de Sistemas de Información. Integración con Auditorías Financieras y Operativas.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">TFM</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">S1 = Primer Semestre; S2 = Segundo Semestre.</p>
+    <p class="parrafo">OB = Obligatoria; PE = Prácticas de Empresa; TFM = Trabajo Fin de Máster.</p>
+  </texto>
+</documento>

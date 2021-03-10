@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210219095602">
+  <metadatos>
+    <identificador>BOE-A-2021-2645</identificador>
+    <titulo>Resolución de 27 de enero de 2021, de la Universidad de Salamanca, por la que se publica el plan de estudios de Graduado o Graduada en Antropología.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>43</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210127</fecha_disposicion>
+    <fecha_publicacion>20210219</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>19980</pagina_inicial>
+    <pagina_final>19982</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/19/pdfs/BOE-A-2021-2645.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="247" orden="">Antropología Social y Cultural</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7050" orden="">Universidad de Salamanca</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-903" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 26 del Real Decreto 1393/2007 de 29 de octubre, modificado por el Real Decreto 861/2010 de 2 de julio y una vez obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe positivo de la Agencia para la Calidad del Sistema Universitario de Castilla y León, y acordado el carácter oficial del título mediante Acuerdo del Consejo de Ministros de 12 de enero de 2021, publicado en el BOE de 22 de enero de 2021 por Resolución de la Secretaría General de Universidades de 14 de enero de 2021.</p>
+    <p class="parrafo">Este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención del título de Graduado o Graduada en Antropología, en la rama de conocimiento de Ciencias Sociales y Jurídicas.</p>
+    <p class="parrafo_2">Salamanca, 27 de enero de 2021.–El Rector, Ricardo Rivero Ortega.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de es<strong>t</strong>udios de Graduado/a en Antropología</p>
+    <p class="centro_cursiva">Rama de Conocimiento: Ciencias Sociales y Jurídicas</p>
+    <p class="centro_redonda">Código Titulación: 2504081</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>Formación básica (FB).</td>
+          <td class="cuerpo_tabla_centro"> 60</td>
+        </tr>
+        <tr>
+          <td>Obligatorias (Ob).</td>
+          <td class="cuerpo_tabla_centro">144</td>
+        </tr>
+        <tr>
+          <td>Optativas (Op).</td>
+          <td class="cuerpo_tabla_centro"> 30</td>
+        </tr>
+        <tr>
+          <td>Prácticas externas (PE).</td>
+          <td class="cuerpo_tabla_centro">–</td>
+        </tr>
+        <tr>
+          <td>Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_centro">  6</td>
+        </tr>
+        <tr>
+          <td> Créditos totales.</td>
+          <td class="cuerpo_tabla_centro">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Tipo</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Organización</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="65%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introducción a la Antropología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introducción a la Sociología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia del Mundo Contemporáneo.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introduction to Economics.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Geografía Humana.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introduction of Political Science.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bases Biológicas del Comportamiento Humano.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bases Psicosociales de la Antropología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">General Linguistics.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bases Filosóficas de la Antropología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teorías Antropológicas.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos y Técnicas de Investigación en Antropología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos y Técnicas Cualitativas.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introducción a las Técnicas Cuantitativas.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Laboratory of Audiovisual Tools for Anthropology.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Arqueología: Métodos y Técnicas.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Professional Ethics: Principles and Practice.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Laboratorio de Análisis y Escritura Etnográfica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evolución Humana.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ecología Cultural.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología Médica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología Histórica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Arqueología: Interpretación y Teoría.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lingüística Antropológica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Rituales, Creencias y Sistemas Religiosos.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cognición, Simbolismo y Cultura.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología del Parentesco.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología Política.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología Económica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología de Género.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología de Iberoamérica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología Aplicada.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología y Políticas Públicas.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología del Desarrollo y La Cooperación.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Geografía del Mundo Actual.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Etnografía de las Comunidades Virtuales.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de Datos Multimedia y Redes Sociales en Estudios de Antropología.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología Psicológica.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Etnobotánica.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sensory Perception and Cultural Studies.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Etnoarqueología.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Patrimonio Antropológico.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia de América Prehispánica e Indígena.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia Comparada de los Sistemas Coloniales.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia Cultural del Mundo Contemporáneo.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociología de Las Edades y el Ciclo Vital.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Etnomusicología General.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Anthropology of Art.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Origen del Pensamiento Simbólico en la Prehistoria.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología de las Sociedades Complejas.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Minorías Étnicas y Migraciones Internacionales.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociología Rural.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología del Japón.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pedagogía Antropológica en la Sociedad de la Información.</td>
+          <td class="cuerpo_tabla_centro">Op.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas Profesionales.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología de las Organizaciones.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología y Colectivos en Riesgo de Exclusión Social.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Translation and Intercultural Mediation.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Disability Management.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Igualdad y Violencia de Género.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Odio y Discriminación.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">• Las asignaturas optativas podrán, por circunstancias excepcionales, sufrir modificaciones, siempre que lo autorice el Vicerrectorado con competencias en ordenación académica y con anterioridad al inicio del curso académico.</p>
+  </texto>
+</documento>

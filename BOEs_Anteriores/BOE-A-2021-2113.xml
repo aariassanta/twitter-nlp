@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210212122601">
+  <metadatos>
+    <identificador>BOE-A-2021-2113</identificador>
+    <titulo>Resolución de 29 de enero de 2021, de la Autoridad Portuaria de Barcelona, por la que se publica la modificación del Pliego de prescripciones particulares del servicio Marpol en el puerto de Barcelona.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>37</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9572">Ministerio de Transportes, Movilidad y Agenda Urbana</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210129</fecha_disposicion>
+    <fecha_publicacion>20210212</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>16409</pagina_inicial>
+    <pagina_final>16417</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/12/pdfs/BOE-A-2021-2113.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/01/29/(11)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/01/29/(11)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2113</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-29</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(11)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/01/29/(11)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2113</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-29</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(11)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/01/29/(11)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/01/29/(11)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 29 de enero de 2021, de la Autoridad Portuaria de Barcelona, por la que se publica la modificación del Pliego de prescripciones particulares del servicio Marpol en el puerto de Barcelona.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-12</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/01/29/(11)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/01/29/(11)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/01/29/(11)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/01/29/(11)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/01/29/(11)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/01/29/(11)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/01/29/(11)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="395" orden="">Autoridades Portuarias</materia>
+      <materia codigo="467" orden="">Barcelona</materia>
+      <materia codigo="530" orden="">Buques</materia>
+      <materia codigo="1640" orden="">Contratación administrativa</materia>
+      <materia codigo="3924" orden="">Gestión de residuos</materia>
+      <materia codigo="5626" orden="">Pliegos de Cláusulas Administrativas</materia>
+      <materia codigo="5627" orden="">Pliegos de Prescripciones Técnicas</materia>
+      <materia codigo="5801" orden="">Puertos</materia>
+      <materia codigo="6827" orden="">Tarifas</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="109" orden="">Derecho Administrativo</alerta>
+      <alerta codigo="119" orden="">Medio ambiente</alerta>
+      <alerta codigo="128" orden="">Sistema tributario</alerta>
+      <alerta codigo="132" orden="">Transportes y tráfico</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2019-4058" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>la cláusula 18 y los anexos IV y V del pliego publicado por Resolución de 27 de febrero de 2019.</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2011-16467" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 26.1.l) de la Ley de Puertos del Estado y de la Marina Mercante, texto refundido aprobado por Real Decreto Legislativo 2/2011, de 5 de septiembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Consejo de Administración de este Puerto, en su sesión celebrada el día 27 de enero del presente año, en el ejercicio de las funciones que le atribuye el artículo 26.1.l) del Real Decreto Legislativo 2/2011, de 5 de septiembre, por el que se aprueba el Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, ha adoptado, en relación con el Pliego de Prescripciones Particulares del servicio de recepción de desechos generados por buques en el puerto de Barcelona (cuyo texto íntegro fue publicado en el BOE núm. 68 de 20 de marzo de 2019 y rectificado puntualmente mediante anuncio publicado en el BOE núm. 292 de 5 de diciembre de 2019), los acuerdos que siguen:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo">Aprobar la modificación del Pliego de prescripciones particulares del servicio portuario de recepción de desechos generados por buques en el puerto de Barcelona contemplada en la propuesta de «Revisión extraordinaria de las tarifas y tarifas máximas por la retirada de los desechos del Anexo V del Convenio Marpol, establecidas en el Pliego de prescripciones particulares del servicio portuario de recepción de desechos generados por buques», copia de la cual se adjunta como Anexo.</p>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">Ordenar la publicación de la referida propuesta en el «Boletín Oficial del Estado» y en la sede electrónica de la Autoridad Portuaria, a los efectos de su debida publicidad.</p>
+    <p class="articulo">Tercero.</p>
+    <p class="parrafo">Notificar los presentes acuerdos a los interesados.</p>
+    <p class="parrafo_2">Barcelona, 29 de enero de 2021.–La Presidenta de la Autoridad Portuaria de Barcelona, Mercè Conesa Pagès.</p>
+    <p class="anexo">Propuesta de «revisión extraordinaria de las tarifas y tarifas máximas por la retirada de los desechos del anexo V del Convenio Marpol, establecidas en el Pliego de prescripciones particulares del servicio portuario de recepción de desechos generados por buques», aprobada por el Consejo de Administración de la Autoridad Portuaria de Barcelona en sesión celebrada el 27 de enero de 2021</p>
+    <p class="parrafo_2">La referida propuesta aprobada incluye tres aspectos de modificación del Pliego de prescripciones particulares del servicio portuario de recepción de desechos generados por buques en el puerto de Barcelona, que son los que se contemplan bajos los tres anexos que a continuación se señalan:</p>
+    <p class="parrafo_2">A) Anexo 1, de modificación puntual de la Cláusula 18.ª del Pliego.</p>
+    <p class="parrafo">B) Anexo 2, de modificación del contenido del Anexo IV del Pliego.</p>
+    <p class="parrafo">C) Anexo 3, de modificación del contenido del Anexo V del Pliego.</p>
+    <p class="anexo_num">ANEXO 1</p>
+    <p class="anexo_tit">Modificación de la Cláusula 18 del Pliego dedicada a la «Estructura tarifaria, tarifas, tarifas máximas y criterios de revisión»</p>
+    <p class="parrafo_2">Se modifica el redactado actual de la Cláusula 18 del Pliego de prescripciones particulares del servicio portuario de recepción de desechos generados por buques en el puerto de Barcelona, con el objeto de:</p>
+    <p class="parrafo_2">(I) En lo referente al apartado B, dedicado a las tarifas y tarifas máximas del servicio Marpol V:</p>
+    <p class="parrafo_2">Incorporar seis nuevas tablas (T+3, T-3, T-4, T-5, T-6 y T-7) en el apartado de la Cláusula 18.ª del PPP, de forma acumulativa a las que ya estaban previstas en dicha Cláusula, quedando el resto del contenido del referido apartado B de la Cláusula en términos idénticos a los ya aprobados con motivo de la aprobación del PPP si bien adaptando la misma a la existencia de esas nuevas tablas incorporadas; y, señalándose como fecha a la que cabe atender para la adaptación anual de las tarifas (es decir, para la determinación del cuadro de tarifas aplicable en función del volumen de demanda acumulada por el total de prestadores en el año anterior), una vez dichas tarifas hayan sido actualizadas conforme a lo dispuesto en el apartado D.1 de la misma Cláusula, el 1 de febrero de cada año.</p>
+    <p class="parrafo">Quedando, así, la Cláusula 18.ª del Pliego redactada en los términos siguientes:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«B. Estructura tarifaria, tarifas a abonar por la autoridad portuaria y tarifas máximas por los servicios que se presten de recepción de desechos correspondientes al Anexo V del Convenio MARPOL 73/78.</p>
+      <p class="parrafo_2">Esta tarifa se aplicará a la Autoridad Portuaria de Barcelona por los servicios cubiertos por la tarifa fija durante los siete (7) primeros días siguientes a la escala del barco en puerto y, por los servicios no cubiertos por la tarifa fija, directamente a los usuarios del servicio, con la consideración de tarifas máximas, cuando el Consejo de Administración de la Autoridad Portuaria haya acordado la aplicación de las mismas.</p>
+      <p class="parrafo">Se establecen once cuadros de tarifas máximas diferentes, cada uno de ellos correspondiente a un tramo de demanda, entendida como tal la suma de la totalidad de desechos correspondientes al Anexo V del Convenio MARPOL, medido en m<sup>3</sup>, recogidos el año natural anterior en el puerto. En el volumen total se incluyen tanto los servicios cubiertos por la tarifa fija como los que no lo están.</p>
+      <p class="parrafo">El cuadro de Tarifas T0 será de aplicación desde la entrada en vigor del pliego. Transcurridos doce meses desde la citada entrada en vigor, las tarifas aquí establecidas se adaptarán el primer quince de enero siguiente a dicho periodo al cuadro de tarifas que corresponda de los siguientes en función del volumen total de desechos recogidos por todos los prestadores en el puerto el año natural anterior.</p>
+      <p class="parrafo">A partir del 1 de enero de 2021, las adaptaciones de las tarifas a efectuar conforme a lo establecido en el párrafo anterior se acordarán con efectos a 1 de febrero en atención al cuadro de tarifas que corresponda, de los siguientes, en función del volumen total de desechos recogidos por todos los prestadores en el puerto el año natural anterior, una vez hayan sido actualizadas las tarifas del cuadro correspondiente conforme a lo dispuesto en el apartado D.1. de la presente Cláusula del Pliego.</p>
+      <p class="parrafo">En el caso de que la demanda acumulada del conjunto de prestadores del año anterior quede fuera de los márgenes superior (112.572 m<sup>3</sup>) e inferior (37.059 m<sup>3</sup>) contemplados en los cuadros siguientes, se realizará una revisión extraordinaria de las tarifas máximas conforme a lo establecido en el apartado D.2 de esta prescripción, continuando en vigor hasta la aprobación de la revisión, las tarifas máximas vigentes en el año anterior.</p>
+      <p class="parrafo">La estructura tarifaria tendrá como base el número de metros cúbicos de desechos recogidos.</p>
+      <p class="parrafo">Las tarifas a abonar por la Autoridad Portuaria por los servicios cubiertos por la tarifa fija y las tarifas máximas a abonar por los usuarios por los servicios no cubiertos por la tarifa fija, a los titulares de licencias para el servicio de recogida de desechos correspondientes al Anexo V del Convenio MARPOL 73/78, según las «cantidades descargadas» acumuladas de cada uno de ellos, serán las siguientes:</p>
+      <p class="centro_redonda">TARIFA T+3 APLICABLE AL TRAMO de 102.106 m<sup>3</sup> a 122.572 m<sup>3</sup></p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Cantidad descargada (*)</th>
+            <th class="cabeza_tabla">Tarifa fija</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 0 a 40.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_centro">32,43 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 40.001 a 48.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_centro">30,49 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 48.001 a 56.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_centro">29,10 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 56.001 a 64.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_centro">28,06 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 64.001 a 72.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_centro">27,25 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Más de 72.001 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_centro">26,61 €/m<sup>3</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="centro_redonda">TARIFA T+2 APLICABLE AL TRAMO de 92.612 m<sup>3</sup> a 102.105 m<sup>3</sup></p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Cantidad descargada (*)</th>
+            <th class="cabeza_tabla">Tarifa fija</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 0 a 40.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">33,62 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 40.001 a 48.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">31,48 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 48.001 a 56.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">29,96 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 56.001 a 64.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">28,81 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 64.001 a 72.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">27,92 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Más de 72.001 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">27,20 €/m<sup>3</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="centro_redonda">TARIFA T+1 APLICABLE AL TRAMO de 84.001 m<sup>3</sup> a 92.611 m<sup>3</sup></p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Cantidad descargada (*)</th>
+            <th class="cabeza_tabla">Tarifa fija</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 0 a 40.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">34,94 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 40.001 a 48.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">32,58 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 48.001 a 56.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">30,90 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 56.001 a 64.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">29,63 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 64.001 a 72.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">28,65 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Más de 72.001 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">27,86 €/m<sup>3</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="centro_redonda">TARIFA T0 APLICABLE AL TRAMO de 76.000 m<sup>3</sup> a 84.000 m<sup>3</sup></p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Cantidad descargada (*)</th>
+            <th class="cabeza_tabla" colspan="2">Tarifa fija</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 0 a 40.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq" colspan="2">36,39 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 40.001 a 48.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq" colspan="2">33,79 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 48.001 a 56.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq" colspan="2">31,93 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 56.001 a 64.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq" colspan="2">30,54 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 64.001 a 72.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq" colspan="2">29,45 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Más de 72.001 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq" colspan="2">28,59 €/m<sup>3</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="centro_redonda">TARIFA T-1 APLICABLE AL TRAMO de 68.589 m<sup>3</sup> a 75.999 m<sup>3</sup></p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Cantidad descargada (*)</th>
+            <th class="cabeza_tabla" colspan="2">Tarifa fija</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 0 a 40.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq" colspan="2">38,08 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 40.001 a 48.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq" colspan="2">35,20 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 48.001 a 56.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq" colspan="2">33,14 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 56.001 a 64.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq" colspan="2">31,59 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 64.001 a 72.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq" colspan="2">30,39 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Más de 72.001 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">29,43 €/m<sup>3</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="centro_redonda">TARIFA T-2 APLICABLE AL TRAMO de 61.901 m<sup>3</sup> a 68.588 m<sup>3</sup></p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Cantidad descargada (*)</th>
+            <th class="cabeza_tabla">Tarifa fija</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 0 a 40.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">39,95 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 40.001 a 48.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">36,75 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 48.001 a 56.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">34,47 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 56.001 a 64.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">32,76 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 64.001 a 72.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">31,43 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Más de 72.001 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">30,36 €/m<sup>3</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="centro_redonda">TARIFA T-3 APLICABLE AL TRAMO de 55.865 m<sup>3</sup> a 61.900 m<sup>3</sup></p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Cantidad descargada (*)</th>
+            <th class="cabeza_tabla">Tarifa fija</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 0 a 40.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">42,02 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 40.001 a 48.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">38,48 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 48.001 a 56.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">35,95 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 56.001 a 64.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">34,05 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 64.001 a 72.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">32,58 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Más de 72.001 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">31,40 €/m<sup>3</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="centro_redonda">TARIFA T-4 APLICABLE AL TRAMO de 50.417 m<sup>3</sup> a 55.864 m<sup>3</sup></p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Cantidad descargada (*)</th>
+            <th class="cabeza_tabla">Tarifa fija</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 0 a 40.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">44,31 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 40.001 a 48.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">40,39 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 48.001 a 56.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">37,59 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 56.001 a 64.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">35,49 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 64.001 a 72.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">33,85 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Más de 72.001 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">32,55 €/m<sup>3</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="centro_redonda">TARIFA T-5 APLICABLE AL TRAMO de 45.500 m<sup>3</sup> a 50.416 m<sup>3</sup></p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Cantidad descargada (*)</th>
+            <th class="cabeza_tabla">Tarifa fija</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 0 a 40.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">46,86 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 40.001 a 48.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">42,51 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 48.001 a 56.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">39,41 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 56.001 a 64.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">37,08 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 64.001 a 72.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">35,27 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Más de 72.001 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">33,82 €/m<sup>3</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="centro_redonda">TARIFA T-6 APLICABLE AL TRAMO de 41.063 m<sup>3</sup> a 45.499 m<sup>3</sup></p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Cantidad descargada (*)</th>
+            <th class="cabeza_tabla">Tarifa fija</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 0 a 40.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">49,67 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 40.001 a 48.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">44,86 €/m3</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 48.001 a 56.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">41,42 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 56.001 a 64.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">38,84 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 64.001 a 72.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">36,83 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Más de 72.001 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">35,23 €/m<sup>3</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="centro_redonda">TARIFA T-7 APLICABLE AL TRAMO de 37.059 m<sup>3. </sup>a 41.062 m<sup>3</sup></p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">Cantidad descargada (*)</th>
+            <th class="cabeza_tabla">Tarifa fija</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 0 a 40.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">52,79 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 40.001 a 48.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">47,46 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 48.001 a 56.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">43,65 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 56.001 a 64.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">40,79 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">De 64.001 a 72.000 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">38,57 €/m<sup>3</sup></td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Más de 72.001 m<sup>3</sup>.</td>
+            <td class="cuerpo_tabla_izq">36,79 €/m<sup>3</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="cita_con_pleca">(*) Para cada prestador se considerará como cantidad descargada la suma de las cantidades recepcionadas, tanto por los servicios cubiertos por la tarifa fija a abonar por la Autoridad Portuaria como por los servicios no cubiertos por la tarifa fija que abona directamente el buque.</p>
+      <p class="parrafo_2">Recargo:</p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">CONCEPTO</th>
+            <th class="cabeza_tabla">Recargo sobre la tarifa de aplicación.</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">Por recogida de los desechos con medios marítimos (Gabarra)</td>
+            <td class="cuerpo_tabla_centro">25%</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="parrafo_2">Para fomentar la entrega segregada de desechos del Anexo V, la recepción separada e individualizada de los desechos reflejados en la tabla del ANEXO V de estas Prescripciones Particulares podrá facturarse según las equivalencias en m<sup>3</sup>. Para ello deberán cumplirse las siguientes tres condiciones:</p>
+      <p class="parrafo_2">1. Los desechos sean los resultantes del trabajo rutinario del buque en condiciones normales de servicio (según definición presente en la Cláusula 2).</p>
+      <p class="parrafo">2. La entrega la realice el buque de forma segregada al resto de los desechos Anexo V.</p>
+      <p class="parrafo">3. Quede reflejado literalmente en el certificado MARPOL oficial.»</p>
+    </blockquote>
+    <p class="parrafo_2">(II) En lo referente al apartado A, dedicado a las tarifas y tarifas máximas del servicio Marpol I:</p>
+    <p class="parrafo_2">Se introduce un nuevo párrafo entre los párrafos tercero y cuarto del actual redactado de dicho apartado A de la misma Cláusula 18.ª del PPP, a fin de hacer constar también para este tipo de servicio Marpol I, como fecha de referencia a la que cabe atender para proceder a la adaptación anual de las tarifas (esto es, para la determinación del cuadro de tarifas aplicable en función del volumen de demanda acumulada por el total de prestadores en el año anterior), tras su correspondiente actualización, el 1 de febrero.</p>
+    <blockquote class="sangrado">
+      <p class="parrafo">«A. Estructura tarifaria, tarifas a abonar por la Autoridad Portuaria y tarifas máximas por los servicios que se presten de recepción de desechos correspondientes al Anexo I del Convenio Marpol 73/78.</p>
+      <p class="parrafo_2">[…]</p>
+      <p class="parrafo_2">El cuadro de Tarifas T0 será de aplicación desde la entrada en vigor de este pliego. Transcurridos doce meses desde la citada entrada en vigor, las tarifas aquí establecidas se adaptarán el primer quince de enero siguiente a dicho periodo al cuadro de tarifas que corresponda de los siguientes en función del volumen total de desechos recogidos por todos los prestadores en el puerto el año natural anterior.</p>
+      <p class="parrafo">A partir del 1 de enero de 2021, las adaptaciones de las tarifas a efectuar conforme a lo establecido en el párrafo anterior se acordarán con efectos a 1 de febrero en atención al cuadro de tarifas que corresponda, de los siguientes, en función del volumen total de desechos recogidos por todos los prestadores en el puerto el año natural anterior, una vez hayan sido actualizadas las tarifas del cuadro correspondiente conforme a lo dispuesto en el apartado D.1. de la presente Cláusula del Pliego.</p>
+      <p class="parrafo">En el caso de que la demanda acumulada del conjunto de prestadores del año anterior quede fuera de los márgenes superior (85.513 m<sup>3</sup>) e inferior (57.442 m<sup>3</sup>) contemplados en los cuadros siguientes, se realizará una revisión extraordinaria de las tarifas máximas conforme a lo establecido en el apartado D.2 de esta prescripción, continuando en vigor hasta la aprobación de la revisión, las tarifas máximas vigentes en el año anterior.</p>
+      <p class="parrafo_2">[…]»</p>
+    </blockquote>
+    <p class="anexo_num">ANEXO 2</p>
+    <p class="anexo_tit">Modificación del Anexo IV del Pliego dedicado a «Intercambios de información entre Autoridad Portuaria de Barcelona y las empresas autorizadas a la recogida de residuos MARPOL»</p>
+    <p class="parrafo_2">Se sustituye el redactado actual del Anexo IV del Pliego de prescripciones particulares del servicio portuario de recepción de desechos generados por buques en el puerto de Barcelona, por el siguiente:</p>
+    <blockquote class="sangrado">
+      <p class="anexo_num">«ANEXO IV</p>
+      <p class="anexo_tit">Intercambios de información entre Autoridad Portuaria de Barcelona y las empresas autorizadas a la recogida de residuos Marpol</p>
+      <p class="parrafo_2">El intercambio de información deberá adaptarse a los procedimientos que a tal efecto apruebe la Autoridad Portuaria, debiendo ajustarse dicha información a lo establecido en la Cláusula 15 de este Pliego de Prescripciones Particulares y manteniendo la estructura y características que a continuación se detalla:</p>
+      <p class="parrafo_2">Relación diaria de los servicios de retirada de desechos generados por buques realizados el día anterior. Constará de los siguientes campos:</p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">#</th>
+            <th class="cabeza_tabla" colspan="2">DESCRIPCIÓN CAMPO</th>
+            <th class="cabeza_tabla" colspan="3">TIPO</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_izq">1</td>
+            <td class="cuerpo_tabla_izq" colspan="2">
+              <p class="cuerpo_tabla_izq">Referencia servicio (número único en formato AAEEEEENNN.</p>
+              <p class="cuerpo_tabla_izq">A=año, E=escala, N=número secuencial de servicio).</p>
+            </td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..10</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">2</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Escala.</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..5</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">3</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Buque.</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..20</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">4</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Número OMI del buque.</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..7</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">5</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Nombre Consignatario.</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..38</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">6</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Fecha solicitud servicio (formato DDMMAAA).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..8</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">7</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Hora solicitud servicio (formato HHMM).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..4</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">8</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Fecha inicio servicio (formato DDMMAAA).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..8</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">9</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Hora inicio (formato HHMM).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..4</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">10</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Fecha final servicio (formato DDMMAAA).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..8</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">11</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Hora final (formato HHMM).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..4</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">12</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Medio de recogida (G: gabarra, C: camión, O: otros).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..1</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">13</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Tipo de residuo (MARPOL I, II, IV, V, VI).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..5</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">14</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Clase de residuo (según la lista adjunta en nota 6).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..5</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">15</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Unidad de medida (m<sup>3</sup> o TN, unidades).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..2</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">16</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Cantidad de residuo.</td>
+            <td class="cuerpo_tabla_izq" colspan="3">n..11,2</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">17</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Número de camiones.</td>
+            <td class="cuerpo_tabla_izq" colspan="3">n..2,0</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">18</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Número de contenedores.</td>
+            <td class="cuerpo_tabla_izq" colspan="3">n..2,0</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">19</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Número de toros de 2 ton.</td>
+            <td class="cuerpo_tabla_izq" colspan="3">n..2,0</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">20</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Número de toros de 4 ton.</td>
+            <td class="cuerpo_tabla_izq" colspan="3">n..2,0</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">21</td>
+            <td class="cuerpo_tabla_izq" colspan="2">M3 para canon por deposición controlada de residuos.</td>
+            <td class="cuerpo_tabla_izq" colspan="3">n..11,2</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">22</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Repercutido a AUTORITAT PORTUÀRIA DE BARCELONA (s/n).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">an..1</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">23</td>
+            <td class="cuerpo_tabla_izq" colspan="2">Coste (importe a repercutir sin IVA).</td>
+            <td class="cuerpo_tabla_izq" colspan="3">n..11,2</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="parrafo_2">Notas:</p>
+      <p class="parrafo_2">1) Todos los campos descritos en cursiva son obligatorios e irán informados.</p>
+      <p class="parrafo">2) El fichero incluirá el último registro con todo nueves.</p>
+      <p class="parrafo">3) Los campos numéricos se rellenarán con ceros por la izquierda. El resto se ajustarán a la izquierda rellenando con blancos a la derecha.</p>
+      <p class="parrafo">4) Anulación: en caso de querer anular la información reportada para un determinado servicio se debe informar el servicio (AAEEEENNN) con todo vacío y con valor cero en las cantidades.</p>
+      <p class="parrafo">5) Modificaciones: para informar de las modificaciones de un servicio ya reportado se debe enviar un registro de anulación y posteriormente los nuevos datos de servicio.</p>
+      <p class="parrafo">6) Lista de clases de residuos: L-1 Productos oleosos de sentina; L-2 Aguas grises; S-G Sólido general; S-O Sólido orgánico; S-C Sólido compactado; S-P Sólido madera de pallet; S-H Sólido Hazardous.»</p>
+    </blockquote>
+    <p class="anexo_num">ANEXO 3</p>
+    <p class="anexo_tit">Modificación del Anexo V del Pliego dedicado a «Tabla de equivalencias a m<sup>3</sup> de determinados residuos de Marpol V»</p>
+    <p class="parrafo_2">Se sustituye el redactado actual del Anexo V del Pliego de prescripciones particulares del servicio portuario de recepción de desechos generados por buques en el puerto de Barcelona, por el siguiente:</p>
+    <blockquote class="sangrado">
+      <p class="anexo_num">«ANEXO V</p>
+      <p class="anexo_tit">Tabla de equivalencias a m<sup>3</sup> de determinados residuos de Marpol V</p>
+      <p class="parrafo_2">Para fomentar la segregación de residuos que faciliten y mejoren su gestión, la entrega segregada e individualizada de los siguientes residuos se facturará con la siguiente tabla de equivalencias a m<sup>3</sup>.</p>
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th class="cabeza_tabla">UD. de MEDIDA</th>
+            <th class="cabeza_tabla">DESECHO</th>
+            <th class="cabeza_tabla">FACTOR DE<br/>
+			CONVERSIÓN</th>
+            <th class="cabeza_tabla">COEF. MULTIPLICADOR<br/>
+			(a efectos de pago)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cuerpo_tabla_centro">m<sup>3</sup></td>
+            <td class="cuerpo_tabla_izq">Baterías secas.</td>
+            <td class="cuerpo_tabla_centro"> </td>
+            <td class="cuerpo_tabla_centro">1</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro">m<sup>3</sup></td>
+            <td class="cuerpo_tabla_izq">Pilas.</td>
+            <td class="cuerpo_tabla_centro"> </td>
+            <td class="cuerpo_tabla_centro">1</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro" rowspan="2">m<sup>3</sup></td>
+            <td class="cuerpo_tabla_izq">Lámparas y bombillas usadas.</td>
+            <td class="cuerpo_tabla_centro"> </td>
+            <td class="cuerpo_tabla_centro" rowspan="2">4</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Neón, fluorescentes y compactos.</td>
+            <td class="cuerpo_tabla_centro"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro" rowspan="4">m<sup>3</sup></td>
+            <td class="cuerpo_tabla_izq">Embalajes y envases contaminados por químicos (vacíos).</td>
+            <td class="cuerpo_tabla_centro"> </td>
+            <td class="cuerpo_tabla_centro" rowspan="4">3</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Bidones aceite (vacíos) de plástico.</td>
+            <td class="cuerpo_tabla_centro"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Bidones aceite (vacíos).</td>
+            <td class="cuerpo_tabla_centro"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_izq">Bidones y latas pintura (vacías).</td>
+            <td class="cuerpo_tabla_centro"> </td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro">m<sup>3</sup></td>
+            <td class="cuerpo_tabla_izq">Pinturas y barnices (residuo líquido).</td>
+            <td class="cuerpo_tabla_centro">1kg = 0,001m<sup>3</sup></td>
+            <td class="cuerpo_tabla_centro">100</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro">m<sup>3</sup></td>
+            <td class="cuerpo_tabla_izq">Medicinas y residuos hospitalarios (General / Cruceros).</td>
+            <td class="cuerpo_tabla_centro"> </td>
+            <td class="cuerpo_tabla_centro">1</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro">m<sup>3</sup></td>
+            <td class="cuerpo_tabla_izq">Filtros aceite.</td>
+            <td class="cuerpo_tabla_centro"> </td>
+            <td class="cuerpo_tabla_centro">10</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro">m<sup>3</sup></td>
+            <td class="cuerpo_tabla_izq">Trapos contaminados.</td>
+            <td class="cuerpo_tabla_centro"> </td>
+            <td class="cuerpo_tabla_centro">3</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro">m<sup>3</sup></td>
+            <td class="cuerpo_tabla_izq">Absorbentes contaminados por materias nocivas.</td>
+            <td class="cuerpo_tabla_centro"> </td>
+            <td class="cuerpo_tabla_centro">3</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro">m<sup>3</sup></td>
+            <td class="cuerpo_tabla_izq">Tóneres.</td>
+            <td class="cuerpo_tabla_centro"> </td>
+            <td class="cuerpo_tabla_centro">10</td>
+          </tr>
+          <tr>
+            <td class="cuerpo_tabla_centro">m<sup>3</sup></td>
+            <td class="cuerpo_tabla_izq">Desechos electrónicos.</td>
+            <td class="cuerpo_tabla_centro"> </td>
+            <td class="cuerpo_tabla_centro">1</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="parrafo_2">La actualización de esta tabla de equivalencia se podrá realizar a través de la aprobación de las especificaciones de control, supervisión del servicio y de la medición de pesos y volúmenes que la Autoridad Portuaria pueda establecer en base al apartado 13 de la cláusula 9.ª del PPP, siempre y cuando el efecto de su modificación no represente más de un 10% del importe pagado por la Autoridad Portuaria en el ejercicio anterior por los desechos de la Categoría F del Convenio MARPOL (Desechos Operacionales). Si la actualización propuesta representase un importe superior al 10%, dicha actualización deberá llevarse a cabo mediante un proceso de modificación del PPP conforme al artículo 113.2 del TRLPEMM.</p>
+      <p class="parrafo_2">Los coeficientes indicados se aplicarán siempre que:</p>
+      <p class="parrafo_2">– Los residuos sean los resultantes del trabajo rutinario del buque en condiciones normales de servicio (según definición presente en la Cláusula 2).</p>
+      <p class="parrafo">– La entrega la realice el buque de forma segregada al resto de los residuos Anexo V del convenio MARPOL.</p>
+      <p class="parrafo">– Quede reflejado literalmente en el certificado MARPOL oficial.»</p>
+    </blockquote>
+  </texto>
+</documento>

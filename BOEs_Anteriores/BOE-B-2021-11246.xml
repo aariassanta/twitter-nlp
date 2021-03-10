@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210308071619">
+  <metadatos>
+    <identificador>BOE-B-2021-11246</identificador>
+    <titulo>Anuncio de corrección de errores del anuncio de formalización de contrato del Organismo Autónomo del Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa. Objeto: Confección de planos y demás documentación necesaria que permita la inscripción registral de las divisiones horizontales de las propiedades del Ministerio de Defensa gestionadas por el INVIED OA en Ceuta. Expediente: 202000000082.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>57</diario_numero>
+    <seccion>5</seccion>
+    <subseccion>A</subseccion>
+    <departamento codigo="6110">Ministerio de Defensa</departamento>
+    <numero_anuncio>A210013257</numero_anuncio>
+    <fecha_publicacion>20210308</fecha_publicacion>
+    <letra_imagen>B</letra_imagen>
+    <pagina_inicial>14325</pagina_inicial>
+    <pagina_final>14325</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2021/03/08/pdfs/BOE-B-2021-11246.pdf</url_pdf>
+  </metadatos>
+  <analisis>
+    <modalidad codigo="O">Otros</modalidad>
+    <tipo codigo="2">Servicios</tipo>
+    <tramitacion codigo=""/>
+    <procedimiento codigo="1">Abierto</procedimiento>
+    <fecha_presentacion_ofertas/>
+    <fecha_apertura_ofertas/>
+    <precio codigo=""/>
+    <importe/>
+    <ambito_geografico>Ciudad de Ceuta</ambito_geografico>
+    <materias/>
+    <materias_cpv>71000000 Servicios de arquitectura, construcción, ingeniería e inspección</materias_cpv>
+    <observaciones>Corrige errores del anuncio publicado el 29 de enero de 2021 BOE-B-2021-3661</observaciones>
+  </analisis>
+  <texto>
+    <p class="parrafo">Advertido error en el anuncio publicado en el "Boletín Oficial del Estado" número 25 del 29 de enero de 2021 (Pág. 4935) de formalización del contrato de servicios con número de expediente 202000000082 se procede a su rectificación de acuerdo al artículo 109.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.</p>
+    <p class="parrafo">En el pie de firma, donde dice:</p>
+    <p class="parrafo">"Director Gerente del INVIED OA, Atilano Lozano Muñoz."</p>
+    <p class="parrafo">Debe de decir:</p>
+    <p class="parrafo">"Director Gerente del INVIED OA, por sustitución artículo 16.3 del R.D. 1080/2017, de 29 de diciembre, el Secretario General, Antonio Luis Sempere Lozano."</p>
+    <p class="parrafo_2">Madrid, 3 de marzo de 2021.- El Director Gerente, Sebastián Marcos Morata.</p>
+  </texto>
+</documento>

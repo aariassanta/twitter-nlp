@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210219095602">
+  <metadatos>
+    <identificador>BOE-A-2021-2653</identificador>
+    <titulo>Resolución de 3 de febrero de 2021, de la Universidad Europea de Madrid, por la que se publica el plan de estudios de Graduado o Graduada en Maestro/a en Educación Primaria.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>43</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210203</fecha_disposicion>
+    <fecha_publicacion>20210219</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>20004</pagina_inicial>
+    <pagina_final>20006</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/19/pdfs/BOE-A-2021-2653.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="3123" orden="">Educación Primaria</materia>
+      <materia codigo="4834" orden="">Maestros</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7060" orden="">Universidad Europea de Madrid</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-903" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe positivo de la Fundación para el Conocimiento madri+d, y acordado el carácter oficial del título por Acuerdo de Consejo de Ministros de 12 de enero de 2021, por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos publicado por Resolución de la Secretaría General de Universidades de 14 de enero de 2021 («Boletín Oficial del Estado»de 22 de enero de 2021),</p>
+    <p class="parrafo">Este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención del título de Grado en Maestro/a en Educación Primaria por la Universidad Europea de Madrid quedando el plan de estudios estructurado según consta en esta Resolución.</p>
+    <p class="parrafo_2">Villaviciosa de Odón, 3 de febrero de 2021.–La Rectora, Elena Gazapo Carretero</p>
+    <p class="anexo">PLAN DE ESTUDIOS DEL TÍTULO DE GRADO EN MAESTRO/A EN EDUCACIÓN PRIMARIA POR LA UNIVERSIDAD EUROPEA DE MADRID</p>
+    <table class="tabla">
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Estructura del plan de estudios</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias Básicas.</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias Obligatorias (excepto Prácticas y Trabajo Fin de Grado).</td>
+          <td class="cuerpo_tabla_der">100</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias Optativas.</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Profesionales/Externas.</td>
+          <td class="cuerpo_tabla_der">38</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos totales.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Cr_ECTS</th>
+          <th class="cabeza_tabla">Org_temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Aprendizaje y desarrollo de la personalidad.</td>
+          <td class="cuerpo_tabla_izq">Psicología del Desarrollo.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Neurodidáctica.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diversidad e inclusión educativa.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Procesos y contextos educativos.</td>
+          <td class="cuerpo_tabla_izq">Organización del Centro Escolar.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Innovación para la mejora educativa.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia y teoría de la Educación.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación y Género.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Sociedad, familia y escuela.</td>
+          <td class="cuerpo_tabla_izq">Filosofía y sociología de la Educación.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comunidades, Familias, Escuelas.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Orientación educativa y acción tutorial.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Enseñanza y Aprendizaje de Ciencias Experimentales.</td>
+          <td class="cuerpo_tabla_izq">Ciencias Experimentales y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introducción a la programación.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Enseñanza y Aprendizaje de Ciencias Sociales.</td>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales I y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales II y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Enseñanza y Aprendizaje de Lenguas.</td>
+          <td class="cuerpo_tabla_izq">Lengua Española I y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Segundo Idioma.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación literaria.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Enseñanza y Aprendizaje de Educación musical, plástica y visual.</td>
+          <td class="cuerpo_tabla_izq">Expresión artística.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación Plástica, visual y Audiovisual, y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Escolares.</td>
+          <td class="cuerpo_tabla_izq">Prácticum I (Observación).</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Enseñanza y Aprendizaje de Ciencias Experimentales.</td>
+          <td class="cuerpo_tabla_izq">Educación integrada en las Ciencias Experimentales.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Enseñanza y Aprendizaje de Matemáticas.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas I y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Matemáticas II y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Enseñanza y Aprendizaje de Lenguas.</td>
+          <td class="cuerpo_tabla_izq">Didáctica de Segundo Idioma: inglés.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lengua Española II y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tercer Idioma I (francés/alemán).</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Enseñanza y Aprendizaje de Educación musical, plástica y visual.</td>
+          <td class="cuerpo_tabla_izq">Educación Musical y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Enseñanza y Aprendizaje de Educación física.</td>
+          <td class="cuerpo_tabla_izq">Educación Física y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Escolares.</td>
+          <td class="cuerpo_tabla_izq">Prácticum II.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Enseñanza y Aprendizaje de Educación física.</td>
+          <td class="cuerpo_tabla_izq">Desarrollo motor y juego.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Mención en Audición y Lenguaje.</td>
+          <td class="cuerpo_tabla_izq">Pensamiento y Lenguaje.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicopatología de Audición y Lenguaje.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Neuropsicología.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación e intervención en lenguaje escrito y oral.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos creativos-artísticos para la intervención en AL.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Mención en Pedagogía Terapéutica.</td>
+          <td class="cuerpo_tabla_izq">Neuropsicología.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TDAH y trastornos del aprendizaje.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trastornos del desarrollo.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Intervención neuropsicológica en Educación.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos creativos-artísticos para la intervención en PT.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Mención en Enseñanza de la Lengua Inglesa.</td>
+          <td class="cuerpo_tabla_izq">Recursos didácticos en Lengua Extranjera.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lectura, escritura y fomento de la creatividad.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Multiculturalidad y Educación plurilingüe.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Literatura Infantil y juvenil.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aprendizaje Basado en Proyectos Aplicado a la Enseñanza de Inglés.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Mención en Enseñanza de la Lengua Francesa.</td>
+          <td class="cuerpo_tabla_izq">Recursos didácticos en Lengua Extranjera.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lectura, escritura y fomento de la creatividad.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Multiculturalidad y Educación plurilingüe.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Literatura Infantil y juvenil.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aprendizaje Basado en Proyectos Aplicado a la Enseñanza de Francés.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Mención en Educación Física.</td>
+          <td class="cuerpo_tabla_izq">Educación física inclusiva y necesidades especiales en la EF.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cuerpo, Imagen y Expresión.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Innovación y nuevas tecnologías en la educación física.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bases Anatómicas y fisiológicas de la educación física.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aprendizaje Basado en Proyectos Aplicado a la Educación Física.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Mención en Educación Musical.</td>
+          <td class="cuerpo_tabla_izq">Audición y lenguaje musical.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Expresión corporal, ritmo y danza.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Expresión musical vocal e instrumental.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos tecnológicos para la educación musical.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aprendizaje Basado en Proyectos Aplicado a la Educación Musical.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Escolares.</td>
+          <td class="cuerpo_tabla_izq">Prácticum III.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">14</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210215165601">
+  <metadatos>
+    <identificador>BOE-A-2021-2280</identificador>
+    <titulo>Resolución 320/38028/2021, de 15 de enero, de la Dirección General de Armamento y Material, por la que se aprueban y se anulan normas militares españolas.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>39</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="6110">Ministerio de Defensa</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial>320/38028/2021</numero_oficial>
+    <fecha_disposicion>20210115</fecha_disposicion>
+    <fecha_publicacion>20210215</fecha_publicacion>
+    <fecha_vigencia>20210216</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>17493</pagina_inicial>
+    <pagina_final>17494</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/15/pdfs/BOE-A-2021-2280.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/01/15/32038028</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/01/15/32038028">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2280</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-15</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32038028</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/01/15/32038028/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2280</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-15</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32038028</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/01/15/32038028"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/01/15/32038028/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución 320/38028/2021, de 15 de enero, de la Dirección General de Armamento y Material, por la que se aprueban y se anulan normas militares españolas.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-15</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/01/15/32038028/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/01/15/32038028/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/01/15/32038028/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/01/15/32038028/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/01/15/32038028/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/01/15/32038028/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/01/15/32038028/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5161" orden="">Normalización militar</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="126" orden="">Seguridad y Defensa</alerta>
+      <alerta codigo="129" orden="">Tecnología e investigación</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2010-14846" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>los arts. 6.c), 13.5 y 13.6 del Reglamento, aprobado por Orden PRE/2507/2010, de 23 de septiembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Los procedimientos de adquisición de los productos para su utilización por las Fuerzas Armadas y la Guardia Civil en su dependencia del Ministerio de Defensa, se simplifican y unifican por medio de documentos técnicos, normas militares españolas, que establecen la naturaleza de las materias primas, las características de los artículos elaborados, la terminología y nomenclatura de los mismos, así como los métodos racionales de ensayo, fijando sin posible duda los datos de adquisición.</p>
+    <p class="parrafo">En consecuencia, de conformidad con lo dispuesto en los artículos 6.c), 13.5 y 13.6 del Reglamento de Normalización Militar de Materiales, aprobado por Orden PRE/2507/2010, de 23 de septiembre, dispongo:</p>
+    <p class="articulo">Primero. Aprobación de Normas Militares Españolas.</p>
+    <p class="parrafo">Se aprueban las Normas Militares Españolas (NME) siguientes:</p>
+    <p class="parrafo_2">NME-76/2020 Polvorines. Sus tipos.</p>
+    <p class="parrafo">NME-81/2020 Polvorines. Disposiciones de seguridad.</p>
+    <p class="parrafo">NME-103/2020 Algodón borra de desperdicios.</p>
+    <p class="parrafo">NME-259/2020 Protector de colchones.</p>
+    <p class="parrafo">NME-267/2020 Cubrecamas para literas.</p>
+    <p class="parrafo">NME-314/2020 Juego de cama de la Armada.</p>
+    <p class="parrafo">NME-334/2020 Propulsantes sólidos. Preparación de las muestras para análisis.</p>
+    <p class="parrafo">NME-515/2020 Manta de seguridad.</p>
+    <p class="parrafo">NME-674/2020 Designación y rotulación del material eléctrico a bordo.</p>
+    <p class="parrafo">NME-1140/2020 Relojes para buceadores.</p>
+    <p class="parrafo">NME-2344/2020 Pintura antiinflamable para interiores (Fórmula serie 610).</p>
+    <p class="parrafo">NME-2345/2020 Cronógrafos.</p>
+    <p class="parrafo">NME-2348/2020 Tarjeta de identidad para cónyuges, parejas de hecho, viudos y huérfanos pensionistas del personal militar profesional y de la Guardia Civil.</p>
+    <p class="parrafo">NME-2434/2020 Contadores de segundos.</p>
+    <p class="parrafo">NME-2567/2020 Lona para toldos de vehículos militares.</p>
+    <p class="parrafo">NME-2643/2020 Seguridad pirotécnica. Destrucción de vegetales.</p>
+    <p class="parrafo">NME-2807/2020  Pólvoras y explosivos. Determinación del porcentaje de pureza. Método calorimétrico. Técnica DSC.</p>
+    <p class="parrafo">NME-2826/2020 Colchón de alta seguridad para buques y acuartelamientos de la Armada.</p>
+    <p class="parrafo">NME-2860/2020 Pólvoras y explosivos. Determinación de la temperatura de descomposición. Método calorimétrico. Técnica DSC.</p>
+    <p class="parrafo">NME-2901/2020 Almohada ignífuga para buques y acuartelamientos.</p>
+    <p class="parrafo">NME-2914/2020 Esmalte de base acuosa para interiores de vehículos acorazados.</p>
+    <p class="parrafo">NME-2915/2020 Esmalte de base acuosa de secado al aire reflectante a la radiación IR color caqui semimate.</p>
+    <p class="parrafo">NME-2926/2020 Propulsantes sólidos. Determinación de la densidad real. Método del picnómetro de helio.</p>
+    <p class="parrafo">NME-2963/2020 Determinación de la acidez o alcalinidad de sustancias que no posean función ácido mediante valoración potenciométrica.</p>
+    <p class="parrafo">NME-3040/2020 Uniformidad para el personal del Ejército de Tierra. Gorra de plato azul.</p>
+    <p class="articulo">Segundo. Anulación de normas.</p>
+    <p class="parrafo">Se anulan las siguientes normas militares españolas:</p>
+    <p class="parrafo_2">NM-P-2181 MG (3.ªR) Pintado de vehículos anfibios.</p>
+    <p class="parrafo">NM-S-2615 EM Seguridad pirotécnica. Control de ignifugación de tejidos. Calificación.</p>
+    <p class="parrafo">NM-S-2616 EMG Seguridad pirotécnica. Ropas y tejidos ignifugados antiestáticos.</p>
+    <p class="parrafo">NM-E-2701 EMA Ensayos ambientales. Prueba de estanqueidad al vapor de agua.</p>
+    <p class="parrafo">NM-CH-2854 A Chaquetón de abrigo.</p>
+    <p class="parrafo">NM-P-2855 AG Pantalón de abrigo.</p>
+    <p class="articulo">Tercero. Difusión de normas.</p>
+    <p class="parrafo">El Servicio de Normalización del Órgano Central incluirá las Normas Militares aprobadas por esta disposición, en el Catálogo General de Normas existente en la intranet, para su difusión y aplicación en el Ministerio de Defensa.</p>
+    <p class="articulo">Disposición derogatoria única. Derogación normativa.</p>
+    <p class="parrafo">Las revisiones de las Normas Militares Españolas anulan las ediciones de las Normas Militares básicas y revisiones anteriores.</p>
+    <p class="articulo">Disposición transitoria única. Validez de versiones anteriores.</p>
+    <p class="parrafo">No obstante, las ediciones y revisiones anteriores, a propuesta de la Comisión de Normalización, podrán seguir utilizándose y aplicándose al material adquirido previamente a la aprobación de la nueva revisión.</p>
+    <p class="articulo">Disposición final única. Entrada en vigor.</p>
+    <p class="parrafo">La presente Resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 15 de enero de 2021.–El Director General de Armamento y Material, P. D. (Resolución de 22 de octubre de 2019), el Subdirector General de Inspección, Regulación y Estrategia Industrial de Defensa, Pedro Andrés Fuster González.</p>
+  </texto>
+</documento>

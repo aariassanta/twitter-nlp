@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210219135601">
+  <metadatos>
+    <identificador>BOE-A-2021-2629</identificador>
+    <titulo>Resolución de 3 de febrero de 2021, de la Secretaría General de Transportes y Movilidad, para el desarrollo, implantación y aplicación del sistema de inspecciones sobre implantación de los planes de protección de las instalaciones portuarias y de los puertos de competencia autonómica e instalaciones ubicadas fuera de puerto.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>43</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9572">Ministerio de Transportes, Movilidad y Agenda Urbana</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210203</fecha_disposicion>
+    <fecha_publicacion>20210219</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>19841</pagina_inicial>
+    <pagina_final>19842</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/19/pdfs/BOE-A-2021-2629.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/02/03/(1)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/03/(1)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2629</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-03</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/03/(1)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2629</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-03</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/02/03/(1)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/02/03/(1)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 3 de febrero de 2021, de la Secretaría General de Transportes y Movilidad, para el desarrollo, implantación y aplicación del sistema de inspecciones sobre implantación de los planes de protección de las instalaciones portuarias y de los puertos de competencia autonómica e instalaciones ubicadas fuera de puerto.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-19</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/02/03/(1)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/03/(1)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/03/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/03/(1)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/03/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/03/(1)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/03/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="530" orden="">Buques</materia>
+      <materia codigo="817" orden="">Certificaciones</materia>
+      <materia codigo="2290" orden="">Delegación de atribuciones</materia>
+      <materia codigo="4880" orden="">Marinas Mercante y de Pesca</materia>
+      <materia codigo="5281" orden="">Organización de las Comunidades Autónomas</materia>
+      <materia codigo="5801" orden="">Puertos</materia>
+      <materia codigo="5803" orden="">Puertos del Estado</materia>
+      <materia codigo="339" orden="">Secretaría General de Transportes y Movilidad</materia>
+      <materia codigo="6495" orden="">Seguridad de la vida humana en el mar</materia>
+      <materia codigo="6936" orden="">Transportes marítimos</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+      <alerta codigo="132" orden="">Transportes y tráfico</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2018-15614" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>los arts. 4.3 y 10.3 de la Orden PCI/1188/2018, de 15 de noviembre,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">La Orden PCI/1188/2018, de 15 de noviembre, para el establecimiento del sistema de inspecciones del cumplimiento de la normativa sobre protección marítima en el ámbito portuario, en su artículo 4.3 establece que el desarrollo, implantación y aplicación del sistema de inspecciones sobre implantación de los planes de protección de las instalaciones portuarias y de los puertos de competencia autonómica e instalaciones ubicadas fuera de puerto, sujetos a dicha norma, será aprobado por la Secretaría General de Transporte del Ministerio de Fomento (actualmente la Secretaria General de Transportes y Movilidad), en virtud de la competencia atribuida en el artículo 4 del Real Decreto 1617/2007, de 7 de diciembre, a propuesta del Comité Interministerial de Inspecciones de Protección Portuaria.</p>
+    <p class="parrafo">Por otro lado, en el artículo 10.3, la misma Orden establece que en el ámbito de los puertos de titularidad autonómica e instalaciones ubicadas fuera de puerto sujetos a esta norma, será la Secretaría General de Transporte del Ministerio de Fomento (actualmente la Secretaria General de Transportes y Movilidad), como autoridad competente en materia de protección marítima, quien determinará los inspectores que realizarán dichas actividades inspectoras a propuesta del Comité Interministerial de Inspecciones de Protección Portuaria y previa consulta a las Comunidades Autónomas con puertos o instalaciones de su competencia sujetos a esta norma.</p>
+    <p class="parrafo">Con fecha 24 de septiembre de 2019 el Comité Interministerial de Inspecciones de Protección Portuaria resolvió aprobar la propuesta para el desarrollo, implantación y aplicación del sistema de inspecciones sobre implantación de los planes de protección de las instalaciones portuarias y de los puertos de competencia autonómica e instalaciones fuera de puerto.</p>
+    <p class="parrafo">Posteriormente, la propuesta fue remitida a las Comunidades Autónomas afectadas por esta normativa para recabar sus observaciones e informada favorablemente por la Abogacía del Estado en el Ministerio de Transportes, Movilidad y Agenda Urbana.</p>
+    <p class="parrafo">En virtud de todo lo anterior, esta Secretaría General de Transportes y Movilidad resuelve:</p>
+    <p class="parrafo_2">1. En desarrollo del artículo 4.3 de la Orden PCI/1188/2018, en las instalaciones portuarias y los puertos de competencia autonómica e instalaciones ubicadas fuera de puerto:</p>
+    <p class="parrafo_2">Designar al Organismo Público Puertos del Estado como organismo competente para el desarrollo, implantación y aplicación del sistema de inspecciones sobre implantación de los planes de protección de las instalaciones portuarias y de los puertos de competencia autonómica e instalaciones ubicadas fuera de puerto.</p>
+    <p class="parrafo_2">2. En desarrollo del artículo 10.3 de la Orden PCI/1188/2018, en el ámbito de los puertos titularidad autonómica e instalaciones ubicadas fuera de puerto:</p>
+    <p class="parrafo_2">Asignar el ejercicio de las funciones de inspección al personal del Organismo Público Puertos del Estado designado a tal efecto.</p>
+    <p class="parrafo">En los puertos de titularidad autonómica, en las instalaciones portuarias ubicadas en su zona de servicio, en su caso, en las zonas adyacentes a los mismos que se determinen y en las instalaciones portuarias de competencia autonómica ubicadas fuera de la zona de servicio de los puertos, si las hubiere, los inspectores de Puertos del Estado podrán contar con el apoyo de otros inspectores y/o colaboradores/expertos debidamente acreditados y formados, provenientes tanto de autoridades de protección portuaria como de otros organismos autonómicos siempre que esas personas no formen parte del organismo de gestión portuaria autonómico inspeccionado.</p>
+    <p class="parrafo">La Comunidad Autónoma en la que tenga lugar una inspección en los puertos o instalaciones de su competencia, podrá designar un inspector que, cumpliendo los requisitos de acreditación e independencia indicados, formará parte del equipo de inspección.</p>
+    <p class="parrafo_2">La función inspectora en los casos previstos en la presente resolución se llevará a cabo por personal funcionario. En el supuesto de que dicha función se asigne a empleados públicos que no tengan la condición de funcionario de carrera, deberán gozar de un régimen que permita garantizar su imparcialidad e independencia en el ejercicio de sus funciones.</p>
+    <p class="parrafo_2">Madrid, 3 de febrero de 2021.–La Secretaria General de Transporte y Movilidad, M.ª José Rallo del Olmo.</p>
+  </texto>
+</documento>

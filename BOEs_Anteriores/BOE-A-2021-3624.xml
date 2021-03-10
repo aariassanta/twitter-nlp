@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210308132602">
+  <metadatos>
+    <identificador>BOE-A-2021-3624</identificador>
+    <titulo>Resolución de 2 de febrero de 2021, de la Universidad de Castilla-La Mancha, por la que se publica el plan de estudios de Graduado o Graduada en Turismo.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>57</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210202</fecha_disposicion>
+    <fecha_publicacion>20210308</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>26963</pagina_inicial>
+    <pagina_final>26966</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/08/pdfs/BOE-A-2021-3624.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="6988" orden="">Turismo</materia>
+      <materia codigo="7031" orden="">Universidad de Castilla La Mancha</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 26.3 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2001-24515" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2021-903" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe positivo de la Agencia Nacional de Evaluación de la Calidad y Acreditación, y acordado el carácter oficial del título por el Consejo de Ministros en su reunión de 12 de enero de 2021 (publicado en el BOE de 22 de enero de 2021, por Resolución del Secretario General de Universidades de 14 de enero de 2021).</p>
+    <p class="parrafo">Este Rectorado, de acuerdo con lo previsto en el artículo 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades y en el artículo 26.3 del Real Decreto 1393/2007, de 29 de octubre, ha resuelto publicar el plan de estudios conducente a la obtención del título de Graduado o Graduada en Turismo por la Universidad de Castilla-La Mancha.</p>
+    <p class="parrafo">El plan de estudios a que se refiere la presente resolución quedará estructurado conforme se recoge en el anexo.</p>
+    <p class="parrafo_2">Ciudad Real, 2 de febrero de 2021.–El Rector, José Julián Garde López-Brea.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios de Graduado/a en Turismo</p>
+    <p class="centro_cursiva">Rama de Conocimiento: Ciencias Sociales y Jurídicas</p>
+    <p class="centro_redonda">Centro de impartición: Facultad de Ciencias Sociales de Cuenca</p>
+    <p class="parrafo_2">Distribución general del plan de estudios:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica (FB).</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">162</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas empresa (PE).</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado (TFG).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos totales.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Correspondencia de créditos de formación básica del Grado en Turismo:</p>
+    <p class="centro_cursiva">Materias básicas de la rama de Ciencias Sociales y Jurídicas</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Materias Anexo II</p>
+            <p class="cabeza_tabla">RD 1393/2007</p>
+          </th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="70%"/>
+        <col width="20%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Civil y Mercantil aplicado a la Empresa.</td>
+          <td class="cuerpo_tabla_izq">Derecho.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing Turístico.</td>
+          <td class="cuerpo_tabla_izq">Empresa.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización de Empresas.</td>
+          <td class="cuerpo_tabla_izq">Empresa.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Economía y Entorno Económico.</td>
+          <td class="cuerpo_tabla_izq">Economía.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estadística aplicada al Sector Turístico.</td>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Geografía y Territorio.</td>
+          <td class="cuerpo_tabla_izq">Geografía. </td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2"> Total créditos materias básicas de la rama de Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_der">36</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Otras materias básicas de otras ramas de conocimiento</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Materia</p>
+          </th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Materias Anexo II</p>
+            <p class="cabeza_tabla">RD 1393/2007</p>
+          </th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">ECTS</p>
+          </th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="70%"/>
+        <col width="20%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Patrimonio.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas cuantitativas de optimización y de previsión para el Turismo.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2"> Total créditos materias básicas otras ramas de conocimiento.</td>
+          <td class="cuerpo_tabla_der">24</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Estructura del plan de estudios por curso académico, módulos, materias y asignaturas:</p>
+    <p class="centro_cursiva">Primer curso</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Organización</p>
+            <p class="cabeza_tabla">temporal</p>
+          </th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho aplicado a la Gestión.</td>
+          <td class="cuerpo_tabla_izq">Derecho Civil y Mercantil aplicado a la Empresa.</td>
+          <td class="cuerpo_tabla_izq">Derecho de la Empresa.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Empresa.</td>
+          <td class="cuerpo_tabla_izq">Contabilidad, Fiscalidad y Finanzas.</td>
+          <td class="cuerpo_tabla_izq">Introducción a la Contabilidad.</td>
+          <td class="cuerpo_tabla_centro">AN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing Turístico.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Marketing.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización de Empresas.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Administración de Empresas.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Entorno turístico: económico y social.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Economía y entorno económico.</td>
+          <td class="cuerpo_tabla_izq">Historia Económica.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introducción a la Economía.</td>
+          <td class="cuerpo_tabla_centro">AN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estadística aplicada al sector turístico.</td>
+          <td class="cuerpo_tabla_izq">Estadística en Turismo.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Patrimonio y territorio.</td>
+          <td class="cuerpo_tabla_izq">Geografía y Territorio.</td>
+          <td class="cuerpo_tabla_izq">Recursos Territoriales Turísticos.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Patrimonio.</td>
+          <td class="cuerpo_tabla_izq">Turismo y Patrimonio Cultural.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Segundo curso</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Organización</p>
+            <p class="cabeza_tabla">temporal</p>
+          </th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Empresa.</td>
+          <td class="cuerpo_tabla_izq">Contabilidad, Fiscalidad y Finanzas.</td>
+          <td class="cuerpo_tabla_izq">Inversión y Financiación en la Empresa.</td>
+          <td class="cuerpo_tabla_centro">AN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización de Empresas.</td>
+          <td class="cuerpo_tabla_izq">Organización de Empresas y Dirección de Recursos Humanos.</td>
+          <td class="cuerpo_tabla_centro">AN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Entorno turístico: económico y social.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Economía y entorno económico.</td>
+          <td class="cuerpo_tabla_izq">Entorno económico internacional.</td>
+          <td class="cuerpo_tabla_centro">AN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Política Económica.</td>
+          <td class="cuerpo_tabla_centro">AN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas cuantitativas de optimización y de previsión para el Turismo.</td>
+          <td class="cuerpo_tabla_izq">Técnicas cuantitativas de optimización y de previsión para el Turismo.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Idiomas.</td>
+          <td class="cuerpo_tabla_izq">Inglés.</td>
+          <td class="cuerpo_tabla_izq">Idioma inglés I.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Patrimonio y territorio.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Patrimonio.</td>
+          <td class="cuerpo_tabla_izq">Patrimonio artístico español y Turismo cultural.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Patrimonio Arqueológico y Turismo.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Tercer curso</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Organización temporal</p>
+          </th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho aplicado a la Gestión.</td>
+          <td class="cuerpo_tabla_izq">Derecho civil y mercantil aplicado a la empresa.</td>
+          <td class="cuerpo_tabla_izq">Contratación y Legislación Turística.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Empresa.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Contabilidad, Fiscalidad y Finanzas.</td>
+          <td class="cuerpo_tabla_izq">Control de costes y presupuestario en el Sector Turístico.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Planificación Financiera de la Empresa Turística.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Marketing Turístico.</td>
+          <td class="cuerpo_tabla_izq">Investigación de Mercados.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing Turístico.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización de Empresas.</td>
+          <td class="cuerpo_tabla_izq">Operaciones y procesos de producción en Turismo.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Entorno turístico: económico y social.</td>
+          <td class="cuerpo_tabla_izq">Entorno social.</td>
+          <td class="cuerpo_tabla_izq">Las Relaciones Humanas en el mundo actual.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Idiomas.</td>
+          <td class="cuerpo_tabla_izq">Francés.</td>
+          <td class="cuerpo_tabla_izq">Francés.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Inglés.</td>
+          <td class="cuerpo_tabla_izq">Idioma Inglés II.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Idioma Inglés III.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Cuarto curso</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Organización temporal</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Derecho aplicado a la Gestión.</td>
+          <td class="cuerpo_tabla_izq">Derecho Administrativo.</td>
+          <td class="cuerpo_tabla_izq">Regulación Administrativa del Turismo.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Laboral.</td>
+          <td class="cuerpo_tabla_izq">Normativa Laboral en el sector Turístico.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Empresa.</td>
+          <td class="cuerpo_tabla_izq">Contabilidad, Fiscalidad y Finanzas.</td>
+          <td class="cuerpo_tabla_izq">Fiscalidad Empresarial: introducción y fiscalidad personal.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing Turístico.</td>
+          <td class="cuerpo_tabla_izq">E-marketing y Redes Sociales en Turismo.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Organización de Empresas.</td>
+          <td class="cuerpo_tabla_izq">Creación de Empresas Turísticas.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos estratégicos en Turismo.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Patrimonio y Territorio.</td>
+          <td class="cuerpo_tabla_izq">Geografía y Territorio.</td>
+          <td class="cuerpo_tabla_izq">El espacio en el medio rural y urbano: planificación y gestión del Turismo.</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas en Empresa.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo">S1 = Primer Semestre; S2 = Segundo Semestre; AN = Anual.</p>
+    <p class="parrafo">FB = Formación básica; OB = Obligatoria; PE = Prácticas de Empresa; TFG = Trabajo Fin de Grado.</p>
+    <p class="parrafo_2">La Universidad de Castilla-La Mancha ha establecido como requisito necesario para graduarse, acreditar el conocimiento de una lengua extranjera del MCERL en el nivel B1, de acuerdo con los procedimientos fijados en la Resolución de 25 de junio de 2019, de la UCLM, por la que se acuerda la publicación de la modificación de la normativa de acreditación del conocimiento de una lengua extranjera para la obtención del título de grado y para el acceso a determinados títulos de máster en la Universidad de Castilla-La Mancha (DOCM de 5 de julio de 2019).</p>
+  </texto>
+</documento>

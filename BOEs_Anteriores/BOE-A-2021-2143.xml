@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210215142601">
+  <metadatos>
+    <identificador>BOE-A-2021-2143</identificador>
+    <titulo>Resolución de 1 de febrero de 2021, de la Dirección General de Industria y de la Pequeña y Mediana Empresa, por la que se publica la relación de normas europeas que han sido ratificadas durante el mes de enero de 2021 como normas españolas.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>38</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="5250">Ministerio de Industria, Comercio y Turismo</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210201</fecha_disposicion>
+    <fecha_publicacion>20210213</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>16675</pagina_inicial>
+    <pagina_final>16682</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/13/pdfs/BOE-A-2021-2143.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2021/02/01/(1)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(1)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2143</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-01</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(1)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-2143</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-01</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2021/02/01/(1)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(1)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 1 de febrero de 2021, de la Dirección General de Industria y de la Pequeña y Mediana Empresa, por la que se publica la relación de normas europeas que han sido ratificadas durante el mes de enero de 2021 como normas españolas.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-13</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2021/02/01/(1)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(1)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/01/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(1)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/01/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2021/02/01/(1)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2021/02/01/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5159" orden="">Normalización</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="129" orden="">Tecnología e investigación</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1996-2468" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 11.f) del Reglamento aprobado por Real Decreto 2200/1995, de 28 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">En cumplimiento de lo dispuesto en el artículo 11.º, apartado f), del Reglamento de la Infraestructura para la Calidad y Seguridad Industrial, aprobado por Real Decreto 2200/1995, de 28 de diciembre («Boletín Oficial del Estado» de 6 de febrero de 1996) modificado por el Real Decreto 1072/2015, de 27 de noviembre («Boletín Oficial del Estado» de 14 de diciembre de 2015), y vistas las normas elaboradas por los Organismos Europeos de Normalización CEN, CENELEC, ETSI y cuya transposición nacional corresponde a la Asociación Española de Normalización, entidad designada por Orden del Ministerio de Industria y Energía de 26 de febrero de 1986, de acuerdo con el Real Decreto 1614/1985, de 1 de agosto, y reconocida a estos efectos por la disposición adicional primera del citado Real Decreto 2200/1995, de 28 de diciembre.</p>
+    <p class="parrafo">Esta Dirección General ha resuelto publicar en el «Boletín Oficial del Estado», la relación de normas europeas a las que se ha otorgado el rango de norma española UNE durante el mes de enero de 2021 identificadas por su título y código numérico, con indicación de su fecha de disponibilidad, que figuran como anexo a la presente Resolución.</p>
+    <p class="parrafo_2">Madrid, 1 de febrero de 2021.–El Director General de Industria y de la Pequeña y Mediana Empresa, Galo Gutiérrez Monzonís.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Ratificación de normas europeas del mes de enero de 2021</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Código</th>
+          <th class="cabeza_tabla">Título</th>
+          <th class="cabeza_tabla">Código Europeo</th>
+          <th class="cabeza_tabla">F. Disponib.</th>
+          <th class="cabeza_tabla">Anula a</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>UNE-CEN ISO/TS 80004-8:2020</td>
+          <td>Nanotecnologías. Vocabulario. Parte 8: Procesos de nanofabricación (ISO/TS 80004-8:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>CEN ISO/TS 80004-8:2020</td>
+          <td>2020-12-02</td>
+          <td>UNE-CEN ISO/TS 80004-8:2015 (Ratificada)</td>
+        </tr>
+        <tr>
+          <td>UNE-CEN/TR 14473:2020</td>
+          <td>Botellas de gas transportables. Materiales porosos para botellas de acetileno. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>CEN/TR 14473:2020</td>
+          <td>2020-11-11</td>
+          <td>UNE-CEN/TR 14473:2014 IN</td>
+        </tr>
+        <tr>
+          <td>UNE-CEN/TR 17548:2020</td>
+          <td>Combustibles para automoción. Problemas del mercado del combustible diésel. Informe de investigación de partículas abrasivas (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>CEN/TR 17548:2020</td>
+          <td>2020-11-25</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-CEN/TS 16976:2016</td>
+          <td>Aire ambiente. Determinación de la concentración del número de partículas de aerosol atmosférico (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>CEN/TS 16976:2016</td>
+          <td>2016-08-24</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-CEN/TS 17523:2020</td>
+          <td>Servicios postales. Embalaje para artículos en caja. Características para el embalaje de artículos pequeños y livianos para ser entregados en el buzón del consumidor. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>CEN/TS 17523:2020</td>
+          <td>2020-10-21</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-CLC IEC/TS 60079-39:2019/AC:2020-12</td>
+          <td>Atmósferas explosivas. Parte 39: Sistemas de seguridad intrínseca con limitación de duración de la chispa controlada electrónicamente. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>CLC IEC/TS 60079-39:2019/AC:2020-12</td>
+          <td>2020-12-11</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-CLC/TR 45550:2020</td>
+          <td>Definiciones relacionadas con la eficiencia de materiales. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>CLC/TR 45550:2020</td>
+          <td>2020-12-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-CLC/TS 50136-9:2020</td>
+          <td>Sistemas de alarma. Sistemas y equipos de transmisión de alarmas. Parte 9: Requisitos para el protocolo común para la transmisión de alarmas utilizando el protocolo de Internet (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>CLC/TS 50136-9:2020</td>
+          <td>2020-11-13</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 1673:2020</td>
+          <td>Maquinaria para el procesado de alimentos. Hornos de carros rotativos. Requisitos de seguridad e higiene. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 1673:2020</td>
+          <td>2020-12-02</td>
+          <td>UNE-EN 1673:2001+A1:2010</td>
+        </tr>
+        <tr>
+          <td>UNE-EN 1974:2020</td>
+          <td>Maquinaria para procesado de alimentos. Cortadoras en lonchas. Requisitos de seguridad e higiene. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 1974:2020</td>
+          <td>2020-11-25</td>
+          <td>UNE-EN 1974:1998+A1:2010</td>
+        </tr>
+        <tr>
+          <td>UNE-EN 2133:2020</td>
+          <td>Material aeroespacial. Cadmiado de aceros con resistencia a la tracción &lt;= 1 450 MPa, del cobre, aleaciones de cobre, y aleaciones de níquel. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 2133:2020</td>
+          <td>2020-12-02</td>
+          <td>UNE-EN 2133:2010 (Ratificada)</td>
+        </tr>
+        <tr>
+          <td>UNE-EN 4861:2020</td>
+          <td>Material aeroespacial. Procedimiento de evaluación metrológica para campos cinemáticos medidos por Correlación de Imagen Digital (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 4861:2020</td>
+          <td>2020-12-09</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 4864:2020</td>
+          <td>Material aeroespacial. Ensayos medioambientales. Ensayo de alta abrasión dinámica, desgaste, arañazos y perforaciones en el interior de la cabina (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 4864:2020</td>
+          <td>2020-12-09</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 6057:2020</td>
+          <td>Material aeroespacial. Horquilla con rodamiento EN 4265 en acero resistente a la corrosión, vástago roscado interno. Dimensiones y cargas. Serie en pulgadas (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 6057:2020</td>
+          <td>2020-10-28</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 13656:2020</td>
+          <td>Suelos, residuos biológicos tratados, lodos y residuos. Digestión con mezcla de ácido clorhídrico (HCl), ácido nítrico (HNO3), ácido tetrafluorobórico (HBF4) o ácido fluorhídrico (HF), para la posterior determinación de elementos. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 13656:2020</td>
+          <td>2020-11-04</td>
+          <td>UNE-EN 13656:2003</td>
+        </tr>
+        <tr>
+          <td>UNE-EN 13819-1:2020</td>
+          <td>Protectores auditivos. Ensayos. Parte 1: Métodos de ensayo físicos. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 13819-1:2020</td>
+          <td>2020-11-18</td>
+          <td>UNE-EN 13819-1:2003</td>
+        </tr>
+        <tr>
+          <td>UNE-EN 13819-2:2020</td>
+          <td>Protectores auditivos. Ensayos. Parte 2: Métodos de ensayo acústicos (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 13819-2:2020</td>
+          <td>2020-11-18</td>
+          <td>UNE-EN 13819-2:2003</td>
+        </tr>
+        <tr>
+          <td>UNE-EN 16524:2020</td>
+          <td>Productos mecánicos. Metodología para reducir los impactos ambientales en el diseño y desarrollo de productos. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 16524:2020</td>
+          <td>2020-11-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 17127:2020</td>
+          <td>Puntos de suministro de hidrógeno al aire libre que dispensan hidrógeno gaseoso e incorporan protocolos de llenado. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 17127:2020</td>
+          <td>2020-11-18</td>
+          <td>UNE-EN 17127:2018 (Ratificada)</td>
+        </tr>
+        <tr>
+          <td>UNE-EN 17128:2020</td>
+          <td>Vehículos ligeros motorizados para el transporte de personas y mercancías e instalaciones relacionadas y no sujetos a homologación para uso en carretera. Vehículos eléctricos ligeros personales (PLEV). Requisitos de seguridad y métodos de ensayo (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 17128:2020</td>
+          <td>2020-10-21</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 17140:2020</td>
+          <td>Productos aislantes térmicos para aplicaciones en edificación. Paneles de aislamiento por vacío de fabricación industrial (VIP). Especificación. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 17140:2020</td>
+          <td>2020-10-21</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 17230:2020</td>
+          <td>Tecnología de la información. RFID en el sector ferroviario (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 17230:2020</td>
+          <td>2020-11-25</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 17394-2:2020</td>
+          <td>Textiles y productos textiles. Parte 2: Seguridad de la ropa infantil. Seguridad del cierre de botones. Método de ensayo. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 17394-2:2020</td>
+          <td>2020-10-07</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 17414-1:2020</td>
+          <td>Sistemas de refrigeración urbana. Sistemas de tuberías flexibles manufacturadas. Parte 1: Clasificación, requisitos generales y métodos de ensayo. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 17414-1:2020</td>
+          <td>2020-07-29</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 17414-2:2020</td>
+          <td>Sistemas de refrigeración urbana. Sistemas de tuberías flexibles manufacturadas. Parte 2: Sistemas conectados con tuberías de plástico. Requisitos y métodos de ensayo. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 17414-2:2020</td>
+          <td>2020-07-29</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 17414-3:2020</td>
+          <td>Sistemas de refrigeración urbana. Sistemas de tuberías flexibles manufacturadas. Parte 3: Sistemas no conectados con tuberías de plástico. Requisitos y métodos de ensayo. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 17414-3:2020</td>
+          <td>2020-07-29</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 17415-1:2020</td>
+          <td>Sistemas de refrigeración urbana. Sistemas de tuberías conectadas directamente a la red enterrada de agua fría. Parte 1: Tuberías manufacturadas de acero o plástico, aislamiento térmico de poliuretano y carcasa de polietileno. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 17415-1:2020</td>
+          <td>2020-07-29</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 17419-1:2020</td>
+          <td>Intercambio de información digital en el sector de los seguros. Transferencia de documentos electrónicos. Parte 1: Modelos de procesos y de datos (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 17419-1:2020</td>
+          <td>2020-11-25</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 50342-4:2020</td>
+          <td>Baterías de acumuladores de plomo de arranque. Parte 4: Dimensiones de las baterías para vehículos pesados. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 50342-4:2020</td>
+          <td>2020-11-20</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 50632-2-6:2015/A2:2020</td>
+          <td>Herramientas eléctricas accionadas por motor eléctrico. Procedimiento de medición del polvo. Parte 2-6: Requisitos particulares para martillos (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 50632-2-6:2015/A2:2020</td>
+          <td>2020-12-11</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 50699:2020</td>
+          <td>Ensayo recurrente de equipos eléctricos (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 50699:2020</td>
+          <td>2020-11-20</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN 60268-7:2011/A1:2020</td>
+          <td>Equipos para sistemas electroacústicos. Parte 7: Auriculares y cascos microfónicos. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN 60268-7:2011/A1:2020</td>
+          <td>2020-10-30</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 60112:2020</td>
+          <td>Método de determinación de los índices de resistencia y de prueba a la formación de caminos conductores de los materiales aislantes sólidos. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 60112:2020</td>
+          <td>2020-12-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 60268-16:2020</td>
+          <td>Equipos para sistemas electroacústicos. Parte 16: Evaluación objetiva de la inteligibilidad del habla mediante el índice de transmisión del habla. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 60268-16:2020</td>
+          <td>2020-11-13</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 60268-22:2020</td>
+          <td>Equipos de sistemas de sonido. Parte 22: Mediciones eléctricas y mecánicas (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 60268-22:2020</td>
+          <td>2020-11-06</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 60601-2-22:2020</td>
+          <td>Equipos electromédicos. Parte 2-22: Requisitos particulares para la seguridad básica y el funcionamiento esencial de los equipos láser quirúrgicos, cosméticos, terapéuticos y de diagnóstico. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 60601-2-22:2020</td>
+          <td>2020-10-30</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 60603-7:2020</td>
+          <td>Conectores para equipos electrónicos. Parte 7-: Especificación particular para conectores de 8 vías, no blindados, libres y fijos. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 60603-7:2020</td>
+          <td>2020-11-20</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 60645-3:2020</td>
+          <td>Electroacústica. Equipos audiométricos. Parte 3: Señales de ensayo de corta duración. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 60645-3:2020</td>
+          <td>2020-11-13</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 60747-17:2020</td>
+          <td>Dispositivos semiconductores. Parte 17: Acoplador magnético y capacitivo para aislamiento básico y reforzado. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 60747-17:2020</td>
+          <td>2020-11-06</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 60794-6:2020</td>
+          <td>Cables de fibra óptica. Parte 6: Cables interiores-exteriores. Especificación intermedia para cables interiores-exteriores (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 60794-6:2020</td>
+          <td>2020-11-13</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 60794-6-10:2020</td>
+          <td>Cables de fibra óptica. Parte 6-10: Cables interiores-exteriores. Especificación de familia para cables interiores-exteriores universales (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 60794-6-10:2020</td>
+          <td>2020-11-13</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 60794-6-20:2020</td>
+          <td>Cables de fibra óptica. Parte 6-20: Cables interiores-exteriores. Especificación de familia para cables exteriores ignífugos (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 60794-6-20:2020</td>
+          <td>2020-11-13</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 60794-6-30:2020</td>
+          <td>Cables de fibra óptica. Parte 6-30: Cables interiores-exteriores. Especificación de familia para cables interiores climatizados (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 60794-6-30:2020</td>
+          <td>2020-11-13</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 61076-2-114:2020</td>
+          <td>Conectores para equipos electrónicos. Requisitos de producto. Parte 2-114: Conectores circulares. Especificación particular para conectores de potencia y datos con bloqueo con tornillo M8. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 61076-2-114:2020</td>
+          <td>2020-10-30</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 61400-5:2020</td>
+          <td>Sistemas de generación de energía eólica. Parte 5: Palas de aerogeneradores. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 61400-5:2020</td>
+          <td>2020-08-07</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 61753-071-02:2020</td>
+          <td>Dispositivos de interconexión de fibra óptica y componentes pasivos. Norma de funcionamiento. Parte 071-2: Fibra óptica monomodo no conectorizada 1 x 2 y 2 x 2 para interruptores espaciales para categoría C. Entorno controlado. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 61753-071-02:2020</td>
+          <td>2020-10-30</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 61803:2020</td>
+          <td>Determinación de las pérdidas de potencia de las estaciones de conversión en corriente continua de alta tensión (CCAT). (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 61803:2020</td>
+          <td>2020-12-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 61837-2:2018/A1:2020</td>
+          <td>Dispositivos piezoeléctricos de montaje en superficie para el control y la selección de la frecuencia. Contornos normalizados y conexiones de los terminales. Parte 2: Envolventes cerámicas. Modificación 1. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 61837-2:2018/A1:2020</td>
+          <td>2020-11-06</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 62351-6:2020</td>
+          <td>Gestión de sistemas de potencia e intercambio de información asociada. Seguridad de datos y comunicaciones. Parte 6: Seguridad para IEC 61850 (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 62351-6:2020</td>
+          <td>2020-12-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 62433-6:2020</td>
+          <td>Modelado de Circuitos Integrados para CEM. Parte 6: Modelos de circuitos integrados para la simulación del comportamiento de la inmunidad de pulso. Inmunidad de pulso conducida (ICIM-CPI) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 62433-6:2020</td>
+          <td>2020-11-06</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 62566-2:2020</td>
+          <td>Centrales nucleares. Instrumentación y sistemas de control importantes para la seguridad. Desarrollo de circuitos integrados HDL-programados. Parte 2: Circuitos integrados HDL-programados para los sistemas que realizan las funciones de la categoría B o C (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 62566-2:2020</td>
+          <td>2020-11-27</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 62714-4:2020/AC:2020-12</td>
+          <td>Formato de intercambio de datos de ingeniería para uso en ingeniería de sistemas de automatización industrial. Lenguaje de marcado de automatización. Parte 4: Lógica (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 62714-4:2020/AC:2020-12</td>
+          <td>2020-12-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 62769-100:2020</td>
+          <td>Integración de dispositivos de campo (FDI). Parte 100: Perfiles. Protocolos genéricos (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 62769-100:2020</td>
+          <td>2020-11-06</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 62769-115-2:2020</td>
+          <td>Integración de dispositivos de campo (FDI). Parte 115-2: Perfiles. Modbus-RTU (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 62769-115-2:2020</td>
+          <td>2020-11-06</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 62832-1:2020</td>
+          <td>Medición, control y automatización de procesos industriales. Marco de fábrica digital. Parte 1: Principios generales (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 62832-1:2020</td>
+          <td>2020-12-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 62832-2:2020</td>
+          <td>Medición, control y automatización de procesos industriales. Marco de fábrica digital. Parte 2: Elementos del modelo (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 62832-2:2020</td>
+          <td>2020-12-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 62832-3:2020</td>
+          <td>Medición, control y automatización de procesos industriales. Marco de fábrica digital. Parte 3: Aplicación de la fábrica digital para la gestión del ciclo de vida de los sistemas de producción. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 62832-3:2020</td>
+          <td>2020-12-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 63073-1:2020</td>
+          <td>Dispositivos de imagen por radionucleidos específicos. Características y condiciones de ensayo. Parte 1: SPECT cardíaco (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 63073-1:2020</td>
+          <td>2020-12-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN IEC 63182-2:2020</td>
+          <td>Núcleos de polvo magnético. Directrices sobre las dimensiones y los límites de las irregularidades de la superficie. Parte 2: Núcleos de anillo (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN IEC 63182-2:2020</td>
+          <td>2020-11-13</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 11553-1:2020/A11:2020</td>
+          <td>Seguridad de las máquinas. Máquinas de procesamiento láser. Parte 1: Requisitos generales de seguridad. (ISO 11553-1:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 11553-1:2020/A11:2020</td>
+          <td>2020-11-11</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 12967-1:2020</td>
+          <td>Informática sanitaria. Arquitectura de servicios. Parte 1: Punto de vista de la empresa. (ISO 12967-1:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 12967-1:2020</td>
+          <td>2020-11-18</td>
+          <td>UNE-EN ISO 12967-1:2012</td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 12967-2:2020</td>
+          <td>Informática sanitaria. Arquitectura de servicios. Parte 2: Punto de vista de la información. (ISO 12967-2:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 12967-2:2020</td>
+          <td>2020-11-18</td>
+          <td>UNE-EN ISO 12967-2:2012</td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 12967-3:2020</td>
+          <td>Informática sanitaria. Arquitectura de servicios. Parte 3: Punto de vista computacional. (ISO 12967-3:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 12967-3:2020</td>
+          <td>2020-11-18</td>
+          <td>UNE-EN ISO 12967-3:2012</td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 13143-1:2020</td>
+          <td>Peaje electrónico. Evaluación de la conformidad del equipo a bordo y el equipo situado en la carretera con la Norma ISO 12813. Parte 1: Estructura del conjunto de ensayos y propósito de los ensayos (ISO 13143-1:2020). (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 13143-1:2020</td>
+          <td>2020-11-18</td>
+          <td>UNE-EN ISO 13143-1:2016 (Ratificada)</td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 15156-1:2020</td>
+          <td>Industrias del petróleo y del gas natural. Materiales para uso en presencia de sulfuro de hidrógeno (H2S) en la producción de productos del petróleo y gas natural. Parte 1: Principios generales de selección de materiales resistentes a la pirólisis (ISO 15156-1:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 15156-1:2020</td>
+          <td>2020-11-25</td>
+          <td>UNE-EN ISO 15156-1:2015 (Ratificada)</td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 15156-2:2020</td>
+          <td>Industrias del petróleo y del gas natural. Materiales para uso en presencia de sulfuro de hidrógeno (H2S) en la producción de petróleo y gas natural. Parte 2: Aceros al carbono y aceros de baja aleación resistentes a la pirólisis y utilización de fundiciones (ISO 15156-2:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 15156-2:2020</td>
+          <td>2020-11-25</td>
+          <td>UNE-EN ISO 15156-2:2015 (Ratificada)</td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 15156-3:2020</td>
+          <td>Industrias del petróleo y del gas natural. Materiales para uso en presencia de sulfuro de hidrógeno (H2S) en la producción de petróleo y gas natural. Parte 3: Aleaciones resistentes a la corrosión (ARCs) y otras aleaciones resistentes a la pirólisis (ISO 15156-3:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 15156-3:2020</td>
+          <td>2020-11-25</td>
+          <td>UNE-EN ISO 15156-3:2015 (Ratificada)</td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 19902:2020</td>
+          <td>Industrias del petróleo y del gas natural. Estructuras marítimas fijas en acero (ISO 19902:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 19902:2020</td>
+          <td>2020-11-25</td>
+          <td>UNE-EN ISO 19902:2007 (Ratificada); UNE-EN ISO 19902:2007/A1:2013 (Ratificada)</td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 20349-1:2017/A1:2020</td>
+          <td>Equipo de protección personal. Calzado de protección frente a riesgos en fundiciones y soldadura. Parte 1: Requisitos y métodos de ensayo para la protección contra riesgos en fundiciones. Modificación 1 (ISO 20349-1:2017/Amd 1:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 20349-1:2017/A1:2020</td>
+          <td>2020-11-11</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 20349-2:2017/A1:2020</td>
+          <td>Equipo de protección personal. Calzado de protección frente a riesgos en fundiciones y soldadura. Parte 2: Requisitos y métodos de ensayo para la protección contra riesgos en procesos de soldadura. Modificación 1 (ISO 20349-2:2017/Amd 1:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 20349-2:2017/A1:2020</td>
+          <td>2020-11-11</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 21597-2:2020</td>
+          <td>Contenedor de información para extracción de datos (ICDD). Especificación de intercambio. Parte 2: Tipos de enlace (ISO 21597-2:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 21597-2:2020</td>
+          <td>2020-11-18</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 23753-1:2019/A1:2020</td>
+          <td>Calidad del suelo. Determinación de la actividad de las deshidrogenasas del suelo. Parte 1: Método del cloruro de trifeniltetrazolio (TTC). Modificación 1 (ISO 23753-1:2019/Amd 1:2020). (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 23753-1:2019/A1:2020</td>
+          <td>2020-11-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 23753-2:2019/A1:2020</td>
+          <td>Calidad del suelo. Determinación de la actividad de las deshidrogenasas del suelo. Parte 2: Método del cloruro de iodotetrazolio (INT). Modificación 1 (ISO 23753-2:2019/Amd 1:2020). (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 23753-2:2019/A1:2020</td>
+          <td>2020-11-04</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO 80601-2-70:2020</td>
+          <td>Equipos electromédicos. Parte 2-70: Requisitos particulares para la seguridad básica y funcionamiento esencial del equipo de terapia de respiración para la apnea del sueño (ISO 80601-2-70:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO 80601-2-70:2020</td>
+          <td>2020-11-25</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-EN ISO/IEC 27006:2020</td>
+          <td>Tecnología de la información. Técnicas de seguridad. Requisitos para organismos que realizan auditorías y certificación de sistemas de gestión de seguridad de la información (ISO/IEC 27006:2015, incluyendo Amd 1:2020) (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>EN ISO/IEC 27006:2020</td>
+          <td>2020-11-25</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>UNE-HD 621S1:1996</td>
+          <td>Cables de distribución de media tensión aislados con papel impregnado. (Ratificada por la Asociación Española de Normalización en enero de 2021.)</td>
+          <td>HD 621S1:1996</td>
+          <td>1996-10-30</td>
+          <td> </td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

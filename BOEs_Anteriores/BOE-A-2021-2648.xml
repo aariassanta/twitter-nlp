@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210219095602">
+  <metadatos>
+    <identificador>BOE-A-2021-2648</identificador>
+    <titulo>Resolución de 27 de enero de 2021, de la Universidad de Salamanca, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Medicina.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>43</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210127</fecha_disposicion>
+    <fecha_publicacion>20210219</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>19989</pagina_inicial>
+    <pagina_final>19992</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/19/pdfs/BOE-A-2021-2648.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="4910" orden="">Medicina</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7050" orden="">Universidad de Salamanca</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2011-8009" orden="2030">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el plan publicado por Resolución de 31 de marzo de 2011</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010 de 2 de julio, por el que se establece el procedimiento para la modificación de planes de estudios ya verificados y una vez recibido el informe favorable de la Agencia Nacional de Evaluación de la Calidad y Acreditación a las modificaciones presentadas del plan de estudios de Graduado o Graduada en Medicina por la Universidad de Salamanca, publicado mediante Resolución de 31 de marzo de 2011 de la Universidad de Salamanca en el «Boletín Oficial del Estado» de fecha 6 de mayo de 2011 y modificado por Resolución de 5 de octubre de 2016 publicada en el «Boletín Oficial del Estado» el 24 de octubre de 2016.</p>
+    <p class="parrafo">Este Rectorado ha resuelto publicar la modificación del plan de estudios conducente a la obtención del título de Graduado o Graduada en Medicina por la Universidad de Salamanca.</p>
+    <p class="parrafo_2">Salamanca, 27 de enero de 2021.–El Rector, Ricardo Rivero Ortega.</p>
+    <p class="anexo">PLAN DE ESTUDIOS DE GRADUADO/A EN MEDICINA POR LA UNIVERSIDAD DE SALAMANCA</p>
+    <p class="centro_cursiva">Rama de Conocimiento: Ciencias de la Salud</p>
+    <p class="centro_redonda">Código Titulación: 2502052</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica (FB).</td>
+          <td class="cuerpo_tabla_centro"> 69</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (Ob).</td>
+          <td class="cuerpo_tabla_centro">201</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (Op).</td>
+          <td class="cuerpo_tabla_centro"> 24</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas (PE).</td>
+          <td class="cuerpo_tabla_centro"> 60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_centro">  6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos totales.</td>
+          <td class="cuerpo_tabla_centro">360</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulos</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Organización temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="18%"/>
+        <col width="47%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="12">Morfología estructura y función del cuerpo humano.</td>
+          <td class="cuerpo_tabla_izq">Anatomía I.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Anatomía II.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Anatomía III.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bioquímica.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biología Médica.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biomecánica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos bioquímicos y metabólicos.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fisiología General.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fisiología Humana.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Neurofisiología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inmunología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Histología Humana.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Medicina social. Habilidades de comunicación e iniciación a la investigación.</td>
+          <td class="cuerpo_tabla_izq">Informática aplicada a la medicina.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bases metodológicas del conocimiento científico.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bioestadística.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia de la Medicina.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Medicina Preventiva, salud pública y gestión sanitaria.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Epidemiología Médica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Medicina Legal y Forense. Ética Médica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="22">Formación clínica humana.</td>
+          <td class="cuerpo_tabla_izq">Psicología Médica.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Medicina Clínica: Fisiopatología y Semiología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Enfermedades infecciosas y Microbiología especial.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obstetricia y Ginecología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">7</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pediatría.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aparato respiratorio y tórax.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aparato digestivo y abdomen.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aparato cardiovascular.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Alergología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Oftalmología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Otorrinolaringología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Neurología, Neurocirugía y dolor.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">7</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psiquiatría.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Hematología y trasplantes.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Nefrología y Urología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistema endocrino, nutrición y metabolismo.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dermatología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Traumatología y Cirugía Ortopédica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Reumatología e Inmunología Clínica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Oncología Clínica y cuidados paliativos.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Geriatría Clínica, Medicina de Familia y Comunitaria, Medicina de Urgencias y Medicina Intensiva.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Genética Clínica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="9">Procedimientos diagnósticos y terapéuticos.</td>
+          <td class="cuerpo_tabla_izq">Física Médica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Microbiología Médica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Cirugía y Anestesia.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Anatomía Patológica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Radiología y Medicina Nuclear.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Radioterapia y Rehabilitación.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Farmacología Básica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Farmacología Clínica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas de procedimientos diagnósticos y terapéuticos.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Prácticas tuteladas y Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq">Rotatorio 1.</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Rotatorio 2.</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">54</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="32">Optatividad.</td>
+          <td class="cuerpo_tabla_izq">Bases moleculares del cáncer.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Atención integral a la discapacidad.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Salud buco-dental humana.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cuerpo humano, deporte, ergonomía y salud.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biomateriales de uso clínico.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés técnico aplicado a Medicina.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Drogadicción, manejo de pacientes drogadictos, apoyo y consejo familiar.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cirugía Experimental.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Género y salud.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sexología aplicada a la Medicina.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Iniciación a la investigación Biomédica.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Metodología en la investigación aplicada a la Medicina.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Terapia celular y regenerativa.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Citogenética Clínica y Molecular.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Medicina Molecular.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Terapia génica.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Avances en Cirugía Hepatobiliar.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Avances en Cirugía Pediátrica.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Atención inicial al paciente politraumatizado.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trasplante de órganos y tejidos.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Avances en Cirugía Oncológica.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia de las enfermedades infecciosas.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de imagen.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Principios de gestión de las unidades clínicas.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">El lenguaje biosanitario.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Medicina alternativa y complementaria.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Banco de tumores.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Senología y Patología mamaria quirúrgica.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sanidad y conflictos armados.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Actualizaciones en Electrocardiografía Clínica.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Medicina del Trabajo.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Avances en Dermatología Oncológica.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Las asignaturas optativas podrán, por circunstancias excepcionales, sufrir modificaciones, siempre que lo autorice el Vicerrectorado con competencias en ordenación académica y con anterioridad al inicio del curso académico.</p>
+  </texto>
+</documento>

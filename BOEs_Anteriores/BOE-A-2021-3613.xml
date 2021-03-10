@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210308115601">
+  <metadatos>
+    <identificador>BOE-A-2021-3613</identificador>
+    <titulo>Resolución de 21 de diciembre de 2020, de la Universidad de Vic-Universidad Central de Catalunya, por la que se publica el plan de estudios de Graduado o Graduada en Ingeniería Mecatrónica.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>57</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20201221</fecha_disposicion>
+    <fecha_publicacion>20210308</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>26945</pagina_inicial>
+    <pagina_final>26946</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/08/pdfs/BOE-A-2021-3613.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="4184" orden="">Ingenieros en Automática y Electrónica Industrial</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7056" orden="">Universidad de Vic</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo_2">Obtenido el informe favorable de la modificación del plan de estudios por parte de la Agència per a la Qualitat del Sistema Universitari de Catalunya, con fecha 29 de mayo de 2019,</p>
+    <p class="parrafo">El Rector de la Universidad de Vic-Universidad Central de Catalunya, conforme a lo establecido en el artículo 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, ordena la publicación del actual plan de estudios conducente a la obtención del título de Graduado o Graduada en Ingeniería Mecatrónica por la Universidad de Vic-Universidad Central de Catalunya, que quedará estructurado según consta en el anexo de esta resolución.</p>
+    <p class="parrafo_2">Vic, 21 de diciembre de 2020.–El Rector, Josep Eladi Baños Díez.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Grado en Ingeniería Mecatrónica</p>
+    <p class="centro_cursiva">Código RUCT: 2500631</p>
+    <p class="centro_redonda">Rama de conocimiento: Ingeniería y Arquitectura</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias.</td>
+          <td class="cuerpo_tabla_der">132</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de fin de grado.</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos</th>
+          <th class="cabeza_tabla">Organización temporal</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Física.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Expresión Gráfica.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Matemática.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">18</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología Eléctrica.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología Electrónica.</td>
+          <td class="cuerpo_tabla_centro">OB/OP</td>
+          <td class="cuerpo_tabla_centro">24/12</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Idioma Moderno.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión y Cultura Social.</td>
+          <td class="cuerpo_tabla_centro">FB/OP</td>
+          <td class="cuerpo_tabla_centro">12/9</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Informática Industrial.</td>
+          <td class="cuerpo_tabla_centro">FB/OB/OP</td>
+          <td class="cuerpo_tabla_centro">6/18/18</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Control.</td>
+          <td class="cuerpo_tabla_centro">OB/OP</td>
+          <td class="cuerpo_tabla_centro">30/6</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología Mecánica.</td>
+          <td class="cuerpo_tabla_centro">OB/OP</td>
+          <td class="cuerpo_tabla_centro">24/6</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Máquinas y Procesos.</td>
+          <td class="cuerpo_tabla_centro">OB/OP</td>
+          <td class="cuerpo_tabla_centro">12/12</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos Integrados de Mecatrónica.</td>
+          <td class="cuerpo_tabla_centro">OB/OP</td>
+          <td class="cuerpo_tabla_centro">12/6</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td>Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td>Semestral.</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

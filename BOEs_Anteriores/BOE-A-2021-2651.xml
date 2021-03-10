@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210219092601">
+  <metadatos>
+    <identificador>BOE-A-2021-2651</identificador>
+    <titulo>Resolución de 3 de febrero de 2021, de la Universidad Europea de Madrid, por la que se publica el plan de estudios de Graduado o Graduada en Diseño Gráfico y Multimedia.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>43</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210203</fecha_disposicion>
+    <fecha_publicacion>20210219</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>19997</pagina_inicial>
+    <pagina_final>19999</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/19/pdfs/BOE-A-2021-2651.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="308" orden="">Artes Plásticas y Diseño</materia>
+      <materia codigo="4506" orden="">Internet</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7060" orden="">Universidad Europea de Madrid</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-903" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe positivo de la Fundación para el Conocimiento madri+d, y acordado el carácter oficial del título por Acuerdo de Consejo de Ministros de 12 de enero de 2021, por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos publicado por Resolución de la Secretaría General de Universidades de 14 de enero de 2021 («Boletín Oficial del Estado» de 22 de enero de 2021).</p>
+    <p>Este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención del título de Grado en Diseño Gráfico y Multimedia por la Universidad Europea de Madrid quedando el plan de estudios estructurado según consta en esta Resolución.</p>
+    <p class="parrafo_2">Villaviciosa de Odón, 3 de febrero de 2021.–La Rectora, Elena Gazapo Carretero.</p>
+    <p class="anexo">PLAN DE ESTUDIOS DEL TÍTULO DE GRADO EN DISEÑO GRÁFICO Y MULTIMEDIA POR LA UNIVERSIDAD EUROPEA DE MADRID</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Estructura del plan de estudios</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias Básicas.</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias Obligatorias (excepto Prácticas y Trabajo Fin de Grado).</td>
+          <td class="cuerpo_tabla_der">162</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Profesionales/Externas.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos totales.</td>
+          <td class="cuerpo_tabla_der"> 240</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Cr. ECTS</th>
+          <th class="cabeza_tabla">Org. temporal</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="11">Módulo 1: Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Dibujo y representación para el Diseño Gráfico.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td a="" class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos básicos.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td aclass="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fotografía e imagen digital.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ilustración.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td aclass="cuerpo_tabla_der" class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas de Representación Geométrica.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Taller bidimensional.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Imagen.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td aclass="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos editoriales.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos digitales.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tipografía.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos avanzados.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="10">Módulo 2: Contexto.</td>
+          <td class="cuerpo_tabla_izq">Historia del Arte, Diseño y Arquitectura Contemporáneos.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Taller de narrativas.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 2.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teoría e Historia del Diseño Gráfico.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teoría de los Medios Audiovisuales e Interactivos.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Experiencia de usuario.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Taller de Diseño para la Economía Circular.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión y legislación del Diseño Gráfico y Multimedia.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Taller "Future Design": innovación, estrategia.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Contextualización.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Redes sociales.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="9">Módulo 3: Integración.</td>
+          <td class="cuerpo_tabla_izq">Tecnología para la Producción Multimedia.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 4.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Packaging desde el diseño gráfico.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología de Diseño Gráfico: Offline.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos de Diseño Gráfico: Offline.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Branding.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología de Diseño para Internet.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos de Diseño para Internet.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Producción gráfica y multimedia aplicada al diseño de eventos.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Taller de identidad corporativa y señalética.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 6.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Módulo 4: Desarrollo Competencial en el entorno social y profesional.</td>
+          <td class="cuerpo_tabla_izq">Ética y eficacia profesional.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ser diseñador.</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 1.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Influencia e impacto relacional.</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 3.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas de Creatividad.</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 5.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comunicación y Marketing.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Liderazgo emprendedor.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Autopromoción y Publicidad.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 5: Prácticas Externas.</td>
+          <td class="cuerpo_tabla_izq">Prácticas profesionales.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 6: Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">12</td>
+          <td class="cuerpo_tabla_izq">Semestre 8.</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

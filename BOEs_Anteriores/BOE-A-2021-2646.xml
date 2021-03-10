@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210219092601">
+  <metadatos>
+    <identificador>BOE-A-2021-2646</identificador>
+    <titulo>Resolución de 27 de enero de 2021, de la Universidad de Salamanca, por la que se publica el plan de estudios de Graduado o Graduada en Biotecnología.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>43</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210127</fecha_disposicion>
+    <fecha_publicacion>20210219</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>19983</pagina_inicial>
+    <pagina_final>19985</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/02/19/pdfs/BOE-A-2021-2646.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="512" orden="">Biotecnología</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7050" orden="">Universidad de Salamanca</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-903" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 26 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, y una vez obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe positivo de la Agencia para la Calidad del Sistema Universitario de Castilla y León, y acordado el carácter oficial del título mediante Acuerdo del Consejo de Ministros de 12 enero de 2021, publicado en el BOE de 22 de enero de 2021 por Resolución de la Secretaría General de Universidades de 14 de enero de 2021.</p>
+    <p class="parrafo">Este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención del título de Graduado o Graduada en Biotecnología, en la rama de conocimiento de Ciencias.</p>
+    <p class="parrafo_2">Salamanca, 27 de enero de 2021.–El Rector, Ricardo Rivero Ortega.</p>
+    <p class="anexo">PLAN DE ESTUDIOS DE GRADUADO/A EN BIOTECNOLOGÍA</p>
+    <p class="centro_cursiva">Rama de conocimiento: Ciencias</p>
+    <p class="centro_redonda">Código Titulación: 2504020</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica (FB).</td>
+          <td class="cuerpo_tabla_centro"> 60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (Ob).</td>
+          <td class="cuerpo_tabla_centro">141</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (Op).</td>
+          <td class="cuerpo_tabla_centro"> 27</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas (PE).</td>
+          <td class="cuerpo_tabla_centro">–</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_centro"> 12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos totales.</td>
+          <td class="cuerpo_tabla_centro">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Tipo</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Organización</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="65%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biología Celular.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Álgebra y cálculo.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Física.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Química.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos numéricos.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Histología vegetal y animal.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Química orgánica.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Termodinámica y cinética química.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas instrumentales básicas.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bioquímica I.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bioquímica II.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Informática.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Probabilidad y bioestadística.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Microbiología I.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Microbiología II.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de ingeniería bioquímica I.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de ingeniería bioquímica II.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Genética.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fisiología animal.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Genética molecular.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Transporte y metabolismo vegetal.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas instrumentales avanzadas.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biorreactores.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería genética.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Química e ingeniería de proteínas.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Desarrollo vegetal.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Medicamentos biotecnológicos: farmacocinética y estrategias de formulación.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bioinformática.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Microbiología industrial.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biotecnología animal.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biotecnología vegetal.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Medicina molecular.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la empresa biotecnológica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Control de calidad.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inmunología y vacunas.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aspectos legales y sociales de la Biotecnología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Nanobiotecnología.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Genómica y Proteómica.</td>
+          <td class="cuerpo_tabla_centro">Ob</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Desarrollo y diferenciación animal.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Virología.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biodiversidad.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Farmacología.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Terapia génica.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Respuestas moleculares de las plantas a factores climáticos y contaminantes.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biotecnología vegetal avanzada.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Terapia regenerativa.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biotecnología parasitaria.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biomateriales.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelización de sistemas biológicos.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bases moleculares del cáncer.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fitopatología molecular.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biotecnología microbiana.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biotecnología alimentaria.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Neurociencia aplicada.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Metabolitos secundarios.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biorremediación.</td>
+          <td class="cuerpo_tabla_centro">Op</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Anual.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo">Las asignaturas optativas podrán, por circunstancias excepcionales, sufrir modificaciones, siempre que lo autorice el Vicerrectorado con competencias en ordenación académica y con anterioridad al inicio del curso académico.</p>
+  </texto>
+</documento>
