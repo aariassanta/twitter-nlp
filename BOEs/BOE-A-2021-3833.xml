@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210311085601">
+  <metadatos>
+    <identificador>BOE-A-2021-3833</identificador>
+    <titulo>Resolución de 8 de febrero de 2021, de IE Universidad, por la que se publica el plan de estudios de Máster Universitario en Administración de Empresas para Arquitectura y Diseño/Master in Business for Architecture and Design.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>60</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210208</fecha_disposicion>
+    <fecha_publicacion>20210311</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>28573</pagina_inicial>
+    <pagina_final>28574</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/11/pdfs/BOE-A-2021-3833.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="90" orden="">Administración y Dirección de Empresas</materia>
+      <materia codigo="296" orden="">Arquitectura</materia>
+      <materia codigo="3062" orden="">Diseño</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="6492" orden="">Segovia</materia>
+      <materia codigo="7090" orden="">Universidades</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">En cumplimiento de lo dispuesto en el artículo 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre, de universidades y en el apartado 13 del Real Decreto 861/2010, de 2 de julio, que modifica el artículo 26 del Real Decreto 1393/2007, de 30 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales; una vez obtenida la verificación del plan de estudios por el Consejo de Universidades el 18 de mayo de 2020 previo informe positivo de la Agencia para la Calidad del Sistema Universitario de Castilla y León y establecido el carácter oficial del título por Acuerdo de Consejo de Ministros de 12 de enero de 2021 por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos (publicado en el BOE de 22 de enero de 2021); este Rectorado ha resuelto ordenar la publicación, en el «Boletín Oficial del Estado» y en el «Boletín Oficial de la Comunidad de Castilla y León», el plan de estudios conducente a la obtención del título oficial en Máster Universitario en Administración de Empresas para Arquitectura y Diseño/Master in Business for Architecture and Design por la IE Universidad (4317306).</p>
+    <p class="parrafo">El plan de estudios al que se refiere la presente resolución quedará estructurado conforme figura en el Anexo de la misma.</p>
+    <p class="parrafo_2">Segovia, 8 de febrero de 2021.–El Rector, Salvador Carmona Moreno.</p>
+    <p class="anexo_num">ANEXO I</p>
+    <p class="anexo_tit">Plan de estudios conducente al Título Oficial de Máster Universitario en Administración de Empresas para Arquitectura y Diseño/Master in Business for Architecture and Design por la IE Universidad (4317306)</p>
+    <p class="centro_cursiva">Rama de conocimiento: Ciencias Sociales y Jurídicas</p>
+    <p class="centro_redonda">Distribución general del plan de estudios en créditos ECTS, por tipo de materia</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias obligatorias.</td>
+          <td class="cuerpo_tabla_centro">51</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Máster.</td>
+          <td class="cuerpo_tabla_centro"> 9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total créditos.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Módulos, materias y asignaturas del plan de estudios</p>
+    <p class="parrafo_2">Claves: OB – Asignatura Obligatoria TFM – Trabajo fin de Máster.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/ECTS</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">
+            <p class="cuerpo_tabla_izq">Módulo 1.</p>
+            <p class="cuerpo_tabla_izq">Gestión de Empresas ADMAC.</p>
+            <p class="cuerpo_tabla_izq">17 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Economía de los Negocios.</td>
+          <td class="cuerpo_tabla_izq">Entorno Económico.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Planificación financiera.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Estrategia en los Negocios.</td>
+          <td class="cuerpo_tabla_izq">Marketing.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión estratégica.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Optimización en los Negocios.</td>
+          <td class="cuerpo_tabla_izq">Operaciones en empresas de Diseño.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de Proyectos.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">
+            <p class="cuerpo_tabla_izq">Módulo 2.</p>
+            <p class="cuerpo_tabla_izq">Emprendimiento en Empresas ADMAC.</p>
+            <p class="cuerpo_tabla_izq">14 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Emprendimiento en el mundo del diseño.</td>
+          <td class="cuerpo_tabla_izq">Principios de Emprendimiento.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de Nuevas Empresas ADMAC.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Marcos de Actuación para Emprendedores.</td>
+          <td class="cuerpo_tabla_izq">Organizaciones Agiles.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Legislación para.</p>
+            <p class="cuerpo_tabla_izq">Emprendedores del Diseño.</p>
+          </td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Herramientas de Emprendimiento.</td>
+          <td class="cuerpo_tabla_izq">Herramientas de Emprendimiento.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">
+            <p class="cuerpo_tabla_izq">Módulo 3.</p>
+            <p class="cuerpo_tabla_izq">Innovación y Tecnología para Empresas ADMAC.</p>
+            <p class="cuerpo_tabla_izq">12 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Innovación en los Negocios.</td>
+          <td class="cuerpo_tabla_izq">Creación de Valor a Través del Diseño.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño de Servicios para el Entorno Construido.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">El Negocio del Diseño en la Era Digital.</td>
+          <td class="cuerpo_tabla_izq">Transformación Digital.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Herramientas Tecnológicas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">
+            <p class="cuerpo_tabla_izq">Módulo 4.</p>
+            <p class="cuerpo_tabla_izq">Liderazgo en Empresas ADMAC.</p>
+            <p class="cuerpo_tabla_izq">8 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Desarrollo del Liderazgo.</td>
+          <td class="cuerpo_tabla_izq">Estrategia Personal para Diseñadores.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos Humanos en Empresas Creativas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comunicación en los Negocios.</td>
+          <td class="cuerpo_tabla_izq">Comunicación y Estrategia en el Diseño.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Módulo 5.</p>
+            <p class="cuerpo_tabla_izq">Trabajo fin de Máster.</p>
+            <p class="cuerpo_tabla_izq">9 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Máster.</td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">TFM</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

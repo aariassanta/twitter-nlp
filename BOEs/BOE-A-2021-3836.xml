@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210311102602">
+  <metadatos>
+    <identificador>BOE-A-2021-3836</identificador>
+    <titulo>Resolución de 8 de febrero de 2021, de IE Universidad, por la que se publica el plan de estudios de Máster Universitario en Tecnología y Dirección de Empresas/Master in Technology and Business Administration.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>60</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210208</fecha_disposicion>
+    <fecha_publicacion>20210311</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>28579</pagina_inicial>
+    <pagina_final>28580</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/11/pdfs/BOE-A-2021-3836.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="90" orden="">Administración y Dirección de Empresas</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="6492" orden="">Segovia</materia>
+      <materia codigo="6851" orden="">Tecnología</materia>
+      <materia codigo="7090" orden="">Universidades</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2001-24515" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2021-901" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">En cumplimiento de lo dispuesto en el artículo 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre, de universidades y en el apartado 13 del Real Decreto 861/2010, de 2 de julio, que modifica el artículo 26 del Real Decreto 1393/2007, de 30 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales; una vez obtenida la verificación del plan de estudios por el Consejo de Universidades el 18 de mayo de 2020 previo informe positivo de la Agencia para la Calidad del Sistema Universitario de Castilla y León y establecido el carácter oficial del título por Acuerdo de Consejo de Ministros de 12 de enero de 2021 por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos (publicado en el BOE de 22 de enero de 2021); este Rectorado ha resuelto ordenar la publicación, en el «Boletín Oficial del Estado» y en el «Boletín Oficial de la Comunidad de Castilla y León», el plan de estudios conducente a la obtención del título de Máster Universitario en Tecnología y Dirección de Empresas/Master in Technology and Business Administration por la IE Universidad (4317342).</p>
+    <p class="parrafo">El plan de estudios al que se refiere la presente resolución quedará estructurado conforme figura en el Anexo de la misma.</p>
+    <p class="parrafo_2">Segovia, 8 de febrero de 2021.–El Rector, Salvador Carmona Moreno.</p>
+    <p class="anexo_num">ANEXO I</p>
+    <p class="anexo_tit">Plan de estudios conducente al Título Oficial de Máster Universitario en Tecnología y Dirección de Empresas/Master in Technology and Business Administration por la IE Universidad (4317342)</p>
+    <p class="centro_cursiva">Rama de conocimiento: Ciencias Sociales y Jurídicas</p>
+    <p class="centro_redonda">Distribución general del plan de estudios en créditos ECTS, por tipo de materia</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias obligatorias.</td>
+          <td class="cuerpo_tabla_centro">36</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias optativas.</td>
+          <td class="cuerpo_tabla_centro">18</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Máster.</td>
+          <td class="cuerpo_tabla_centro"> 6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total créditos.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Módulos y materias del plan de estudios</p>
+    <p class="parrafo_2">Claves: OB – Asignatura Obligatoria TFM – Trabajo fin de Máster.</p>
+    <p class="parrafo">OP – Asignatura Optativa.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/ECTS</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">
+            <p class="cuerpo_tabla_izq">Visión Empresarial.</p>
+            <p class="cuerpo_tabla_izq">21 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Contabilidad y Finanzas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección Estratégica y Operativa.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Liderazgo y Habilidades Directivas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">
+            <p class="cuerpo_tabla_izq">Visión Tecnológica.</p>
+            <p class="cuerpo_tabla_izq">21 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Gestión de la Innovación y la Tecnología.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Orientación a los Datos.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería de software y Programación.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos tecnológicos.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Especialización.</p>
+            <p class="cuerpo_tabla_izq">12 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Trabajo fin de Máster.</p>
+            <p class="cuerpo_tabla_izq">6 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">TFM</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210311102602">
+  <metadatos>
+    <identificador>BOE-A-2021-3834</identificador>
+    <titulo>Resolución de 8 de febrero de 2021, de IE Universidad, por la que se publica el plan de estudios de Máster Universitario en Administración Internacional de Empresas/Master in International Business Administration (IMBA).</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>60</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210208</fecha_disposicion>
+    <fecha_publicacion>20210311</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>28575</pagina_inicial>
+    <pagina_final>28576</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/11/pdfs/BOE-A-2021-3834.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="90" orden="">Administración y Dirección de Empresas</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="6492" orden="">Segovia</materia>
+      <materia codigo="7090" orden="">Universidades</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2001-24515" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto> el art. 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2021-901" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">En cumplimiento de lo dispuesto en el artículo 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre, de universidades y en el apartado 13 del Real Decreto 861/2010, de 2 de julio, que modifica el artículo 26 del Real Decreto 1393/2007, de 30 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales; una vez obtenida la verificación del plan de estudios por el Consejo de Universidades el 18 de mayo de 2020 previo informe positivo de la Agencia para la Calidad del Sistema Universitario de Castilla y León y establecido el carácter oficial del título por Acuerdo de Consejo de Ministros de 12 de enero de 2021 por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos (publicado en el BOE de 22 de enero de 2021); este Rectorado ha resuelto ordenar la publicación, en el «Boletín Oficial del Estado» y en el «Boletín Oficial de la Comunidad de Castilla y León», el plan de estudios conducente a la obtención del título oficial de Máster Universitario en Administración Internacional de Empresas/Master in International Business Administration (IMBA) por la IE Universidad (4317309).</p>
+    <p class="parrafo">El plan de estudios al que se refiere la presente resolución quedará estructurado conforme figura en el Anexo de la misma.</p>
+    <p class="parrafo_2">Segovia, 8 de febrero de 2021.–El Rector, Salvador Carmona Moreno.</p>
+    <p class="anexo_num">ANEXO I</p>
+    <p class="anexo_tit">Plan de estudios conducente al Título Oficial de Máster Universitario en Administración Internacional de Empresas/Master in International Business Administration (IMBA) por la IE Universidad (4317309)</p>
+    <p class="centro_cursiva">Rama de conocimiento: Ciencias Sociales y Jurídicas</p>
+    <p class="centro_redonda">Distribución general del Plan de Estudios en Créditos ECTS, por tipo de materia</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias obligatorias.</td>
+          <td class="cuerpo_tabla_der">36</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias optativas.</td>
+          <td class="cuerpo_tabla_der">18</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Máster.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total créditos.</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Módulos, materias y asignaturas del Plan de Estudios</p>
+    <p class="parrafo_2">Claves: OB – Asignatura Obligatoria TFM – Trabajo fin de Máster.</p>
+    <p class="parrafo">OP – Asignatura Optativa.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/ECTS</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">
+            <p class="cuerpo_tabla_izq">Gestión Empresarial Internacional.</p>
+            <p class="cuerpo_tabla_izq">24 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Contabilidad y Finanzas.</td>
+          <td class="cuerpo_tabla_izq">Contabilidad Financiera y de Gestión.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Finanzas Corporativas.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Dirección Estratégica y Operativa.</td>
+          <td class="cuerpo_tabla_izq">Dirección de Marketing.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de Datos para Toma de Decisiones.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección Estratégica.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección de Operaciones.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Liderazgo y Gestión de Personas.</td>
+          <td class="cuerpo_tabla_izq">Liderando Personas y Equipos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Desarrollo Personal y Pensamiento Crítico.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">
+            <p class="cuerpo_tabla_izq">Visión Global del Entorno.</p>
+            <p class="cuerpo_tabla_izq">12 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Emprendimiento e Innovación.</td>
+          <td class="cuerpo_tabla_izq">Perspectiva Emprendedora.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Innovación y Tecnología.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Entorno y Economía.</td>
+          <td class="cuerpo_tabla_izq">Empresa, Gobierno y Sociedad.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Economía Empresarial.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Especialización 18 ECTS.</td>
+          <td class="cuerpo_tabla_izq" rowspan="5">Proyectos.</td>
+          <td class="cuerpo_tabla_izq">Puesta en Marcha de un Negocio.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">OP</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Innovación Corporativa.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Disrupción a través de la Tecnología.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Consultoría e Impacto Social.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Desarrollo Formativo en Entorno Laboral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyecto Final 6 ECTS.</td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Máster.</td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">TFM</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>
