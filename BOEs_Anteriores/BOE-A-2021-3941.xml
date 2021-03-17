@@ -1,0 +1,2168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312115601">
+  <metadatos>
+    <identificador>BOE-A-2021-3941</identificador>
+    <titulo>Resolución de 10 de febrero de 2021, de la Universidad Camilo José Cela, por la que se publican planes de estudios de Graduado o Graduada.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210210</fecha_disposicion>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>29095</pagina_inicial>
+    <pagina_final>29105</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-A-2021-3941.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="308" orden="">Artes Plásticas y Diseño</materia>
+      <materia codigo="848" orden="">Ciencias Empresariales</materia>
+      <materia codigo="7894" orden="">Comunicaciones electrónicas</materia>
+      <materia codigo="1762" orden="">Criminología y Política Criminal</materia>
+      <materia codigo="2434" orden="">Derecho</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="6851" orden="">Tecnología</materia>
+      <materia codigo="7017" orden="">Universidad Camilo José Cela</materia>
+      <materia codigo="7094" orden="">Urbanismo</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2018-1511" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 24 de enero de 2018</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Este Rectorado ha resuelto lo siguiente:</p>
+    <p class="parrafo_2">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Fundación para el Conocimiento Madri+d, autorizada su implantación por la Comunidad de Madrid y establecido el carácter oficial de los títulos por Acuerdo de Consejo de Ministros de 19 de enero de 2018 (BOE núm. 32, de 5 de febrero de 2018, por Resolución de la Secretaría General de Universidades de 24 de enero de 2018), este Rectorado ha resuelto publicar los planes de estudios conducentes a la obtención de los títulos oficiales relacionados a continuación: Graduado o Graduada en Artes Digitales/Bachelor of Digital Arts, Graduado o Graduada en Criminología y Seguridad, Graduado o Graduada en Derecho, Graduado o Graduada en Empresa y Tecnología/Bachelor of Management and Technology y Graduado o Graduada en Gestión Urbana/Bachelor of Urban Management. Los planes de estudio quedarán estructurados conforme figura en el anexo de la presente Resolución.</p>
+    <p class="parrafo_2">Villanueva de la Cañada, 10 de febrero de 2021.–El Rector, Emilio Lora-Tamayo D’Ocón.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente al título de Graduado en Artes Digitales/Bachelor of Digital Arts. (Rama de Ciencias Sociales y Jurídicas)</p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, anexo I, apartado 5.1 Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (FB).</td>
+          <td class="cuerpo_tabla_der">48</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">114</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG)</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">180</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Distribución de materias básicas en el plan de estudios.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Rama</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Semestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq" rowspan="7">Comunicación.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de la fotografía y el dibujo.</td>
+          <td class="cuerpo_tabla_centro" rowspan="7">42</td>
+          <td class="cuerpo_tabla_centro" rowspan="7">1.º</td>
+          <td class="cuerpo_tabla_centro" rowspan="7">1.º y 2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Usabilidad, interfaces y experiencia de usuario.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lenguaje y expresión audiovisual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de la creatividad.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de la programación multimedia.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Edición y montaje audiovisual.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Narrativa audiovisual interactiva.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Empresa.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos del marketing.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Plan de estudios resumido por materia.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Semestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Fundamentos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="7">42</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de la fotografía y el dibujo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Usabilidad, interfaces y experiencia de usuario*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos del marketing.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lenguaje y expresión audiovisual.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de la creatividad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de la programación multimedia*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ilustración digital*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Productos gráficos interactivos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="8">48</td>
+          <td class="cuerpo_tabla_izq">Gráficos por computación en 2D I*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gráficos por computación en 2D II*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gráficos por computación en 3D I*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gráficos por computación en 3D II*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño maquetación y estructura web*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Matte paintings*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tipografía y maquetación de publicaciones.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación web avanzada*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Audiovisual.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Postproducción audiovisual digital I*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Postproducción audiovisual digital II*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Edición y montaje audiovisual.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Narrativa audiovisual interactiva.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión y diseño de contenidos multiplataforma.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Marketing digital.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">18</td>
+          <td class="cuerpo_tabla_izq">Analítica, métricas y redes sociales*.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comercio electrónico*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de proyectos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing relacional*.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Jurídico-económico.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">24</td>
+          <td class="cuerpo_tabla_izq">Derecho de la comunicación publicitaria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho audiovisual y propiedad intelectual.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Creación de empresas*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Industrias creativas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">RAC.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Reconocimiento Académico de Créditos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="7">
+            <p class="cita">* Se desarrollarán en inglés.</p>
+          </td>
+        </tr>
+      </tfoot>
+    </table>
+    <p class="centro_negrita">Plan de estudios conducente al título de Graduado en Criminología y Seguridad. (Rama de Ciencias Sociales y Jurídicas)</p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, anexo I, apartado 5.1 Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (FB).</td>
+          <td class="cuerpo_tabla_der">72</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">120</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_der">36</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Plan de estudios resumido por materia.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Semestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Derecho.</td>
+          <td class="cuerpo_tabla_centro" rowspan="7">42</td>
+          <td class="cuerpo_tabla_izq">Introducción al Derecho y Derecho Administrativo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Constitucional y Derechos Humanos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Penal I (Parte General).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Penal II (Parte Especial).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho procesal penal y penitenciario.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Investigación criminal: Policía Judicial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Mediación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Psicología.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Introducción a la Psicología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Entrevista y Psicología del Testimonio.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Criminal.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Perfilación: delincuente y víctima.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicopatología forense.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Medicina.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq">Medicina Legal.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psiquiatría forense.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="15">Criminología.</td>
+          <td class="cuerpo_tabla_centro" rowspan="15">90</td>
+          <td class="cuerpo_tabla_izq">Criminología I. Fundamentos y Teorías Criminológicas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Criminología II. Fenomenología Criminal.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Criminología III. Criminología Aplicada.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Criminalística I. Fundamentos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Criminalística II. Sistemas Criminalísticos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Criminalística III. Técnicas Avanzadas de Investigación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Menores: protección y reforma.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Victimología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Delincuencia Organizada I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Delincuencia Organizada II. Delitos económicos y Terrorismo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Política Criminal y sistemas de Seguridad Pública y Privada.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prevención: delincuente y víctima del delito.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Drogas: tipología, oferta y demanda.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Criminología y Medios de Comunicación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociología Criminal.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Metodología.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq">Metodología Investigación I – Estadística Aplicada.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Metodología Investigación II – Diseño de Investigaciones.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Prácticas, TFG.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Seguridad Pública.</td>
+          <td class="cuerpo_tabla_centro" rowspan="6">36</td>
+          <td class="cuerpo_tabla_izq">Seguridad Pública I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Seguridad Pública II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos Psicológicos y Psicología de los grupos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés técnico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bases de las capacidades físicas para el desarrollo de la seguridad pública.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bases de las destrezas y habilidades motrices para el desarrollo de la seguridad pública.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Cumplimiento y seguridad corporativa/Corporate &amp; security compliance.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Fundamentos del Compliance/ Cumplimiento Corporativo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Responsabilidad de las Personas Jurídicas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prevención y evaluación de riesgos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas de organización y gestión en la empresa. Inteligencia competitiva.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Supervisión e investigación en la empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Ciberseguridad y ciberdelincuencia.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Informática Forense.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciberdelincuencia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gobernanza electrónica y Ciberseguridad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciberinteligencia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estrategias de dominio, ataque y defensa electrónica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">ADN UCJC.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td class="cuerpo_tabla_izq">Reconocimiento académico de créditos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pensamiento crítico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Habilidades digitales para el siglo XXI.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_negrita">Plan de estudios conducente al título de Graduado en Derecho. (Rama de Ciencias Sociales y Jurídicas)</p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, anexo I, apartado 5.1 Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (FB).</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">126</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_der">15</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_der">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Plan de estudios resumido por materia.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Semestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="10">Fundamentos Básicos para el estudio del Derecho.</td>
+          <td class="cuerpo_tabla_centro" rowspan="10">60</td>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de Derecho Romano.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de Historia del Derecho y las Instituciones.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de Teoría del Derecho.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de Ciencia Política.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de RRII y Derecho Internacional Público.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de Criminología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de Ciencia de la Administración.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de Derecho Privado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de Derecho Público.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Básicos de Economía y Empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="20">Elementos Avanzados para el estudio del Derecho.</td>
+          <td class="cuerpo_tabla_centro" rowspan="20">120</td>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Penal I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Administrativo I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Civil I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Constitucional.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho de la UE.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Penal II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Administrativo II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Civil II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Eclesiástico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho del Trabajo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Procesal I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Financiero.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Civil III.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Mercantil I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho de la Seguridad Social.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Filosofía del Derecho.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Procesal II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Tributario.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Mercantil II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Elementos de Derecho Internacional Privado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Elementos de Intensificación en el Estudio del Derecho de las TIC.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Régimen Jurídico del Negocio en la Red.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Propiedad Intelectual e Industrial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Regulación de las Telecomunicaciones.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Protección de Datos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciberdelincuencia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Elementos de Intensificación en el Estudio del Common Law.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Common law reasoning and institutions.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tort Law.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Criminal Law.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Contracts Law.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Public Law.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Elementos de Intensificación en el Estudio del Derecho de la Seguridad.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Derecho de la Policía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho del Transporte y la Seguridad Vial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho Penitenciario.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho de la Prevención de Riesgos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho de la Seguridad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">ADN UCJC.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td class="cuerpo_tabla_izq">Pensamiento crítico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Habilidades digitales para el siglo XXI.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Reconocimiento académico de créditos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_negrita">Plan de estudios conducente al título de Graduado en Empresa y Tecnología. (Rama de Ciencias Sociales y Jurídicas)</p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, anexo I, apartado 5.1 Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (FB).</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">132</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_der">24</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Distribución de materias básicas en el plan de estudios.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Rama</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos</th>
+          <th class="cabeza_tabla">Semestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq" rowspan="4">Empresa.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de modelos de negocio.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de marketing tecnológico y global.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de contabilidad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de finanzas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de estadística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Economía.</td>
+          <td class="cuerpo_tabla_izq">Microeconomía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Macroeconomía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Desarrollo tecnológico.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de tecnología de la información.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Matemáticas e informática.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de matemáticas para la empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de programación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Plan de estudios resumido por materia.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Semestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="13">Empresa.</td>
+          <td class="cuerpo_tabla_centro" rowspan="13">78</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Modelos de negocio.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Marketing Tecnológico y Global.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de contabilidad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de finanzas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Operaciones y Cadena de Suministro.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión del talento.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Design Thinking y Herramientas de la Creatividad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de costes para la gestión.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Contabilidad Directiva*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Finanzas Internacionales*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing para la Empresa Global*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comunicación estratégica global*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión intercultural*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Estadística.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">24</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Estadística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de Modelos Estadísticos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Machine Learning*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis y Visualización de Datos*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Economía.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Microeconomía*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Macroeconomía*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Herramientas para la toma de decisiones*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Globalización y Empresa*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas de negociación en entornos internacionales*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Derecho.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Derecho para la Empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Regulación y Empresa Global*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Regulación en Mercados Tecnológicos*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Desarrollo Tecnológico.</td>
+          <td class="cuerpo_tabla_centro" rowspan="8">48</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Tecnología de la Información.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos de Innovación Tecnológica*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección Estratégica y Negocios Digitales*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">E-business*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estrategias de Marketing Digital*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing Directo y CRM*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección de Empresas Digitales Globales*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comercio Electrónico*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Matemáticas e Informática.</td>
+          <td class="cuerpo_tabla_centro" rowspan="6">36</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Matemáticas para la Empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Programación*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología para la Empresa*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación Avanzada*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Business Intelligence*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de Redes*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas en Empresa.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Prácticas en Empresa.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">8</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado*.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">8</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">ADN UCJC.</td>
+          <td class="cuerpo_tabla_centro" rowspan="6">36</td>
+          <td class="cuerpo_tabla_izq">Pensamiento Crítico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Mundo Contemporáneo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Academic English.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Habilidades Digitales para el S. XXI.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Emprendimiento en Startups y Empresas de Base Tecnológica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Reconocimiento académico de créditos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">8</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="6">
+            <p class="cita">* Se desarrollarán en inglés.</p>
+          </td>
+        </tr>
+      </tfoot>
+    </table>
+    <p class="centro_negrita">Plan de estudios conducente al título de Graduado en Gestión Urbana/Bachelor of Urban Management. (Rama de Ciencias Sociales y Jurídicas)</p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, anexo I, apartado 5.1 Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (FB).</td>
+          <td class="cuerpo_tabla_der">45</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">111</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_der">0</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">180</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Distribución de materias básicas en el plan de estudios.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Rama</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Semestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="10">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Empresa.</td>
+          <td class="cuerpo_tabla_izq">Introducción a la Gestión Urbana.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Economía.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Economía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Estadística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho.</td>
+          <td class="cuerpo_tabla_izq">Instrumentos de Planificación Urbana y Marcos Legales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Ciencia Política.</td>
+          <td class="cuerpo_tabla_izq">Políticas Urbanas.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Administración Pública y Gobernanza.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Sociología.</td>
+          <td class="cuerpo_tabla_izq">Introducción a los Estudios Urbanos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Sociología.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología.</td>
+          <td class="cuerpo_tabla_izq">Antropología y Ciudad.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Geografía.</td>
+          <td class="cuerpo_tabla_izq">Geografía Física y Humana.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Plan de estudios resumido por materia.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Semestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="15">Gestión.</td>
+          <td class="cuerpo_tabla_centro" rowspan="15">81</td>
+          <td class="cuerpo_tabla_izq">Introducción a la Gestión Urbana.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Economía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Estadística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Políticas Urbanas*.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Instrumentos de Planificación Urbana y Marcos Legales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Administración Pública y Gobernanza.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la Ciudad: Centros Urbanos*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la Ciudad: Periferia*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la Ciudad: Área Metropolitana*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis Económico de la Planificación Urbana*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la Ciudad: Asentamiento Informal*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Design Thinking y Herramientas de la Creatividad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la Ciudad: Alta Densidad*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Movilidad y Transporte*.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Paisaje y Ciudad*.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="9">Estudios Urbanos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="9">36</td>
+          <td class="cuerpo_tabla_izq">Introducción a los Estudios Urbanos*.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Sociología.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología y Ciudad*.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Geografía Física y Humana*.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Filosofía y Pensamiento Urbano.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia y Teoría de la Ciudad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciudad Creativa y Arte*.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Legislación y Gestión Ambiental de la Ciudad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cultura Urbana y Compromiso Social*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Tecnología.</td>
+          <td class="cuerpo_tabla_centro" rowspan="6">33</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Tecnología de la Información.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Programación*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología y Sistemas de Información Geográfica 1.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología y Sistemas de Información Geográfica 2*.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciudad y Smart Data*.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">RAC.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Reconocimiento Académico de Créditos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Prácticas en empresas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TFG.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado*.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="7">
+            <p class="cita">* Se desarrollarán en inglés.</p>
+          </td>
+        </tr>
+      </tfoot>
+    </table>
+  </texto>
+</documento>

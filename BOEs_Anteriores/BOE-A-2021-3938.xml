@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312115601">
+  <metadatos>
+    <identificador>BOE-A-2021-3938</identificador>
+    <titulo>Resolución de 10 de febrero de 2021, de la Universidad Camilo José Cela, por la que se publican los planes de estudios de Graduado o Graduada en Animación y Graduado o Graduada en Diseño Digital.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210210</fecha_disposicion>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>29081</pagina_inicial>
+    <pagina_final>29086</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-A-2021-3938.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="308" orden="">Artes Plásticas y Diseño</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="5766" orden="">Programas informáticos</materia>
+      <materia codigo="7017" orden="">Universidad Camilo José Cela</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2018-17518" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 26 de noviembre de 2018</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo_2">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Fundación para el Conocimiento Madri+d, autorizada su implantación por la Comunidad de Madrid y establecido el carácter oficial de los títulos por Acuerdo de Consejo de Ministros de 5 de octubre de 2018 (BOE núm. 307, de 21 de diciembre de 2018, por Resolución de la Secretaría General de Universidades, de 26 de noviembre de 2018),</p>
+    <p class="parrafo">Este Rectorado ha resuelto publicar los planes de estudios conducentes a la obtención de los títulos oficiales relacionados a continuación: Graduado o Graduada en Animación y Graduado o Graduada en Diseño Digital. Los planes de estudio quedarán estructurados conforme figura en el anexo de la presente Resolución.</p>
+    <p class="parrafo_2">Villanueva de la Cañada, 10 de febrero de 2021.–El Rector, Emilio Lora-Tamayo D’Ocón.</p>
+    <p class="anexo">ANEXO</p>
+    <p class="centro_negrita">Plan de estudios conducente al título de Graduado en Animación</p>
+    <p class="centro_cursiva">Rama de Artes y Humanidades</p>
+    <p class="centro_redonda">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, anexo I, apartado 5.1. Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (FB).</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">126</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_der">42</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Distribución de materias básicas en el plan de estudios.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Rama de conocimiento</th>
+          <th class="cabeza_tabla">Materias básicas</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introducción al dibujo y la pintura.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Principios de gráficos 3D.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas de representación geométrica.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Principios de animación.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fotografía.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Anatomía humana y animal.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Escultura.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia y tradición artística.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Guion.</td>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales.</td>
+          <td class="cuerpo_tabla_izq">Comunicación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Edición digital.</td>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales.</td>
+          <td class="cuerpo_tabla_izq">Comunicación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Plan de estudios resumido por materia y curso académico.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Cuatrim.</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="18%"/>
+        <col width="7%"/>
+        <col width="40%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+        <col width="8%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="9">Fundamentos Artísticos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="9">48</td>
+          <td class="cuerpo_tabla_izq">Introducción al dibujo y la pintura.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Principios de gráficos 3D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia y tradición artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas de representación geométrica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Principios de animación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teoría del color y la luz.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño de personajes.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fotografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño y Desarrollo de Entornos y Elementos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Forma y cuerpo.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq">Anatomía humana y animal.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Escultura.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Lenguaje Audiovisual.</td>
+          <td class="cuerpo_tabla_centro" rowspan="8">33</td>
+          <td class="cuerpo_tabla_izq">Elementos de composición visual y cinematográfica.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pensamiento creativo.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Guion.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Narrativa audiovisual.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia del cine y la animación.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Guión visual-storyboarding.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de música y diseño de sonido.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Edición digital.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Técnicas de Creación Digital.</td>
+          <td class="cuerpo_tabla_centro" rowspan="6">30</td>
+          <td class="cuerpo_tabla_izq">Producción digital.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelado de objetos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelado orgánico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Previsualización y realización.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Texturizado y shading.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Iluminación y Composición I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Animación/Animation.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">27</td>
+          <td class="cuerpo_tabla_izq">Principios de dinámicas del cuerpo.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Animación 3D de personajes I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Animación 3D de personajes II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Animación avanzada.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Animación experimental.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Proyectos/Projects.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">36</td>
+          <td class="cuerpo_tabla_izq">Proyectos I.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos II.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos III.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos IV.</td>
+          <td class="cuerpo_tabla_centro">18</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Animación 2D.</td>
+          <td class="cuerpo_tabla_centro" rowspan="6">42</td>
+          <td class="cuerpo_tabla_izq">Layout 2D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Desarrollo de personajes 2D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ink &amp; Paint 2D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Animación 2D de personajes I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Composición y efectos 2D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Animación 2D de personajes II.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Efectos Visuales 3D.</td>
+          <td class="cuerpo_tabla_centro" rowspan="7">42</td>
+          <td class="cuerpo_tabla_izq">Layout 3D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Rigging.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Character FX.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación para efectos visuales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Efectos Visuales 3D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Iluminación y Composición II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Matte Painting.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas en Empresas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="cita">* Los estudiantes podrán cursar el grado en castellano o en inglés. En caso de elegir la segunda lengua (inglés) los estudiantes deberán cursar la mención en Efectos Visuales 3D que es la única que se ofrece tanto en inglés como en castellano.</p>
+    <p class="parrafo_2">4. Menciones.</p>
+    <p class="centro_redonda">Mención en animación 2D</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materias</th>
+          <th class="cabeza_tabla">Asignaturas</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">xMAT</th>
+          <th class="cabeza_tabla">Tipo</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Cuatrim.</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Materia Animación 2D.</td>
+          <td class="cuerpo_tabla_izq">Layout 2D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro" rowspan="6">42</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Desarrollo de personajes 2D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ink &amp; Paint 2D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Animación 2D de personajes I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Composición y efectos 2D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Animación 2D de personajes II.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materia Prácticas en Empresas.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="3"> ECTS Total mención.</td>
+          <td class="cuerpo_tabla_centro" colspan="4">48</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Mención en efectos visuales 3D </p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materias</th>
+          <th class="cabeza_tabla">Asignaturas</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">xMAT</th>
+          <th class="cabeza_tabla">Tipo</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Cuatrimestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Efectos Visuales 3D.</td>
+          <td class="cuerpo_tabla_izq">Layout 3D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro" rowspan="7">42</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Rigging.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Character FX.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación para efectos visuales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Efectos visuales 3D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Iluminación &amp; Composición II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Matte Painting.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OBM</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materia Prácticas en Empresas.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="3"> ECTS Total mención.</td>
+          <td class="cuerpo_tabla_centro" colspan="4">48</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_negrita">Plan de estudios conducente al título de Graduado en Diseño Digital</p>
+    <p class="centro_cursiva">Rama de Artes y Humanidades</p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, anexo I, apartado 5.1. Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (FB).</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">150</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Distribución de materias básicas en el plan de estudios.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Rama de conocimiento</th>
+          <th class="cabeza_tabla">Materias básicas</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia del diseño y la iconografía.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Historia.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pensamiento creativo.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teoría del color y la luz.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dibujo, análisis e ideación I.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dibujo, análisis e ideación II.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas de representación.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fotografía.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Composición gráfica.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tipografía y caligrafía.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ilustración.</td>
+          <td class="cuerpo_tabla_izq">Arte y Humanidades.</td>
+          <td class="cuerpo_tabla_izq">Expresión Artística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Plan de estudios resumido por materia y curso académico.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Cuatrim.</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="18%"/>
+        <col width="7%"/>
+        <col width="40%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+        <col width="8%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Materia 1. Historia y Pensamiento.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">21</td>
+          <td class="cuerpo_tabla_izq">Historia del arte.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia del diseño y la iconografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de estética y análisis de la imagen.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pensamiento creativo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia del Arte electrónico y digital.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Materia 2. Percepción y Representación.</td>
+          <td class="cuerpo_tabla_centro" rowspan="6">36</td>
+          <td class="cuerpo_tabla_izq">Tratamiento digital de la imagen.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teoría del color y la luz.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dibujo, análisis e ideación I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dibujo, análisis e ideación II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas de representación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fotografía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Materia 3. Técnicas 3D.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">15</td>
+          <td class="cuerpo_tabla_izq">Escultura.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Entornos 3D.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Entornos 3D I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Entornos 3D II.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Materia 4. Fundamentos del Diseño.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td class="cuerpo_tabla_izq">Composición gráfica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tipografía y caligrafía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ilustración.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Materia 5. Diseño.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">15</td>
+          <td class="cuerpo_tabla_izq">Infografía y visualización de datos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección de arte y Comunicación publicitaria I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección de arte y Comunicación publicitaria II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Materia 6. Tecnología aplicada al arte.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td class="cuerpo_tabla_izq">Programación para el arte y el diseño.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Interactivos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Digitalización y materialización.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Materia 7. Creación y Edición audiovisual.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">24</td>
+          <td class="cuerpo_tabla_izq">Narrativa audiovisual.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Edición y Postproducción digital.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Motion graphics I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Motion graphics II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Materia 8. Web y Usabilidad.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">24</td>
+          <td class="cuerpo_tabla_izq">Diseño y Usabilidad de Interfaces I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Maquetación y estructuras Web/APP I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño y Usabilidad de Interfaces II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Maquetación y estructuras Web/APP II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Materia 9. Entorno empresarial.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">12</td>
+          <td class="cuerpo_tabla_izq">Negociones y modelos digitales.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociedad digital.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing en la red.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Creación y dirección de empresas.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Materia 10. Proyectos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">27</td>
+          <td class="cuerpo_tabla_izq">Proyectos I- Creación de Imagen Digital.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos II- Desarrollo de imagen de marca.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">0B</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos III- Creación de un proyecto Motion graphics.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos IV- Desarrollo de una Web/App/Arte electrónico.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Materia 11. Optatividad.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">12</td>
+          <td class="cuerpo_tabla_izq">Diseño de personajes.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño Editorial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño de packaging.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Animación 3D.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Entornos interactivos para TV.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materia 12. Proyectos tecnológicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Proyectos tecnológicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materia 13. Prácticas externas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Prácticas en empresas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materia 14. Trabajo de Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="cita">* Los estudiantes tendrán que desarrollar 12 ECTS de asignaturas optativas.</p>
+  </texto>
+</documento>

@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312115601">
+  <metadatos>
+    <identificador>BOE-A-2021-3942</identificador>
+    <titulo>Resolución de 10 de febrero de 2021, de la Universidad Camilo José Cela, por la que se publican planes de estudios de Graduado o Graduada.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210210</fecha_disposicion>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>29106</pagina_inicial>
+    <pagina_final>29115</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-A-2021-3942.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="90" orden="">Administración y Dirección de Empresas</materia>
+      <materia codigo="4170" orden="">Informática</materia>
+      <materia codigo="4192" orden="">Ingenieros Industriales</materia>
+      <materia codigo="4888" orden="">Matemáticas</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7017" orden="">Universidad Camilo José Cela</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2019-15858" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 28 de octubre de 2019</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Este Rectorado ha resuelto lo siguiente:</p>
+    <p class="parrafo_2">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Fundación para el Conocimiento Madri+d, autorizada su implantación por la Comunidad de Madrid y establecido el carácter oficial de los títulos por Acuerdo de Consejo de Ministros de 18 de octubre de 2019 (BOE núm. 267, de 6 de noviembre de 2019, por Resolución de la Secretaría General de Universidades de 28 de octubre de 2019), este Rectorado ha resuelto publicar los planes de estudios conducentes a la obtención de los títulos oficiales relacionados a continuación: Graduado o Graduada en Administración de Empresas, Graduado o Graduada en Ingeniería del Software y Graduado o Graduada en Matemática Computacional. Los planes de estudio quedarán estructurados conforme figura en el anexo de la presente Resolución.</p>
+    <p class="parrafo_2">Villanueva de la Cañada, 10 de febrero de 2021.–El Rector, Emilio Lora-Tamayo D’Ocón.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente al título de Graduado en Administración de Empresas (Rama de Ciencias Sociales y Jurídicas)</p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, Anexo I, apartado 5.1 Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS.</p>
+    <table class="tabla">
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (FB).</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">120</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_der">48</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_der">0</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Plan de estudios resumido por materia.</p>
+    <p class="parrafo_2">2.1 Materias de Formación Básica.</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="20%"/>
+        <col width="10%"/>
+        <col width="20%"/>
+        <col width="25%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+        <col width="7%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/Materia 01</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Materia/Asignatura</th>
+          <th class="cabeza_tabla">Materia RD 1393</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Sem.</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Fundamentos para el estudio de las Ciencias Económicas.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">30</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Microeconomía.</td>
+          <td class="cuerpo_tabla_izq">Economía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Derecho.</td>
+          <td class="cuerpo_tabla_izq">Derecho.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Cuantitativos para la Empresa.</td>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de Macroeconomía.</td>
+          <td class="cuerpo_tabla_izq">Economía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <colgroup>
+        <col width="20%"/>
+        <col width="10%"/>
+        <col width="20%"/>
+        <col width="25%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+        <col width="7%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/Materia 02</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Materia/Asignatura</th>
+          <th class="cabeza_tabla">Materia RD 1393</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Sem.</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Fundamentos para el estudio de la Empresa.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Organización de Empresas.</td>
+          <td class="cuerpo_tabla_izq">Empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comunicación.</td>
+          <td class="cuerpo_tabla_izq">Comunicación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing.</td>
+          <td class="cuerpo_tabla_izq">Empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociología.</td>
+          <td class="cuerpo_tabla_izq">Sociología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Contabilidad.</td>
+          <td class="cuerpo_tabla_izq">Empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2.2 Materias obligatorias.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/Materia 03</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Materia/Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Sem.</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="35%"/>
+        <col width="10%"/>
+        <col width="20%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+        <col width="7%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Organización de Empresas.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Gestión de Recursos Humanos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión Administrativa de la empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la Fiscalidad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la Calidad y de la Innovación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión Estratégica de la empresa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <colgroup>
+        <col width="35%"/>
+        <col width="10%"/>
+        <col width="20%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+        <col width="7%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/Materia 04</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Materia/Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Sem.</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Marketing.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Investigación de Mercados</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Políticas de Marketing</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing Estratégico</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Marketing Digital</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Plan de Marketing (Marketing Plan)</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <colgroup>
+        <col width="35%"/>
+        <col width="10%"/>
+        <col width="20%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+        <col width="7%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/Materia 05</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Materia/Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Sem.</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Contabilidad y Finanzas.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Contabilidad de Costes</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Contabilidad Analítica</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión Financiera</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de Tesorería</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión Presupuestaria y de Control</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">5</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <colgroup>
+        <col width="35%"/>
+        <col width="10%"/>
+        <col width="20%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+        <col width="7%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/Materia 06</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Materia/Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Sem.</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Producción y Logística.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Gestión de la Producción.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la Logística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la Distribución Comercial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión Comercial Estratégica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión del Comercio Internacional.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2.3 Materias Optativas.</p>
+    <p class="parrafo_2">El Plan de Estudios del Grado en Administración de Empresas contempla un total de 48 créditos de carácter optativo a cursar por el estudiante. Estos se han organizado en dos materias: «Elementos para la Especialización» de los que el estudiante debe cursar 30 créditos y «Elementos para la Profesionalización» de los que el estudiante debe cursar 18 créditos.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/Materia 07</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Materia/Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Sem.</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="35%"/>
+        <col width="10%"/>
+        <col width="20%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+        <col width="7%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="10">Elementos para la Especialización.</td>
+          <td class="cuerpo_tabla_centro" rowspan="10">30</td>
+          <td class="cuerpo_tabla_izq">Sistema financiero.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Economía del Sector Público.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fiscalidad Internacional.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comportamiento Organizacional.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la Marca.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Publicidad Empresarial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicosociología del Consumo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistema Económico Internacional.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Relaciones Laborales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Auditoría.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">7</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <colgroup>
+        <col width="35%"/>
+        <col width="10%"/>
+        <col width="20%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+        <col width="7%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/Materia 08</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Materia/Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Sem.</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Elementos para la Profesionalización.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">18</td>
+          <td class="cuerpo_tabla_izq">Taller de Habilidades Profesionales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">8</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Taller de Creación de Empresas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">8</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Taller de Recursos TIC especializados.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">8</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Talleres de Prácticas Profesionales.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">8</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2.4 Trabajo Fin de Grado.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo/Materia 08</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Materia/Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Sem.</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="35%"/>
+        <col width="10%"/>
+        <col width="20%"/>
+        <col width="7%"/>
+        <col width="10%"/>
+        <col width="7%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">TFG.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">8</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_negrita">Plan de estudios conducente al título de Graduado o Graduada en Ingeniería del Software (Rama de Ingeniería y Arquitectura)</p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, Anexo I, apartado 5.1 Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (FB).</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">114</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_der">51</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_der">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Distribución de materias básicas en el plan de estudios.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Rama de conocimiento</th>
+          <th class="cabeza_tabla">Materias Básicas</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="30%"/>
+        <col width="30%"/>
+        <col width="30%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lógica y Matemática discreta.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Álgebra.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Probabilidad y estadística.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cálculo.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Arquitectura de Ordenadores.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Informática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introducción a la programación I.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Informática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de desarrollo web.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Informática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Redes de Ordenadores.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Informática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas operativos.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Informática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bases de Datos.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Informática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Plan de estudios resumido por materia.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materias</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignaturas</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Cuatrimestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="23%"/>
+        <col width="10%"/>
+        <col width="25%"/>
+        <col width="9%"/>
+        <col width="10%"/>
+        <col width="9%"/>
+        <col width="14%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Materia 1. Fundamentos Científicos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">24</td>
+          <td class="cuerpo_tabla_izq">Lógica y Matemática discreta.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Álgebra.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Probabilidad y Estadística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cálculo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Materia 2. Fundamentos Informáticos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="6">36</td>
+          <td class="cuerpo_tabla_izq">Introducción a la programación I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de desarrollo web.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Arquitectura de ordenadores.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Redes de Ordenadores.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Operativos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bases de datos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Materia 3. Fundamentos Interdisciplinares.</td>
+          <td class="cuerpo_tabla_centro" rowspan="7">21</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de UX.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pensamiento creativo.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos de composición visual.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociedad Digital.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección y gestión de proyectos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Negocio y modelos digitales.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Creación y dirección de empresas.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">Materia 4. Programación.</td>
+          <td class="cuerpo_tabla_centro" rowspan="6">33</td>
+          <td class="cuerpo_tabla_izq">Introducción a la programación II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación de sistemas distribuidos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación orientada a objetos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis y diseño de algoritmos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Paradigmas de programación.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inteligencia Artificial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Materia 5. Laboratorios.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq">Laboratorios de Redes y Sistemas operativos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Laboratorio de Bases de Datos y Sistemas Distribuidos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Materia 6. Ingeniería del Software.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq">Diseño de Software.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería de Software.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Materia 7. Programación Web.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">15</td>
+          <td class="cuerpo_tabla_izq">Programación Web I Cliente.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación Web II Servidor.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Desarrollo de Aplicaciones móviles.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Materia 8. Proyectos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">21</td>
+          <td class="cuerpo_tabla_izq">Proyectos I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos III.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Materia 9. Mención en Ingeniería de Datos (Big Data).</td>
+          <td class="cuerpo_tabla_centro" rowspan="8">48</td>
+          <td class="cuerpo_tabla_izq">Ampliación de Bases de Datos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesamiento de Datos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Búsqueda y análisis de la información.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aprendizaje automático I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aprendizaje automático II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Visualización de Datos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Visión por Computador.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos de Ingeniería de Datos.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Materia 10. Mención en Ciberseguridad.</td>
+          <td class="cuerpo_tabla_centro" rowspan="8">48</td>
+          <td class="cuerpo_tabla_izq">Introducción a la Seguridad Informática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Hacking Ético.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis Forense.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bastionado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de Malware.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Desarrollo de herramientas de ciberseguridad.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas y metodologías de Investigación en ciberseguridad.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos de ciberseguridad – ciberejercicios.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Materia 11. Mención en Programación Gráfica, Sistemas Inmersivos y Videojuegos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="8">48</td>
+          <td class="cuerpo_tabla_izq">Programación de Videojuegos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Física e inteligencia artificial para videojuegos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Inmersivos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación Gráfica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación de Videojuegos avanzada.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Simulación de efectos especiales.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño de Videojuegos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos de programación Gráfica, Sistemas Inmersivos y Videojuegos.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Materia 12. Optatividad.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">3</td>
+          <td class="cuerpo_tabla_izq">Programación de bajo nivel.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Verificación de Software.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materia 13. Prácticas de Empresas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materia 14. Trabajo de Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_negrita">Plan de estudios conducente al título de Graduado o Graduada en Matemática Computacional (Rama de Ingeniería y Arquitectura)</p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, Anexo I, apartado 5.1 Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica (FB).</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">168</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_der">-</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado (TFG).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Distribución de materias básicas en el plan de estudios.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Rama de conocimiento</th>
+          <th class="cabeza_tabla">Materias Básicas</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="30%"/>
+        <col width="30%"/>
+        <col width="30%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Matemática Discreta I.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Álgebra.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cálculo.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Álgebra Lineal.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis Matemático I.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Geometría Lineal.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación I.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Informática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación II.</td>
+          <td class="cuerpo_tabla_izq">Ingeniería y Arquitectura.</td>
+          <td class="cuerpo_tabla_izq">Informática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Plan de estudios resumido por materia.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materias</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignaturas</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Cuatrimestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="23%"/>
+        <col width="10%"/>
+        <col width="25%"/>
+        <col width="9%"/>
+        <col width="10%"/>
+        <col width="9%"/>
+        <col width="14%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Materia 1. Fundamentos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">24</td>
+          <td class="cuerpo_tabla_izq">Matemática discreta I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Álgebra.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cálculo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Materia 2. Programación.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">24</td>
+          <td class="cuerpo_tabla_izq">Programación I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación III.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Programación IV.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Materia 3. Álgebra.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td class="cuerpo_tabla_izq">Álgebra Lineal.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estructuras Algebraicas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Matemática Discreta II.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Materia 4. Ecuaciones diferenciales.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq">Ecuaciones Diferenciales Ordinarias.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ecuaciones en Derivadas Parciales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Materia 5. Computación y Algorítmica.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td class="cuerpo_tabla_izq">Análisis y Diseño de Algoritmos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inteligencia Artificial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bases de datos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Materia 6. Análisis Matemático.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">21</td>
+          <td class="cuerpo_tabla_izq">Análisis Matemático I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis Matemático II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis Matemático III.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Materia 7. Estadística.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq">Cálculo de Probabilidades.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inferencia Estadística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Materia 8. Geometría y Topología.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">24</td>
+          <td class="cuerpo_tabla_izq">Geometría Lineal.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Topología.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Curvas y Superficies.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Materia 9. Proyectos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">30</td>
+          <td class="cuerpo_tabla_izq">Proyectos I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos III.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyectos IV.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Materia 10. Ciencia de Datos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="8">39</td>
+          <td class="cuerpo_tabla_izq">Ampliación de Bases de Datos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesamiento de Datos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Búsqueda y Análisis de la Información.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aprendizaje Automático II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Visualización de Datos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aprendizaje Automático I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Visión por Computador.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Introducción a la Seguridad Informática.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Materia 11. Cálculo Científico.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq">Calculo Numérico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_centro">2.<sup>º</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optimización.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materia 12. Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

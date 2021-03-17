@@ -162,6 +162,10 @@ for link in DOUE_sumarios['Item_Link']:
     #Item_Fecha = str(sumario_HTML.xpath('//*[@class="oj-hd-date"]/text()'))
     #Item_Fecha = datetime.strptime(str(raiz.xpath('//*[@class="oj-hd-date"]/text()'))[0:-2],"%d.%m.%Y")
     Item_Fecha = re.findall('[0-9]+\.[0-9]+\.[0-9]+', str(sumario_HTML.xpath('//*[@class="oj-hd-date"]/text()')))
+    # Si no hay fecha se asigna la del día de hoy
+    if Item_Fecha == []:
+        Item_Fecha = [today.strftime("%d.%m.%Y")]
+    #print(Item_Fecha)
     DOUE_sumarios['Fecha_publicacion'][row] = datetime.strptime(str(Item_Fecha)[2:-2],"%d.%m.%Y").date()
 
     ### Recoge Texto de Items

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312115601">
+  <metadatos>
+    <identificador>BOE-A-2021-3935</identificador>
+    <titulo>Resolución de 10 de febrero de 2021, de la Universidad Internacional de Cataluña, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Humanidades y Estudios Culturales.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210210</fecha_disposicion>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>29075</pagina_inicial>
+    <pagina_final>29076</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-A-2021-3935.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="2256" orden="">Cultura</materia>
+      <materia codigo="4044" orden="">Humanidades</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7065" orden="">Universidad Internacional de Cataluña</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2011-3574" orden="2030">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el plan publicado por Resolución de 7 de febrero de 2011</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>los arts. 25 y 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El plan de estudios de Graduado en Humanidades y Estudios Culturales por la Universitat Internacional de Catalunya fue publicado por resolución de 7 de febrero de 2011 en el «Boletín Oficial del Estado» de 22 de febrero de 2011.</p>
+    <p class="parrafo">Conforme a lo establecido en el artículo 25 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio, la Universitat Internacional de Catalunya tramitó, a propuesta del centro, una modificación del plan de estudios de esta titulación. El Consejo de Universidades ha enviado la propuesta del plan de estudios a AQU Catalunya y esta ha sido evaluada favorablemente con fecha 29 de julio de 2020 por la comisión específica de Artes y Humanidades.</p>
+    <p class="parrafo">De acuerdo con la evaluación favorable de modificación de algunas materias, este rectorado, de conformidad con lo dispuesto en el artículo 28 del Real Decreto 1393/2007, de 29 de octubre, ha resuelto publicar la modificación del plan de estudios, según anexo adjunto.</p>
+    <p class="parrafo_2">Barcelona, 10 de febrero de 2021.–El Rector, Javier Gil Mur.</p>
+    <p class="anexo">ANEXO</p>
+    <p class="centro_negrita">Grado en Humanidades y Estudios Culturales</p>
+    <p class="centro_cursiva">Planificación de las enseñanzas</p>
+    <p class="centro_redonda">Resumen del plan de estudios y su distribución en créditos</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="35%"/>
+        <col width="8%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica.</td>
+          <td class="cuerpo_tabla_centro"> 72</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias Obligatorias.</td>
+          <td class="cuerpo_tabla_centro">123</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias Optativas.</td>
+          <td class="cuerpo_tabla_centro"> 24</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_centro"> 12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Final de Grado.</td>
+          <td class="cuerpo_tabla_centro">  9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total de créditos ECTS.</td>
+          <td class="cuerpo_tabla_centro">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Plan de estudios resumido por módulos y materias y organización temporal</p>
+    <p class="centro_redonda">Módulo I. Humanidades</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materias</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Unidad temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="50%"/>
+        <col width="8%"/>
+        <col width="27%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Persona y Sociedad.</td>
+          <td class="cuerpo_tabla_centro">18</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Competencias de comunicación lingüística.</td>
+          <td class="cuerpo_tabla_centro">24</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Coordenadas de desarrollo humano y cultural.</td>
+          <td class="cuerpo_tabla_centro">30</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total de créditos ECTS.</td>
+          <td class="cuerpo_tabla_centro">72</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Módulo II. Estructuras y sistemas de desarrollo</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materias</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Unidad temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="50%"/>
+        <col width="8%"/>
+        <col width="27%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas sociales y políticos.</td>
+          <td class="cuerpo_tabla_centro"> 9</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sociedad y cultura.</td>
+          <td class="cuerpo_tabla_centro">18</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total de créditos ECTS.</td>
+          <td class="cuerpo_tabla_centro">27</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Módulo III. Claves de la cultura</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materias</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Unidad temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="50%"/>
+        <col width="8%"/>
+        <col width="27%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cultura: conceptos y experiencias básicas.</td>
+          <td class="cuerpo_tabla_centro"> 9</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Periodización y expresión cultural.</td>
+          <td class="cuerpo_tabla_centro">36</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total de créditos ECTS.</td>
+          <td class="cuerpo_tabla_centro">45</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Módulo IV. Análisis culturales: Identidad e innovación</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materias</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Unidad temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="50%"/>
+        <col width="8%"/>
+        <col width="27%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Temas de Literatura Universal.</td>
+          <td class="cuerpo_tabla_centro">21</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Arte, patrimonio y experiencia.</td>
+          <td class="cuerpo_tabla_centro">24</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis sociopolítico y cultural de áreas.</td>
+          <td class="cuerpo_tabla_centro">24</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total de créditos ECTS.</td>
+          <td class="cuerpo_tabla_centro">69</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Módulo V. Recursos de investigación y desarrollo</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materias</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Unidad temporal</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="50%"/>
+        <col width="8%"/>
+        <col width="27%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos para la actividad investigadora y profesional.</td>
+          <td class="cuerpo_tabla_centro"> 6</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo final de grado.</td>
+          <td class="cuerpo_tabla_centro"> 9</td>
+          <td class="cuerpo_tabla_izq">TFG (OB).</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas profesionales.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Prácticas externas (OB).</td>
+          <td class="cuerpo_tabla_izq">Semestral.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total de créditos ECTS.</td>
+          <td class="cuerpo_tabla_centro">27</td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

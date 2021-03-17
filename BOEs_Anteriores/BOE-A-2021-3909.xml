@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312085601">
+  <metadatos>
+    <identificador>BOE-A-2021-3909</identificador>
+    <titulo>Resolución de 1 de marzo de 2021, de la Dirección General de Industria y de la Pequeña y Mediana Empresa, por la que se publica la relación de normas UNE aprobadas por la Asociación Española de Normalización, durante el mes de febrero de 2021.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="5250">Ministerio de Industria, Comercio y Turismo</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210301</fecha_disposicion>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>28828</pagina_inicial>
+    <pagina_final>28832</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-A-2021-3909.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas>
+      <nota codigo="38" orden="225">Efectos desde el 13 de marzo de 2021.</nota>
+    </notas>
+    <materias>
+      <materia codigo="5159" orden="">Normalización</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="129" orden="">Tecnología e investigación</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1996-2468" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 11.f) del Reglamento aprobado por Real Decreto 2200/1995, de 28 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">En cumplimiento de lo dispuesto en el artículo 11.º, apartado f), del Reglamento de la Infraestructura para la Calidad y Seguridad Industrial, aprobado por Real Decreto 2200/1995, de 28 de diciembre (BOE de 6 de febrero de 1996), modificado por el Real Decreto 1072/2015, de 27 de noviembre (BOE de 14 de diciembre de 2015), y visto el expediente de las normas aprobadas por la Asociación Española de Normalización, entidad designada por Orden del Ministerio de Industria y Energía de 26 de febrero de 1986, de acuerdo con el Real Decreto 1614/1985, de 1 de agosto, y reconocida por la disposición adicional primera del citado Real Decreto 2200/1995, de 28 de diciembre.</p>
+    <p class="parrafo">Esta Dirección General ha resuelto publicar, en el «Boletín Oficial del Estado», la relación de normas españolas UNE aprobadas por la Asociación Española de Normalización, correspondientes al mes de febrero de 2021, identificadas por su título y código numérico, que figura como anexo a la presente resolución.</p>
+    <p class="parrafo">Esta resolución causará efecto a partir del día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 1 de marzo de 2021.–El Director General de Industria y de la Pequeña y Mediana Empresa, Galo Gutiérrez Monzonís.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Normas editadas en el mes de febrero de 2021</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Código</th>
+          <th class="cabeza_tabla">Título</th>
+          <th class="cabeza_tabla">Sustituye a</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 60411:2019/1M:2021.</td>
+          <td class="cuerpo_tabla_izq">Reguladores de presión para instalaciones receptoras de combustibles gaseosos con presión máxima de operación de entrada (MOPe) superior a 0,4 bar e inferior o igual a 5 bar y presión máxima de operación de salida (MOPs) inferior o igual a 0,4 bar.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 103200:2021.</td>
+          <td class="cuerpo_tabla_izq">Determinación del contenido de carbonatos de un suelo.</td>
+          <td class="cuerpo_tabla_izq">UNE 103200:1993.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE 320002:2021.</td>
+          <td class="cuerpo_tabla_izq">Arquitecturas de Confianza para el Intercambio de Inteligencia de Ciberamenazas.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 71-7:2015+A3:2021.</td>
+          <td class="cuerpo_tabla_izq">Seguridad de los juguetes. Parte 7: Pinturas de dedos. Requisitos y métodos de ensayo.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 71-7:2015+A2:2019.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 215:2021.</td>
+          <td class="cuerpo_tabla_izq">Válvulas termostáticas para radiadores. Requisitos y métodos de ensayo.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 215:2007.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-1:2021.</td>
+          <td class="cuerpo_tabla_izq">Contenedores móviles para residuos y reciclaje. Parte 1: Contenedores de 2 ruedas con capacidad hasta 400 l para dispositivos de elevación tipo peine. Dimensiones y diseño.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-1:2013.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-2:2021.</td>
+          <td class="cuerpo_tabla_izq">Contenedores móviles para residuos y reciclaje. Parte 2: Contenedores de 4 ruedas con capacidad hasta 1 300 l con una o varias tapas planas para dispositivos de elevación tipo muñón y/o peine. Dimensiones y diseño.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-2:2013.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-3:2021.</td>
+          <td class="cuerpo_tabla_izq">Contenedores móviles para residuos y reciclaje. Parte 3: Contenedores de 4 ruedas con capacidad hasta 1 300 l con una o varias tapas abovedadas para dispositivos de elevación tipo muñón y/o peine. Dimensiones y diseño.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-3:2013.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-4:2021.</td>
+          <td class="cuerpo_tabla_izq">Contenedores móviles para residuos y reciclaje. Parte 4: Contenedores de 4 ruedas con capacidad hasta 1 700 l con una o varias tapas planas para dispositivos de elevación tipo muñón ancho o basculadores BG y/o dispositivos de elevación tipo peine ancho. Dimensiones y diseño.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-4:2013.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-5:2021.</td>
+          <td class="cuerpo_tabla_izq">Contenedores móviles para residuos y reciclaje. Parte 5: Requisitos de comportamiento y métodos de ensayo.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-5:2013.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-6:2021.</td>
+          <td class="cuerpo_tabla_izq">Contenedores móviles para residuos y reciclaje. Parte 6: Requisitos de seguridad y salud.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 840-6:2013.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 914:2021.</td>
+          <td class="cuerpo_tabla_izq">Equipos para gimnasia. Barras paralelas y barras paralelas/asimétricas combinadas. Requisitos y métodos de ensayo incluyendo seguridad.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 914:2009.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 1009-1:2021.</td>
+          <td class="cuerpo_tabla_izq">Maquinaria para el procesamiento mecánico de minerales y materiales sólidos similares. Seguridad. Parte 1: Requisitos comunes para maquinaria parcialmente completa y plantas de procesamiento.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 1130:2020/AC:2021.</td>
+          <td class="cuerpo_tabla_izq">Mobiliario infantil. Moisés. Requisitos de seguridad y métodos de ensayo.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 1176-5:2021.</td>
+          <td class="cuerpo_tabla_izq">Equipamiento de las áreas de juego y superficies. Parte 5: Requisitos de seguridad y métodos de ensayo adicionales específicos para carruseles.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 1176-5:2009.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 1176-7:2021.</td>
+          <td class="cuerpo_tabla_izq">Equipamiento de las áreas de juego y superficies. Parte 7: Guía para la instalación, inspección, mantenimiento y utilización.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 1176-7:2009.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 1869:2021.</td>
+          <td class="cuerpo_tabla_izq">Mantas ignífugas.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 1869:1997.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 1992-1-2:2011/A1:2021.</td>
+          <td class="cuerpo_tabla_izq">Eurocódigo 2: Proyecto de estructuras de hormigón. Parte 1-2: Reglas generales. Proyecto de estructuras sometidas al fuego.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 10216-2:2014+A1:2021.</td>
+          <td class="cuerpo_tabla_izq">Tubos de acero sin soldadura para usos a presión. Condiciones técnicas de suministro. Parte 2: Tubos de acero no aleado y aleado con características especificadas a temperatura elevada.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 10216-2:2014.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 13100-2:2021.</td>
+          <td class="cuerpo_tabla_izq">Ensayos no destructivos de las uniones soldadas en productos termoplásticos semi-acabados. Parte 2: Ensayo radiográfico mediante rayos X.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 13100-2:2005.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 13766:2019+A1:2021.</td>
+          <td class="cuerpo_tabla_izq">Mangueras a base de materiales termoplásticos multicapa (no vulcanizados) y sus conjuntos con accesorios de unión, para la transferencia de gases licuados del petróleo y de gas natural licuado. Especificación.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 13766:2019.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 14960-2:2021.</td>
+          <td class="cuerpo_tabla_izq">Equipos de juego hinchables. Parte 2: Requisitos de seguridad adicionales para almohadas inflables destinadas a las instalaciones permanentes.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 14974:2021.</td>
+          <td class="cuerpo_tabla_izq">Skateparks. Requisitos de seguridad y métodos de ensayo.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 14974:2006+A1:2011.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 15181:2017+A1:2021.</td>
+          <td class="cuerpo_tabla_izq">Procedimiento de medición del consumo de energía de los hornos a gas.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 15181:2017.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 15332:2021.</td>
+          <td class="cuerpo_tabla_izq">Calderas de calefacción. Evaluación energética de los sistemas de acumulación de agua caliente.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 15332:2008.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 16282-6:2021.</td>
+          <td class="cuerpo_tabla_izq">Equipos para cocinas comerciales. Componentes para la ventilación de cocinas comerciales. Parte 6: Separadores de aerosoles. Diseño y requisitos de seguridad.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 16838:2021.</td>
+          <td class="cuerpo_tabla_izq">Vitrinas refrigeradas para venta de helados y vitrinas pozzetto. Clasificación, requisitos, rendimiento y ensayo de consumo energético.</td>
+          <td class="cuerpo_tabla_izq">UNE-EN 16838:2017.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 17066-1:2021.</td>
+          <td class="cuerpo_tabla_izq">Medios de transporte aislados térmicamente para mercancías sensibles a la temperatura. Requisitos y ensayos. Parte 1: Contenedor.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 17125:2021.</td>
+          <td class="cuerpo_tabla_izq">Spas e hidromasajes de uso doméstico. Requisitos de seguridad y métodos de ensayo.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 17232:2021.</td>
+          <td class="cuerpo_tabla_izq">Equipos y elementos de juegos acuáticos. Requisitos de seguridad, métodos de ensayo y requisitos de funcionamiento.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 17323:2021.</td>
+          <td class="cuerpo_tabla_izq">Geosintéticos. Determinación de las propiedades de tracción de las barreras geosintéticas poliméricas.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 17339:2021.</td>
+          <td class="cuerpo_tabla_izq">Botellas para el transporte de gas. Botellas y tubos totalmente bobinados en material compuesto de carbono para hidrógeno.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 17351:2021.</td>
+          <td class="cuerpo_tabla_izq">Productos de origen biológico. Determinación del contenido de oxígeno mediante un analizador elemental.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 17374:2021.</td>
+          <td class="cuerpo_tabla_izq">Alimentos para animales. Métodos de toma de muestras y análisis. Determinación de arsénico inorgánico en alimentos para animales mediante HPLC de intercambio aniónico-ICP-MS.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 17409:2021.</td>
+          <td class="cuerpo_tabla_izq">Superficies para áreas deportivas. Código de prácticas para el muestreo de rellenos de funcionamiento utilizados en superficies de césped sintético.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 50104:2021.</td>
+          <td class="cuerpo_tabla_izq">Equipos eléctricos para la detección y medición de oxígeno. Requisitos de funcionamiento y métodos de ensayo.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 50119:2021.</td>
+          <td class="cuerpo_tabla_izq">Aplicaciones ferroviarias. Instalaciones fijas. Líneas aéreas de contacto para tracción eléctrica.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60335-2-27:2014/A2:2021.</td>
+          <td class="cuerpo_tabla_izq">Aparatos electrodomésticos y análogos. Seguridad. Parte 2-27: Requisitos particulares para aparatos para la exposición de la piel a las radiaciones ultravioletas e infrarrojas.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN 60730-2-6:2016/A1:2021.</td>
+          <td class="cuerpo_tabla_izq">Dispositivos de control eléctrico automático. Parte 2-6: Requisitos particulares para dispositivos de control eléctrico automático sensibles a la presión incluyendo requisitos mecánicos.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN IEC 60282-4:2021.</td>
+          <td class="cuerpo_tabla_izq">Fusibles de alta tensión. Parte 4: Requisitos de ensayo adicionales para fusibles de expulsión de alta tensión que utilizan aisladores poliméricos.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN IEC 60664-1:2021.</td>
+          <td class="cuerpo_tabla_izq">Coordinación de aislamiento de los equipos en los sistemas (redes) de baja tensión. Parte 1: Principios, requisitos y ensayos.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN IEC 60704-2-8:2021.</td>
+          <td class="cuerpo_tabla_izq">Aparatos electrodomésticos y análogos. Código de ensayo para la determinación del ruido acústico aéreo. Parte 2-8: Requisitos particulares para máquinas de afeitar, cortadoras y recortadores de pelo.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN IEC 60934:2021.</td>
+          <td class="cuerpo_tabla_izq">Interruptores automáticos para equipos (IPE).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN IEC 60947-4-1:2021.</td>
+          <td class="cuerpo_tabla_izq">Aparamenta de baja tensión. Parte 4-1: Contactores y arrancadores de motor. Contactores y arrancadores electromecánicos.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN IEC 60947-7-4:2021.</td>
+          <td class="cuerpo_tabla_izq">Aparamenta de baja tensión. Parte 7-4: Equipos auxiliares. Bloques de conexión de policlorobifenilos (PCB) para conductores de cobre.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN IEC 60947-9-1:2021.</td>
+          <td class="cuerpo_tabla_izq">Aparamenta de baja tensión. Parte 9-1: Sistemas activos de mitigación de defectos por arco. Dispositivos de extinción de arco.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN IEC 61000-4-11:2021.</td>
+          <td class="cuerpo_tabla_izq">Compatibilidad electromagnética (CEM). Parte 4-11: Técnicas de ensayo y de medida. Ensayos de inmunidad a los huecos de tensión, interrupciones breves y variaciones de tensión para equipos con una corriente de entrada inferior o igual a 16 A por fase.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN IEC 61701:2021.</td>
+          <td class="cuerpo_tabla_izq">Módulos fotovoltaicos (FV). Ensayo de corrosión por niebla salina.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN IEC 62271-102:2021.</td>
+          <td class="cuerpo_tabla_izq">Aparamenta de alta tensión. Parte 102: Seccionadores y seccionadores de puesta a tierra de corriente alterna.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN IEC 62962:2021.</td>
+          <td class="cuerpo_tabla_izq">Requisitos particulares para deslastradores de carga (LSE).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 105-B06:2021.</td>
+          <td class="cuerpo_tabla_izq">Textiles. Ensayos de solidez del color. Parte B06: Solidez del color y envejecimiento a la luz artificial a temperaturas elevadas: Ensayo con lámpara de arco de xenón. (ISO 105-B06:2020).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 105-B06:2005.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 1833-29:2021.</td>
+          <td class="cuerpo_tabla_izq">Textiles. Análisis químico cuantitativo. Parte 29: Mezclas de poliamida con bicomponente de polipropileno/poliamida (método del ácido sulfúrico). (ISO 1833-29:2020).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 3262-1:2021.</td>
+          <td class="cuerpo_tabla_izq">Extendedores. Especificaciones y métodos de ensayo. Parte 1: Introducción y métodos generales de ensayo. (ISO 3262-1:2020).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 3262-1:1999.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 5458:2021.</td>
+          <td class="cuerpo_tabla_izq">Especificación geométrica de productos (GPS). Tolerancias geométricas. Especificación geométrica patrón y combinada. (ISO 5458:2018).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 5458:1999.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 7932:2005/A1:2021.</td>
+          <td class="cuerpo_tabla_izq">Microbiología de los alimentos para consumo humano y animal. Método horizontal para el recuento de Bacillus cereus presuntivos. Técnica de recuento de colonias a 30.ºC. Modificación 1: Inclusión de ensayos opcionales. (ISO 7932:2004/Amd 1:2020, Versión corregida 2020-08).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 8624:2021.</td>
+          <td class="cuerpo_tabla_izq">Óptica oftálmica. Monturas de gafas. Sistema de medida y vocabulario. (ISO 8624:2020).</td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN ISO 8624:2011.</p>
+            <p class="cuerpo_tabla_izq">UNE-EN ISO 8624:2011/A1:2015.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 10893-3:2011/A1:2021.</td>
+          <td class="cuerpo_tabla_izq">Ensayos no destructivos de tubos de acero. Parte 3: Ensayo automático por flujo de fuga del perímetro completo de tubos de acero ferromagnéticos sin soldadura y soldados (excepto por arco sumergido) para la detección de imperfecciones longitudinales y/o transversales. Modificación 1: Cambio de dimensiones de la entalla de referencia. (ISO 10893-3:2011/Amd 1:2019).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 11266:2021.</td>
+          <td class="cuerpo_tabla_izq">Calidad del suelo. Guía para el ensayo de laboratorio de la biodegradación de compuestos orgánicos en suelos bajo condiciones aerobias. (ISO 11266:1994).</td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-ISO 11266:2006.</p>
+            <p class="cuerpo_tabla_izq">UNE-EN ISO 11266:2020 (Ratificada).</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 11532:2021.</td>
+          <td class="cuerpo_tabla_izq">Equipos de tierra para aeronaves. Símbolos gráficos. (ISO 11532:2018).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 12460-3:2021.</td>
+          <td class="cuerpo_tabla_izq">Tableros derivados de la madera. Determinación de la emisión de formaldehido. Parte 3: Emisión de formaldehido por el método de análisis de gas. (ISO 12460-3:2020).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 12460-3:2016.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 13517:2021.</td>
+          <td class="cuerpo_tabla_izq">Polvos metálicos. Determinación del caudal mediante un embudo calibrado (caudalímetro Gustavsson). (ISO 13517:2020).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 13517:2014.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 14063:2021.</td>
+          <td class="cuerpo_tabla_izq">Gestión ambiental. Comunicación ambiental. Directrices y ejemplos. (ISO 14063:2020).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 14063:2010.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 19577:2021.</td>
+          <td class="cuerpo_tabla_izq">Calzado. Sustancias críticas potencialmente presentes en el calzado y sus componentes. Determinación de nitrosaminas. (ISO 19577:2019).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 20776-1:2021.</td>
+          <td class="cuerpo_tabla_izq">Ensayo de susceptibilidad de agentes infecciosos y evaluación del funcionamiento de los dispositivos de ensayo de susceptibilidad antimicrobiana. Parte 1: Método de referencia de microdilución en caldo para ensayar la actividad in vitro de agentes antimicrobianos frente a bacterias aerobias de crecimiento rápido implicadas en enfermedades infecciosas. (ISO 20776-1:2019, incluyendo Versión corregida 2019-12).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 21404:2021.</td>
+          <td class="cuerpo_tabla_izq">Biocombustibles sólidos. Determinación del comportamiento de la fusión de las cenizas. (ISO 21404:2020).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 21853:2021.</td>
+          <td class="cuerpo_tabla_izq">Kitesurf. Sistema de liberación. Requisitos de seguridad y métodos de ensayo. (ISO 21853:2020).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 21945:2021.</td>
+          <td class="cuerpo_tabla_izq">Biocombustibles sólidos. Método de muestreo simplificado para aplicaciones a pequeña escala. (ISO 21945:2020).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 22052:2021.</td>
+          <td class="cuerpo_tabla_izq">Odontología. Equipo central de aire comprimido. (ISO 22052:2020).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 22569:2021.</td>
+          <td class="cuerpo_tabla_izq">Odontología. Piezas de mano multifunción. (ISO 22569:2020).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 23153-2:2021.</td>
+          <td class="cuerpo_tabla_izq">Plásticos. Materiales de polieteretercetona (PEEK) para moldeo y extrusión. Parte 2: Preparación de probetas y determinación de propiedades. (ISO 23153-2:2020).</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 28399:2021.</td>
+          <td class="cuerpo_tabla_izq">Odontología. Productos para el blanqueamiento dental de uso externo. (ISO 28399:2020).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 28399:2011.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 80000-2:2021.</td>
+          <td class="cuerpo_tabla_izq">Magnitudes y unidades. Parte 2: Matemáticas. (ISO 80000-2:2019).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 80000-2:2013.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 80000-4:2021.</td>
+          <td class="cuerpo_tabla_izq">Magnitudes y unidades. Parte 4: Mecánica. (ISO 80000-4:2019).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 80000-4:2014.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 80000-5:2021.</td>
+          <td class="cuerpo_tabla_izq">Magnitudes y unidades. Parte 5: Termodinámica. (ISO 80000-5:2019).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 80000-5:2014.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 80000-9:2021.</td>
+          <td class="cuerpo_tabla_izq">Magnitudes y unidades. Parte 9: Química física y física molecular. (ISO 80000-9:2019).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 80000-9:2014.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 80000-12:2021.</td>
+          <td class="cuerpo_tabla_izq">Magnitudes y unidades. Parte 12: Física de la materia condensada. (ISO 80000-12:2019).</td>
+          <td class="cuerpo_tabla_izq">UNE-EN ISO 80000-12:2014.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-ISO 7131:2010/Amd 1:2021.</td>
+          <td class="cuerpo_tabla_izq">Maquinaria para movimiento de tierras. Cargadoras. Terminología y especificaciones comerciales.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-ISO 9244:2010/Amd 1:2021.</td>
+          <td class="cuerpo_tabla_izq">Maquinaria para movimiento de tierras. Pictogramas de seguridad y peligro. Principios generales.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-ISO 12117-2:2010/Amd 1:2021.</td>
+          <td class="cuerpo_tabla_izq">Maquinaria para movimiento de tierras. Ensayos de laboratorio y requisitos de comportamiento para estructuras de protección de excavadoras. Parte 2: Estructuras de protección contra el vuelco (ROPS) para excavadoras de más de 6 t.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-ISO 30300:2021.</td>
+          <td class="cuerpo_tabla_izq">Información y documentación. Gestión de documentos. Conceptos fundamentales y vocabulario.</td>
+          <td class="cuerpo_tabla_izq">UNE-ISO 30300:2011.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">UNE-ISO 30401:2021.</td>
+          <td class="cuerpo_tabla_izq">Sistemas de gestión del conocimiento. Requisitos.</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

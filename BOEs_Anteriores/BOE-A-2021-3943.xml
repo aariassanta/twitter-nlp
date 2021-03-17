@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312115601">
+  <metadatos>
+    <identificador>BOE-A-2021-3943</identificador>
+    <titulo>Resolución de 10 de febrero de 2021, de la Universidad Camilo José Cela, por la que se publican planes de estudios de Máster Universitario en Dirección de Empresas Logísticas y de la Cadena de Suministro y Máster Universitario en Dirección, Innovación y Liderazgo de Centros.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210210</fecha_disposicion>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>29116</pagina_inicial>
+    <pagina_final>29118</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-A-2021-3943.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="90" orden="">Administración y Dirección de Empresas</materia>
+      <materia codigo="3178" orden="">Empresas de transporte</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7017" orden="">Universidad Camilo José Cela</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2016-1690" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 3 de febrero de 2016</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Este Rectorado ha resuelto lo siguiente:</p>
+    <p class="parrafo_2">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Agencia Nacional de Evaluación de la Calidad y Acreditación, autorizada su implantación por la Comunidad de Madrid y establecido el carácter oficial de los títulos por Acuerdo de Consejo de Ministros de 29 de enero de 2016 <span class="no_partir">(BOE núm. 43,</span> de 19 de febrero de 2016, por Resolución de la Secretaría General de Universidades de 3 de febrero de 2016),</p>
+    <p class="parrafo">Este Rectorado ha resuelto publicar los planes de estudios conducentes a la obtención de los títulos oficiales relacionados a continuación: Máster Universitario en Dirección de Empresas Logísticas y de la Cadena de Suministro y Máster Universitario en Dirección, Innovación y Liderazgo de Centros. Los planes de estudio quedarán estructurados conforme figura en el anexo de la presente resolución.</p>
+    <p class="parrafo_2">Villanueva de la Cañada, 10 de febrero de 2021.–El Rector, Emilio Lora-Tamayo D’Ocón.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente al título de Máster Universitario en Dirección <span class="no_partir">de Empresas</span> Logísticas y de la Cadena de Suministro (Rama de Ciencias Sociales <span class="no_partir">y Jurídicas)</span></p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, anexo I, apartado 5.1 Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS:</p>
+    <table class="tabla">
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_centro">48</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_centro">-</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster (TFM).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Plan de estudios resumido por materia:</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Semestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Introducción a la Logística y Cadena de Suministro.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">9</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de Logística.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Informáticos Logísticos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Operaciones y Gestión de la Cadena de Suministro.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">21</td>
+          <td class="cuerpo_tabla_izq">Gestión de Compras y Aprovisionamiento.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Operadores y Centros Logísticos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyecto Logístico.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Soporte Logístico Integrado.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Sistemas de Producción y Distribución.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td class="cuerpo_tabla_izq">Logística de Producción.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Distribución Física y Logística Inversa.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Distribución Comercial y Logística Global.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">TFM</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_negrita">Plan de estudios conducente al título de Máster Universitario en Dirección, Innovación y Liderazgo de Centros (Rama de Ciencias Sociales y Jurídicas)</p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, anexo I, apartado 5.1 Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_centro">40</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster (TFM).</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Complementos formativos.</td>
+          <td class="cuerpo_tabla_centro">14</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Plan de estudios resumido por materia:</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Semestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Política y organización de centros educativos.</td>
+          <td class="cuerpo_tabla_izq">Marco normativo y documentación aplicable a los centros docentes.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Políticas, sistemas educativos y organizacionales.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización de centros educativos.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Dirección y liderazgo educativo.</td>
+          <td class="cuerpo_tabla_izq">Competencias y habilidades para el liderazgo.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Liderazgo educativo.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Planificación y gestión estratégica de centros educativos.</td>
+          <td class="cuerpo_tabla_izq">Gestión administrativa y económica.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión equipos educativos.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión de la información y comunicación.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Metodología, innovación y calidad educativa.</td>
+          <td class="cuerpo_tabla_izq">Innovación pedagógica y educativa.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Liderazgo, cambio y aprendizaje en organizaciones.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Excelencia y calidad educativa.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Optativas (a elegir una).</td>
+          <td class="cuerpo_tabla_izq">Metodología de la investigación educativa.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis y procesamiento de datos.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TIC aplicadas a la innovación educativa.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organizaciones sostenibles: liderazgo y educación para la sostenibilidad.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Prácticum.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">2</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">TFM</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="cita">* Los alumnos tendrán que realizar 4 ECTS de asignaturas optativas.</p>
+  </texto>
+</documento>

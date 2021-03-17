@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312071624">
+  <metadatos>
+    <identificador>BOE-B-2021-12089</identificador>
+    <titulo>Resolución de la Dirección del Instituto Geológico y Minero de España sobre el desistimiento del procedimiento de licitación: Mantenimiento de la gestión del servicio de ciberseguridad (SOC) del IGME. Expediente: 14174/2020.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>5</seccion>
+    <subseccion>A</subseccion>
+    <departamento codigo="4245">Ministerio de Ciencia e Innovación</departamento>
+    <numero_anuncio>A210014818</numero_anuncio>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <letra_imagen>B</letra_imagen>
+    <pagina_inicial>15554</pagina_inicial>
+    <pagina_final>15554</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-B-2021-12089.pdf</url_pdf>
+  </metadatos>
+  <analisis>
+    <modalidad codigo="O">Otros</modalidad>
+    <tipo codigo="2">Servicios</tipo>
+    <tramitacion codigo=""/>
+    <procedimiento codigo="1">Abierto</procedimiento>
+    <fecha_presentacion_ofertas/>
+    <fecha_apertura_ofertas/>
+    <precio codigo=""/>
+    <importe/>
+    <ambito_geografico>Comunidad de Madrid</ambito_geografico>
+    <materias/>
+    <materias_cpv>48000000 Paquetes de software y sistemas de información
+72000000 Servicios TI: consultoría, desarrollo de software, Internet y apoyo</materias_cpv>
+    <observaciones>Desiste del procedimiento publicado el 1 de diciembre de 2020 BOE-B-2020-44984</observaciones>
+  </analisis>
+  <texto>
+    <p class="parrafo">La Dirección del Instituto Geológico y Minero de España, RESUELVE:</p>
+    <p class="parrafo">Desistir del procedimiento de licitación para la adjudicación del contrato, cuyo objeto es la contratación del servicio de mantenimiento de la gestión del servicio de ciberseguridad (SOC) del IGME, con número de expediente 17174/20202. El anuncio de licitación de dicho expediente fue publicado en el Boletín Oficial del estado con número 314, y fecha, martes 1 de diciembre de 2020.</p>
+    <p class="parrafo">El motivo de desestimar el procedimiento queda recogido en las circunstancias previstas en el artículo 152 de la LCSP. Dichas circunstancias se deben al apreciarse un error en el Pliego de Prescripciones Técnicas que podía dar lugar a una ejecución defectuosa del servicio.</p>
+    <p class="parrafo_2">Madrid, 8 de marzo de 2021.- Directora del Instituto Geológico y Minero de España, Ana María Alonso Zarza.</p>
+  </texto>
+</documento>

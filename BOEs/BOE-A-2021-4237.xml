@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210317085602">
+  <metadatos>
+    <identificador>BOE-A-2021-4237</identificador>
+    <titulo>Resolución de 15 de diciembre de 2020, de la Universidad Rey Juan Carlos, por la que se publica el plan de estudios de Máster Universitario en Ingeniería Industrial.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>65</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20201215</fecha_disposicion>
+    <fecha_publicacion>20210317</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>31019</pagina_inicial>
+    <pagina_final>31027</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/17/pdfs/BOE-A-2021-4237.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="4192" orden="">Ingenieros Industriales</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7086" orden="">Universidad Rey Juan Carlos</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Fundación madri+d y declarado el carácter oficial del Título por Acuerdo del Consejo de Ministros de 13 de enero de 2017 (publicado en el BOE de 26 de enero de 2017, por Resolución de la Secretaría General de Universidades de 18 de enero de 2017), este Rectorado, de conformidad en lo dispuesto en el artículo 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, reformada por la Ley Orgánica 4/2007, de 12 de abril, ha resuelto publicar el plan de estudios conducente a la obtención del Título de Máster Universitario en Ingeniería Industrial.</p>
+    <p class="parrafo">El plan de estudios (5.1 Estructura de las enseñanzas, según con lo dispuesto en los artículos 26 y 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por el Real Decreto 861/2010, de 2 de julio) quedará estructurado conforme al Anexo de la presente Resolución.</p>
+    <p class="parrafo_2">Móstoles, 15 de diciembre del 2020.–El Rector, Francisco Javier Ramos López.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">5.1 Estructura de las Enseñanzas</p>
+    <p class="centro_cursiva">Tabla 1.1 Resumen de las materias y distribución en créditos ECTS para el itinerario 1 (Grado de referencia, GITI)</p>
+    <p class="parrafo_2">Distribución del plan de estudios en créditos ECTS, por tipo de materia para el título de Máster en Ingeniería Industrial siguiendo el Itinerario 1, definido a partir del grado de acceso de referencia del máster: Grado en Ingeniería de Tecnologías Industriales (GITI) de la URJC.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica.</td>
+          <td class="cuerpo_tabla_der">0</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorios.</td>
+          <td class="cuerpo_tabla_der">66</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativos.</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos totales.</td>
+          <td class="cuerpo_tabla_der">120</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Itinerario formativo de la enseñanza</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO I: Tecnologías Industriales.</td>
+          <td class="cuerpo_tabla_centro">36</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería Eléctrica Aplicada.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">1.º / 3.º / 3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos Integrados de Fabricación.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">1.º / 3.º / 3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología de Máquinas.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">1.º / 3.º / 3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis y Diseño de Procesos Químicos.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">1.º / 3.º / 3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería Térmica.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">2.º / 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Energéticos.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">2.º / 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Electrónica Aplicada.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">2.º / 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Control Discreto.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">2.º / 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO II: Gestión.</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión Empresarial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º / 3.º/ 3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Productivos y Logísticos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">3.º / 5.º / 5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección de Proyectos y Gestión de I+D+i.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º / 2.º / 2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO III: Instalaciones, plantas y construcciones complementarias.</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño de Estructuras y Construcciones Industriales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º / 3.º / 3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Instalaciones Industriales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º / 2.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Mantenimiento Industrial.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">3.º / 5.º / 5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO IV: Ampliación y Nivelación<sup>2</sup>.</td>
+          <td class="cuerpo_tabla_centro">24 (máx.)</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Máquinas, Estructuras y Fabricación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">- / 2.º / 2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos y Productos Químicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">- / 2.º / 2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería Eléctrica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">- / 2.º / 2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Electrónicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">- / 2.º / 2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO V: Especialidad<sup>3</sup>.</td>
+          <td class="cuerpo_tabla_centro">30 (máx.)</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnologías del Transporte.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Integridad Estructural.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño y Análisis de Sistemas Mecánicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Visión Artificial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas de Monitorización y Control.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dispositivos digitales y microelectrónica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estrategia en Ingeniería de Procesos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Simulación y Optimización de Procesos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Combustibles Limpios para Transporte Sostenible.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Eficiencia Energética.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Eficientes de Almacenamiento de Energía.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cogeneración, Ciclos Combinados y Optimización Energética Industrial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ecodiseño y Análisis de Ciclo de Vida.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación del Impacto Ambiental.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión y Tratamiento de Residuos y Efluentes Industriales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materiales Compuestos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aleaciones Ligeras.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materiales para Sistemas de Transporte Aéreo y de Superficie.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos de Fabricación Avanzados.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º / - 4.º / 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO VI: Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">3.º / - 5.º / - 5.º</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO VII: Trabajo de fin de máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">TFM.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">4.º / 5.º / 5.º</td>
+          <td class="cuerpo_tabla_izq">TFM.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">La Planificación de las Enseñanzas según Itinerario de acceso:</p>
+    <p class="centro_redonda">Itinerario 1: Grado en Ingeniería de Tecnologías Industriales (GITI)</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO I: Tecnologías Industriales.</td>
+          <td class="cuerpo_tabla_centro">36</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería Eléctrica Aplicada.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos Integrados de Fabricación.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología de Máquinas.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis y Diseño de Procesos Químicos.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería Térmica.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Energéticos.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Electrónica Aplicada.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Control Discreto.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO II: Gestión.</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión Empresarial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Productivos y Logísticos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección de Proyectos y Gestión de I+D+i.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO III: Instalaciones, plantas y construcciones complementarias.</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño de Estructuras y Construcciones Industriales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Instalaciones Industriales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Mantenimiento Industrial.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO V: Especialidad<sup>3</sup>.</td>
+          <td class="cuerpo_tabla_centro">30 (máx.)</td>
+          <td class="cuerpo_tabla_centro">(Elegir 5 asignaturas)</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnologías del Transporte (A-Especialidad en Ingeniería Mecánica/G-Especialidad en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Integridad Estructural (A-Especialidad en Ingeniería Mecánica).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño y Análisis de Sistemas Mecánicos <span class="no_partir">(A-Especialidad</span> en Ingeniería Mecánica/<span class="no_partir">I-Especialidad</span> en Sistemas Electromecánicos).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Visión Artificial (B-Especialidad en Ingeniería Electrónica).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas de Monitorización y Control <span class="no_partir">(B-Especialidad</span> en Ingeniería Electrónica/ <span class="no_partir">I-Especialidad</span> en Sistemas Electromecánicos).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dispositivos digitales y microelectrónica<span class="no_partir"> (B-Especialidad</span> en Ingeniería Electrónica).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estrategia en Ingeniería de Procesos <span class="no_partir">(C-Especialidad</span> en Ingeniería Química/<span class="no_partir">H-Especialidad</span> en Producción Avanzada).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Simulación y Optimización de Procesos <span class="no_partir">(C-Especialidad</span> en Ingeniería Química).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Combustibles Limpios para Transporte Sostenible <span class="no_partir">(C-Especialidad</span> en Ingeniería Química/G-Especialidad en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Eficiencia Energética (D-Especialidad en Sostenibilidad Energética).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Eficientes de Almacenamiento de Energía<span class="no_partir"> (D-Especialidad</span> en Sostenibilidad Energética/ G-Especialidad en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cogeneración, Ciclos Combinados y Optimización Energética Industrial <span class="no_partir">(D-Especialidad</span> en Sostenibilidad Energética).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ecodiseño y Análisis de Ciclo de Vida <span class="no_partir">(E-Especialidad</span> en Gestión Ambiental en la Industria/H-Especialidad en Producción Avanzada).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación del Impacto Ambiental <span class="no_partir">(E-Especialidad</span> en Gestión Ambiental en la Industria).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión y Tratamiento de Residuos y Efluentes Industriales<span class="no_partir"> (E-Especialidad</span> en Gestión Ambiental en la Industria).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materiales Compuestos (F-Especialidad en Materiales y Fabricación).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aleaciones Ligeras (F-Especialidad en Materiales y Fabricación).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materiales para Sistemas de Transporte Aéreo y de Superficie (F-Especialidad en Materiales y Fabricación G-Especialidad en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos de Fabricación Avanzados <span class="no_partir">(H-Especialidad</span> en Producción Avanzada/I-Especialidad en Sistemas Electromecánicos).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º y 4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO VI: Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO VII: Trabajo de fin de máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">TFM.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">TFM.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Itinerario 2</p>
+    <p class="parrafo_2">Itinerario 2a: Grado en Ingeniería Química (GIQ):</p>
+    <p class="parrafo_2">Grado en Ingeniería de Materiales (GIMat).</p>
+    <p class="parrafo">Grado en Ingeniería de la Energía (GIEnE).</p>
+    <p class="parrafo">Grado en Ingeniería Mecánica.</p>
+    <p class="parrafo">Grado en Ingeniería Electrónica y Automática.</p>
+    <p class="centro_redonda">+ COMPLEMENTOS FORMATIVOS</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO I: Tecnologías Industriales.</td>
+          <td class="cuerpo_tabla_centro">36</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería Eléctrica Aplicada.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos Integrados de Fabricación.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología de Máquinas.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis y Diseño de Procesos Químicos.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería Térmica.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Energéticos.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Electrónica Aplicada.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Control Discreto.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO II: Gestión.</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión Empresarial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Productivos y Logísticos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección de Proyectos y Gestión de I+D+i.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO III: Instalaciones, plantas y construcciones complementarias.</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño de Estructuras y Construcciones Industriales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Instalaciones Industriales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Mantenimiento Industrial.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO IV: Ampliación y Nivelación<sup>2</sup>.</td>
+          <td class="cuerpo_tabla_centro">24 (máx.)</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Máquinas, Estructuras y Fabricación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos y Productos Químicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería Eléctrica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Electrónicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO V: Especialidad<sup>3</sup>.</td>
+          <td class="cuerpo_tabla_centro">30 (máx.)</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnologías del Transporte (A-Especialidad en Ingeniería Mecánica/G-Especialidad en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Integridad Estructural (A-Especialidad en Ingeniería Mecánica).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño y Análisis de Sistemas Mecánicos <span class="no_partir">(A-Especialidad</span> en Ingeniería Mecánica/I-Especialidad en Sistemas Electromecánicos).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Visión Artificial (B-Especialidad en Ingeniería Electrónica).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas de Monitorización y Control (B-Especialidad en Ingeniería Electrónica/ I-Especialidad en Sistemas Electromecánicos).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dispositivos digitales y microelectrónica (B-Especialidad en Ingeniería Electrónica).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estrategia en Ingeniería de Procesos (C-Especialidad en Ingeniería Química/H-Especialidad en Producción Avanzada).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Simulación y Optimización de Procesos (C-Especialidad en Ingeniería Química).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Combustibles Limpios para Transporte Sostenible <span class="no_partir">(C-Especialidad</span> en Ingeniería Química/G-Especialidad en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Eficiencia Energética (D-Especialidad en Sostenibilidad Energética).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Eficientes de Almacenamiento de Energía <span class="no_partir">(D-Especialidad</span> en Sostenibilidad Energética/ <span class="no_partir">G-Especialidad</span> en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cogeneración, Ciclos Combinados y Optimización Energética Industrial (D-Especialidad en Sostenibilidad Energética).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ecodiseño y Análisis de Ciclo de Vida (E-Especialidad en Gestión Ambiental en la Industria/H-Especialidad en Producción Avanzada).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación del Impacto Ambiental (E-Especialidad en Gestión Ambiental en la Industria).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión y Tratamiento de Residuos y Efluentes Industriales (E-Especialidad en Gestión Ambiental en la Industria).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materiales Compuestos (F-Especialidad en Materiales y Fabricación).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aleaciones Ligeras (F-Especialidad en Materiales y Fabricación).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materiales para Sistemas de Transporte Aéreo y de Superficie <span class="no_partir">(F-Especialidad</span> en Materiales y Fabricación <span class="no_partir">G-Especialidad</span> en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos de Fabricación Avanzados (H-Especialidad en Producción Avanzada/I-Especialidad en Sistemas Electromecánicos).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO VI: Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO VII: Trabajo de fin de máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Itinerario 2</p>
+    <p class="parrafo_2">Itinerario 2b: Grado en Organización Industrial (GIOI).</p>
+    <p class="parrafo">Grado en Ingeniería Ambiental (GIA).</p>
+    <p class="centro_redonda">+ COMPLEMENTOS FORMATIVOS</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO I: Tecnologías Industriales.</td>
+          <td class="cuerpo_tabla_centro">36</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería Eléctrica Aplicada.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos Integrados de Fabricación.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología de Máquinas.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis y Diseño de Procesos Químicos.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería Térmica.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Energéticos.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Electrónica Aplicada.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Control Discreto.</td>
+          <td class="cuerpo_tabla_centro">4,5</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO II: Gestión.</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión Empresarial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Productivos y Logísticos.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección de Proyectos y Gestión de I+D+i.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO III: Instalaciones, plantas y construcciones complementarias.</td>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño de Estructuras y Construcciones Industriales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Instalaciones Industriales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Mantenimiento Industrial.</td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO IV: Ampliación y Nivelación<sup>2</sup>.</td>
+          <td class="cuerpo_tabla_centro">24 (máx.)</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Máquinas, Estructuras y Fabricación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos y Productos Químicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ingeniería Eléctrica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Electrónicos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO V: Especialidad<sup>3</sup>.</td>
+          <td class="cuerpo_tabla_centro">30 (máx.)</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnologías del Transporte (A-Especialidad en Ingeniería Mecánica/G-Especialidad en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Integridad Estructural (A-Especialidad en Ingeniería Mecánica).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño y Análisis de Sistemas Mecánicos <span class="no_partir">(A-Especialidad</span> en Ingeniería Mecánica/I-Especialidad en Sistemas Electromecánicos).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Visión Artificial (B-Especialidad en Ingeniería Electrónica).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas de Monitorización y Control (B-Especialidad en Ingeniería Electrónica/ I-Especialidad en Sistemas Electromecánicos).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dispositivos digitales y microelectrónica (B-Especialidad en Ingeniería Electrónica).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estrategia en Ingeniería de Procesos (C-Especialidad en Ingeniería Química/H-Especialidad en Producción Avanzada).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Simulación y Optimización de Procesos (C-Especialidad en Ingeniería Química).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Combustibles Limpios para Transporte Sostenible <span class="no_partir">(C-Especialidad</span> en Ingeniería Química/G-Especialidad en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Eficiencia Energética (D-Especialidad en Sostenibilidad Energética).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas Eficientes de Almacenamiento de Energía <span class="no_partir">(D-Especialidad</span> en Sostenibilidad Energética/ <span class="no_partir">G-Especialidad</span> en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cogeneración, Ciclos Combinados y Optimización Energética Industrial (D-Especialidad en Sostenibilidad Energética).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ecodiseño y Análisis de Ciclo de Vida (E-Especialidad en Gestión Ambiental en la Industria/H-Especialidad en Producción Avanzada).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación del Impacto Ambiental (E-Especialidad en Gestión Ambiental en la Industria).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gestión y Tratamiento de Residuos y Efluentes Industriales (E-Especialidad en Gestión Ambiental en la Industria).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materiales Compuestos (F-Especialidad en Materiales y Fabricación).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aleaciones Ligeras (F-Especialidad en Materiales y Fabricación).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materiales para Sistemas de Transporte Aéreo y de Superficie (F-Especialidad en Materiales y Fabricación <span class="no_partir">G-Especialidad</span> en Ingeniería del Transporte).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Procesos de Fabricación Avanzados (H-Especialidad en Producción Avanzada/I-Especialidad en Sistemas Electromecánicos).</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+          <td class="cuerpo_tabla_izq">Optativo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO VI: Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> MÓDULO VII: Trabajo de fin de máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="cita"><sup>1</sup> Cuatrimestre en el que se cursa, según el itinerario: Itinerario 1 / Itinerario 2a / Itinerario 2b.</p>
+    <p class="cita"><sup>2</sup> Materias a cursar para alumnos del Itinerario 2 (a y b). El número de créditos y asignaturas a cursar se determina por la Comisión Académica del Máster según la formación previa del graduado y la vía de acceso al Máster.</p>
+    <p class="cita"><sup>3</sup> Materias de especialidad a cursar por alumnos del Itinerario 1 y 2a y 2b. El número de créditos y asignaturas a cursar se determina por la Comisión Académica del Máster según la formación previa del graduado y la vía de acceso al Máster.</p>
+    <p class="parrafo_2">Más información sobre el plan de estudios en la web de la Universidad Rey Juan Carlos www.urjc.es</p>
+  </texto>
+</documento>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312115601">
+  <metadatos>
+    <identificador>BOE-A-2021-3945</identificador>
+    <titulo>Resolución de 17 de febrero de 2021, de la Universidad de Castilla-La Mancha, por la que se publica la modificación del plan de estudios de Máster Universitario en Fiscalidad Internacional y Europea.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210217</fecha_disposicion>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>29124</pagina_inicial>
+    <pagina_final>29125</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-A-2021-3945.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="271" orden="">Ciencias Sociales y Jurídicas</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="6658" orden="">Sistema tributario</materia>
+      <materia codigo="7031" orden="">Universidad de Castilla La Mancha</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2010-5203" orden="2030">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el plan publicado por Resolución de 15 de marzo de 2010</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2010-3096" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 9 de febrero de 2010</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El plan de estudios del Máster Universitario en Fiscalidad Internacional y Comunitaria por la Universidad de Castilla-La Mancha fue publicado en el Boletín Oficial del Estado el 29 de marzo de 2010, una vez obtenida la verificación del citado plan de estudios por el Consejo de Universidades, previo informe favorable de la Agencia Nacional de Evaluación de la Calidad y Acreditación, y establecido el carácter oficial del título por el Consejo de Ministros en su reunión de 22 de enero de 2010, publicado mediante Resolución de 9 de febrero de 2010, de la Secretaría General de Universidades (BOE de 26 de febrero).</p>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 28 del Real Decreto 1393/2007, de 29 de octubre, por el que se establece el procedimiento para la modificación de planes de estudios ya verificados, y tras haber obtenido el informe favorable de la Agencia Nacional de Evaluación de la Calidad y Acreditación a la solicitud de la Universidad de Castilla-La Mancha de modificación del plan de estudios del Máster Universitario en Fiscalidad Internacional y Europea, que anteriormente se denominaba Máster Universitario en Fiscalidad Internacional y Comunitaria.</p>
+    <p class="parrafo">Este Rectorado ha resuelto publicar la modificación del plan de estudios conducente a la obtención del título de Máster Universitario en Fiscalidad Internacional y Europea por la Universidad de Castilla-La Mancha, que se recoge en el Anexo a esta Resolución.</p>
+    <p class="parrafo_2">Ciudad Real, 17 de febrero de 2021.–El Rector, José Julián Garde López-Brea.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de Estudios del Máster Universitario en Fiscalidad Internacional y Europea</p>
+    <p class="centro_cursiva">Rama de conocimiento: Ciencias Sociales y Jurídicas</p>
+    <p class="parrafo_2">Distribución general del Plan de Estudios:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_der">42</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de máster (TFM).</td>
+          <td class="cuerpo_tabla_der">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos totales.</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Cuadro de distribución de asignaturas del Plan de Estudios:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Tipo</th>
+          <th class="cabeza_tabla">Organización Temporal</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Fiscalidad Internacional.</td>
+          <td class="cuerpo_tabla_izq">Principios generales y Fuentes del Derecho Internacional Tributario.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Problemas y tendencias actuales en la Fiscalidad Internacional.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fiscalidad de la inversión española en el exterior.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fiscalidad de la inversión exterior en España.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Capita Selecta en Fiscalidad Internacional y Europea.</td>
+          <td class="cuerpo_tabla_izq">Capita Selecta.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">S1</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Fiscalidad Europea.</td>
+          <td class="cuerpo_tabla_izq">Los principios de la Fiscalidad Europea y su incidencia sobre los sistemas tributarios estatales.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Armonización fiscal y nuevas tendencias de la fiscalidad europea.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas de Empresa.</td>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Metodología en la Investigación Jurídico Tributaria.</td>
+          <td class="cuerpo_tabla_izq">Metodología.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">TFM</td>
+          <td class="cuerpo_tabla_centro">S2</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo">Se tendrá que elegir una de las dos asignaturas de carácter optativo.</p>
+    <p class="parrafo">S1 = Primer Semestre; S2 = Segundo Semestre.</p>
+    <p class="parrafo">OB = Obligatoria; OP = Optativa; TFM = Trabajo Fin de Máster.</p>
+  </texto>
+</documento>

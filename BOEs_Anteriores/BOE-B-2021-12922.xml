@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210316071614">
+  <metadatos>
+    <identificador>BOE-B-2021-12922</identificador>
+    <titulo>Anuncio de formalización de contratos de: Junta de Contratación del Ejército de Tierra. Objeto: Acuerdo Marco para el servicio de restauración colectiva en diversas BAE´s del Ejército de Tierra. Expediente: 60004 20 0001 00.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>64</diario_numero>
+    <seccion>5</seccion>
+    <subseccion>A</subseccion>
+    <departamento codigo="6110">Ministerio de Defensa</departamento>
+    <numero_anuncio>A210015513</numero_anuncio>
+    <fecha_publicacion>20210316</fecha_publicacion>
+    <letra_imagen>B</letra_imagen>
+    <pagina_inicial>16523</pagina_inicial>
+    <pagina_final>16531</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2021/03/16/pdfs/BOE-B-2021-12922.pdf</url_pdf>
+  </metadatos>
+  <analisis>
+    <modalidad codigo="F">Formalización contrato</modalidad>
+    <tipo codigo="2">Servicios</tipo>
+    <tramitacion codigo=""/>
+    <procedimiento codigo=""/>
+    <fecha_presentacion_ofertas/>
+    <fecha_apertura_ofertas/>
+    <precio codigo=""/>
+    <importe/>
+    <ambito_geografico>Nacional</ambito_geografico>
+    <materias/>
+    <materias_cpv>55000000 Servicios comerciales al por menor de hostelería y restauración</materias_cpv>
+    <observaciones/>
+  </analisis>
+  <texto>
+    <dl>
+      <dt>1. Poder adjudicador: </dt>
+      <dd>
+        <dl>
+          <dt>1.1) Nombre: </dt>
+          <dd>Junta de Contratación del Ejército de Tierra.</dd>
+          <dt>1.2) Número de identificación fiscal: </dt>
+          <dd>S2830078H.</dd>
+          <dt>1.3) Dirección: </dt>
+          <dd>Prim, 6-8.</dd>
+          <dt>1.4) Localidad: </dt>
+          <dd>Madrid.</dd>
+          <dt>1.5) Provincia: </dt>
+          <dd>Madrid.</dd>
+          <dt>1.6) Código postal: </dt>
+          <dd>28071.</dd>
+          <dt>1.7) País: </dt>
+          <dd>España.</dd>
+          <dt>1.8) Código NUTS: </dt>
+          <dd>ES300.</dd>
+          <dt>1.9) Teléfono: </dt>
+          <dd>917802415.</dd>
+          <dt>1.10) Fax: </dt>
+          <dd>917802281.</dd>
+          <dt>1.11) Correo electrónico: </dt>
+          <dd>juconet@et.mde.es</dd>
+          <dt>1.13) Dirección del perfil de comprador: </dt>
+          <dd>https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;idBp=VGuCSnXC10g%3D</dd>
+        </dl>
+      </dd>
+      <dt>2. Lugar principal de prestación de los servicios:</dt>
+      <dd>
+        <dl>
+          <dt>2.1) Código NUTS principal: </dt>
+          <dd>ES.</dd>
+          <dt>2.2) Código NUTS </dt>
+          <dd>Lote 1: ES30.</dd>
+          <dt>2.3) Código NUTS </dt>
+          <dd>Lote 2: ES30.</dd>
+          <dt>2.4) Código NUTS </dt>
+          <dd>Lote 3: ES3.</dd>
+          <dt>2.5) Código NUTS </dt>
+          <dd>Lote 4: ES3.</dd>
+          <dt>2.6) Código NUTS </dt>
+          <dd>Lote 5: ES300.</dd>
+          <dt>2.7) Código NUTS </dt>
+          <dd>Lote 6: ES422.</dd>
+          <dt>2.8) Código NUTS </dt>
+          <dd>Lote 7: ES421.</dd>
+          <dt>2.9) Código NUTS </dt>
+          <dd>Lote 8: ES425.</dd>
+          <dt>2.10) Código NUTS </dt>
+          <dd>Lote 9: ES618.</dd>
+          <dt>2.11) Código NUTS </dt>
+          <dd>Lote 10: ES.</dd>
+          <dt>2.12) Código NUTS </dt>
+          <dd>Lote 11: ES.</dd>
+          <dt>2.13) Código NUTS </dt>
+          <dd>Lote 12: ES.</dd>
+          <dt>2.14) Código NUTS </dt>
+          <dd>Lote 13: ES.</dd>
+          <dt>2.15) Código NUTS </dt>
+          <dd>Lote 14: ES.</dd>
+          <dt>2.16) Código NUTS </dt>
+          <dd>Lote 15: ES.</dd>
+          <dt>2.17) Código NUTS </dt>
+          <dd>Lote 16: ES.</dd>
+          <dt>2.18) Código NUTS </dt>
+          <dd>Lote 17: ES.</dd>
+          <dt>2.19) Código NUTS </dt>
+          <dd>Lote 18: ES.</dd>
+          <dt>2.20) Código NUTS </dt>
+          <dd>Lote 19: ES.</dd>
+          <dt>2.21) Código NUTS </dt>
+          <dd>Lote 20: ES.</dd>
+          <dt>2.22) Código NUTS </dt>
+          <dd>Lote 21: ES.</dd>
+          <dt>2.23) Código NUTS </dt>
+          <dd>Lote 22: ES.</dd>
+          <dt>2.24) Código NUTS </dt>
+          <dd>Lote 23: ES.</dd>
+          <dt>2.25) Código NUTS </dt>
+          <dd>Lote 24: ES.</dd>
+          <dt>2.26) Código NUTS </dt>
+          <dd>Lote 25: ES.</dd>
+          <dt>2.27) Código NUTS </dt>
+          <dd>Lote 26: ES.</dd>
+          <dt>2.28) Código NUTS </dt>
+          <dd>Lote 27: ES.</dd>
+          <dt>2.29) Código NUTS </dt>
+          <dd>Lote 28: ES.</dd>
+          <dt>2.30) Código NUTS </dt>
+          <dd>Lote 29: ES.</dd>
+          <dt>2.31) Código NUTS </dt>
+          <dd>Lote 30: ES.</dd>
+          <dt>2.32) Código NUTS </dt>
+          <dd>Lote 31: ES.</dd>
+          <dt>2.33) Código NUTS </dt>
+          <dd>Lote 32: ES.</dd>
+          <dt>2.34) Código NUTS </dt>
+          <dd>Lote 33: ES.</dd>
+          <dt>2.35) Código NUTS </dt>
+          <dd>Lote 34: ES.</dd>
+          <dt>2.36) Código NUTS </dt>
+          <dd>Lote 35: ES.</dd>
+          <dt>2.37) Código NUTS </dt>
+          <dd>Lote 36: ES.</dd>
+        </dl>
+      </dd>
+      <dt>3. Descripción de la licitación:</dt>
+      <dd>
+        <dl>
+          <dt>3.1) Descripción genérica:</dt>
+          <dd>Acuerdo Marco para el servicio de restauración colectiva en diversas BAE´s del Ejército de Tierra (CPV: 55300000).</dd>
+          <dt>3.2)</dt>
+          <dd>Lote 1: Base Príncipe (Paracuellos del Jarama, Madrid)Base Primo de Rivera (Alcalá de Henares, Madrid)Acto. Teniente Muñoz Castellanos (Madrid)Acto. San Cristóbal-Torrejón (Torrejón de Ardoz, Madrid)Acto. San Cristóbal-Canillejas (Madrid, Madrid)Acto. San Cristóbal-Villaverde (Madrid, Madrid)Acto. Capitán Arenas (Guadalajara) (CPV: 55300000).</dd>
+          <dt>3.3)</dt>
+          <dd>Lote 2: Escuela Politécnica Superior del Ejército (Madrid)Gobierno Militar (Madrid)Palacio de los Consejos (Madrid)BAD Pozuelo-General Cavalcanti (Pozuelo de Alarcón, Madrid)BAD Pozuelo-Parque de Monteleón (Pozuelo de Alarcón, Madrid)BAD Pozuelo-Capitán Sevillano (Pozuelo de Alarcón, Madrid)BAD Pozuelo-General Arteaga (Carabanchel Alto, Madrid)Acto. Alfonso X (Madrid)Acto. Castillejos (Madrid) (CPV: 55300000).</dd>
+          <dt>3.4)</dt>
+          <dd>Lote 3: Academia de Ingenieros (Ctra. M-607, Madrid)Base San Pedro (Fuencarral, Madrid)Base Coronel Maté (El Pardo, Madrid) (CPV: 55300000).</dd>
+          <dt>3.5)</dt>
+          <dd>Lote 4: Base El Goloso (BRIAC XII, Ctra. M-607, Madrid)Acto. Capitán Guiloche (MAA Fuencarral, Madrid)Acto. Zarco del Valle (PCMMT, El Pardo, Madrid) (CPV: 55300000).</dd>
+          <dt>3.6)</dt>
+          <dd>Lote 5: Acto. Palacio de Buenavista (Madrid)Acto. Conde de Humanes (Madrid) (CPV: 55300000).</dd>
+          <dt>3.7)</dt>
+          <dd>Lote 6: Base Coronel Sánchez Bilbao (Almagro, Ciudad Real) (CPV: 55300000).</dd>
+          <dt>3.8)</dt>
+          <dd>Lote 7: Polvorín y CENAD de Chinchilla (Albacete) (CPV: 55300000).</dd>
+          <dt>3.9)</dt>
+          <dd>Lote 8: Polvorín Cerro Negro (Talavera de la Reina, Toledo) (CPV: 55300000).</dd>
+          <dt>3.10)</dt>
+          <dd>Lote 9: Base El Copero (Sevilla)Establecimiento Plaza España (Sevilla)Acto. La Borbolla (Sevilla) (CPV: 55300000).</dd>
+          <dt>3.11)</dt>
+          <dd>Lote 10:  Base Cerro Muriano (Córdoba) Acto. El Vacar (Villaviciosa de Córdoba, Córdoba)   (CPV: 55300000).</dd>
+          <dt>3.12)</dt>
+          <dd>Lote 11: Acto. Cervantes (Granada)Acto. San Miguel (Granada)Base Álvarez de Sotomayor (Almería)Acto. Montejaque (Ronda, Málaga) (CPV: 55300000).</dd>
+          <dt>3.13)</dt>
+          <dd>Lote 12:  Acto. Tentegorra (Cartagena, Murcia) Acto. Santa Bárbara (Jabalí Nuevo, Murcia)  (CPV: 55300000).</dd>
+          <dt>3.14)</dt>
+          <dd>Lote 13: Base General Menacho (Badajoz) Acto. Santa Ana (Alcor de Santa Ana, Cáceres)   (CPV: 55300000).</dd>
+          <dt>3.15)</dt>
+          <dd>Lote 14: BAD Teniente Ruiz (Ceuta) (CPV: 55300000).</dd>
+          <dt>3.16)</dt>
+          <dd>Lote 15: BAD Teniente Flomesta (Melilla) (CPV: 55300000).</dd>
+          <dt>3.17)</dt>
+          <dd>Lote 16: Acto. El Bruch (Barcelona) Acto. La Merced (Barcelona) Gobierno Militar (Barcelona) Base General Álvarez de Castro (Figueras, Gerona) (CPV: 55300000).</dd>
+          <dt>3.18)</dt>
+          <dd>Lote 17: Acto. General Martín Alonso (Tremp, Lérida) (7 meses de alta actividad y 5 meses de baja actividad) (CPV: 55300000).</dd>
+          <dt>3.19)</dt>
+          <dd>Lote 18: Acto. Jaime II (Palma de Mallorca, Mallorca) Acto. Cabo Pinar (Alcudia, Mallorca) Acto. Avenidas (Palma de Mallorca, Mallorca) Palacio de la Almudaina (Palma de Mallorca, Mallorca) (CPV: 55300000).</dd>
+          <dt>3.20)</dt>
+          <dd>Lote 19: Base General Almirante (Marines, Valencia) Base Jaime I (Bétera, Valencia) Acto. Daoiz y Velarde (Valencia) Acto. San Juan de la Ribera (Valencia) Convento Santo Domingo (Valencia) (CPV: 55300000).</dd>
+          <dt>3.21)</dt>
+          <dd>Lote 20: Acto. Alférez Rojas Navarrete (Alicante) (CPV: 55300000).</dd>
+          <dt>3.22)</dt>
+          <dd>Lote 21: BAD Oroel (San Bernardo, Jaca; Huesca) BAD Oroel (Candanchú-7 meses de baja actividad, Candanchú, Huesca)* BAD Oroel (Candanchú-5 meses de alta actividad, Candanchú, Huesca)* * Centros de formación: 2 periodos con gran diferencia en el número de plazas. Para estos lotes deberán presentarse ofertas diferenciadas en función de las plazas de cada periodo de actividad (CPV: 55300000).</dd>
+          <dt>3.23)</dt>
+          <dd>Lote 22: Acto. Barón de Warsage (Calatayud, Zaragoza) (CPV: 55300000).</dd>
+          <dt>3.24)</dt>
+          <dd>Lote 23: Acto. Aizoaín (Pamplona, Navarra) Acto. Héroes de Revellín (Agoncillo, La Rioja) (CPV: 55300000).</dd>
+          <dt>3.25)</dt>
+          <dd>Lote 24: Acto. Agustina de Aragón (Garrapinillos, Zaragoza) Acto. Sangenís (Monzalbarba, Zaragoza) Acto. San Fernando (Zaragoza) Palacio de Capitanía (Zaragoza) (CPV: 55300000).</dd>
+          <dt>3.26)</dt>
+          <dd>Lote 25: BAD San Jorge (General Ricardos) Zaragoza BAD San Jorge (General Quintana) Zaragoza BAD San Jorge (Capitán Mayoral) Zaragoza BAD San Jorge (Casetas) Zaragoza Centro Militar de cría caballar (Zaragoza) (CPV: 55300000).</dd>
+          <dt>3.27)</dt>
+          <dd>Lote 26: Academia de Caballería (01SEP al 13JUL) *1 (Valladolid) Academia de Caballería (14JUL al 31AGO) *1 (Valladolid) Acto. Pinar de Antequera (Valladolid) Palacio Real (Valladolid) Acto. San Isidro (Valladolid) Base El Empecinado (Santovenia, Valladolid) *1 Centros de formación. 2 periodos con gran diferencia en el número de plazas (CPV: 55300000).</dd>
+          <dt>3.28)</dt>
+          <dd>Lote 27: Academia de Artillería (01SEP al 13JUL) (Segovia) *1 Academia de Artillería (14JUL al 31AGO) (Segovia) *1 PCMASA 2 (Segovia) *1 Centros de formación. 2 periodos con gran diferencia en el número de plazas (meses de baja actividad marzo, abril, mayo y agosto). Para esto lotes deberán presentarse OFERTAS diferenciadas en función de las plazas de cada periodo de actividad (CPV: 55300000).</dd>
+          <dt>3.29)</dt>
+          <dd>Lote 28: Acto. Santocildes (Astorga, León) Base Conde de Gazola (San Andrés de Rabaneda, León) (CPV: 55300000).</dd>
+          <dt>3.30)</dt>
+          <dd>Lote 29: Acto. Atocha (A Coruña) (CPV: 55300000).</dd>
+          <dt>3.31)</dt>
+          <dd>Lote 30: Acto. Loyola (San Sebastián, Guipúzcoa)Yeguada Militar de Lore Toki (San Sebastián, Guipúzcoa) (CPV: 55300000).</dd>
+          <dt>3.32)</dt>
+          <dd>Lote 31: Base Araca (Vitoria, Álava) (CPV: 55300000).</dd>
+          <dt>3.33)</dt>
+          <dd>Lote 32: Acto. Soyeche (Munguía, Vizcaya) (CPV: 55300000).</dd>
+          <dt>3.34)</dt>
+          <dd>Lote 33: Base General Morillo (Figueirido, Pontevedra) (CPV: 55300000).</dd>
+          <dt>3.35)</dt>
+          <dd>Lote 34: Acto. General Arroquia (Salamanca) (CPV: 55300000).</dd>
+          <dt>3.36)</dt>
+          <dd>Lote 35: Acto. Cabo Noval (Siero, Asturias) (CPV: 55300000).</dd>
+          <dt>3.37)</dt>
+          <dd>Lote 36: Polvorín de Geneto (San Cristóbal de la Laguna, Tenerife)Palacio Militar de Capitanía (Santa Cruz de Tenerife, Tenerife) (CPV: 55300000).</dd>
+        </dl>
+      </dd>
+      <dt>4. Ofertas recibidas: </dt>
+      <dd>
+        <dl>
+          <dt>4.1) Lote 1: </dt>
+          <dd>
+            <dl>
+              <dt>4.1.1) Número de ofertas recibidas: </dt>
+              <dd>3.</dd>
+            </dl>
+          </dd>
+          <dt>4.3) Lote 3: </dt>
+          <dd>
+            <dl>
+              <dt>4.3.1) Número de ofertas recibidas: </dt>
+              <dd>7.</dd>
+            </dl>
+          </dd>
+          <dt>4.4) Lote 4: </dt>
+          <dd>
+            <dl>
+              <dt>4.4.1) Número de ofertas recibidas: </dt>
+              <dd>11.</dd>
+            </dl>
+          </dd>
+          <dt>4.6) Lote 6: </dt>
+          <dd>
+            <dl>
+              <dt>4.6.1) Número de ofertas recibidas: </dt>
+              <dd>2.</dd>
+            </dl>
+          </dd>
+          <dt>4.7) Lote 7: </dt>
+          <dd>
+            <dl>
+              <dt>4.7.1) Número de ofertas recibidas: </dt>
+              <dd>3.</dd>
+            </dl>
+          </dd>
+          <dt>4.13) Lote 13: </dt>
+          <dd>
+            <dl>
+              <dt>4.13.1) Número de ofertas recibidas: </dt>
+              <dd>9.</dd>
+            </dl>
+          </dd>
+          <dt>4.17) Lote 17: </dt>
+          <dd>
+            <dl>
+              <dt>4.17.1) Número de ofertas recibidas: </dt>
+              <dd>7.</dd>
+            </dl>
+          </dd>
+          <dt>4.20) Lote 20: </dt>
+          <dd>
+            <dl>
+              <dt>4.20.1) Número de ofertas recibidas: </dt>
+              <dd>7.</dd>
+            </dl>
+          </dd>
+          <dt>4.21) Lote 21: </dt>
+          <dd>
+            <dl>
+              <dt>4.21.1) Número de ofertas recibidas: </dt>
+              <dd>3.</dd>
+            </dl>
+          </dd>
+          <dt>4.22) Lote 22: </dt>
+          <dd>
+            <dl>
+              <dt>4.22.1) Número de ofertas recibidas: </dt>
+              <dd>8.</dd>
+            </dl>
+          </dd>
+          <dt>4.23) Lote 23: </dt>
+          <dd>
+            <dl>
+              <dt>4.23.1) Número de ofertas recibidas: </dt>
+              <dd>7.</dd>
+            </dl>
+          </dd>
+          <dt>4.24) Lote 24: </dt>
+          <dd>
+            <dl>
+              <dt>4.24.1) Número de ofertas recibidas: </dt>
+              <dd>5.</dd>
+            </dl>
+          </dd>
+          <dt>4.25) Lote 25: </dt>
+          <dd>
+            <dl>
+              <dt>4.25.1) Número de ofertas recibidas: </dt>
+              <dd>7.</dd>
+            </dl>
+          </dd>
+          <dt>4.26) Lote 26: </dt>
+          <dd>
+            <dl>
+              <dt>4.26.1) Número de ofertas recibidas: </dt>
+              <dd>5.</dd>
+            </dl>
+          </dd>
+          <dt>4.27) Lote 27: </dt>
+          <dd>
+            <dl>
+              <dt>4.27.1) Número de ofertas recibidas: </dt>
+              <dd>4.</dd>
+            </dl>
+          </dd>
+          <dt>4.28) Lote 28: </dt>
+          <dd>
+            <dl>
+              <dt>4.28.1) Número de ofertas recibidas: </dt>
+              <dd>4.</dd>
+            </dl>
+          </dd>
+          <dt>4.29) Lote 29: </dt>
+          <dd>
+            <dl>
+              <dt>4.29.1) Número de ofertas recibidas: </dt>
+              <dd>4.</dd>
+            </dl>
+          </dd>
+          <dt>4.31) Lote 31: </dt>
+          <dd>
+            <dl>
+              <dt>4.31.1) Número de ofertas recibidas: </dt>
+              <dd>4.</dd>
+            </dl>
+          </dd>
+          <dt>4.33) Lote 33: </dt>
+          <dd>
+            <dl>
+              <dt>4.33.1) Número de ofertas recibidas: </dt>
+              <dd>6.</dd>
+            </dl>
+          </dd>
+          <dt>4.34) Lote 34: </dt>
+          <dd>
+            <dl>
+              <dt>4.34.1) Número de ofertas recibidas: </dt>
+              <dd>4.</dd>
+            </dl>
+          </dd>
+          <dt>4.35) Lote 35: </dt>
+          <dd>
+            <dl>
+              <dt>4.35.1) Número de ofertas recibidas: </dt>
+              <dd>7.</dd>
+            </dl>
+          </dd>
+          <dt>4.36) Lote 36: </dt>
+          <dd>
+            <dl>
+              <dt>4.36.1) Número de ofertas recibidas: </dt>
+              <dd>3.</dd>
+            </dl>
+          </dd>
+        </dl>
+      </dd>
+      <dt>5. Adjudicatarios: </dt>
+      <dd>
+        <dl>
+          <dt>5.1) Lote 1: </dt>
+          <dd>
+            <dl>
+              <dt>5.1.1) Nombre: </dt>
+              <dd>CATERING LA HACIENDA S.L.</dd>
+              <dt>5.1.2) Número de identificación fiscal: </dt>
+              <dd>B97254403.</dd>
+              <dt>5.1.3) Dirección: </dt>
+              <dd>Camino de la Tanca s/n.</dd>
+              <dt>5.1.4) Localidad: </dt>
+              <dd>El Puig (Valencia).</dd>
+              <dt>5.1.6) Código postal: </dt>
+              <dd>46540.</dd>
+              <dt>5.1.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.3) Lote 3: </dt>
+          <dd>
+            <dl>
+              <dt>5.3.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.3.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.3.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.3.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.3.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.3.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.4) Lote 4: </dt>
+          <dd>
+            <dl>
+              <dt>5.4.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.4.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.4.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.4.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.4.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.4.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.6) Lote 6: </dt>
+          <dd>
+            <dl>
+              <dt>5.6.1) Nombre: </dt>
+              <dd>SERUNION S.A.U.</dd>
+              <dt>5.6.2) Número de identificación fiscal: </dt>
+              <dd>A59376574.</dd>
+              <dt>5.6.3) Dirección: </dt>
+              <dd>Esteban Terradas 8.</dd>
+              <dt>5.6.4) Localidad: </dt>
+              <dd>Leganés (Madrid).</dd>
+              <dt>5.6.6) Código postal: </dt>
+              <dd>28914.</dd>
+              <dt>5.6.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.7) Lote 7: </dt>
+          <dd>
+            <dl>
+              <dt>5.7.1) Nombre: </dt>
+              <dd>SERUNION S.A.U.</dd>
+              <dt>5.7.2) Número de identificación fiscal: </dt>
+              <dd>A59376574.</dd>
+              <dt>5.7.3) Dirección: </dt>
+              <dd>Esteban Terradas 8.</dd>
+              <dt>5.7.4) Localidad: </dt>
+              <dd>Leganés (Madrid).</dd>
+              <dt>5.7.6) Código postal: </dt>
+              <dd>28914.</dd>
+              <dt>5.7.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.13) Lote 13: </dt>
+          <dd>
+            <dl>
+              <dt>5.13.1) Nombre: </dt>
+              <dd>SERUNION S.A.U.</dd>
+              <dt>5.13.2) Número de identificación fiscal: </dt>
+              <dd>A59376574.</dd>
+              <dt>5.13.3) Dirección: </dt>
+              <dd>Esteban Terradas 8.</dd>
+              <dt>5.13.4) Localidad: </dt>
+              <dd>Leganés (Madrid).</dd>
+              <dt>5.13.6) Código postal: </dt>
+              <dd>28914.</dd>
+              <dt>5.13.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.17) Lote 17: </dt>
+          <dd>
+            <dl>
+              <dt>5.17.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.17.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.17.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.17.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.17.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.17.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.20) Lote 20: </dt>
+          <dd>
+            <dl>
+              <dt>5.20.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.20.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.20.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.20.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.20.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.20.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.21) Lote 21: </dt>
+          <dd>
+            <dl>
+              <dt>5.21.1) Nombre: </dt>
+              <dd>SERUNION S.A.U.</dd>
+              <dt>5.21.2) Número de identificación fiscal: </dt>
+              <dd>A59376574.</dd>
+              <dt>5.21.3) Dirección: </dt>
+              <dd>Esteban Terradas 8.</dd>
+              <dt>5.21.4) Localidad: </dt>
+              <dd>Leganés (Madrid).</dd>
+              <dt>5.21.6) Código postal: </dt>
+              <dd>28914.</dd>
+              <dt>5.21.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.22) Lote 22: </dt>
+          <dd>
+            <dl>
+              <dt>5.22.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.22.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.22.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.22.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.22.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.22.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.23) Lote 23: </dt>
+          <dd>
+            <dl>
+              <dt>5.23.1) Nombre: </dt>
+              <dd>SERUNION S.A.U.</dd>
+              <dt>5.23.2) Número de identificación fiscal: </dt>
+              <dd>A59376574.</dd>
+              <dt>5.23.3) Dirección: </dt>
+              <dd>Esteban Terradas 8.</dd>
+              <dt>5.23.4) Localidad: </dt>
+              <dd>Leganés (Madrid).</dd>
+              <dt>5.23.6) Código postal: </dt>
+              <dd>28914.</dd>
+              <dt>5.23.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.24) Lote 24: </dt>
+          <dd>
+            <dl>
+              <dt>5.24.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.24.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.24.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.24.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.24.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.24.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.25) Lote 25: </dt>
+          <dd>
+            <dl>
+              <dt>5.25.1) Nombre: </dt>
+              <dd>CATERING LA HACIENDA S.L.</dd>
+              <dt>5.25.2) Número de identificación fiscal: </dt>
+              <dd>B97254403.</dd>
+              <dt>5.25.3) Dirección: </dt>
+              <dd>Camino de la Tanca s/n.</dd>
+              <dt>5.25.4) Localidad: </dt>
+              <dd>El Puig (Valencia).</dd>
+              <dt>5.25.6) Código postal: </dt>
+              <dd>46540.</dd>
+              <dt>5.25.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.26) Lote 26: </dt>
+          <dd>
+            <dl>
+              <dt>5.26.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.26.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.26.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.26.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.26.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.26.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.27) Lote 27: </dt>
+          <dd>
+            <dl>
+              <dt>5.27.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.27.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.27.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.27.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.27.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.27.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.28) Lote 28: </dt>
+          <dd>
+            <dl>
+              <dt>5.28.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.28.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.28.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.28.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.28.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.28.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.29) Lote 29: </dt>
+          <dd>
+            <dl>
+              <dt>5.29.1) Nombre: </dt>
+              <dd>CATERING LA HACIENDA S.L.</dd>
+              <dt>5.29.2) Número de identificación fiscal: </dt>
+              <dd>B97254403.</dd>
+              <dt>5.29.3) Dirección: </dt>
+              <dd>Camino de la Tanca s/n.</dd>
+              <dt>5.29.4) Localidad: </dt>
+              <dd>El Puig (Valencia).</dd>
+              <dt>5.29.6) Código postal: </dt>
+              <dd>46540.</dd>
+              <dt>5.29.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.31) Lote 31: </dt>
+          <dd>
+            <dl>
+              <dt>5.31.1) Nombre: </dt>
+              <dd>SERUNION S.A.U.</dd>
+              <dt>5.31.2) Número de identificación fiscal: </dt>
+              <dd>A59376574.</dd>
+              <dt>5.31.3) Dirección: </dt>
+              <dd>Esteban Terradas 8.</dd>
+              <dt>5.31.4) Localidad: </dt>
+              <dd>Leganés (Madrid).</dd>
+              <dt>5.31.6) Código postal: </dt>
+              <dd>28914.</dd>
+              <dt>5.31.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.33) Lote 33: </dt>
+          <dd>
+            <dl>
+              <dt>5.33.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.33.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.33.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.33.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.33.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.33.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.34) Lote 34: </dt>
+          <dd>
+            <dl>
+              <dt>5.34.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.34.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.34.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.34.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.34.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.34.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.35) Lote 35: </dt>
+          <dd>
+            <dl>
+              <dt>5.35.1) Nombre: </dt>
+              <dd>UNION CASTELLANA DE ALIMENTACION S.A.</dd>
+              <dt>5.35.2) Número de identificación fiscal: </dt>
+              <dd>A80994460.</dd>
+              <dt>5.35.3) Dirección: </dt>
+              <dd>Oquendo 23.</dd>
+              <dt>5.35.4) Localidad: </dt>
+              <dd>Madrid.</dd>
+              <dt>5.35.6) Código postal: </dt>
+              <dd>28006.</dd>
+              <dt>5.35.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+          <dt>5.36) Lote 36: </dt>
+          <dd>
+            <dl>
+              <dt>5.36.1) Nombre: </dt>
+              <dd>SERUNION S.A.U.</dd>
+              <dt>5.36.2) Número de identificación fiscal: </dt>
+              <dd>A59376574.</dd>
+              <dt>5.36.3) Dirección: </dt>
+              <dd>Esteban Terradas 8.</dd>
+              <dt>5.36.4) Localidad: </dt>
+              <dd>Leganés (Madrid).</dd>
+              <dt>5.36.6) Código postal: </dt>
+              <dd>28914.</dd>
+              <dt>5.36.7) País: </dt>
+              <dd>España.</dd>
+            </dl>
+          </dd>
+        </dl>
+      </dd>
+      <dt>6. Valor de las ofertas: </dt>
+      <dd>
+        <dl>
+          <dt>6.1) Lote 1: </dt>
+          <dd>
+            <dl>
+              <dt>6.1.1) Valor de la oferta seleccionada: </dt>
+              <dd>2.317.931,53 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.3) Lote 3: </dt>
+          <dd>
+            <dl>
+              <dt>6.3.1) Valor de la oferta seleccionada: </dt>
+              <dd>2.266.250,87 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.4) Lote 4: </dt>
+          <dd>
+            <dl>
+              <dt>6.4.1) Valor de la oferta seleccionada: </dt>
+              <dd>1.996.129,93 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.6) Lote 6: </dt>
+          <dd>
+            <dl>
+              <dt>6.6.1) Valor de la oferta seleccionada: </dt>
+              <dd>369.727,67 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.7) Lote 7: </dt>
+          <dd>
+            <dl>
+              <dt>6.7.1) Valor de la oferta seleccionada: </dt>
+              <dd>193.178,87 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.13) Lote 13: </dt>
+          <dd>
+            <dl>
+              <dt>6.13.1) Valor de la oferta seleccionada: </dt>
+              <dd>4.146.162,24 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.17) Lote 17: </dt>
+          <dd>
+            <dl>
+              <dt>6.17.1) Valor de la oferta seleccionada: </dt>
+              <dd>1.085.067,20 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.20) Lote 20: </dt>
+          <dd>
+            <dl>
+              <dt>6.20.1) Valor de la oferta seleccionada: </dt>
+              <dd>515.977,44 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.21) Lote 21: </dt>
+          <dd>
+            <dl>
+              <dt>6.21.1) Valor de la oferta seleccionada: </dt>
+              <dd>832.605,47 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.22) Lote 22: </dt>
+          <dd>
+            <dl>
+              <dt>6.22.1) Valor de la oferta seleccionada: </dt>
+              <dd>1.484.904,96 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.23) Lote 23: </dt>
+          <dd>
+            <dl>
+              <dt>6.23.1) Valor de la oferta seleccionada: </dt>
+              <dd>618.507,36 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.24) Lote 24: </dt>
+          <dd>
+            <dl>
+              <dt>6.24.1) Valor de la oferta seleccionada: </dt>
+              <dd>1.010.564,16 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.25) Lote 25: </dt>
+          <dd>
+            <dl>
+              <dt>6.25.1) Valor de la oferta seleccionada: </dt>
+              <dd>1.991.952,00 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.26) Lote 26: </dt>
+          <dd>
+            <dl>
+              <dt>6.26.1) Valor de la oferta seleccionada: </dt>
+              <dd>1.197.346,07 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.27) Lote 27: </dt>
+          <dd>
+            <dl>
+              <dt>6.27.1) Valor de la oferta seleccionada: </dt>
+              <dd>831.819,84 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.28) Lote 28: </dt>
+          <dd>
+            <dl>
+              <dt>6.28.1) Valor de la oferta seleccionada: </dt>
+              <dd>1.080.719,04 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.29) Lote 29: </dt>
+          <dd>
+            <dl>
+              <dt>6.29.1) Valor de la oferta seleccionada: </dt>
+              <dd>418.128,00 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.31) Lote 31: </dt>
+          <dd>
+            <dl>
+              <dt>6.31.1) Valor de la oferta seleccionada: </dt>
+              <dd>473.810,40 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.33) Lote 33: </dt>
+          <dd>
+            <dl>
+              <dt>6.33.1) Valor de la oferta seleccionada: </dt>
+              <dd>813.876,47 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.34) Lote 34: </dt>
+          <dd>
+            <dl>
+              <dt>6.34.1) Valor de la oferta seleccionada: </dt>
+              <dd>456.019,20 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.35) Lote 35: </dt>
+          <dd>
+            <dl>
+              <dt>6.35.1) Valor de la oferta seleccionada: </dt>
+              <dd>513.825,13 euros.</dd>
+            </dl>
+          </dd>
+          <dt>6.36) Lote 36: </dt>
+          <dd>
+            <dl>
+              <dt>6.36.1) Valor de la oferta seleccionada: </dt>
+              <dd>446.742,72 euros.</dd>
+            </dl>
+          </dd>
+        </dl>
+      </dd>
+    </dl>
+    <p class="parrafo">Madrid, 11 de marzo de 2021.- DIRECTOR DE ASUNTOS ECONÓMICOS, José María de Barutell Rubio.</p>
+  </texto>
+</documento>

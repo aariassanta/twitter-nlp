@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312115601">
+  <metadatos>
+    <identificador>BOE-A-2021-3937</identificador>
+    <titulo>Resolución de 10 de febrero de 2021, de la Universidad Camilo José Cela, por la que se publica el plan de estudios de Máster Universitario en Dirección de la Empresa Familiar.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210210</fecha_disposicion>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>29079</pagina_inicial>
+    <pagina_final>29080</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-A-2021-3937.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="90" orden="">Administración y Dirección de Empresas</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7017" orden="">Universidad Camilo José Cela</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2019-18019" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 3 de diciembre de 2019</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Este Rectorado ha resuelto lo siguiente:</p>
+    <p class="parrafo_2">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Fundación para el conocimiento Madri+d, autorizada su implantación por la Comunidad de Madrid y establecido el carácter oficial de los títulos por Acuerdo de Consejo de Ministros de 29 de noviembre de 2019 (BOE núm. 302, de 17 de diciembre de 2019, por Resolución de la Secretaría General de Universidades de 3 de diciembre de 2019),</p>
+    <p class="parrafo">Este Rectorado ha resuelto publicar el plan de estudios del Máster Universitario en Dirección de la Empresa Familiar. El plan de estudios quedará estructurado conforme figura en el anexo de la presente resolución.</p>
+    <p class="parrafo_2">Villanueva de la Cañada, 10 de febrero de 2021.–El Rector, Emilio Lora-Tamayo D’Ocón.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente al título de Máster Universitario en Dirección de la Empresa Familiar. (Rama de Ciencias Sociales y Jurídicas)</p>
+    <p class="centro_cursiva">Real Decreto 1393/2007, modificado por el Real Decreto 861/2010, anexo I, apartado 5.1 Estructura de las Enseñanzas</p>
+    <p class="parrafo_2">1. Distribución del plan de estudios en créditos ECTS:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_centro">40</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_centro">–</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas (PE).</td>
+          <td class="cuerpo_tabla_centro">8</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster (TFM).</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Plan de estudios resumido por materia:</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Semestre</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">La empresa Familiar, concepto y características.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">8</td>
+          <td class="cuerpo_tabla_izq">Entorno y Realidad de la Empresa Familiar.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cultura y Valores de la Empresa Familiar.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">La empresa familiar, estructura y organización.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">8</td>
+          <td class="cuerpo_tabla_izq">Organización de la Empresa Familiar.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aspectos jurídicos y tributarios de la Empresa Familiar.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Dirección y Gestión de la empresa familiar.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">8</td>
+          <td class="cuerpo_tabla_izq">Estrategias, finanzas y comunicación de la empresa familiar.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">1.<sup>er</sup></td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos Humanos, Innovación y Tecnología en la Empresa Familiar.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Mejoras Continuas de la empresa familiar.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">8</td>
+          <td class="cuerpo_tabla_izq">Nuevas herramientas para la gestión de la Empresa Familiar.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas Lean aplicadas a la Empresa Familiar.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Expansión y sucesión de la empresa familiar.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">8</td>
+          <td class="cuerpo_tabla_izq">Desarrollo y profesionalización de la Empresa Familiar.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La sucesión en la Empresa Familiar.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_izq">Prácticas externas.</td>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">Anual</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

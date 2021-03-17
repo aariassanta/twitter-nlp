@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312115601">
+  <metadatos>
+    <identificador>BOE-A-2021-3933</identificador>
+    <titulo>Resolución de 10 de febrero de 2021, de la Universidad Católica Santa Teresa de Jesús de Ávila, por la que se publica el plan de estudios de Máster Universitario en Terapia Manual del Sistema Musculoesquelético.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210210</fecha_disposicion>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>29067</pagina_inicial>
+    <pagina_final>29068</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-A-2021-3933.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="3724" orden="">Fisioterapia</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7021" orden="">Universidad Católica Santa Teresa de Jesús de Ávila</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2001-24515" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>con el art. 35 de la Ley Orgánica 6/2001, de 21 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2021-901" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Agencia para la Calidad del Sistema Universitario de Castilla y León (ACSUCYL), así como la autorización de la Comunidad Autónoma de Castilla y León por acuerdo 42/2020, de 30 de julio, y establecido el carácter oficial del Título por Acuerdo del Consejo de Ministros de 12 de enero de 2021 (BOE 22 de enero de 2021), y para cumplir con lo previsto en el art. 35.4. de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, en la redacción dada por la Ley Orgánica 4/2007, de 12 de abril, por la que se modifica la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención del título oficial de Máster Universitario en Terapia Manual del Sistema Musculoesquelético por la Universidad Católica «Santa Teresa de Jesús» de Ávila, que quedará estructurado según consta en el Anexo de esta Resolución.</p>
+    <p class="parrafo_2">Ávila, 10 de febrero de 2021.–La Rectora, María del Rosario Sáez Yuguero.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Máster Universitario en Terapia Manual del Sistema Musculoesquelético por la Universidad Católica «Santa Teresa de Jesús» de Ávila</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="2">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td colspan="2">
+            <p class="cuerpo_tabla_izq">Obligatorias</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_der">54</p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <p class="cuerpo_tabla_izq">Trabajo fin de máster</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_der">6</p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <p class="cuerpo_tabla_izq"> Total</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_der">60</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Tipo</th>
+          <th class="cabeza_tabla">N.º ECTS</th>
+          <th class="cabeza_tabla">Organización temporal</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Introducción a la terapia manual.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">2</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">1.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Técnicas de imagen.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">2</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">1.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Terapia manual en la columna lumbar y dorsal.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">1.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Terapia manual en la columna cervical.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">1.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Terapia manual en la cintura pélvica: sacroilíaca y sínfisis púbica.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">1.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Terapia manual en el sacro y el coxis.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">1.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Terapia manual en la caja torácica y el diafragma.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">1.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Terapia manual en la cintura escapular.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">1.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Terapia manual en el codo, muñeca y mano.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">6</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">1.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Metodología de la investigación y recursos bibliográficos.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">2.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Terapia manual en la cadera y rodilla.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">2.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Terapia manual en el tobillo y pie.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">2.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Terapia manual en la articulación temporo-mandibular (ATM).</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">2</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">2.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Terapia manual en el suboccipital y charnelas.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">2.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Dolor miofascial.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">2.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Neurodinamia y control motor.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">Obligatoria.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">2.º semestre</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="cuerpo_tabla_izq">Trabajo Fin de Máster.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_izq">TFM.</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">6</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">2.º semestre</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

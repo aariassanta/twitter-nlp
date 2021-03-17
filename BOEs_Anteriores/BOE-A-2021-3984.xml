@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210315082601">
+  <metadatos>
+    <identificador>BOE-A-2021-3984</identificador>
+    <titulo>Resolución de 22 de febrero de 2021, de la Dirección General de Tráfico, por la que se crea el Punto de Acceso Nacional sobre información mínima universal sobre el tráfico en relación con la seguridad vial, así como el suministro de servicios de información de tráfico en tiempo real.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>63</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="7320">Ministerio del Interior</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210222</fecha_disposicion>
+    <fecha_publicacion>20210315</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>29364</pagina_inicial>
+    <pagina_final>29365</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/15/pdfs/BOE-A-2021-3984.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="632" orden="">Carreteras</materia>
+      <materia codigo="2984" orden="">Dirección General de Tráfico</materia>
+      <materia codigo="4165" orden="">Información</materia>
+      <materia codigo="5278" orden="">Organización de la Administración del Estado</materia>
+      <materia codigo="5923" orden="">Redes de telecomunicación</materia>
+      <materia codigo="6500" orden="">Seguridad vial</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+      <alerta codigo="130" orden="">Telecomunicaciones</alerta>
+      <alerta codigo="132" orden="">Transportes y tráfico</alerta>
+    </alertas>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">La Directiva 2010/40/UE del Parlamento Europeo y del Consejo, de 7 de julio de 2010, por la que se establece el marco para la implantación de los sistemas de transporte inteligente en el sector del transporte por carretera, recoge entre sus ámbitos prioritarios, la utilización óptima de los datos sobre la red viaria, el tráfico y los desplazamientos. En este sentido, existe una elevada y creciente demanda en el uso y aplicación de las tecnologías de la información y las comunicaciones en el mundo de la automoción, que sustentará nuevos servicios y avances tecnológicos en materia de seguridad vial.</p>
+    <p class="parrafo">Dentro de este marco, que configura la citada Directiva y su normativa de desarrollo, concretada en el Reglamento Delegado (UE) n.º 886/2013 de la Comisión, de 15 de mayo de 2013, que complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que respecta a los datos y procedimientos para facilitar, cuando sea posible, información mínima universal sobre el tráfico en relación con la seguridad vial, con carácter gratuito para el usuario y, el Reglamento Delegado (UE) 2015/962 de la Comisión, de 18 de diciembre de 2014, por el que se complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que se refiere al suministro de servicios de información de tráfico en tiempo real en toda la Unión Europea, se debe establecer un punto de acceso común que permita que la información de tráfico en tiempo real proveniente de distintas fuentes, se encuentre accesible a los proveedores de servicios, a los ciudadanos y a las administraciones, en un formato estandarizado y referidos al territorio del Estado miembro.</p>
+    <p class="parrafo">En consecuencia, y en cumplimiento de lo establecido en ambos Reglamentos, se habilita el Punto de Acceso Nacional (NAP) para el acceso de los usuarios, entendidos estos conforme a la definición contenida en el Reglamento Delegado (UE) 2015/962 de la Comisión, de 18 de diciembre de 2014, por el que se complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que se refiere al suministro de servicios de información de tráfico en tiempo real en toda la Unión Europea, a la información mínima universal sobre el tráfico en relación con la seguridad vial y al suministro de los servicios de información de tráfico en tiempo real.</p>
+    <p class="parrafo">En su virtud, y de conformidad con el órgano competente del Ministerio del Interior,</p>
+    <p class="parrafo">El Director General de Tráfico resuelve lo siguiente:</p>
+    <p class="articulo">Disposición única.</p>
+    <p class="parrafo">Creación y puesta en funcionamiento del Punto de Acceso Nacional (NAP) para el acceso de los usuarios a la información mínima universal sobre el tráfico en relación con la seguridad vial y al suministro de los servicios de información de tráfico en tiempo real mediante la presente Resolución con las siguientes características:</p>
+    <p class="parrafo_2">El Punto de Acceso Nacional quedará habilitado al día siguiente de la publicación de la presente resolución.</p>
+    <p class="parrafo">La Subdirección General de Gestión de la Movilidad y Tecnología del organismo autónomo Jefatura Central de Tráfico, informará a los usuarios sobre los procedimientos a seguir para obtener un acceso al Punto de Acceso Nacional e intercambio de información en https://nap.dgt.es/.</p>
+    <p class="parrafo_2">La presente Resolución entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 22 de febrero de 2021- El Director General de Tráfico, Pere Navarro Olivella.</p>
+  </texto>
+</documento>

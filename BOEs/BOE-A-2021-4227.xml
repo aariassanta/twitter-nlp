@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210317092601">
+  <metadatos>
+    <identificador>BOE-A-2021-4227</identificador>
+    <titulo>Corrección de erratas de la Resolución de 8 de marzo de 2021, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto "Helipuerto de Finca Ascari (Málaga)".</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>65</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9575">Ministerio para la Transición Ecológica y el Reto Demográfico</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <numero_oficial/>
+    <fecha_disposicion/>
+    <fecha_publicacion>20210317</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>30989</pagina_inicial>
+    <pagina_final>30989</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo/>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/17/pdfs/BOE-A-2021-4227.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias/>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-4181" orden="2145">
+          <palabra codigo="204">CORRIGE erratas</palabra>
+          <texto>de la Resolución de 8 de marxo de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Advertidas erratas en la publicación de la Resolución de 8 de marzo de 2021, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto «Helipuerto de Finca Ascari (Málaga)», publicada en el «Boletín Oficial del Estado» número 64, de fecha 16 de marzo de 2021, páginas 30745 a 30753, se transcriben a continuación las oportunas rectificaciones:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">En la página 30752, la imagen que se reproduce debe trasladarse al final de la página 30753, y en su lugar debe aparecer el siguiente «Croquis de la actuación y Hábitats de Interés Comunitario (HIC)» que fue indebidamente omitido:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="1" src="/datos/imagenes/disp/2021/65/04227_4680.png" width="2126" height="1522"/>
+    </p>
+  </texto>
+</documento>

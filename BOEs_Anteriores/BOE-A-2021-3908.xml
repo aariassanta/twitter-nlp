@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312085601">
+  <metadatos>
+    <identificador>BOE-A-2021-3908</identificador>
+    <titulo>Resolución de 1 de marzo de 2021, de la Dirección General de Industria y de la Pequeña y Mediana Empresa, por la que se publica la relación de normas UNE anuladas durante el mes de febrero de 2021.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="5250">Ministerio de Industria, Comercio y Turismo</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210301</fecha_disposicion>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>28824</pagina_inicial>
+    <pagina_final>28827</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-A-2021-3908.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5159" orden="">Normalización</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="129" orden="">Tecnología e investigación</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1996-2468" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 11.f) del Reglamento aprobado por Real Decreto 2200/1995, de 28 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">En cumplimiento de lo dispuesto en el artículo 11.º, apartado f), del Reglamento de la Infraestructura para la Calidad y Seguridad Industrial, aprobado por Real Decreto 2200/1995, de 28 de diciembre (BOE de 6 de febrero de 1996), modificado por el Real Decreto 1072/2015, de 27 de noviembre (BOE de 14 de diciembre de 2015), y visto el expediente de anulación de normas presentado por la Asociación Española de Normalización, entidad designada por Orden del Ministerio de Industria y Energía de 26 de febrero de 1986, de acuerdo con el Real Decreto 1614/1985, de 1 de agosto, y reconocida por la disposición adicional primera del citado Real Decreto 2200/1995, de 28 de diciembre.</p>
+    <p class="parrafo">Esta Dirección General ha resuelto publicar en el «Boletín Oficial del Estado», la relación de normas españolas UNE anuladas durante el mes de febrero de 2021, identificadas por su título y código numérico, que figura como anexo a la presente resolución.</p>
+    <p class="parrafo_2">Madrid, 1 de marzo de 2021.–El Director General de Industria y de la Pequeña y Mediana Empresa, Galo Gutiérrez Monzonís.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Normas anuladas en el mes de febrero de 2021</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Código</p>
+          </th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Título</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE 7045:1952.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Determinación de la porosidad de un terreno.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE 20864-1:1993.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Normalización de interconexiones entre emisores de radiodifusión o entre sistemas de emisores y equipos de supervisión. Parte 1: normas de interfaces para sistemas que usen interconexiones cableadas.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE 53942:2014.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Plásticos. Bolsa de polietileno (PE) reutilizable para el transporte de productos distribuidos al por menor. Requisitos particulares y métodos de ensayo.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE 202007:2006 IN.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Guía de aplicación de la Norma UNE-EN 60079-10. Material eléctrico para atmósferas de gas explosivas. Clasificación de emplazamientos peligrosos.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 12285-1:2004.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Tanques de acero fabricados en taller. Parte 1: Tanques horizontales cilíndricos, de pared simple o de pared doble, para el almacenamiento enterrado de líquidos inflamables y no inflamables contaminantes del agua.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 12285-1:2004 ERRATUM:2006.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Tanques de acero fabricados en taller. Parte 1: Tanques horizontales cilíndricos, de pared simple o de pared doble, para el almacenamiento enterrado de líquidos inflamables y no inflamables contaminantes del agua.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 50291-1:2011.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Aparatos eléctricos para la detección de monóxido de carbono en los locales de uso doméstico. Parte 1: Métodos de ensayo y requisitos de funcionamiento.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 50291-1:2011/A1:2013.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Aparatos eléctricos para la detección de monóxido de carbono en los locales de uso doméstico. Parte 1: Métodos de ensayo y requisitos de funcionamiento.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 50505:2008.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Norma básica para la evaluación de la exposición humana a los campos electromagnéticos de los equipos de soldadura por resistencia y procesos afines. (Ratificada por AENOR en agosto de 2008.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60068-3-5:2002.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Ensayos ambientales. Parte 3-5: Documentación de acompañamiento y guía. Confirmación de las prestaciones de las cámaras de ensayo de temperatura.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60068-3-6:2002.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Ensayos ambientales. Parte 3-6: Documentación de acompañamiento y guía. Confirmación de las prestaciones de las cámaras de ensayo de temperatura y humedad.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60099-5:2013.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Pararrayos. Parte 5: Recomendaciones para la selección y utilización. (Ratificada por AENOR en noviembre de 2013.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60191-1:2007.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Normalización mecánica de dispositivos semiconductores. Parte 1: Requisitos generales para la preparación de esquemas de dispositivos discretos. (IEC 60191-1:2007). (Ratificada por AENOR en octubre de 2007.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60215/A2:1995.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Reglas de seguridad para equipos de emisión radioeléctrica.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60215:1995.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Reglas de seguridad para equipos de emisión radioeléctrica.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60230:2002.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Ensayos de impulsos en cables y sus accesorios.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60244-1:2000.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medida aplicables a los emisores radioeléctricos. Parte 1: Características generales de los transmisores de radiodifusión (Ratificada por AENOR en diciembre de 2001).</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60244-5:1993.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medida para emisores de radio. Parte 5: características de funcionamiento de emisores de televisión. (Ratificada por AENOR en mayo de 1995.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60244-8:1994.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medida para emisores de radio. Parte 8: características de funcionamiento de demoduladores de banda lateral residual usados para ensayos emisores y reemisores de televisión. (Ratificada por AENOR en mayo de 1995.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60244-9:1994.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medida para emisores de radio. Parte 9: características de funcionamiento de reemisores de televisión. (Ratificada por AENOR en mayo de 1995.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60244-10:1996.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medida aplicables a los emisores radioeléctricos. Parte 10: Métodos de medida para emisores y reemisores de televisión utilizando señales de ensayo de inserción.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60244-11:1993.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medida para emisores de radio. Parte 11: métodos de medidas para reemisores de radiodifusión de sonido en FM. (Ratificada por AENOR en mayo de 1995.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60244-12-1:1994.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medida aplicables a los emisores radioeléctricos. Parte 12: Guía para la redacción de hojas descriptivas de especificaciones para los emisores y reemisores de sonido y televisión. Características específicas. (Versión oficial EN 60244-12-1:1993).</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60244-12-2:1994.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medida aplicables a los emisores radioeléctricos. Parte 12: guía para la redacción de hojas descriptivas de especificaciones para los emisores y reemisores de sonido y televisión. Hojas de especificaciones. (Versión oficial EN 60244-12-2:1993).</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60244-13:1993.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medida para emisores de radio. Parte 13: características de funcionamiento para radiodifusión de sonido en FM. (Ratificada por AENOR en mayo de 1995.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60244-14:1997.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medida para emisores de radio. Parte 14: Productos de intermodulación externa causados por dos o más transmisores utilizando la misma antena o antenas adyacentes. (Ratificada por AENOR en junio de 1998.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60244-15:2000.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medida aplicables a los emisores radioeléctricos. Parte 15: Transmisores de amplitud modulada para radiodifusión de sonido. (RATIFICADA POR AENOR EN AGOSTO 2000).</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60512-8-3:2011.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Conectores para equipos electrónicos. Ensayos y mediciones. Parte 8-3: Ensayos de carga estática (conectores fijos). Ensayo 8c: Robustez de la palanca actuante (Ratificada por AENOR en septiembre de 2011.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60512-15-2:2008.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Conectores para equipos electrónicos. Ensayos y mediciones. Parte 15-2: Ensayos de conector (mecánico). Ensayo 15b: Retención de inserción en la carcasa (axial). (Ratificada por AENOR en diciembre de 2008.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60669-1/A1:2003.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Interruptores para instalaciones eléctricas fijas, domésticas y análogas. Parte 1: Requisitos generales.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60669-1:2002.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Interruptores para instalaciones eléctricas fijas, domésticas y análogas. Parte 1: Requisitos generales.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60669-1:2002 CORR:2007.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Interruptores para instalaciones eléctricas fijas, domésticas y análogas. Parte 1: Requisitos generales.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60669-1:2002 ERRATUM:2007.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Interruptores para instalaciones eléctricas fijas, domésticas y análogas. Parte 1: Requisitos generales.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60669-1:2002/A1:2003 CORR:2007.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Interruptores para instalaciones eléctricas fijas, domésticas y análogas. Parte 1: Requisitos generales.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60669-1:2002/A2:2009.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Interruptores para instalaciones eléctricas fijas, domésticas y análogas. Parte 1: Requisitos generales.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60749-26:2014.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Dispositivos de semiconductores. Métodos de ensayo mecánicos y climáticos. Parte 26: Ensayo de la sensibilidad a la descarga electrostática (ESD). Modelo del cuerpo humano (HBM) (Ratificada por AENOR en julio de 2014.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60793-1-54:2013.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Fibra óptica. Parte 1-54: Métodos de medición y procedimientos de ensayo. Irradiación gamma. (Ratificada por AENOR en marzo de 2013.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60810:2015.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Lámparas para vehículos de carretera. Requisitos de funcionamiento. (Ratificada por AENOR en abril de 2015.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60810:2015/A1:2017.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Lámparas para vehículos de carretera. Requisitos de funcionamiento. (Ratificada por la Asociación Española de Normalización en julio de 2017.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 60864-2:1997.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Normalización de interconexiones entre transmisores o sistemas de transmisores de radiodifusión y equipos de supervisión. Parte 2: Normas de interfaz para sistemas utilizando interconexiones de tipo bus de datos. (Ratificada por AENOR en junio de 1998.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 61125/A1:2004.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Fluidos para aplicaciones electrotécnicas. Líquidos aislantes nuevos a base de hidrocarburos. Métodos de ensayo para evaluar la estabilidad a la oxidación.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 61125:1996.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Fluidos para aplicaciones electrotécnicas. Líquidos aislantes nuevos a base de hidrocarburos. Métodos de ensayo para evaluar la estabilidad a la oxidación.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 61300-2-3:1998.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Dispositivos de interconexión de fibra óptica y componentes pasivos. Ensayos básicos y procedimientos de medida. Parte 2-3: Ensayos-Carga estática de cizalla.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 61340-4-5:2005.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Electrostática. Parte 4-5: Métodos de ensayo normalizados para aplicaciones específicas. Métodos para la caracterización de la protección electrostática del calzado y el suelo en combinación con una persona.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 61566:1997.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Medida de la exposición a campos electromagnéticos con frecuencias de radio. Intensidad de campo en el rango de frecuencias entre 100 kHz y 1 GHz. (Ratificada por AENOR en junio de 1998.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 61804-2:2007.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Bloques funcionales (FB) para control de procesos. Parte 2: Especificación del concepto FB.(Ratificada por AENOR en septiembre de 2007.) (IEC 61804-2:2006).</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 61938:2014.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Sistemas multimedia. Guía de las características recomendadas para la interoperabilidad en las interfaces analógicas.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 62056-6-2:2016.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Intercambio de datos para los equipos de medida de la energía eléctrica. El conjunto DLMS/COSEM. Parte 6-2: Clases de la interfaz COSEM (Ratificada por la Asociación Española de Normalización en febrero de 2017.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 62148-1:2002.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Dispositivos y componentes activos de fibra óptica. Normas de embalaje y de interfaz. Parte 1: Generalidades y guía. (Ratificada por AENOR en octubre de 2002).</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 62199:2005.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Aisladores pasantes para aplicación en corriente continua.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 62272-2:2007.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Radio Digital Mundial (RDM). Radio digital en las bandas por debajo de 30 MHz. Parte 2: Métodos de medición para transmisores RDM. (IEC 62272-2:2007). (Ratificada por AENOR en septiembre de 2007.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 62273-1:2007.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medición para transmisores de radio. Parte 1: Características de rendimiento de los transmisores de televisión digital terrestre. (IEC 62273-1:2007).</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 62439-3:2012.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Redes de comunicación industrial. Redes de automatización de alta disponibilidad. Parte 3: Protocolo de redundancia paralela (PRP) y anillo homogéneo de alta disponibilidad (HSR). (Ratificada por AENOR en noviembre de 2012.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 62439-5:2010.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Redes de comunicación industrial. Redes de automatización de alta disponibilidad. Parte 5: Protocolo de redundancia de baliza (BRP) (Ratificada por AENOR en junio de 2010.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 62553:2013.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Métodos de medición en redes digitales. Características de funcionamiento de las redes de transmisión digitales terrestres multimedia (Ratificada por AENOR en marzo de 2013.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 62731:2013.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Conversores texto-voz para televisión. Requisitos generales. (Ratificada por AENOR en junio de 2013.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 62802:2017.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Método de medida de una tensión de media longitud de onda y un parámetro Chirp para moduladores ópticos Mach-Zehnder en sistemas de radio de alta frecuencia sobre fibra (RoF) (Ratificada por la Asociación Española de Normalización en enero de 2018.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-EN 62803:2016.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Equipo transmisor para radiocomunicación. Respuesta en frecuencia de dispositivos de conversión ópticos/eléctricos de alta frecuencia de radio en sistemas de fibra. Método de medida. (Ratificada por AENOR en noviembre de 2016.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">UNE-ENV 12872:2001.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Tableros derivados de la madera. Guía para la utilización de los tableros estructurales en forjados, muros y cubiertas.</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210312115601">
+  <metadatos>
+    <identificador>BOE-A-2021-3934</identificador>
+    <titulo>Resolución de 10 de febrero de 2021, de la Universidad Católica Santa Teresa de Jesús de Ávila, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Maestro en Educación Primaria.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>61</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210210</fecha_disposicion>
+    <fecha_publicacion>20210312</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>29069</pagina_inicial>
+    <pagina_final>29074</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/12/pdfs/BOE-A-2021-3934.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="3123" orden="">Educación Primaria</materia>
+      <materia codigo="4834" orden="">Maestros</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7021" orden="">Universidad Católica Santa Teresa de Jesús de Ávila</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2015-6093" orden="2030">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el plan publicado por Resolución de 8 de mayo de 2015</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>los arts. 26 y 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo establecido en los artículos 26 y 28 del Real Decreto 1393/2007, de 29 de octubre, modificados por el Real Decreto 861/2010, de 2 de julio, aprobada por el Consejo de Gobierno de la Universidad Católica «Santa Teresa de Jesús» de Ávila y emitido informe favorable por la Agencia para la Calidad del Sistema Universitario de Castilla y León (ACSUCYL) sobre la modificación del plan de estudios conducente a la obtención del título oficial de Graduado o Graduada en Maestro en Educación Primaria, este Rectorado ha resuelto proceder a su publicación.</p>
+    <p class="parrafo">El plan de estudios modificado a que se refiere la presente Resolución queda estructurado conforme figura en el Anexo de la misma.</p>
+    <p class="parrafo_2">Ávila, 10 de febrero de 2021.–La Rectora, María del Rosario Sáez Yuguero.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Grado en Educación Primaria</p>
+    <table class="tabla">
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Formación Básica</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td>Obligatorias</td>
+          <td class="cuerpo_tabla_der">100</td>
+        </tr>
+        <tr>
+          <td>Optativas</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+        <tr>
+          <td>Prácticas externas</td>
+          <td class="cuerpo_tabla_der">44</td>
+        </tr>
+        <tr>
+          <td>Trabajo Fin de Grado</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td> Total créditos</td>
+          <td class="cuerpo_tabla_der">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Módulo-materia-asignatura</p>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="15%"/>
+        <col/>
+        <col width="8%"/>
+        <col width="25%"/>
+        <col width="8%"/>
+        <col width="36%"/>
+        <col width="8%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="2">Módulo</th>
+          <th class="cabeza_tabla">N.º ECTS</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignaturas</th>
+          <th class="cabeza_tabla">N.º ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td colspan="2" rowspan="10">FORMACIÓN BÁSICA.</td>
+          <td class="cuerpo_tabla_centro" rowspan="10">60</td>
+          <td class="cuerpo_tabla_izq" rowspan="3">Aprendizaje y desarrollo de la personalidad.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td>Psicología del desarrollo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Psicología del aprendizaje en contextos educativos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Dificultades de aprendizaje y trastornos del desarrollo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Procesos y contextos educativos.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">24</td>
+          <td>Teoría e Historia de la educación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Didáctica general.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Diseño, desarrollo y evaluación curricular.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Organización y evaluación de instituciones educativas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Sociedad, familia y escuela.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">18</td>
+          <td>Antropología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Familia y orientación educativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Escuela, familia y pensamiento social.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td colspan="2" rowspan="17">
+            <p class="cuerpo_tabla_izq">FORMACIÓN</p>
+            <p class="cuerpo_tabla_izq">DISCIPLINAR.</p>
+          </td>
+          <td class="cuerpo_tabla_centro" rowspan="17">100</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Enseñanza y aprendizaje de las ciencias experimentales.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td>Ciencias de la naturaleza y su didáctica I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Ciencias de la naturaleza y su didáctica II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Enseñanza y aprendizaje de las ciencias sociales.</td>
+          <td class="cuerpo_tabla_centro" rowspan="4">24</td>
+          <td>Ciencias sociales y su didáctica I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Ciencias sociales y su didáctica II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Pedagogía y didáctica de la religión.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Religión, cultura y valores.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Enseñanza y aprendizaje de las matemáticas.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">16</td>
+          <td>Educación matemática I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Educación matemática II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Educación matemática III.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Enseñanza y aprendizaje de lengua castellana.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td>Lengua castellana y su didáctica I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Lengua castellana y su didáctica II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Enseñanza y aprendizaje de la literatura.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td>Literatura y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Enseñanza y aprendizaje de lengua extranjera (inglés).</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td>Lengua extranjera y su didáctica I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Lengua extranjera y su didáctica II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación musical en la etapa de primaria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td>Didáctica de la expresión musical.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Enseñanza y aprendizaje de la educación plástica y visual.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td>Educación plástica-visual y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Enseñanza y aprendizaje de la educación física.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td>Diseño y desarrollo curricular de la educación física.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td colspan="2" rowspan="3">PRACTICUM.</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">50</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Prácticas externas.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">44</td>
+          <td>Practicum I.</td>
+          <td class="cuerpo_tabla_centro">18</td>
+        </tr>
+        <tr>
+          <td>Practicum II.</td>
+          <td class="cuerpo_tabla_centro">26</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td>TFG.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td colspan="2" rowspan="15">OPTATIVIDAD.</td>
+          <td class="cuerpo_tabla_centro" rowspan="15">30</td>
+          <td class="cuerpo_tabla_izq" rowspan="5">Mención en Pedagogía Terapéutica.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td>Innovación educativa y TICs en Educación Especial.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Atención educativa al alumno con discapacidades motoras y sensoriales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Atención educativa al alumno con discapacidad mental, trastornos del desarrollo y la conducta.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Necesidades educativas en trastornos y dificultades del lenguaje.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Educación Inclusiva.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Mención en Educación Física.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td>Innovación educativa y TICs en Educación Física.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Educación Física y su Didáctica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Psicomotricidad, aprendizaje y desarrollo motor.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Deportes y su enseñanza.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Nutrición y educación física.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Mención en Lengua Inglesa.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td>Innovación educativa y TICs en la Didáctica de la Lengua Inglesa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Fonética y Morfosintaxis.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Lengua extranjera y su Didáctica III.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Lengua extranjera y su Didáctica IV.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Literatura y cultura de la Lengua Inglesa en Primaria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">N.º ECTS</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Asignaturas</th>
+          <th class="cabeza_tabla">N.ª ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="15%"/>
+        <col width="8%"/>
+        <col width="25%"/>
+        <col width="8%"/>
+        <col width="36%"/>
+        <col width="8%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td rowspan="22">
+            <p class="cuerpo_tabla_izq">OPTATIVIDAD.</p>
+          </td>
+          <td rowspan="22">
+            <p class="cuerpo_tabla_centro">30</p>
+          </td>
+          <td class="cuerpo_tabla_izq" rowspan="5">Mención en Audición y Lenguaje.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Fundamentos neuropsicológicos del lenguaje. Desarrollo típico y patológico.</td>
+          <td class="cuerpo_tabla_centro"> 6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación e intervención en los trastornos del desarrollo del lenguaje y el habla.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación e intervención en los trastornos de la lectoescritura.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sistemas alternativos y aumentativos de comunicación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnologías al servicio de los problemas de audición y lenguaje.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="7">Optatividad transversal.</td>
+          <td class="cuerpo_tabla_centro" rowspan="7">42</td>
+          <td class="cuerpo_tabla_izq">Tutoría y Orientación educativa.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Intensificación curricular en Lengua.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Intensificación curricular en Matemáticas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Innovación educativa y TICs aplicadas a la Educación.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ética y Educación en valores.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">El Mensaje cristiano.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">La Iglesia, los Sacramentos y la Moral.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">
+            <p class="cuerpo_tabla_izq">Educación Musical.</p>
+          </td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">El lenguaje musical y la formación vocal y auditiva.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Composición musical, formación instrumental y agrupaciones instrumentales en Educación Primaria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ritmo, movimiento y danza.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Historia, estilos y tradiciones musicales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Nuevas tecnologías aplicadas a la didáctica de la educación musical.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">Artes Plásticas.</td>
+          <td class="cuerpo_tabla_centro" rowspan="5">30</td>
+          <td class="cuerpo_tabla_izq">Teoría del Arte y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Patrimonio artístico cultural y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación plática y TIC. Nuevos medios de expresión.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Recursos, técnicas y procedimientos artísticos en Educación Primaria.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Comunicación audiovisual y su didáctica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Planificación temporal de asignaturas</p>
+    <p class="centro_cursiva">Primer curso</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="50%"/>
+        <col width="20%"/>
+        <col width="10%"/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="6">Primer semestre</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla" colspan="4">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teoría e Historia de la educación.</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der" colspan="4">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Didáctica general.</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der" colspan="4">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del desarrollo.</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der" colspan="4">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Antropología.</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der" colspan="4">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Familia y orientación educativa.</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der" colspan="4">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2"> Créditos ECTS.</td>
+          <td class="cuerpo_tabla_der" colspan="4">30</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <colgroup>
+        <col width="50%"/>
+        <col width="20%"/>
+        <col width="10%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="3">Segundo semestre</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación matemática I.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño, desarrollo y evaluación del currículo.</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lengua castellana y su didáctica I.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Escuela, familia y pensamiento social.</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pedagogía y didáctica de la religión en la escuela.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Créditos ECTS.</td>
+          <td> </td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva"> Segundo curso</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="50%"/>
+        <col width="20%"/>
+        <col width="10%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="3">Primer semestre</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del aprendizaje en contextos educativos</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Organización y evaluación de instituciones educativas</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lengua extranjera y su didáctica I</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dificultades de aprendizaje y trastornos del desarrollo</td>
+          <td class="cuerpo_tabla_izq">Básica.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño y desarrollo curricular de la educación física</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2"> Créditos ECTS.</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <colgroup>
+        <col width="50%"/>
+        <col width="20%"/>
+        <col width="10%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="3">Segundo semestre</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lengua castellana y su didáctica II.</td>
+          <td>Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación matemática II.</td>
+          <td>Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias sociales y su didáctica I.</td>
+          <td>Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias de la naturaleza y su didáctica I.</td>
+          <td>Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Religión, cultura y valores.</td>
+          <td>Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2"> Créditos ECTS.</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Tercer curso</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="50%"/>
+        <col width="20%"/>
+        <col width="10%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="3">Primer semestre</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias de la naturaleza y su didáctica II.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias sociales y su didáctica II.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Didáctica de la expresión musical.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Literatura y su didáctica.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lengua extranjera y su didáctica II.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2"> Créditos ECTS.</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <colgroup>
+        <col width="50%"/>
+        <col width="20%"/>
+        <col width="10%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="3">Segundo semestre</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación plástica-visual y su didáctica.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Practicum I.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">18</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa 1.</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2"> Créditos ECTS.</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_cursiva">Cuarto curso</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="50%"/>
+        <col width="20%"/>
+        <col width="10%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="3">Primer semestre</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Practicum II.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">26</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Educación matemática III.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2"> Créditos ECTS.</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <colgroup>
+        <col width="50%"/>
+        <col width="20%"/>
+        <col width="10%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="3">Segundo semestre</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa 2.</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa 3.</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa 4.</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa 5.</td>
+          <td class="cuerpo_tabla_izq">Optativa.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TFG.</td>
+          <td class="cuerpo_tabla_izq">Obligatoria.</td>
+          <td class="cuerpo_tabla_der">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2"> Créditos ECTS.</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+      </tbody>
+    </table>
+    <p> </p>
+  </texto>
+</documento>
