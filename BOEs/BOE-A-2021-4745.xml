@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210326125601">
+  <metadatos>
+    <identificador>BOE-A-2021-4745</identificador>
+    <titulo>Orden JUS/287/2021, de 24 de marzo, por la que se modifica la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>73</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="4810">Ministerio de Justicia</departamento>
+    <rango codigo="1350">Orden</rango>
+    <numero_oficial>JUS/287/2021</numero_oficial>
+    <fecha_disposicion>20210324</fecha_disposicion>
+    <fecha_publicacion>20210326</fecha_publicacion>
+    <fecha_vigencia>20210326</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>35024</pagina_inicial>
+    <pagina_final>35027</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/26/pdfs/BOE-A-2021-4745.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/o/2021/03/24/jus287</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2021/03/24/jus287">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-4745</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-03-24</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">jus287</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2021/03/24/jus287/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2021-4745</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-03-24</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">jus287</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2021/03/24/jus287"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2021/03/24/jus287/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden JUS/287/2021, de 24 de marzo, por la que se modifica la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-03-26</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2021/03/24/jus287/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/03/24/jus287/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/03/24/jus287/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/03/24/jus287/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/03/24/jus287/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2021/03/24/jus287/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2021/03/24/jus287/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="7945" orden="">Abogacía General del Estado Dirección del Servicio Jurídico del Estado</materia>
+      <materia codigo="2290" orden="">Delegación de atribuciones</materia>
+      <materia codigo="4983" orden="">Ministerio de Justicia</materia>
+      <materia codigo="6321" orden="">Secretaría de Estado de Justicia</materia>
+      <materia codigo="6997" orden="">Secretaría General para la Innovación y Calidad del Servicio Público de Justicia</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-12822" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>los arts. 5, 7, 8, 15 a 20, 23, 24 y 26 de la Orden JUS/987/2020, de 20 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2020-3513" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto 453/2020, de 10 de marzo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2015-10566" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 9 de la Ley 40/2015, de 1 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">La aprobación del Real Decreto 453/2020, de 10 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Justicia, y se modifica el Reglamento del Servicio Jurídico del Estado, aprobado por el Real Decreto 997/2003, de 25 de julio, introdujo importantes modificaciones en la estructura organizativa anterior del Departamento.</p>
+    <p class="parrafo">En este sentido, se aprobó la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, con la finalidad adaptar el reparto de las cargas de trabajo de las diferentes unidades y órganos a la nueva organización del Ministerio, mejorando su funcionamiento interno.</p>
+    <p class="parrafo">Así, la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, incluye, entre otros aspectos, diversas facultades relacionadas con los órganos de contratación en los términos del artículo 323 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014 (en adelante LCSP). Algunas de ellas se vinculan a los umbrales que establece la LCSP para determinar la aplicabilidad de uno u otro procedimiento de adjudicación. Sin embargo, la disposición final cuadragésima de la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado para el año 2021, da una nueva redacción al artículo 159 de la LCSP consistente en el cambio de los umbrales para poder tramitar un expediente por procedimiento simplificado (artículo 159.1) y simplificado abreviado, o supersimplificado (artículo 159.6), respectivamente.</p>
+    <p class="parrafo">De conformidad con lo expuesto, surge la necesidad de modificar la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, con el fin de incorporar estos nuevos límites cuantitativos, así como de clarificar diversas cuestiones, para evitar disfunciones en el funcionamiento interno de las unidades y centros directivos, proporcionándoles las herramientas precisas para dar una respuesta más ágil a los asuntos cotidianos de la gestión administrativa.</p>
+    <p class="parrafo">En cumplimiento de lo dispuesto en el artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en su tramitación ha sido sometido a la aprobación del Ministro, así como de los demás órganos, superiores y directivos, de los que dependen los delegantes.</p>
+    <p class="parrafo">En su virtud, de acuerdo con lo establecido en dicho artículo, y en el artículo 20 de la Ley 50/1997, de 27 de noviembre, del Gobierno, dispongo:</p>
+    <p class="articulo">Artículo 1.  Modificación de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias.</p>
+    <p class="parrafo">Uno. Se añade una letra i) al artículo 5 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, con la siguiente redacción:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«i) La incoación y resolución de los procedimientos de reintegro de subvenciones y otras ayudas en el ámbito de competencias de la Secretaria General para la Innovación y Calidad del Servicio Público de Justicia.»</p>
+    </blockquote>
+    <p class="parrafo_2">Dos. Se suprimen las letras e) y f) del artículo 7 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias.</p>
+    <p class="parrafo">Tres. Se suprime la letra d) del artículo 8 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias.</p>
+    <p class="parrafo">Cuatro. Se añade una letra c) al apartado 5 del artículo 15 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, con la siguiente redacción:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«c) La cancelación de las garantías constituidas de acuerdo con la normativa de contratación del sector público en el ámbito de las competencias que el ordenamiento jurídico atribuye a la persona titular del Departamento como órgano de contratación.»</p>
+    </blockquote>
+    <p class="parrafo_2">Cinco. Se suprime la letra b) del apartado 7 del artículo 15 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias.</p>
+    <p class="parrafo">Seis. Se modifica la letra c) del artículo 16 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, que queda redactada de la siguiente forma:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«c) Las competencias que el ordenamiento jurídico atribuye a la persona titular de la Secretaría de Estado como órgano de contratación, incluidas las de aquellos contratos que no impliquen la asunción de obligaciones de contenido económico, en el ámbito de competencias de la Secretaría General, sin entender incluidos los encargos a medios propios; en relación con aquellos contratos cuyo valor estimado sea igual o inferior a 250.000 euros y superior a los importes del artículo 159.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, sin perjuicio de las competencias delegadas en otros órganos.»</p>
+    </blockquote>
+    <p class="parrafo_2">Siete. Se suprime la letra d) del artículo 16 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias.</p>
+    <p class="parrafo">Ocho. Se modifican las letras a), c) y d) del apartado 1 del artículo 17 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, que quedan redactadas de la siguiente forma:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«a) La gestión, autorización y compromiso de gastos, reconocimiento de las obligaciones y propuesta de pago sin límite de importe en relación a de los créditos correspondientes al capítulo 1, en relación con los miembros de las Carreras Judicial y Fiscal, personal del Cuerpo de Letrados de la Administración de Justicia y demás cuerpos de funcionarios al servicio de la Administración de Justicia y resto de personal, incluido el destinado en los registros civiles únicos, sin perjuicio de las competencias delegadas en otros órganos.»</p>
+      <p class="parrafo">«c) Las competencias que el ordenamiento jurídico atribuye a la persona titular de la Secretaría de Estado como órgano de contratación, incluidas las de aquellos contratos que no impliquen la asunción de obligaciones de contenido económico, en el ámbito de sus competencias, sin entender incluidos los encargos a medios propios; en relación con aquellos contratos cuyo valor estimado sea igual o inferior a los importes del artículo 159.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, sin perjuicio de las competencias delegadas en otros órganos.</p>
+      <p class="parrafo">d) La autorización y compromiso de gastos, reconocimiento de obligaciones y propuestas de pago, así como los expedientes de propuestas de mandamiento de pagos extrapresupuestario, en relación con las materias propias de la competencia de la Dirección General, sin perjuicio de las competencias delegadas en otros órganos.»</p>
+    </blockquote>
+    <p class="parrafo_2">Nueve. Se modifican las letras a) y b) del apartado 2 del artículo 17 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, que quedan redactadas de la siguiente forma:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«a) Las competencias que el ordenamiento jurídico atribuye a la persona titular de la Secretaría de Estado como órgano de contratación, incluidas las de aquellos contratos que no impliquen la asunción de obligaciones de contenido económico, en el ámbito de sus competencias, sin entender incluidos los encargos a medios propios; en relación con aquellos contratos cuyo valor estimado sea igual o inferior a los importes del artículo 159.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, sin perjuicio de las competencias delegadas en otros órganos.</p>
+      <p class="parrafo">b) La autorización y compromiso de gastos, reconocimiento de obligaciones y propuestas de pago, así como los expedientes de propuestas de mandamiento de pagos extrapresupuestarios, en relación con las materias propias de sus respectivas competencias, sin perjuicio de las competencias delegadas en otros órganos.»</p>
+    </blockquote>
+    <p class="parrafo_2">Diez. Se suprime la letra d) del artículo 18 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias.</p>
+    <p class="parrafo">Once. Se suprime la letra d) del artículo 19 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias.</p>
+    <p class="parrafo">Doce. Se añade un apartado 4 al artículo 20 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, con la siguiente redacción:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«4. Se delega por la persona titular de la Secretaría de Estado de Justicia en la persona titular de la Subdirección General de Contratación, Gestión Económica y Oficialía Mayor la competencia relativa a la cancelación de garantías constituidas de acuerdo con la normativa de contratación del sector público, en el ámbito de las competencias que el ordenamiento jurídico atribuye a la persona titular Secretaría de Estado como órgano de contratación.»</p>
+    </blockquote>
+    <p class="parrafo_2">Trece. Se añade una letra o) al apartado 1 del artículo 23 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, con la siguiente redacción:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«o) Autorizar las vacaciones y días de asuntos particulares de los funcionarios pertenecientes al Cuerpo de Abogados del Estado que no estén expresamente referenciados en la presente orden de delegación de competencias.»</p>
+    </blockquote>
+    <p class="parrafo_2">Catorce. Se añade una letra j) al apartado 2 del artículo 23 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, con la siguiente redacción:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«j) Autorizar las vacaciones y días de asuntos particulares del personal funcionario y laboral que no esté expresamente referenciado en la presente orden de delegación de competencias.»</p>
+    </blockquote>
+    <p class="parrafo_2">Quince. Se añade un apartado 3 al artículo 23 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, con la siguiente redacción:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«3. Se delega por la persona titular de la Subsecretaría en la persona titular de la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado el ejercicio de las siguientes competencias:</p>
+      <p class="parrafo_2">a) La gestión, autorización y compromiso de gastos, reconocimiento de obligaciones, y propuesta de pago y de modificaciones de los créditos correspondientes al capítulo 1 de su servicio presupuestario.</p>
+      <p class="parrafo">b) La gestión, autorización y compromiso de gastos, reconocimiento de obligaciones, propuesta de pago y de modificaciones de los créditos, correspondientes a los capítulos 2 y 6 de su servicio presupuestario, así como los expedientes de propuestas de mandamiento de pagos extrapresupuestario, cuando su cuantía exceda de 300.000 euros.»</p>
+    </blockquote>
+    <p class="parrafo_2">Dieciséis. Se modifica la letra d) del apartado 1 del artículo 24 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, que queda redactada de la siguiente forma:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«d) Concesión de permisos y licencias. Respecto a la concesión de permisos por días de asuntos particulares únicamente se delega la competencia respecto del personal perteneciente a la relación de puestos de trabajo de la Secretaría General de la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado.»</p>
+    </blockquote>
+    <p class="parrafo_2">Diecisiete. Se añade un apartado 3 al artículo 24 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, con la siguiente redacción:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«3. Se delega por la persona titular de la Subsecretaría en la persona titular de la Secretaría General de la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado el ejercicio de las competencias para la autorización, compromiso de gastos, reconocimiento de obligaciones, propuesta de pago y de modificaciones de los créditos correspondientes a los capítulos 2 y 6 de su servicio presupuestario, así como los expedientes de propuestas de mandamiento de pagos extrapresupuestarios, siempre que su cuantía no exceda de 300.000 euros.»</p>
+    </blockquote>
+    <p class="parrafo_2">Dieciocho. Se modifica la letra d) y se añade una letra e) en el artículo 26 de la Orden JUS/987/2020, de 20 de octubre, sobre delegación de competencias, que quedan redactadas de la siguiente forma:</p>
+    <blockquote class="sangrado">
+      <p class="parrafo_2">«d) En las comunidades autónomas uniprovinciales, los Abogados del Estado Jefes de comunidad autónoma serán los competentes para autorizar las vacaciones y los permisos por días de asuntos particulares de los Abogados del Estado y del personal funcionario y laboral adscrito en la relación de puestos de trabajo de la Abogacía del Estado en la comunidad autónoma uniprovincial correspondiente.</p>
+      <p class="parrafo">e) En las comunidades autónomas pluriprovinciales:</p>
+      <p class="parrafo_2">i. Los Abogados del Estado Jefes en las provincias serán los competentes para autorizar las vacaciones y los permisos por días de asuntos particulares del personal funcionario y laboral adscrito en la relación de puestos de trabajo de la Abogacía del Estado en la provincia correspondiente.</p>
+      <p class="parrafo">ii. Los Abogados del Estado Jefes de comunidad autónoma será competentes para autorizar las vacaciones y permisos por días de asuntos particulares de todos los Abogados del Estado adscritos en la relación de puestos de trabajo de la Abogacía del Estado en la comunidad autónoma pluriprovincial correspondiente.»</p>
+    </blockquote>
+    <p class="articulo">Artículo 2. Eficacia.</p>
+    <p class="parrafo">Esta orden producirá efectos desde el día de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 24 de marzo de 2021.–El Ministro de Justicia, Juan Carlos Campo Moreno.</p>
+  </texto>
+</documento>

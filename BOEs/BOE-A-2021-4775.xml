@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210326092601">
+  <metadatos>
+    <identificador>BOE-A-2021-4775</identificador>
+    <titulo>Resolución de 2 de marzo de 2021, de la Universidad de A Coruña, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Podología.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>73</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210302</fecha_disposicion>
+    <fecha_publicacion>20210326</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>35494</pagina_inicial>
+    <pagina_final>35498</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/26/pdfs/BOE-A-2021-4775.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="5633" orden="">Podología</materia>
+      <materia codigo="7023" orden="">Universidad de A Coruña</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2010-6653" orden="2030">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el plan publicado por Resolución de 9 de abril de 2010</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2010-201" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 13 de noviembre de 2009</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El plan de estudios del título de Graduado o Graduada en Podología por la Universidad de A Coruña fue publicado por Resolución de 9 de abril de 2010 en el «Boletín Oficial del Estado» <em>(</em>BOE) de 26 de abril, una vez establecido el carácter oficial del título por Acuerdo del Consejo de Ministros de 30 de octubre de 2009, publicado mediante Resolución de la Secretaría General de Universidades de 13 de noviembre de 2009 en el BOE de 5 de enero de 2010.</p>
+    <p class="parrafo">La Universidad de A Coruña presentó una solicitud de modificación del plan de estudios del Grado en Podología que obtuvo el informe favorable de la Agencia para la Calidad del Sistema Universitario de Galicia (ACSUG).</p>
+    <p class="parrafo">El Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, modificado por el Real Decreto 861/2010, de 2 de julio, dispone en el artículo 28 el procedimiento para la modificación de planes de estudio conducentes a la obtención de títulos ya verificados.</p>
+    <p class="parrafo">Por lo expuesto, resuelvo:</p>
+    <p class="parrafo_2">Publicar el plan de estudios conducente a la obtención del título de Graduado o Graduada en Podología por la Universidad de A Coruña con las modificaciones aprobadas, que se estructura según consta en el anexo y con efectos desde el curso académico 2019/2020.</p>
+    <p class="parrafo_2">A Coruña, 2 de marzo de 2021.–El Rector, Julio Ernesto Abalde Alonso.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente a la obtención del título de Graduado o Graduada en Podología por la Universidad de A Coruña</p>
+    <p class="parrafo_2">Código RUCT: 2501011.</p>
+    <p class="parrafo">Este título habilita para el ejercicio de la profesión regulada de podólogo, de acuerdo con la Orden CIN/728/2009, de 18 de marzo, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de dicha profesión (BOE de 26/03/2009).</p>
+    <p class="parrafo">Plan de estudios que se inicia en el curso 2019/2020.</p>
+    <p class="parrafo">Estructura de las enseñanzas (Real Decreto 1393/2007, anexo I, apartado 5.1).</p>
+    <p class="parrafo_2">1. Rama de conocimiento a la que se adscribe el título: Ciencias de la Salud.</p>
+    <p class="parrafo">2. Distribución del plan de estudios en créditos ECTS, por tipo de asignatura:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica (FB).</td>
+          <td class="cuerpo_tabla_centro"> 60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias (OB).</td>
+          <td class="cuerpo_tabla_centro">132</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas (OP).</td>
+          <td class="cuerpo_tabla_centro">  6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas (PE).</td>
+          <td class="cuerpo_tabla_centro"> 36</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de grado (TFG).</td>
+          <td class="cuerpo_tabla_centro"> 36</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_centro">240</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3. Contenido del plan de estudios.</p>
+    <p class="parrafo_2">3.1 Créditos de formación básica: distribución por materias y ramas de conocimiento.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Rama de conocimiento</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Curso</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="20%"/>
+        <col width="25%"/>
+        <col width="35%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td rowspan="9">Ciencias de la Salud.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Fisiología.</td>
+          <td class="cuerpo_tabla_izq">Fisiología Humana.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Patología General Aplicada en Podología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Anatomía Humana.</td>
+          <td class="cuerpo_tabla_izq">Anatomía General.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Anatomía Específica del Miembro Inferior.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología.</td>
+          <td class="cuerpo_tabla_izq">Psicología Aplicada y Salud.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biología.</td>
+          <td class="cuerpo_tabla_izq" rowspan="2">Bases Biológicas y Físicas del Movimiento Humano.</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">6</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Física.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Biología.</td>
+          <td class="cuerpo_tabla_izq">Microbiología y Parasitología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_izq">Bases para la Interpretación del Conocimiento Científico.</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td colspan="2">Farmacología. Materia básica justificada por la Orden CIN/728/2009.</td>
+          <td class="cuerpo_tabla_izq">Farmacología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3.2 Contenido del plan de estudios por módulo</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="20%"/>
+        <col width="25%"/>
+        <col width="35%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td rowspan="9">Formación Básica.</td>
+          <td rowspan="2">Fisiología.</td>
+          <td>Fisiología Humana.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td>Patología General Aplicada en Podología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Anatomía Humana.</td>
+          <td>Anatomía General.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Anatomía Específica del Miembro Inferior.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Psicología.</td>
+          <td>Psicología Aplicada y Salud.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Biología y Física.</td>
+          <td>Bases Biológicas y Físicas del Movimiento Humano.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Biología.</td>
+          <td>Microbiología y Parasitología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Estadística.</td>
+          <td>Bases para la Interpretación del Conocimiento Científico.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td>Farmacología.</td>
+          <td>Farmacología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="5">Podología General y Biomecánica.</td>
+          <td>Podología General.</td>
+          <td>Podología General.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Biomecánica.</td>
+          <td>Biomecánica del Miembro Inferior.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Radiología y Radioprotección.</td>
+          <td>Diagnóstico por Imagen.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Ética y Legislación.</td>
+          <td>Ética, Legislación y Gestión en Podología.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Preventiva.</td>
+          <td>Podología Preventiva.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="10">Patología Podológica y Tratamientos Ortopodológicos, Físicos y Farmacológicos.</td>
+          <td rowspan="4">Ortopodología.</td>
+          <td>Ortopodología I.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Ortopodología II.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Ortesiología Digital y Calzadoterapia.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Ortopodología Clínica.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Patología Podológica.</td>
+          <td>Patología Podológica I.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Patología Podológica II.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Podología Física.</td>
+          <td>Podología Física.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Terapéutica Farmacológica.</td>
+          <td>Terapéutica Farmacológica.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Podología Deportiva.</td>
+          <td>Podología Deportiva.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Dermatología.</td>
+          <td>Dermatología.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="7">Quiropodología y Cirugía Podológica.</td>
+          <td rowspan="2">Quiropodología.</td>
+          <td>Quiropodología I.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Quiropodología II.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="4">Cirugía Podológica.</td>
+          <td>Conceptos Generales de Cirugía.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Cirugía Podológica I.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Cirugía Podológica II.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Cirugía Podológica Avanzada.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td>Pie de Riesgo.</td>
+          <td>Pie de Riesgo.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="3">Optativas.</td>
+          <td rowspan="3">Optativas (elegir una).</td>
+          <td>Reeducación Funcional de las Afecciones Podológicas.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Técnicas de Anestesia y Reanimación en Podología.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Innovación en Diagnóstico y Tratamiento Ortopodológico mediante Técnicas de Materiales.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td rowspan="3">Prácticum.</td>
+          <td rowspan="3">Prácticum.</td>
+          <td>Prácticum I.</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td>Prácticum II.</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td>Prácticum III.</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Trabajo Fin de Grado.</td>
+          <td rowspan="2">Trabajo Fin de Grado.</td>
+          <td>Bases para la Interpretación del Conocimiento Científico Aplicadas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td>Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">3.3 Contenido del plan de estudios por curso académico.</p>
+    <p class="centro_redonda">Primer curso</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="80%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>Fisiología Humana.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td>Bases para la Interpretación del Conocimiento Científico.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td>Anatomía General.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Psicología Aplicada y Salud.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Bases Biológicas y Físicas del Movimiento Humano.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Anatomía Específica del Miembro Inferior.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Microbiología y Parasitología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Podología General.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Conceptos Generales de Cirugía.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Segundo curso</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="80%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>Patología General Aplicada en Podología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Farmacología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Biomecánica del Miembro Inferior.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Ortopodología I.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Quiropodología I.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Diagnóstico por Imagen.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Ortopodología II.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Ortesiología Digital y Calzadoterapia.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Patología Podológica I.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Quiropodología II.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Tercer curso</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="80%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>Podología Preventiva.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Ortopodología Clínica.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Patología Podológica II.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Dermatología.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Cirugía Podológica I.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Podología Física.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Terapéutica Farmacológica.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Cirugía Podológica II.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Prácticum I.</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Cuarto curso</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="80%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>Podología Deportiva.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Cirugía Podológica Avanzada.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td>Pie de Riesgo.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Bases para la Interpretación del Conocimiento Científico Aplicadas.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">3</td>
+        </tr>
+        <tr>
+          <td>Prácticum II.</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td>Ética, Legislación y Gestión en Podología.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Reeducación Funcional de las Afecciones Podológicas.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Técnicas de Anestesia y Reanimación en Podología.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Innovación en Diagnóstico y Tratamiento Ortopodológico mediante Técnicas de Materiales.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td>Prácticum III.</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td>Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">En 4.º curso se deben elegir 6 créditos optativos de entre los 18 ofertados.</p>
+    <p class="parrafo">La unidad temporal de todas las asignaturas es cuatrimestral, a excepción de «Fisiología Humana» y «Bases para la Interpretación del Conocimiento Científico» que son anuales, y, en cada curso, existe un equilibrio de créditos entre el 1.<sup>er </sup>y el 2.º cuatrimestre, teniendo en cuenta que las asignaturas anuales tienen una distribución de créditos que así lo permite.</p>
+    <p class="parrafo_2">4. Condiciones de terminación.</p>
+    <p class="parrafo_2">El alumnado deberá superar 240 créditos ECTS, distribuidos como se indica en el punto 2, para obtener el título de Graduado o Graduada en Podología por la Universidad de A Coruña.</p>
+  </texto>
+</documento>

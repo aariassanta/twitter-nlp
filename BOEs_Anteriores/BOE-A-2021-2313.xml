@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<documento fecha_actualizacion="20210216135601">
+<documento fecha_actualizacion="20210315125602">
   <metadatos>
     <identificador>BOE-A-2021-2313</identificador>
     <titulo>Ley Orgánica 1/2021, de 15 de febrero, de reforma de la Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía de la Región de Murcia.</titulo>
@@ -28,7 +28,7 @@
     <estatus_derogacion>N</estatus_derogacion>
     <url_epub>/diario_boe/epub.php?id=BOE-A-2021-2313</url_epub>
     <url_pdf>/boe/dias/2021/02/16/pdfs/BOE-A-2021-2313.pdf</url_pdf>
-    <url_pdf_catalan/>
+    <url_pdf_catalan>/boe_catalan/dias/2021/02/16/pdfs/BOE-A-2021-2313-C.pdf</url_pdf_catalan>
     <url_pdf_euskera/>
     <url_pdf_gallego/>
     <url_pdf_valenciano/>
@@ -80,6 +80,21 @@
                   <eli:Format rdf:about="https://www.boe.es/eli/es/lo/2021/02/15/1/dof/spa/xml">
                     <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
                     <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/2021/02/15/1/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/2021/02/15/1/dof/cat">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/cat"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Llei orgànica 1/2021, de 15 de febrer, de reforma de la Llei orgànica 4/1982, de 9 de juny, de l'Estatut d'autonomia per a la Regió de Múrcia.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-02-16</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/2021/02/15/1/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/2021/02/15/1/dof/cat/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/2021/02/15/1/dof/cat"/>
                   </eli:Format>
                 </eli:is_embodied_by>
               </eli:LegalExpression>

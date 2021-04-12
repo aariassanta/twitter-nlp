@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210326082601">
+  <metadatos>
+    <identificador>BOE-A-2021-4768</identificador>
+    <titulo>Resolución de 23 de septiembre de 2020, de la Universidad San Jorge, por la que se publica el plan de estudios de Graduado o Graduada en Psicología.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>73</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20200923</fecha_disposicion>
+    <fecha_publicacion>20210326</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>35472</pagina_inicial>
+    <pagina_final>35477</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/26/pdfs/BOE-A-2021-4768.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="5789" orden="">Psicología</materia>
+      <materia codigo="8160" orden="">Universidad San Jorge</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-10780" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 3 de septiembre de 2020</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo el informe positivo de la Agencia de Calidad y Prospectiva Universitaria de Aragón, y acordado el carácter oficial del título por el Consejo de Ministros de 1 de septiembre de 2020 (publicado en el BOE de 17 de septiembre de 2020 por Resolución de la Secretaría General de Universidades de 3 de septiembre), este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención del título de Graduado o Graduada en Psicología.</p>
+    <p class="parrafo_2">Zaragoza, 23 de septiembre de 2020.–La Rectora, Berta Sáez Gutiérrez.</p>
+    <p class="anexo_num">GRADO EN PSICOLOGÍA</p>
+    <p class="anexo_tit">Planificación de la enseñanza</p>
+    <p class="parrafo_2">5.1 Descripción del plan de estudios.</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="30%"/>
+        <col width="70%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulos</th>
+          <th class="cabeza_tabla">Materias</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">
+            <p class="cuerpo_tabla_izq">Psicobiología.</p>
+            <p class="cuerpo_tabla_izq">30 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicobiología I.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicobiología II.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Neurociencia Cognitiva.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicofarmacología.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Neuropsicología.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">
+            <p class="cuerpo_tabla_izq">Personalidad, Evaluación y Tratamiento Psicológico.</p>
+            <p class="cuerpo_tabla_izq">36 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicología de la Personalidad.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicopatología.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación Psicológica.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicodiagnóstico.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Clínica de la Salud.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas de Intervención Psicológica y Tratamientos Psicológicos.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">
+            <p class="cuerpo_tabla_izq">Metodología de las Ciencias del Comportamiento.</p>
+            <p class="cuerpo_tabla_izq">30 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Análisis de Datos I.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de Datos II.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicometría.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos, Diseños y Técnicas de Investigación en Psicología.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación de Programas en Psicología Aplicada.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">
+            <p class="cuerpo_tabla_izq">Psicología Social.</p>
+            <p class="cuerpo_tabla_izq">30 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicología Social I.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Social II.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de los Grupos.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de la Intervención Comunitaria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de las Organizaciones.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">
+            <p class="cuerpo_tabla_izq">Psicología Básica.</p>
+            <p class="cuerpo_tabla_izq">24 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicología Básica I: Atención y Percepción.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Básica II: Motivación y Emoción.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Básica III: Memoria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del Pensamiento y del Lenguaje.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">
+            <p class="cuerpo_tabla_izq">Psicología Evolutiva y de la Educación.</p>
+            <p class="cuerpo_tabla_izq">24 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicología del Desarrollo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del Aprendizaje.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de las Diferencias Individuales.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de la Educación.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">5.1.2 Materias básicas.</p>
+    <p class="parrafo_2">La distribución de materias básicas en el plan de estudios es la que sigue:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Rama de conocimiento</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Materia</p>
+            <p class="cabeza_tabla">RD 1393/2007 de 29 de octubre</p>
+          </th>
+          <th class="cabeza_tabla">Materias vinculadas</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla">Curso</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias de la Salud.*</td>
+          <td class="cuerpo_tabla_izq">Psicología.</td>
+          <td class="cuerpo_tabla_izq">Psicología Básica I: Atención y Percepción.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias de la Salud.*</td>
+          <td class="cuerpo_tabla_izq">Psicología.</td>
+          <td class="cuerpo_tabla_izq">Psicología Social I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias de la Salud.*</td>
+          <td class="cuerpo_tabla_izq">Biología.</td>
+          <td class="cuerpo_tabla_izq">Psicobiología I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias de la Salud.*</td>
+          <td class="cuerpo_tabla_izq">Biología.</td>
+          <td class="cuerpo_tabla_izq">Psicobiología II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias de la Salud.*</td>
+          <td class="cuerpo_tabla_izq">Psicología.</td>
+          <td class="cuerpo_tabla_izq">Psicología del Desarrollo.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias de la Salud.*</td>
+          <td class="cuerpo_tabla_izq">Psicología.</td>
+          <td class="cuerpo_tabla_izq">Psicología del Aprendizaje.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias de la Salud.*</td>
+          <td class="cuerpo_tabla_izq">Psicología.</td>
+          <td class="cuerpo_tabla_izq">Psicopatología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_izq">Análisis de Datos I.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+          <td class="cuerpo_tabla_izq">Estadística.</td>
+          <td class="cuerpo_tabla_izq">Análisis de Datos II.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Artes y Humanidades.</p>
+            <p class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Ética.</p>
+            <p class="cuerpo_tabla_izq">Derecho.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Ética, Legislación y Deontología.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="3">    Total.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="5">
+            <p class="cita">* La misma rama de conocimiento a la que pertenece el título.</p>
+          </td>
+        </tr>
+      </tfoot>
+    </table>
+    <p class="parrafo_2">5.1.3 Plan de estudios por módulo.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulos</th>
+          <th class="cabeza_tabla">Materias</th>
+          <th class="cabeza_tabla">Tipo (FB/OB/OP)</th>
+          <th class="cabeza_tabla">Semestre/anual</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="30%"/>
+        <col/>
+        <col width="10%"/>
+        <col width="10%"/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">
+            <p class="cuerpo_tabla_izq">Módulo I: Psicología Básica.</p>
+            <p class="cuerpo_tabla_izq">24 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicología Básica I: Atención y Percepción.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Básica II: Motivación y Emoción.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Básica III: Memoria.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">III</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del Pensamiento y del Lenguaje.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">IV</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">
+            <p class="cuerpo_tabla_izq">Módulo II: Psicología Social.</p>
+            <p class="cuerpo_tabla_izq">30 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicología Social I.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Social II.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">III</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de los Grupos.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">V</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de las Organizaciones.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de la Intervención Comunitaria.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">
+            <p class="cuerpo_tabla_izq">Módulo III: Psicobiología.</p>
+            <p class="cuerpo_tabla_izq">30 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicobiología I.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicobiología II.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Neurociencia Cognitiva.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">IV</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicofarmacología.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Neuropsicología.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">
+            <p class="cuerpo_tabla_izq">Módulo IV: Psicología Evolutiva y de la Educación.</p>
+            <p class="cuerpo_tabla_izq">24 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicología del Desarrollo.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">III</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del Aprendizaje.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">III</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de la Educación.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">V</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de las Diferencias Individuales.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="6">
+            <p class="cuerpo_tabla_izq">Módulo V: Personalidad, Evaluación y Tratamiento Psicológico.</p>
+            <p class="cuerpo_tabla_izq">36 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicopatología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">IV</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación Psicológica.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">IV</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de la Personalidad.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">V</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicodiagnóstico.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">V</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas de Intervención y Tratamientos Psicológicos.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">V</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Clínica de la Salud.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">
+            <p class="cuerpo_tabla_izq">Módulo VI: Metodología de las Ciencias del Comportamiento.</p>
+            <p class="cuerpo_tabla_izq">30 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Análisis de Datos I.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de Datos II.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicometría.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">III</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos, Diseños y Técnicas de Investigación en Psicología.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">IV</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación de Programas en Psicología Aplicada.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">
+            <p class="cuerpo_tabla_izq">Módulo VII: Habilidades Sociales y Profesionales.</p>
+            <p class="cuerpo_tabla_izq">18 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Pensamiento Social Cristiano.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés Científico.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ética, Legislación y Deontología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">
+            <p class="cuerpo_tabla_izq">Módulo VIII:.</p>
+            <p class="cuerpo_tabla_izq">Mención en Psicología de la Salud *.</p>
+            <p class="cuerpo_tabla_izq">30 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicopatología Infantil.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Apoyo e Intervención Psicológica en Procesos de Enfermedad Crónica y Cuidados Paliativos.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de las Adicciones.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicogeriatría.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">A</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">
+            <p class="cuerpo_tabla_izq">Módulo IX: Mención en Psicología Educativa.*</p>
+            <p class="cuerpo_tabla_izq">30 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Detección de Dificultades e Intervención en Centros Educativos.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Orientación Educativa y Familiar.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Atención Temprana.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Intervención con el Alumnado con Necesidades Educativas Especiales (NEE).</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">A</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="5">
+            <p class="cuerpo_tabla_izq">Módulo X: Mención en Psicología Social y de las Organizaciones.*</p>
+            <p class="cuerpo_tabla_izq">30 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Psicología Forense.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del Consumo, Publicidad y Marketing.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de los Recursos Humanos.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del Trabajo.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">A</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">
+            <p class="cuerpo_tabla_izq">Módulo XI: Prácticas Externas.</p>
+            <p class="cuerpo_tabla_izq">18 ECTS.</p>
+          </td>
+          <td class="cuerpo_tabla_izq">Prácticum.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">A</td>
+          <td class="cuerpo_tabla_centro">18</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="cita">FB: Créditos de formación básica.</p>
+    <p class="cita">OB: Créditos obligatorios.</p>
+    <p class="cita">OP: Créditos optativos.</p>
+    <p class="cita">* El alumno escoge una de las tres menciones y el Trabajo Fin de Grado tendrá relación con su misma mención.</p>
+    <p class="parrafo_2">5.1.4 Plan de estudios por curso.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Primer curso</th>
+          <th class="cabeza_tabla">Tipo FB/OB/OP</th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="70%"/>
+        <col width="12%"/>
+        <col width="11%"/>
+        <col width="7%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicobiología I.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Inglés Científico.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Básica I: Atención y Percepción.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de Datos I.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pensamiento Social Cristiano.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ética, Legislación y Deontología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Análisis de Datos II.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicobiología II.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Social I.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Básica II: Motivación y Emoción.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="3">    Total.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Segundo curso</th>
+          <th class="cabeza_tabla">FB/OB/OP</th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="70%"/>
+        <col width="12%"/>
+        <col width="11%"/>
+        <col width="7%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del Aprendizaje.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">III</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del Desarrollo.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">III</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Social II.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">III</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicometría.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">III</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Básica III: Memoria.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">III</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del Pensamiento y del Lenguaje.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">IV</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Neurociencia Cognitiva.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">IV</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos, Diseños y Técnicas de Investigación En Psicología.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">IV</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicopatología.</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">IV</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación Psicológica.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">IV</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="3">    Total.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tercer curso</th>
+          <th class="cabeza_tabla">FB/OB/OP</th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="70%"/>
+        <col width="12%"/>
+        <col width="11%"/>
+        <col width="7%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de la Educación.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">V</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de la Personalidad.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">V</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de los Grupos.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">V</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas de Intervención y Tratamientos Psicológicos.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">V</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicodiagnóstico.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">V</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de las Organizaciones.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de las Diferencias Individuales.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicofarmacología.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa 1.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa 2.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="3">    Total.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Cuarto curso</th>
+          <th class="cabeza_tabla">FB/OB/OP</th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="70%"/>
+        <col width="12%"/>
+        <col width="11%"/>
+        <col width="7%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticum.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">A</td>
+          <td class="cuerpo_tabla_centro">18</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Clínica de la Salud.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Neuropsicología.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de la Intervención Comunitaria.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Evaluación de Programas en Psicología Aplicada.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa 3.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativa 4.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="3">    Total.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="cita">FB: Créditos de formación básica.</p>
+    <p class="cita">OB: Créditos obligatorios.</p>
+    <p class="cita">OP: Créditos optativos.</p>
+    <p class="cita">* El alumno escoge una de las tres menciones.</p>
+    <p class="parrafo_2">5.1.5 Menciones.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla"> </th>
+          <th class="cabeza_tabla">FB/OB/OP</th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="70%"/>
+        <col width="12%"/>
+        <col width="11%"/>
+        <col width="7%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="4">Módulo VIII: Mención en Psicología de la Salud*</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Apoyo e Intervención Psicológica en Procesos de Enfermedad Crónica y Cuidados Paliativos.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de las Adicciones.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicopatología Infantil.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicogeriatría.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">A</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="4">Módulo IX: Mención en Psicología Educativa*</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Detección de Dificultades e Intervención en Centros Educativos.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Orientación Educativa y Familiar.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Atención Temprana.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Intervención con el Alumnado con Necesidades Educativas Especiales (NEE).</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">A</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="4">Módulo X: Mención en Psicología Social y de las Organizaciones*</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del Consumo, Publicidad y Marketing.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología Forense.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VI</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología de los Recursos Humanos.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Psicología del Trabajo.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">VIII</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">A</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="4">
+            <p class="cita">FB: Créditos de formación básica.</p>
+            <p class="cita">OB: Créditos obligatorios.</p>
+            <p class="cita">OP: Créditos optativos.</p>
+            <p class="cita">* El alumno escoge una de las tres menciones.</p>
+          </td>
+        </tr>
+      </tfoot>
+    </table>
+  </texto>
+</documento>

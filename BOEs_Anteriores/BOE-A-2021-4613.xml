@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210324085601">
+  <metadatos>
+    <identificador>BOE-A-2021-4613</identificador>
+    <titulo>Resolución de 15 de marzo de 2021, de la Dirección General de Industria y de la Pequeña y Mediana Empresa, por la que se amplía la relación de refrigerantes autorizados por el Reglamento de seguridad para instalaciones frigoríficas.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>71</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="5250">Ministerio de Industria, Comercio y Turismo</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210315</fecha_disposicion>
+    <fecha_publicacion>20210324</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>33914</pagina_inicial>
+    <pagina_final>33915</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/24/pdfs/BOE-A-2021-4613.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="397" orden="">Autorizaciones</materia>
+      <materia codigo="817" orden="">Certificaciones</materia>
+      <materia codigo="5613" orden="">Plantas e instalaciones frigoríficas</materia>
+      <materia codigo="6020" orden="">Reglamentaciones técnicas</materia>
+      <materia codigo="6497" orden="">Seguridad industrial</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="118" orden="">Industria</alerta>
+      <alerta codigo="129" orden="">Tecnología e investigación</alerta>
+    </alertas>
+    <referencias>
+      <anteriores/>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El apartado 4 de la Instrucción IF-02. Clasificación de refrigerantes, aprobada por el Real Decreto 552/2019, de 27 de septiembre, por el que se aprueba el Reglamento de seguridad para instalaciones frigoríficas y sus instrucciones técnicas complementarias, habilita al Ministerio de Industria, Comercio y Turismo para autorizar, a petición de parte interesada, la utilización de otros refrigerantes y mezclas, no incluidos en el apéndice 1, previa determinación de cuantas características de prueba y uso sean precisas según lo requerido en las prescripciones establecidas en el Reglamento de seguridad para instalaciones frigoríficas y sus instrucciones técnicas complementarias que lo desarrollan.</p>
+    <p class="parrafo">La Asociación del Frío y sus Tecnologías ha solicitado la ampliación de la relación de refrigerantes autorizados por el Reglamento de seguridad de instalaciones frigoríficas, con la inclusión del refrigerante con denominación comercial RS-90. Con la solicitud se ha aportado la acreditación del producto mediante las tablas de propiedades termodinámicas, químicas y físicas, las fichas de datos de seguridad y certificado del productor del refrigerante.</p>
+    <p class="parrafo">El refrigerante RS-90 es una mezcla cuaternaria compuesta por un 38% de 1,1,1,2,2 pentafluoretano o R-125, un 10% de 1,1,1 trifluoretano o 143a, un 49,2% de 1,1,1,2 tetrafluoretano o R-134a y un 2,8% de 2 metilpropano (isobutano) o R-600a.</p>
+    <p class="parrafo">Vista la documentación presentada por el solicitante, esta Dirección General resuelve:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo_2">Ampliar la relación de refrigerantes autorizados por el Reglamento de instalaciones frigoríficas, que figuran en el apéndice 1, tabla A, de la instrucción IF-02, con la inclusión del refrigerante RS-90, conforme se indica a continuación:</p>
+    <p class="imagen">
+      <img class="no_escalar" src="/datos/imagenes/disp/2021/71/4613_9020325_image1.png" width="795" height="238"/>
+    </p>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">La presente Resolución surtirá efectos desde el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="articulo">Tercero.</p>
+    <p class="parrafo">Contra la presente Resolución, que no pone fin a la vía administrativa, podrá interponerse recurso de alzada ante la Secretaría General de Industria y de la Pequeña y Mediana empresa, en el plazo de un mes a partir del día siguiente a su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.</p>
+    <p class="parrafo_2">Madrid, 15 de marzo de 2021.–El Director General de Industria y de la Pequeña y Mediana Empresa, Galo Gutiérrez Monzonís.</p>
+  </texto>
+</documento>

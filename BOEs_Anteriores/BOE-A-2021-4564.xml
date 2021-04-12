@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210323095601">
+  <metadatos>
+    <identificador>BOE-A-2021-4564</identificador>
+    <titulo>Corrección de errores del Acuerdo de 11 de marzo de 2021, del Consejo de la Comisión Nacional del Mercado de Valores, sobre delegación de competencias.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>70</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="1040">Comisión Nacional del Mercado de Valores</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <numero_oficial/>
+    <fecha_disposicion/>
+    <fecha_publicacion>20210323</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>33574</pagina_inicial>
+    <pagina_final>33574</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/23/pdfs/BOE-A-2021-4564.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="1186" orden="">Comisión Nacional del Mercado de Valores</materia>
+      <materia codigo="2290" orden="">Delegación de atribuciones</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-4142" orden="2120">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>del Acuerdo de 11 de marzo de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Advertidos errores en el Acuerdo de 11 de marzo de 2021, del Consejo de la Comisión Nacional del Mercado de Valores, sobre delegación de competencias, publicado en el «Boletín Oficial del Estado» núm. 63 de 15 de marzo de 2021, se efectúan las oportunas rectificaciones:</p>
+    <p class="parrafo_2">En la página núm. 30404, en la introducción, donde dice:</p>
+    <p class="parrafo_2">«De conformidad con lo previsto en los artículos 25.1.g), 25.2.d) y 26.2.e) de la Ley del Mercado de Valores, texto refundido aprobado por el Real Decreto Legislativo 4/2015, de 23 de octubre, y en el artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público,</p>
+    <p class="parrafo">El Consejo de la Comisión Nacional del Mercado de Valores, en su sesión de 11 de marzo de 2021, ha acordado las siguientes delegaciones de competencias a favor del Presidente, el Vicepresidente y el Comité Ejecutivo:»</p>
+    <p class="parrafo_2">Debe decir:</p>
+    <p class="parrafo_2">«De conformidad con lo previsto en los artículos 25.1.g), 25.2.d) y 26.2.e) de la Ley del Mercado de Valores, Texto Refundido aprobado por el Real Decreto Legislativo 4/2015, de 23 de octubre, y en el artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el Consejo de la Comisión Nacional del Mercado de Valores, en su sesión de 11 de marzo de 2021, ha acordado las siguientes delegaciones de competencias a favor del Presidente, el Vicepresidente, el Comité Ejecutivo y los Directores Generales:»</p>
+  </texto>
+</documento>

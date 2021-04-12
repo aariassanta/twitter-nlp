@@ -105,6 +105,8 @@ for row in range(len(seccion_name)):
                                                             ignore_index=True)
 
 
+#print(df_secciones_sumarios)
+
 #if len(df_secciones_sumarios['Seccion'][0]) == 0:
 #    print('No hay disposiciones')
 
@@ -123,6 +125,8 @@ for URL in df_secciones_sumarios['Seccion_link']:
 
     documentos_Name = sumario_HTML.xpath('//*[@class="oj-ti-doc-dur"]/a[1]/text()[1]')
     documentos_URL = sumario_HTML.xpath('//*[@class="oj-ti-doc-dur"]/a[1]/@href')
+
+    #print(len(documentos_Name))
 
     for row in range(len(documentos_Name)):
         DOUE_sumarios = DOUE_sumarios.append({'Seccion': 'L' + documentos_URL[row][-7:-4],

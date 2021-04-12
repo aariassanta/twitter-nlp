@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210326092601">
+  <metadatos>
+    <identificador>BOE-A-2021-4781</identificador>
+    <titulo>Resolución de 9 de marzo de 2021, de la Universidad Autónoma de Madrid, por la que se publica el plan de estudios de Máster Universitario Erasmus Mundus en Química Teórica y Modelización Computacional/Master's Degree Erasmus Mundus in Theoretical Chemistry and Computational Modelling.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>73</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210309</fecha_disposicion>
+    <fecha_publicacion>20210326</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>35509</pagina_inicial>
+    <pagina_final>35510</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/26/pdfs/BOE-A-2021-4781.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="4170" orden="">Informática</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="5809" orden="">Química</materia>
+      <materia codigo="7016" orden="">Universidad Autónoma de Madrid</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2001-24515" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 35 de la Ley Orgánica 6/2001, de 21 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2021-3361" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 24 de febrero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe favorable de la Fundación para el Conocimiento Madri+d, así como la autorización de la Comunidad Autónoma de Madrid, y establecido el carácter oficial del Título por Acuerdo del Consejo de Ministros de 23 de febrero de 2021 (publicado en el BOE de 4 de marzo de 2021),</p>
+    <p class="parrafo">Este Rectorado, de conformidad con lo dispuesto en el artículo 35 de la Ley Orgánica 6/2001, de Universidades, en la redacción dada por la Ley Orgánica 4/2007, ha resuelto publicar el plan de estudios conducente a la obtención del título oficial de Máster Universitario Erasmus Mundus en Química Teórica y Modelización Computacional/Master’s Degree Erasmus Mundus in Theoretical Chemistry and Computational Modelling, que quedará estructurado según consta en el Anexo de esta Resolución.</p>
+    <p class="parrafo_2">Madrid, 9 de marzo de 2021.–El Rector, Rafael Garesse Alarcón.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente al título de Máster Universitario Erasmus Mundus en Química Teórica y Modelización Computacional/Master’s Degree Erasmus Mundus in Theoretical Chemistry and Computational Modelling</p>
+    <p class="centro_cursiva">[Conjunto con la Universidad de Barcelona, Universitat de València (Estudi General), Katholieke Universiteit Leuven-Catholic University of Leuven (Bélgica), Rijksuniversiteit GroningenUniversity of Groningen (Países Bajos), Università degli Studi di Perugia (Italia), Università degli Studi di Trieste (Italia), Université Paul Sabatier-Toulouse III (Francia) y Université de Paris VI-Pierre et Marie Curie (Francia)]</p>
+    <p class="centro_redonda">Rama de Conocimiento: Ciencias</p>
+    <p class="parrafo_2">5.1 Estructura de las enseñanzas.</p>
+    <p class="centro_redonda">Tabla 1. Distribución del plan de estudios en ECTS por tipo de materia</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias.</td>
+          <td class="cuerpo_tabla_centro"> 47</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_centro"> 43</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro"> 30</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_centro">120</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Tabla 2. Esquema del Plan de estudios</p>
+    <p class="parrafo_2">2. cursos.</p>
+    <p class="parrafo_2">Primer curso: 60 ECTS.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="20%"/>
+        <col width="50%"/>
+        <col width="15%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="4">Fundamentos.</td>
+          <td class="cuerpo_tabla_izq">Competencia Científica y Lingüística Transversal.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Obligatoria</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fundamentos Matemáticos de la Mecánica Cuántica.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Obligatoria</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Mecánica Estadística y aplicaciones en simulación.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Obligatoria</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Simetría en átomos, moléculas y sólidos.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Obligatoria</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Métodos.</td>
+          <td class="cuerpo_tabla_izq">Técnicas Computacionales y Cálculo Numérico.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Obligatoria</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos de la Química Teórica I.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Obligatoria</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos de la Química Teórica II.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Obligatoria</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Optatividad.</td>
+          <td class="cuerpo_tabla_izq">Profundización en los Métodos de la Química Teórica.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dinámica de la Reacciones Químicas.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Estados Excitados.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sólidos.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Linux y Linux de Gestión.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Laboratorio de Química Teórica Aplicada.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Láseres.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Bioquímica Computacional.</td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Segundo curso: 60 ECTS.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Carácter</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="20%"/>
+        <col width="50%"/>
+        <col width="15%"/>
+        <col width="15%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos y modelización Avanzados.</td>
+          <td class="cuerpo_tabla_izq">Métodos Avanzados en Estructura Electrónica, Dinámica y Modelización Molecular.</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">Obligatoria</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="8">Optatividad.</td>
+          <td class="cuerpo_tabla_izq">Multiescala, Machine Learning y métodos QSAR aplicados a biomoléculas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Métodos teóricos para la simulación de materiales.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Técnicas Computacionales Avanzadas.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Proyecto de programación de química computacional.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">De la teoría a la implementación: tutoriales en química teórica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelización de estructura electrónica.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Modelización multiescala de sistemas moleculares complejos.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Química de superficies e interfases: experimentación y modelización.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">Optativa</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_izq">Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">30</td>
+          <td class="cuerpo_tabla_centro">Trabajo Fin de Máster</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210326085601">
+  <metadatos>
+    <identificador>BOE-A-2021-4791</identificador>
+    <titulo>Resolución de 15 de marzo de 2021, de la Universidad de Alcalá, por la que se publica el plan de estudios de Máster Universitario en Desarrollo Ágil de Software para la Web.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>73</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210315</fecha_disposicion>
+    <fecha_publicacion>20210326</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>35530</pagina_inicial>
+    <pagina_final>35531</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/26/pdfs/BOE-A-2021-4791.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="4506" orden="">Internet</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="5766" orden="">Programas informáticos</materia>
+      <materia codigo="7024" orden="">Universidad de Alcalá de Henares</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2001-24515" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2021-901" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación positiva del plan de estudios por el Consejo de Universidades, previo informe favorable de La Fundación para el Conocimiento Madri+d, así como la autorización de su implantación por la Comunidad Autónoma de Madrid, y establecido el carácter oficial del título por Acuerdo de Consejo de Ministros de 12 de enero de 2021 (publicado en el BOE de 22 de enero de 2021, por Resolución de la Secretaría General de Universidades de fecha 14 de enero de 2021),</p>
+    <p class="parrafo">Este Rectorado, de conformidad con lo dispuesto en artículo 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, en la redacción dada por la Ley Orgánica 4/2007, de 12 de abril, ha resuelto publicar el plan de estudios conducente a la obtención del título oficial de Máster Universitario en Desarrollo Ágil de Software para la Web, que quedará estructurado según consta en el anexo de esta Resolución.</p>
+    <p class="parrafo_2">Alcalá de Henares, 15 de marzo de 2021.–El Rector, José Vicente Saz Pérez.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Plan de estudios conducente al título de Máster Universitario en Desarrollo Ágil de Software para la Web</p>
+    <p class="centro_cursiva">Rama de conocimiento: Ingeniería y Arquitectura</p>
+    <p class="parrafo_2">1. Distribución general del plan de estudios en créditos ECTS, por tipo de materia:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Obligatorias.</td>
+          <td class="cuerpo_tabla_centro">48</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas.</td>
+          <td class="cuerpo_tabla_centro"> 6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Máster.</td>
+          <td class="cuerpo_tabla_centro"> 6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> Total.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">2. Estructura del plan de estudios:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Denominación del Módulo o Materia/Asignatura</th>
+          <th class="cabeza_tabla">Carácter</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="80%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">Materias obligatorias</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Metodologías Ágiles para el Desarrollo.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cloud Computing y Contenedores.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Integración Continua en el Desarrollo Ágil.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Frameworks Backend y Microservicios.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Experiencia de Usuario (UX) y Diseño Responsivo.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Frameworks Frontend.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Aplicaciones Móviles (Nativas e Híbridas).</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Diseño Seguro de Aplicaciones.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Optativas</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Desarrollo de Software Avanzado.</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas Externas</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Trabajo fin de Máster</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo fin de Máster.</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

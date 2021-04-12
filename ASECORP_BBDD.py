@@ -55,8 +55,10 @@ def tagea_BBDD_ASECORP(ambitos=['todos']):
 		# crea lista con valores únicos
 		ambitos = set(lista_ambitos)
 
+	ASECORP_BBDD_FINAL = ASECORP_BBDD.copy()
 	# ## Selecciona registros por ámbito territorial
-	ASECORP_BBDD_FINAL = ASECORP_BBDD[ASECORP_BBDD['Ambito'].isin(ambitos)]
+	#ASECORP_BBDD_FINAL = ASECORP_BBDD[ASECORP_BBDD['Ambito'].isin(ambitos)]
+	ASECORP_BBDD_FINAL = ASECORP_BBDD_FINAL[ASECORP_BBDD_FINAL['Ambito'].isin(ambitos)]
 
 	# Crea nueva columna de vacía de tipo lista en ASECORP_BBDD
 	ASECORP_BBDD_FINAL.insert(loc=8, column='Tags', value=[

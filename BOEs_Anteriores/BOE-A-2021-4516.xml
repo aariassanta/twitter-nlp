@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210323102601">
+  <metadatos>
+    <identificador>BOE-A-2021-4516</identificador>
+    <titulo>Recurso de inconstitucionalidad n.º 998-2021, contra diversos incisos y preceptos del preámbulo y la disposición final primera del Real Decreto-ley 1/2021, de 19 de enero, de protección de los consumidores y usuarios frente a situaciones de vulnerabilidad social y económica, que modifica el Real Decreto-ley 11/2020, de 31 de marzo, por el que se adoptan medidas urgentes complementarias en el ámbito social y económico para hacer frente a la COVID-19.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>70</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="63">Providencia</rango>
+    <numero_oficial>998/2021</numero_oficial>
+    <fecha_disposicion>20210316</fecha_disposicion>
+    <fecha_publicacion>20210323</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>33040</pagina_inicial>
+    <pagina_final>33040</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2021-4516</url_epub>
+    <url_pdf>/boe/dias/2021/03/23/pdfs/BOE-A-2021-4516.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas>
+      <nota codigo="0" orden="999">El recurso contra el  Real Decreto-ley 11/2020, de 31 de marzo, se establece por estar modificado por Real Decreto-ley 1/2021, de 19 de enero.</nota>
+    </notas>
+    <materias>
+      <materia codigo="329" orden="">Asistencia social</materia>
+      <materia codigo="1624" orden="">Consumidores y usuarios</materia>
+      <materia codigo="2476" orden="">Desahucios</materia>
+      <materia codigo="3247" orden="">Epidemias</materia>
+      <materia codigo="3458" orden="">Estado de alarma</materia>
+      <materia codigo="5904" orden="">Recursos de inconstitucionalidad</materia>
+      <materia codigo="7162" orden="">Viviendas</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="104" orden="">Asuntos sociales</alerta>
+      <alerta codigo="106" orden="">Consumidores y usuarios</alerta>
+      <alerta codigo="111" orden="">Derecho Constitucional</alerta>
+      <alerta codigo="137" orden="">Vivienda y urbanismo</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-793" orden="4050">
+          <palabra codigo="552">Recurso promovido contra</palabra>
+          <texto>lo indicado del preámbulo y la disposición final 1 del Real Decreto-ley 1/2021, de 19 de enero</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2020-4208" orden="4050">
+          <palabra codigo="552">Recurso promovido contra</palabra>
+          <texto>lo indicado del art. 1 bis del Real Decreto-ley 11/2020, de 31 de marzo</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Pleno del Tribunal Constitucional, por providencia de 16 de marzo actual, ha acordado admitir a trámite el recurso de inconstitucionalidad número 998-2021, promovido por más de cincuenta Diputados del Grupo Parlamentario Popular en el Congreso, contra diversos incisos y preceptos del preámbulo y la disposición final primera del Real Decreto-ley 1/2021, de 19 de enero, de protección de los consumidores y usuarios frente a situaciones de vulnerabilidad social y económica, que modifica el Real Decreto-ley 11/2020, de 31 de marzo, por el que se adoptan medidas urgentes complementarias en el ámbito social y económico para hacer frente a la COVID-19.</p>
+    <p class="parrafo_2">Madrid, 16 de marzo de 2021.–El Secretario de Justicia del Pleno del Tribunal Constitucional, Alfonso Pérez Camino.</p>
+  </texto>
+</documento>

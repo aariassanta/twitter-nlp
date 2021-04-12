@@ -23,7 +23,7 @@ A la reunió, es van prendre el següents acords:
 Examinada la taula del arxiu de comentaris del BOE, i per les fileres no detectades en l'enviament de dades anterior, s´han trobat 3 casuistiques:
 1. Fileres 1 i 2: Els tags de la columna Tags a detectar no apareixen en la BBDD entregada per ASECORP.
 2. Fileres 3, 6 i 7: Son disposicions que eren en seccions diferentes a la I, i per tant no s'agafaven. Ara aquest tema ja és resolt.
-3. Filera 4 i 8: Havia una errada i no s'havien tageat. Ja és resolt.
+3. Filera 4 i 8: Havia una errada i no s'havien tagejat. Ja és resolt.
 
 | # | Consultor | Data Publicació | Data Detecció | Codi             | Butlletí | Enllaç                                                                                                                | Entra/No entra/Dubte | Validació    | Tags a detectar                                                                                                     | Observaciones                                                                                                  |
 | - | --------- | --------------- | ------------- | ---------------- | -------- | ---------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |

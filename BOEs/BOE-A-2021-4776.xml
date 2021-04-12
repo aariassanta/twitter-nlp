@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20210326092601">
+  <metadatos>
+    <identificador>BOE-A-2021-4776</identificador>
+    <titulo>Resolución de 2 de marzo de 2021, de la Universidad San Jorge, por la que se publica el plan de estudios de Máster Universitario en Enfermería de Urgencias, Emergencias y Críticos.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>73</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20210302</fecha_disposicion>
+    <fecha_publicacion>20210326</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>35499</pagina_inicial>
+    <pagina_final>35500</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2021/03/26/pdfs/BOE-A-2021-4776.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="3195" orden="">Enfermería</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="6629" orden="">Servicios de urgencias</materia>
+      <materia codigo="8160" orden="">Universidad San Jorge</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-901" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 14 de enero de 2021</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo el informe positivo de la Agencia de Calidad y Prospectiva Universitaria de Aragón, y acordado el carácter oficial del título por el Consejo de Ministros de 12 de enero de 2021 (publicado en el BOE de 22 de enero de 2021 por Resolución de la Secretaría General de Universidades de 14 de enero), este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención del título de Máster Universitario en Enfermería de Urgencias, Emergencias y Críticos por la Universidad San Jorge.</p>
+    <p class="parrafo_2">Zaragoza, 2 de marzo de 2021.–La Rectora, Berta Sáez Gutiérrez.</p>
+    <p class="anexo">MÁSTER UNIVERSITARIO EN ENFERMERÍA DE URGENCIAS, EMERGENCIAS Y CRÍTICOS</p>
+    <p class="parrafo_2">5. Planificación de la enseñanza.</p>
+    <p class="parrafo_2">5.1 Descripción del plan de estudios.</p>
+    <p class="parrafo_2">5.1.1 Distribución del plan de estudios en créditos ECTS.</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla"> </th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="45%"/>
+        <col width="20%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Créditos formación básica.</td>
+          <td class="cuerpo_tabla_centro"> 0</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Créditos obligatorios.</td>
+          <td class="cuerpo_tabla_centro">46</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Créditos optativos.</td>
+          <td class="cuerpo_tabla_centro"> 0</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Créditos prácticas externas.</td>
+          <td class="cuerpo_tabla_centro"> 4</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Créditos trabajo de fin de grado o máster.</td>
+          <td class="cuerpo_tabla_centro">10</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">  Total.</td>
+          <td class="cuerpo_tabla_centro">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">5.1.2 Plan de estudios resumido.</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Tipo</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+          <th class="cabeza_tabla">Semestre</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Orden</p>
+            <p class="cabeza_tabla">secuencial</p>
+          </th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="58%"/>
+        <col width="12%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+        <col width="10%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 1: Gestión e Intervención de Enfermería en la Urgencia y Emergencia.</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">1.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 2: Enfermería en el Soporte Vital Avanzado.</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">2.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 3: Atención de Enfermería en Situaciones de Urgencia Vital.</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">3.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 4. Metodología de Investigación Aplicada a la Urgencia y Emergencia en Enfermería.</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro">I</td>
+          <td class="cuerpo_tabla_centro">4.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 5: Cuidados y Procedimientos de Enfermería en el Paciente Crítico.</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">5.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 6: Atención de Enfermería al Politraumatizado y Víctima del Accidente de Tráfico.</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+          <td class="cuerpo_tabla_centro">10</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">6.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 7: Practicum.</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">7.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Módulo 8: Trabajo Fin de Máster.</td>
+          <td class="cuerpo_tabla_izq">Obligatorio.</td>
+          <td class="cuerpo_tabla_centro">10</td>
+          <td class="cuerpo_tabla_centro">II</td>
+          <td class="cuerpo_tabla_centro">7.º</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2">  Total</td>
+          <td class="cuerpo_tabla_centro">60</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>
